@@ -1,0 +1,437 @@
+{
+  "@id": "https://data.datatourisme.fr/13/5818ccc9-319e-3fd3-9201-b203f40b8f8a",
+  "dc:identifier": "6202413",
+  "@type": [
+    "schema:Accommodation",
+    "schema:FoodEstablishment",
+    "schema:Hotel",
+    "schema:LodgingBusiness",
+    "schema:Restaurant",
+    "Accommodation",
+    "FoodEstablishment",
+    "Hotel",
+    "HotelRestaurant",
+    "HotelTrade",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "Restaurant"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Willkommen bei Eklo, dem günstigen, umweltfreundlichen und designorientierten Hotel. In der Nähe von Lyon gelegen, ist es sehr gut an das öffentliche Verkehrsnetz angeschlossen. Die Straßenbahn fährt in 20 Minuten nach Part-Dieu und mit der Metro sind Sie in 15 Minuten am Place Bellecour."
+    ],
+    "en": [
+      "Welcome to Eklo, a hotel that’s affordable, environmentally friendly and stylishly designed. Located near Lyon, it is well served by public transport links. You can reach the central Part-Dieu district by tramway in 20 minutes and Place Bellecour by metro in 15 minutes."
+    ],
+    "it": [
+      "Benvenuti all'Eklo, l'hotel di design a basso costo ed ecologico. Vicino a Lione, è ben collegato alla rete dei trasporti pubblici. Il tram vi porta a Part-Dieu in 20 minuti e la metropolitana vi porta a Place Bellecour in 15 minuti."
+    ],
+    "fr": [
+      "Bienvenue chez Eklo, l’hôtel pas cher, écolo et design. Proche de Lyon, il est très bien connecté au réseau de transports en commun. Le tramway relie la Part-Dieu en 20 minutes et avec le métro vous serez Place Bellecour en 15 minutes."
+    ],
+    "nl": [
+      "Welkom bij Eklo, het voordelige, milieuvriendelijke designhotel. Het hotel ligt dicht bij Lyon en heeft goede verbindingen met het openbaar vervoer. De tram brengt je in 20 minuten naar Part-Dieu en de metro brengt je in 15 minuten naar Place Bellecour."
+    ],
+    "es": [
+      "Bienvenido a Eklo, el hotel de bajo coste, ecológico y de diseño. Cerca de Lyon, está muy bien comunicado con la red de transporte público. El tranvía le lleva a Part-Dieu en 20 minutos, y el metro a Place Bellecour en 15 minutos."
+    ]
+  },
+  "rdfs:label": {
+    "de": [
+      "Hôtel Eklo Lyon"
+    ],
+    "ru": [
+      "Hôtel Eklo Lyon"
+    ],
+    "en": [
+      "Hôtel Eklo Lyon"
+    ],
+    "it": [
+      "Hôtel Eklo Lyon"
+    ],
+    "fr": [
+      "Hôtel Eklo Lyon"
+    ],
+    "zh": [
+      "Hôtel Eklo Lyon"
+    ],
+    "nl": [
+      "Hôtel Eklo Lyon"
+    ],
+    "es": [
+      "Hôtel Eklo Lyon"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/45c48cce-2e2d-3fbd-aa1a-fc51c7c6ad26",
+    "dc:identifier": "9",
+    "schema:email": [
+      "apidae@lyon-france.com",
+      "seveillard@lyon-france.com",
+      "vbilly@lyon-france.com"
+    ],
+    "schema:legalName": "Lyon Tourisme et Congrès / ONLYLYON Tourisme",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.lyon-france.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/8a9feb4b-2cbd-3d2c-b507-bd6c6776b23b",
+      "schema:legalName": "Apidae Tourisme Scic SA - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/c7817454-0b3d-361e-87ec-3b0ea1eb889d",
+      "schema:email": [
+        "dir.lyon@eklohotels.com"
+      ],
+      "schema:telephone": [
+        "+33 6 46 01 65 40"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.eklohotels.com/fr/lyon"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/2ab4f436-44f8-3b4d-b10a-73e00b2bba4f",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/4df981a4-508c-3e9c-8198-5239a5dec7ee",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/75560ef2-cbac-3c59-9a16-c33cc3713623",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/dd8ce747-cb86-34ab-9766-d9449fe72ff6",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/de65b47b-7a89-31ce-91ff-9b457eebede9",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Willkommen bei Eklo, dem günstigen, umweltfreundlichen und designorientierten Hotel. In der Nähe von Lyon gelegen, ist es sehr gut an das öffentliche Verkehrsnetz angeschlossen. Die Straßenbahn fährt in 20 Minuten nach Part-Dieu und mit der Metro sind Sie in 15 Minuten am Place Bellecour."
+        ],
+        "en": [
+          "Welcome to Eklo, a hotel that’s affordable, environmentally friendly and stylishly designed. Located near Lyon, it is well served by public transport links. You can reach the central Part-Dieu district by tramway in 20 minutes and Place Bellecour by metro in 15 minutes."
+        ],
+        "it": [
+          "Benvenuti all'Eklo, l'hotel di design a basso costo ed ecologico. Vicino a Lione, è ben collegato alla rete dei trasporti pubblici. Il tram vi porta a Part-Dieu in 20 minuti e la metropolitana vi porta a Place Bellecour in 15 minuti."
+        ],
+        "fr": [
+          "Bienvenue chez Eklo, l’hôtel pas cher, écolo et design. Proche de Lyon, il est très bien connecté au réseau de transports en commun. Le tramway relie la Part-Dieu en 20 minutes et avec le métro vous serez Place Bellecour en 15 minutes."
+        ],
+        "nl": [
+          "Welkom bij Eklo, het voordelige, milieuvriendelijke designhotel. Het hotel ligt dicht bij Lyon en heeft goede verbindingen met het openbaar vervoer. De tram brengt je in 20 minuten naar Part-Dieu en de metro brengt je in 15 minuten naar Place Bellecour."
+        ],
+        "es": [
+          "Bienvenido a Eklo, el hotel de bajo coste, ecológico y de diseño. Cerca de Lyon, está muy bien comunicado con la red de transporte público. El tranvía le lleva a Part-Dieu en 20 minutos, y el metro a Place Bellecour en 15 minutos."
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/0085549f-3d65-3e67-9ee3-6f24bfd0f4e8",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/38c8f861-e654-3043-8dfc-2c081a14bcc5",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/4249b46a-9c2c-3856-a818-d0481076baad",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/724b3d67-305e-3712-9af2-5c442c59edfb",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/1486f07f-282e-3e06-b077-9d4dca1721fa",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/979f9866-bc45-3f5a-b510-3f832de58cfe",
+          "schema:addressLocality": "Vénissieux",
+          "schema:postalCode": "69200",
+          "schema:streetAddress": [
+            "2 rue Simone Veil"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:69259",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Vénissieux"
+              ],
+              "pt": [
+                "Vénissieux"
+              ],
+              "en": [
+                "Vénissieux"
+              ],
+              "it": [
+                "Vénissieux"
+              ],
+              "fr": [
+                "Vénissieux"
+              ],
+              "nl": [
+                "Vénissieux"
+              ],
+              "es": [
+                "Vénissieux"
+              ]
+            },
+            "insee": "69259",
+            "isPartOfDepartment": {
+              "@id": "kb:France8469",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Rhône"
+                ],
+                "pt": [
+                  "Rhône"
+                ],
+                "en": [
+                  "Rhône"
+                ],
+                "it": [
+                  "Rhône"
+                ],
+                "fr": [
+                  "Rhône"
+                ],
+                "nl": [
+                  "Rhône"
+                ],
+                "es": [
+                  "Rhône"
+                ]
+              },
+              "insee": "69",
+              "isPartOfRegion": {
+                "@id": "kb:France84",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "pt": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "en": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "it": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "fr": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "nl": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "es": [
+                    "Auvergne-Rhône-Alpes"
+                  ]
+                },
+                "insee": "84",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/5f8c867b-c0ec-372b-b508-fd8d50c7115b",
+        "schema:latitude": "45.715962",
+        "schema:longitude": "4.879047",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/33848473-e8f7-3b5e-a27f-1813fca76a01",
+      "schema:email": [
+        "apidae@lyon-france.com",
+        "seveillard@lyon-france.com",
+        "vbilly@lyon-france.com"
+      ],
+      "schema:legalName": "Lyon Tourisme et Congrès / ONLYLYON Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.lyon-france.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-10-25",
+  "lastUpdateDatatourisme": "2023-10-26T05:52:01.592Z"
+}

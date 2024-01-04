@@ -1,0 +1,586 @@
+{
+  "@id": "https://data.datatourisme.fr/13/c0db668a-dfd0-3d1d-8748-2df68f6073b3",
+  "dc:identifier": "6551697",
+  "@type": [
+    "schema:FoodEstablishment",
+    "FoodEstablishment",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Das hoteleigene Restaurant mit Cocktailbar, das auf mediterrane Küche setzt, ist der Ort, an dem das Leben in der Nachbarschaft stattfindet und der noch fehlt! In Lyon gerösteter Spezialitätenkaffee, lokale Küche zum Teilen im Tapas-Stil, Cocktailbar und Brunchbuffet am Sonntag."
+    ],
+    "en": [
+      "With a Mediterranean cuisine concept, the restaurant/cocktail bar of the Tribe Croix Rousse hotel is the vibrant hub that the neighborhood was missing! Specialty coffee roasted in Lyon, coworking space, fresh and local cuisine to share in a tapas style, cocktail bar, and patio for gathering with family or friends, and Sunday brunch buffets: Tribe Table is a must-visit place to try out!"
+    ],
+    "it": [
+      "Con il suo concetto di cucina mediterranea, il ristorante/cocktail bar dell'hotel è il luogo del quartiere che mancava! Specialità di caffè tostato a Lione, cucina locale da condividere in stile tapas, cocktail bar e brunch a buffet la domenica."
+    ],
+    "fr": [
+      "Avec un concept de cuisine méditerranéenne, le restaurant/bar à cocktail de l’hôtel est le lieu de vie du quartier qu’il manquait ! Café de spécialité torréfié à Lyon, cuisine locale à partager façon tapas, bar à cocktail et brunchs buffets le dimanche."
+    ],
+    "nl": [
+      "Met zijn mediterrane keukenconcept is het restaurant/cocktailbar van het hotel precies de plek in de buurt die nog ontbrak! In Lyon gebrande koffiespecialiteiten, lokale tapasgerechten om te delen, cocktailbar en brunches op zondag."
+    ],
+    "es": [
+      "Con su concepto de cocina mediterránea, el restaurante-coctelería del hotel es el lugar que faltaba en el barrio Café especial tostado en Lyon, cocina local para compartir a base de tapas, bar de cócteles y brunch buffet los domingos."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Tribe Restaurant"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/45c48cce-2e2d-3fbd-aa1a-fc51c7c6ad26",
+    "dc:identifier": "9",
+    "schema:email": [
+      "apidae@lyon-france.com",
+      "seveillard@lyon-france.com",
+      "vbilly@lyon-france.com"
+    ],
+    "schema:legalName": "Lyon Tourisme et Congrès / ONLYLYON Tourisme",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.lyon-france.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/8a9feb4b-2cbd-3d2c-b507-bd6c6776b23b",
+      "schema:legalName": "Apidae Tourisme Scic SA - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/1daa92c1-1e2a-37b6-a915-1cc823039f7e",
+      "schema:email": [
+        "hb9r3@mytribehotel.com"
+      ],
+      "schema:telephone": [
+        "+33 7 45 10 45 67"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://tribehotels.com/fr/france/lyon/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/6353aeaa-5854-3831-b850-ede1f4b316a3",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/1415502a-2ca5-3001-b4cd-9d1567f6937c",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/419671d1-0263-389d-a9b3-da1ad9927a4d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/cfed7a7b-96a2-3e90-8adb-cde38977efe0",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/fa9d0bc3-ccf4-300e-a88a-413650a49be0",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Das hoteleigene Restaurant mit Cocktailbar, das auf mediterrane Küche setzt, ist der Ort, an dem das Leben in der Nachbarschaft stattfindet und der noch fehlt! In Lyon gerösteter Spezialitätenkaffee, lokale Küche zum Teilen im Tapas-Stil, Cocktailbar und Brunchbuffet am Sonntag."
+        ],
+        "en": [
+          "With a Mediterranean cuisine concept, the restaurant/cocktail bar of the Tribe Croix Rousse hotel is the vibrant hub that the neighborhood was missing! Specialty coffee roasted in Lyon, coworking space, fresh and local cuisine to share in a tapas style, cocktail bar, and patio for gathering with family or friends, and Sunday brunch buffets: Tribe Table is a must-visit place to try out!"
+        ],
+        "it": [
+          "Con il suo concetto di cucina mediterranea, il ristorante/cocktail bar dell'hotel è il luogo del quartiere che mancava! Specialità di caffè tostato a Lione, cucina locale da condividere in stile tapas, cocktail bar e brunch a buffet la domenica."
+        ],
+        "fr": [
+          "Avec un concept de cuisine méditerranéenne, le restaurant/bar à cocktail de l’hôtel est le lieu de vie du quartier qu’il manquait ! Café de spécialité torréfié à Lyon, cuisine locale à partager façon tapas, bar à cocktail et brunchs buffets le dimanche."
+        ],
+        "nl": [
+          "Met zijn mediterrane keukenconcept is het restaurant/cocktailbar van het hotel precies de plek in de buurt die nog ontbrak! In Lyon gebrande koffiespecialiteiten, lokale tapasgerechten om te delen, cocktailbar en brunches op zondag."
+        ],
+        "es": [
+          "Con su concepto de cocina mediterránea, el restaurante-coctelería del hotel es el lugar que faltaba en el barrio Café especial tostado en Lyon, cocina local para compartir a base de tapas, bar de cócteles y brunch buffet los domingos."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:MediterraneanCuisine",
+      "@type": [
+        "CuisineCategory"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Mediterrane Küche"
+        ],
+        "pt": [
+          "Cozinha mediterrânica"
+        ],
+        "en": [
+          "Mediterranean cuisine"
+        ],
+        "it": [
+          "Cucina mediterranea"
+        ],
+        "fr": [
+          "Cuisine méditerranéenne"
+        ],
+        "nl": [
+          "Mediterrane keuken"
+        ],
+        "es": [
+          "Cocina mediterránea"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/61c8ded1-ab06-32d2-b726-06e5c33f86bf",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/907d5f5b-02af-32f7-bbad-44964f0e55c9",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/d3355f99-c010-3922-a089-7c90214186ea",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/eed89add-5e41-3a44-b8d7-eba02f18b9a4",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/75a0e035-7597-3805-be49-50ea122b0255",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/551da047-a2b1-34e9-97cf-66919129337a",
+          "schema:addressLocality": "Caluire-et-Cuire",
+          "schema:postalCode": "69300",
+          "schema:streetAddress": [
+            "16 rue des Margnolles"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:69034",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Caluire-et-Cuire"
+              ],
+              "pt": [
+                "Caluire-et-Cuire"
+              ],
+              "en": [
+                "Caluire-et-Cuire"
+              ],
+              "it": [
+                "Caluire-et-Cuire"
+              ],
+              "fr": [
+                "Caluire-et-Cuire"
+              ],
+              "nl": [
+                "Caluire-et-Cuire"
+              ],
+              "es": [
+                "Caluire-et-Cuire"
+              ]
+            },
+            "insee": "69034",
+            "isPartOfDepartment": {
+              "@id": "kb:France8469",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Rhône"
+                ],
+                "pt": [
+                  "Rhône"
+                ],
+                "en": [
+                  "Rhône"
+                ],
+                "it": [
+                  "Rhône"
+                ],
+                "fr": [
+                  "Rhône"
+                ],
+                "nl": [
+                  "Rhône"
+                ],
+                "es": [
+                  "Rhône"
+                ]
+              },
+              "insee": "69",
+              "isPartOfRegion": {
+                "@id": "kb:France84",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "pt": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "en": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "it": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "fr": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "nl": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "es": [
+                    "Auvergne-Rhône-Alpes"
+                  ]
+                },
+                "insee": "84",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/e362e2f1-6ba0-360f-9fd3-ea332eba8397",
+        "schema:latitude": "45.782424",
+        "schema:longitude": "4.834774",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/5f8b6f7a-55ba-3394-b604-deb6773ab5f1",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Reduziertes Angebot Sonntagabend und Montagabend"
+            ],
+            "en": [
+              "Reduced offer Sunday evening and Monday evening"
+            ],
+            "it": [
+              "Offerta ridotta domenica sera e lunedì sera"
+            ],
+            "fr": [
+              "Offre réduite dimanche soir et lundi soir"
+            ],
+            "es": [
+              "Oferta reducida domingo por la tarde y lunes por la noche"
+            ],
+            "nl": [
+              "Gereduceerd aanbod zondagavond en maandagavond"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/3ec3499e-ba0d-350e-b1bc-bf21a3850157",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/5d288ebe-a548-3b8e-9963-a069ef6de2c9",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/6819f0fc-736e-3433-81de-d7394e9a9f5b",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/ec7d5061-8853-3577-8469-a2a1ff5f8955",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/f3c95f53-d6d4-31f1-b3d0-3bc2a6a8648a",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/33848473-e8f7-3b5e-a27f-1813fca76a01",
+      "schema:email": [
+        "apidae@lyon-france.com",
+        "seveillard@lyon-france.com",
+        "vbilly@lyon-france.com"
+      ],
+      "schema:legalName": "Lyon Tourisme et Congrès / ONLYLYON Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.lyon-france.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-09-12",
+  "lastUpdateDatatourisme": "2023-12-23T06:39:46.222Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/c7ceac2c-973e-3d53-81a2-86b8fb5c8254",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/e8c3b0e9-ba7f-3e71-958a-6b80dcf283b3",
+          "schema:maxPrice": [
+            "25"
+          ],
+          "schema:minPrice": [
+            "16"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/a425afdf-3594-300b-b55e-1858bafa3fd4",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2023-12-31",
+              "startDate": "2023-01-01"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ],
+  "providesCuisineOfType": [
+    {
+      "@id": "kb:MediterraneanCuisine",
+      "@type": [
+        "CuisineCategory"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Mediterrane Küche"
+        ],
+        "pt": [
+          "Cozinha mediterrânica"
+        ],
+        "en": [
+          "Mediterranean cuisine"
+        ],
+        "it": [
+          "Cucina mediterranea"
+        ],
+        "fr": [
+          "Cuisine méditerranéenne"
+        ],
+        "nl": [
+          "Mediterrane keuken"
+        ],
+        "es": [
+          "Cocina mediterránea"
+        ]
+      }
+    }
+  ]
+}

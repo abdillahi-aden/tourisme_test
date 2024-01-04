@@ -1,0 +1,566 @@
+{
+  "@id": "https://data.datatourisme.fr/13/8f4562ee-6323-35d5-b135-061d262c896b",
+  "dc:identifier": "6611088",
+  "@type": [
+    "schema:LocalBusiness",
+    "schema:Museum",
+    "CulturalSite",
+    "DefenceSite",
+    "Museum",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Die Association Ecobeauval de mémoire locale bewahrt einen Museumsbereich im Cave du Souvenir in Anse. Im Keller werden die Bombardierung am 28. August sowie die Befreiung am 3. September 1944 in Anse beleuchtet."
+    ],
+    "en": [
+      "The \"Ecobeauval\" association promoting collective memory of the First and Second World Wars, conserved a part of the ancient museum in this cellar. In there, the bombing of August 28th is highlighted as well as the Liberation of September 3rd 1944 in Anse."
+    ],
+    "it": [
+      "L'Associazione Ecobeauval per la Memoria Locale gestisce uno spazio museale presso la Cave du Souvenir di Anse. Nella cantina sono evidenziati il bombardamento del 28 agosto e la liberazione di Anse del 3 settembre 1944."
+    ],
+    "fr": [
+      "L'Association Ecobeauval de mémoire locale conserve un espace musée à la Cave du Souvenir à Anse. Dans la cave, le bombardement du 28 août est mis en lumière ainsi que la Libération du 3 septembre 1944 à Anse."
+    ],
+    "es": [
+      "La Asociación Ecobeauval para el Recuerdo Local mantiene un espacio museístico en la Cave du Souvenir de Anse. En el sótano, se destaca el bombardeo del 28 de agosto, así como la Liberación de Anse el 3 de septiembre de 1944."
+    ],
+    "nl": [
+      "De Vereniging voor Plaatselijke Herdenking van Ecobeauval beheert een museumruimte in de Cave du Souvenir in Anse. In de kelder wordt het bombardement van 28 augustus belicht, evenals de bevrijding van Anse op 3 september 1944."
+    ]
+  },
+  "rdfs:label": {
+    "en": [
+      "Souvenir Cellar"
+    ],
+    "fr": [
+      "Cave du Souvenir"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/c20ad4d7-6fe9-3759-aa27-a0c99bff6710",
+    "dc:identifier": "12",
+    "schema:email": [
+      "f.champavere@destination-beaujolais.com",
+      "g.taburiaux@destination-beaujolais.com",
+      "j.capdegelle@destination-beaujolais.com",
+      "t.blanchier@destination-beaujolais.com",
+      "v.guerin@destination-beaujolais.com"
+    ],
+    "schema:legalName": "Destination Beaujolais",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.destination-beaujolais.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/8a9feb4b-2cbd-3d2c-b507-bd6c6776b23b",
+      "schema:legalName": "Apidae Tourisme Scic SA - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/445cb0b7-0805-3847-9bfa-d39388bdea98",
+      "schema:email": [
+        "lulug69@hotmail.fr"
+      ],
+      "schema:telephone": [
+        "+33 6 30 74 87 41"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.ecobeauval.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/4b46b561-9f32-3513-9f4a-73dbb3cc5ad9",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/33992d5b-07a5-3bc6-8c56-07137ed65c96",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/33a68e41-b935-3c70-ad10-99c3247ccdf5",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/36849784-d9b6-3f3b-aa39-b03fe4101a28",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/5123e905-5f01-3248-9a8a-da399a4881ee",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Die Association Ecobeauval de mémoire locale bewahrt einen Museumsbereich im Cave du Souvenir in Anse. Im Keller werden die Bombardierung am 28. August sowie die Befreiung am 3. September 1944 in Anse beleuchtet."
+        ],
+        "en": [
+          "The \"Ecobeauval\" association promoting collective memory of the First and Second World Wars, conserved a part of the ancient museum in this cellar. In there, the bombing of August 28th is highlighted as well as the Liberation of September 3rd 1944 in Anse."
+        ],
+        "it": [
+          "L'Associazione Ecobeauval per la Memoria Locale gestisce uno spazio museale presso la Cave du Souvenir di Anse. Nella cantina sono evidenziati il bombardamento del 28 agosto e la liberazione di Anse del 3 settembre 1944."
+        ],
+        "fr": [
+          "L'Association Ecobeauval de mémoire locale conserve un espace musée à la Cave du Souvenir à Anse. Dans la cave, le bombardement du 28 août est mis en lumière ainsi que la Libération du 3 septembre 1944 à Anse."
+        ],
+        "es": [
+          "La Asociación Ecobeauval para el Recuerdo Local mantiene un espacio museístico en la Cave du Souvenir de Anse. En el sótano, se destaca el bombardeo del 28 de agosto, así como la Liberación de Anse el 3 de septiembre de 1944."
+        ],
+        "nl": [
+          "De Vereniging voor Plaatselijke Herdenking van Ecobeauval beheert een museumruimte in de Cave du Souvenir in Anse. In de kelder wordt het bombardement van 28 augustus belicht, evenals de bevrijding van Anse op 3 september 1944."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/094ffe1e-1fb1-37ec-a25a-421fa1683295",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/3762cab6-8df5-3cb5-8e2d-94cfb45bd8f3",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/9f060c67-6255-3c9a-8e93-fa8931150f96",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/d54afaf5-9ae6-311a-baa2-b081d3119b55",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/e441f598-8053-373f-bec1-341137cf0993",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/d97372a4-ba8c-3faf-bcd5-4b7935f7a8d5",
+          "schema:addressLocality": "Anse",
+          "schema:postalCode": "69480",
+          "schema:streetAddress": [
+            "32 rue du 3 septembre 1944"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:69009",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Anse"
+              ],
+              "pt": [
+                "Anse"
+              ],
+              "en": [
+                "Anse"
+              ],
+              "it": [
+                "Anse"
+              ],
+              "fr": [
+                "Anse"
+              ],
+              "nl": [
+                "Anse"
+              ],
+              "es": [
+                "Anse"
+              ]
+            },
+            "insee": "69009",
+            "isPartOfDepartment": {
+              "@id": "kb:France8469",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Rhône"
+                ],
+                "pt": [
+                  "Rhône"
+                ],
+                "en": [
+                  "Rhône"
+                ],
+                "it": [
+                  "Rhône"
+                ],
+                "fr": [
+                  "Rhône"
+                ],
+                "nl": [
+                  "Rhône"
+                ],
+                "es": [
+                  "Rhône"
+                ]
+              },
+              "insee": "69",
+              "isPartOfRegion": {
+                "@id": "kb:France84",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "pt": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "en": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "it": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "fr": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "nl": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "es": [
+                    "Auvergne-Rhône-Alpes"
+                  ]
+                },
+                "insee": "84",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/50fa5441-8690-32fb-93fc-4d1f562ec24d",
+        "schema:latitude": "45.935357",
+        "schema:longitude": "4.718131",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/4fd60fea-285c-32a8-9b72-fdb49b0d1d5a",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-09-30T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Nur nach Vereinbarung geöffnet.\r\nGeöffnet an den Europäischen Tagen des Kulturerbes."
+            ],
+            "en": [
+              "Open by appointment only.\r\nOpen for European Heritage Days."
+            ],
+            "it": [
+              "Aperto solo su appuntamento.\r\nAperto per le Giornate Europee del Patrimonio."
+            ],
+            "fr": [
+              "Ouvert sur rendez-vous uniquement. \r\nOuvert pour les Journées Européennes du Patrimoine."
+            ],
+            "nl": [
+              "Alleen open op afspraak.\r\nOpen tijdens de Europese Erfgoeddagen."
+            ],
+            "es": [
+              "Abierto sólo con cita previa.\r\nAbierto con motivo de las Jornadas Europeas del Patrimonio."
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/0bf688b5-4c88-36a1-b332-a630d1fdca25",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/0d328e22-2638-3e5b-a0ce-52a80654318b",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/3e4ff7db-5352-37fc-87b5-5e30682ae59c",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/68199419-3692-34d6-ab99-0252944e1a38",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/6f7c4b8f-6919-344f-9597-1afb845d77c6",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/dcdcfd62-5ee6-30e4-b2a5-4e7736aaeabd",
+      "schema:email": [
+        "f.champavere@destination-beaujolais.com",
+        "g.taburiaux@destination-beaujolais.com",
+        "v.guerin@destination-beaujolais.com"
+      ],
+      "schema:legalName": "Destination Beaujolais",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.destination-beaujolais.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-07-24",
+  "lastUpdateDatatourisme": "2023-12-23T06:39:46.228Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/72b07e47-0184-3e1e-b85b-8bbb7442af01",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/d24fe389-0016-3814-98c5-66ee34d200c3",
+          "schema:maxPrice": [
+            "100",
+            "3",
+            "4"
+          ],
+          "schema:minPrice": [
+            "3",
+            "4"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/4e035e5b-206d-3b2c-a74a-9ff32cf033cb",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2024-09-30",
+              "startDate": "2023-01-01"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

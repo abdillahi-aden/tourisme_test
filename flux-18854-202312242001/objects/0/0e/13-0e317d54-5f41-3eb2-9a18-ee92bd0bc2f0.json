@@ -1,0 +1,460 @@
+{
+  "@id": "https://data.datatourisme.fr/13/0e317d54-5f41-3eb2-9a18-ee92bd0bc2f0",
+  "dc:identifier": "126485",
+  "@type": [
+    "schema:FoodEstablishment",
+    "FoodEstablishment",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Traditionelle und familiäre Küche in einem vollständig renovierten Dekor. Panoramablick. Terrasse. Teestube. Abendveranstaltungen mit Animation."
+    ],
+    "en": [
+      "Traditional and family kitchen in a completely renovated setting. Panoramic view. Terrace. Tearoom. Evenings with animations."
+    ],
+    "it": [
+      "Cucina tradizionale familiare in un ambiente completamente rinnovato. Vista panoramica. Terrazza. Sala da tè. Serate con intrattenimento."
+    ],
+    "fr": [
+      "Cuisine traditionnelle et familiale dans un décor entièrement rénové. Vue panoramique. Terrasse. Salon de thé. Soirées avec animations."
+    ],
+    "nl": [
+      "Traditionele familiekeuken in een volledig gerenoveerd kader. Panoramisch uitzicht. Terras. Theekamer. Avonden met entertainment."
+    ],
+    "es": [
+      "Cocina tradicional y familiar en un entorno totalmente renovado. Vista panorámica. Terraza. Salón de té. Veladas con entretenimiento."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "La Terrasse du Beaujolais"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/c20ad4d7-6fe9-3759-aa27-a0c99bff6710",
+    "dc:identifier": "12",
+    "schema:email": [
+      "f.champavere@destination-beaujolais.com",
+      "g.taburiaux@destination-beaujolais.com",
+      "j.capdegelle@destination-beaujolais.com",
+      "t.blanchier@destination-beaujolais.com",
+      "v.guerin@destination-beaujolais.com"
+    ],
+    "schema:legalName": "Destination Beaujolais",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.destination-beaujolais.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/8a9feb4b-2cbd-3d2c-b507-bd6c6776b23b",
+      "schema:legalName": "Apidae Tourisme Scic SA - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/ed7be7ea-8a43-3f2d-92d8-d5a4a97e2a4e",
+      "schema:email": [
+        "laterrassedubeaujolais@sfr.fr"
+      ],
+      "schema:telephone": [
+        "+33 4 74 69 90 79"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.la-terrasse-du-beaujolais.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/609c0d52-ab8d-330e-8d04-896dea3356c7",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/64e19f81-c1e6-3e6b-bef1-0f1878fe876a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/7e7c40ab-4f18-3dd3-b1ad-ace982f67cac",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/870fa118-4c95-399b-999d-55195889c85c",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e20ce780-fe2b-3004-bf6b-4d00dad77f79",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e36c7375-dff5-3a9b-b596-2589d10aaf15",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Traditionelle und familiäre Küche in einem vollständig renovierten Dekor. Panoramablick. Terrasse. Teestube. Abendveranstaltungen mit Animation."
+        ],
+        "en": [
+          "Traditional and family kitchen in a completely renovated setting. Panoramic view. Terrace. Tearoom. Evenings with animations."
+        ],
+        "it": [
+          "Cucina tradizionale familiare in un ambiente completamente rinnovato. Vista panoramica. Terrazza. Sala da tè. Serate con intrattenimento."
+        ],
+        "fr": [
+          "Cuisine traditionnelle et familiale dans un décor entièrement rénové. Vue panoramique. Terrasse. Salon de thé. Soirées avec animations."
+        ],
+        "nl": [
+          "Traditionele familiekeuken in een volledig gerenoveerd kader. Panoramisch uitzicht. Terras. Theekamer. Avonden met entertainment."
+        ],
+        "es": [
+          "Cocina tradicional y familiar en un entorno totalmente renovado. Vista panorámica. Terraza. Salón de té. Veladas con entretenimiento."
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/6310d327-a92b-3065-bda5-6f91713be7ae",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/70fc412d-e8bf-3515-9ec4-b023c6fe83d2",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/77c631bc-9725-345f-a0e1-b979421aa529",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/85b8161a-3cf7-3e8b-a72c-9e6e5971a91e",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/fc2090b0-59e9-3893-87b2-c32106a65bfd",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/349e98ea-5868-3993-970e-94e2b9570c92",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/1e04fa18-0432-3156-8759-cc5cd13b5c4d",
+          "schema:addressLocality": "Chiroubles",
+          "schema:postalCode": "69115",
+          "schema:streetAddress": [
+            "Route d'Avenas"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:69058",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Chiroubles"
+              ],
+              "pt": [
+                "Chiroubles"
+              ],
+              "en": [
+                "Chiroubles"
+              ],
+              "it": [
+                "Chiroubles"
+              ],
+              "fr": [
+                "Chiroubles"
+              ],
+              "nl": [
+                "Chiroubles"
+              ],
+              "es": [
+                "Chiroubles"
+              ]
+            },
+            "insee": "69058",
+            "isPartOfDepartment": {
+              "@id": "kb:France8469",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Rhône"
+                ],
+                "pt": [
+                  "Rhône"
+                ],
+                "en": [
+                  "Rhône"
+                ],
+                "it": [
+                  "Rhône"
+                ],
+                "fr": [
+                  "Rhône"
+                ],
+                "nl": [
+                  "Rhône"
+                ],
+                "es": [
+                  "Rhône"
+                ]
+              },
+              "insee": "69",
+              "isPartOfRegion": {
+                "@id": "kb:France84",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "pt": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "en": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "it": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "fr": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "nl": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "es": [
+                    "Auvergne-Rhône-Alpes"
+                  ]
+                },
+                "insee": "84",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/cdab2449-442a-329a-98cf-03ee9dcfe53f",
+        "schema:elevation": "691",
+        "schema:latitude": "46.189398",
+        "schema:longitude": "4.628334",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/1b17fbef-762b-36c3-9be5-892abc719ed1",
+          "schema:validFrom": "2023-12-01T00:00:00",
+          "schema:validThrough": "2023-03-01T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/490b825b-08c0-3aaf-b812-146890aeb3a7",
+          "schema:validFrom": "2023-09-01T00:00:00",
+          "schema:validThrough": "2023-10-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/5357bf72-5134-31c8-8b8b-a908a13bc424",
+          "schema:validFrom": "2023-07-01T00:00:00",
+          "schema:validThrough": "2023-08-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/76eb5d01-c911-3ab1-9d52-8ac16953a200",
+          "schema:validFrom": "2023-03-01T00:00:00",
+          "schema:validThrough": "2023-06-30T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/dcdcfd62-5ee6-30e4-b2a5-4e7736aaeabd",
+      "schema:email": [
+        "f.champavere@destination-beaujolais.com",
+        "g.taburiaux@destination-beaujolais.com",
+        "v.guerin@destination-beaujolais.com"
+      ],
+      "schema:legalName": "Destination Beaujolais",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.destination-beaujolais.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-10-24",
+  "lastUpdateDatatourisme": "2023-10-25T05:54:04.559Z"
+}

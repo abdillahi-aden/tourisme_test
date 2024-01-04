@@ -1,0 +1,431 @@
+{
+  "@id": "https://data.datatourisme.fr/13/ecdfde3d-b4bc-3f70-8e94-6df721ad6323",
+  "dc:identifier": "5849537",
+  "@type": [
+    "schema:FoodEstablishment",
+    "schema:LocalBusiness",
+    "schema:Winery",
+    "ArtGalleryOrExhibitionGallery",
+    "BistroOrWineBar",
+    "FoodEstablishment",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "SportsAndLeisurePlace",
+    "Store"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Als Kulturbrache fördert die Cité des Halles das lokale kulturelle Ökosystem. In einer riesigen Industriebrache finden Sie eine neue Spielwiese mit einem eklektischen Programm."
+    ],
+    "en": [
+      "A cultural wasteland, Cité des Halles promotes the local cultural ecosystem. You'll find a unique playground with an eclectic programme in the heart of a huge industrial wasteland."
+    ],
+    "it": [
+      "La Cité des Halles, una terra desolata dal punto di vista culturale, promuove l'ecosistema culturale locale. Troverete un parco giochi unico con un programma eclettico nel cuore di un'enorme area industriale abbandonata."
+    ],
+    "fr": [
+      "Friche culturelle, la Cité des Halles promeut l'écosystème culturel local. Vous trouverez un terrain de jeu inédit avec une programmation éclectique au sein d’une immense friche industrielle."
+    ],
+    "es": [
+      "La Cité des Halles, un páramo cultural, fomenta el ecosistema cultural local. Encontrarás un patio de recreo único con una programación ecléctica en el corazón de un inmenso páramo industrial."
+    ],
+    "nl": [
+      "De Cité des Halles, een culturele woestenij, bevordert het lokale culturele ecosysteem. Je vindt er een unieke speeltuin met een eclectisch programma in het hart van een enorme industriële woestenij."
+    ]
+  },
+  "rdfs:label": {
+    "de": [
+      "La Cité des Halles"
+    ],
+    "ru": [
+      "La Cité des Halles"
+    ],
+    "en": [
+      "La Cité des Halles"
+    ],
+    "it": [
+      "La Cité des Halles"
+    ],
+    "fr": [
+      "La Cité des Halles"
+    ],
+    "zh": [
+      "La Cité des Halles"
+    ],
+    "nl": [
+      "La Cité des Halles"
+    ],
+    "es": [
+      "La Cité des Halles"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/45c48cce-2e2d-3fbd-aa1a-fc51c7c6ad26",
+    "dc:identifier": "9",
+    "schema:email": [
+      "apidae@lyon-france.com",
+      "seveillard@lyon-france.com",
+      "vbilly@lyon-france.com"
+    ],
+    "schema:legalName": "Lyon Tourisme et Congrès / ONLYLYON Tourisme",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.lyon-france.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/8a9feb4b-2cbd-3d2c-b507-bd6c6776b23b",
+      "schema:legalName": "Apidae Tourisme Scic SA - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/73a32333-afce-3d68-bc1b-5c97285dff6e",
+      "schema:email": [
+        "communication.lacitedeshalles@gmail.com"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.lacitedeshalles.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/e7077eaf-225d-305f-8776-d1a812362569",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/2e9401e9-2fcf-3960-a9bb-31bcbd369fe4",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/4c569181-2a21-3b3d-8296-928a3ddd8ccc",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/4d60ae9e-d29f-3c84-9701-20676b4ebe87",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d7a8fd04-1421-3bd8-9e37-978cd1b9dea2",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Als Kulturbrache fördert die Cité des Halles das lokale kulturelle Ökosystem. In einer riesigen Industriebrache finden Sie eine neue Spielwiese mit einem eklektischen Programm."
+        ],
+        "en": [
+          "A cultural wasteland, Cité des Halles promotes the local cultural ecosystem. You'll find a unique playground with an eclectic programme in the heart of a huge industrial wasteland."
+        ],
+        "it": [
+          "La Cité des Halles, una terra desolata dal punto di vista culturale, promuove l'ecosistema culturale locale. Troverete un parco giochi unico con un programma eclettico nel cuore di un'enorme area industriale abbandonata."
+        ],
+        "fr": [
+          "Friche culturelle, la Cité des Halles promeut l'écosystème culturel local. Vous trouverez un terrain de jeu inédit avec une programmation éclectique au sein d’une immense friche industrielle."
+        ],
+        "es": [
+          "La Cité des Halles, un páramo cultural, fomenta el ecosistema cultural local. Encontrarás un patio de recreo único con una programación ecléctica en el corazón de un inmenso páramo industrial."
+        ],
+        "nl": [
+          "De Cité des Halles, een culturele woestenij, bevordert het lokale culturele ecosysteem. Je vindt er een unieke speeltuin met een eclectisch programma in het hart van een enorme industriële woestenij."
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/122cd84d-42a4-3624-abad-53289cc8420b",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/794fc219-db68-3b28-a465-5bf2cff381b2",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/8cae3d54-5a04-3246-84d5-983bd5fe09ba",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/a0b05715-eb39-3c1c-aa2a-0f9886675a09",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/ad49e3e5-80d1-34a4-b9ab-36928c3ae41b",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/077b43c8-0b7f-3658-9131-95f9e9b32348",
+          "schema:addressLocality": "Lyon 7e Arrondissement",
+          "schema:postalCode": "69007",
+          "schema:streetAddress": [
+            "124 avenue Jean Jaurès"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:69387",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Lyon 7e Arrondissement"
+              ],
+              "pt": [
+                "Lyon 7e Arrondissement"
+              ],
+              "en": [
+                "Lyon 7e Arrondissement"
+              ],
+              "it": [
+                "Lyon 7e Arrondissement"
+              ],
+              "fr": [
+                "Lyon 7e Arrondissement"
+              ],
+              "nl": [
+                "Lyon 7e Arrondissement"
+              ],
+              "es": [
+                "Lyon 7e Arrondissement"
+              ]
+            },
+            "insee": "69387",
+            "isPartOfDepartment": {
+              "@id": "kb:France8469",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Rhône"
+                ],
+                "pt": [
+                  "Rhône"
+                ],
+                "en": [
+                  "Rhône"
+                ],
+                "it": [
+                  "Rhône"
+                ],
+                "fr": [
+                  "Rhône"
+                ],
+                "nl": [
+                  "Rhône"
+                ],
+                "es": [
+                  "Rhône"
+                ]
+              },
+              "insee": "69",
+              "isPartOfRegion": {
+                "@id": "kb:France84",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "pt": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "en": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "it": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "fr": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "nl": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "es": [
+                    "Auvergne-Rhône-Alpes"
+                  ]
+                },
+                "insee": "84",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/0ee09d2e-20f6-3c09-8e6a-7b0685917ea7",
+        "schema:latitude": "45.738402",
+        "schema:longitude": "4.837636",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/33848473-e8f7-3b5e-a27f-1813fca76a01",
+      "schema:email": [
+        "apidae@lyon-france.com",
+        "seveillard@lyon-france.com",
+        "vbilly@lyon-france.com"
+      ],
+      "schema:legalName": "Lyon Tourisme et Congrès / ONLYLYON Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.lyon-france.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-09-12",
+  "lastUpdateDatatourisme": "2023-09-13T05:53:47.728Z"
+}

@@ -1,0 +1,539 @@
+{
+  "@id": "https://data.datatourisme.fr/13/b838f1a5-0636-3bf8-867d-50d534def18f",
+  "dc:identifier": "6671012",
+  "@type": [
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Entdecken Sie das kulturelle Erbe der Vallons du Lyonnais, indem Sie das Museum Théâtre Guignol, das Maison du Blanchisseur-Musée oder das Musée Antoine Brun besuchen!"
+    ],
+    "en": [
+      "Discover the cultural heritage of the Vallons du Lyonnais by visiting the Musée Théâtre Guignol, the Maison du Blanchisseur-Musée or the Musée Antoine Brun!"
+    ],
+    "it": [
+      "Scoprite il patrimonio culturale dei Vallons du Lyonnais visitando il Musée Théâtre Guignol, la Maison du Blanchisseur-Musée o il Musée Antoine Brun!"
+    ],
+    "fr": [
+      "Découvrez le patrimoine culturel des Vallons du Lyonnais en visitant le Musée Théâtre Guignol, la Maison du Blanchisseur-Musée ou encore le Musée Antoine Brun !"
+    ],
+    "nl": [
+      "Ontdek het culturele erfgoed van de Vallons du Lyonnais door een bezoek te brengen aan het Musée Théâtre Guignol, het Maison du Blanchisseur-Musée of het Musée Antoine Brun!"
+    ],
+    "es": [
+      "Descubra el patrimonio cultural del Valle del Lyón visitando el Museo del Teatro Guignol, la Casa del Museo Blanchisseur o el Museo Antoine Brun"
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Les musées des Vallons du Lyonnais"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/c74d97b0-1eae-357e-84aa-9d5bade97baf",
+    "dc:identifier": "16",
+    "schema:email": [
+      "christelle.julien@ccvl.fr",
+      "geraldine.sudres@ccvl.fr"
+    ],
+    "schema:legalName": "Office de Tourisme des Vallons du Lyonnais",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.ccvl.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/8a9feb4b-2cbd-3d2c-b507-bd6c6776b23b",
+      "schema:legalName": "Apidae Tourisme Scic SA - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/dd519732-e35d-3c3b-8d63-da90c92cd1f9",
+      "schema:telephone": [
+        "+33 4 78 57 57 40"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.ccvl.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/ce6da529-8d53-3319-b335-2be963fb46d6",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/109110d9-fe6d-3a86-9b8f-81147e95d88a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/49418915-9dce-3fb3-9320-900c2796f6c0",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/7ccbee80-d308-3911-b9cb-a8d82f3573e2",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/eb7ec44b-19e8-381f-b5d4-5f0e165fc53d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ee6ef08f-70ea-3a45-8552-55d35f832c17",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Entdecken Sie das kulturelle Erbe der Vallons du Lyonnais, indem Sie das Museum Théâtre Guignol, das Maison du Blanchisseur-Musée oder das Musée Antoine Brun besuchen!"
+        ],
+        "en": [
+          "Discover the cultural heritage of the Vallons du Lyonnais by visiting the Musée Théâtre Guignol, the Maison du Blanchisseur-Musée or the Musée Antoine Brun!"
+        ],
+        "it": [
+          "Scoprite il patrimonio culturale dei Vallons du Lyonnais visitando il Musée Théâtre Guignol, la Maison du Blanchisseur-Musée o il Musée Antoine Brun!"
+        ],
+        "fr": [
+          "Découvrez le patrimoine culturel des Vallons du Lyonnais en visitant le Musée Théâtre Guignol, la Maison du Blanchisseur-Musée ou encore le Musée Antoine Brun !"
+        ],
+        "nl": [
+          "Ontdek het culturele erfgoed van de Vallons du Lyonnais door een bezoek te brengen aan het Musée Théâtre Guignol, het Maison du Blanchisseur-Musée of het Musée Antoine Brun!"
+        ],
+        "es": [
+          "Descubra el patrimonio cultural del Valle del Lyón visitando el Museo del Teatro Guignol, la Casa del Museo Blanchisseur o el Museo Antoine Brun"
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/989df334-5340-347d-bafd-30ef95b4756f",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/a4261446-0799-34fd-80f7-5344af4641c3",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/f3655ae6-bf10-35f6-96e0-7ca2cebd4e02",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/fd44bd7f-c2e9-3810-9e20-1355a833c701",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/ffbfd48a-a952-3b20-b707-c5424e14e8c8",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/c6ed21b7-5c0a-38e0-8335-62e16994da33",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/6b2b0945-8603-3dd6-a423-7c4cf3f8124f",
+          "schema:addressLocality": "Brindas",
+          "schema:postalCode": "69126",
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:69028",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Brindas"
+              ],
+              "pt": [
+                "Brindas"
+              ],
+              "en": [
+                "Brindas"
+              ],
+              "it": [
+                "Brindas"
+              ],
+              "fr": [
+                "Brindas"
+              ],
+              "nl": [
+                "Brindas"
+              ],
+              "es": [
+                "Brindas"
+              ]
+            },
+            "insee": "69028",
+            "isPartOfDepartment": {
+              "@id": "kb:France8469",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Rhône"
+                ],
+                "pt": [
+                  "Rhône"
+                ],
+                "en": [
+                  "Rhône"
+                ],
+                "it": [
+                  "Rhône"
+                ],
+                "fr": [
+                  "Rhône"
+                ],
+                "nl": [
+                  "Rhône"
+                ],
+                "es": [
+                  "Rhône"
+                ]
+              },
+              "insee": "69",
+              "isPartOfRegion": {
+                "@id": "kb:France84",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "pt": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "en": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "it": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "fr": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "nl": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "es": [
+                    "Auvergne-Rhône-Alpes"
+                  ]
+                },
+                "insee": "84",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/1492b73c-eea9-3874-be5a-c96973455432",
+        "schema:latitude": "45.722483",
+        "schema:longitude": "4.695849",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/20e7e546-6ff6-31ae-b7c5-e97b7c66bd5c",
+          "schema:closes": "18:00:00",
+          "schema:opens": "14:00:00",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Mittwoch, Samstag und Sonntag für das Musée Antoine Brun in Ste Consorce und das Maison du Blanchisseur-Musée in Grézieu-la-Varenne.\r\n\r\nMittwoch bis Sonntag für das Musée Théâtre Guignol in Brindas.\r\n\r\nDrei Wochen Ende Juli/Anfang August und zwischen Weihnachten und Neujahr geschlossen."
+            ],
+            "en": [
+              "Wednesday, Saturday and Sunday for the Musée Antoine Brun in Ste Consorce and the Maison du Blanchisseur-Musée in Grézieu-la-Varenne.\r\n\r\nWednesday to Sunday for the Musée Théâtre Guignol in Brindas.\r\n\r\nClosed for 3 weeks at the end of July/beginning of August and between Christmas and New Year's Day."
+            ],
+            "it": [
+              "Mercoledì, sabato e domenica per il Musée Antoine Brun a Ste Consorce e la Maison du Blanchisseur-Musée a Grézieu-la-Varenne.\r\n\r\nDa mercoledì a domenica per il Musée Théâtre Guignol di Brindas.\r\n\r\nChiuso per 3 settimane a fine luglio/inizio agosto e tra Natale e Capodanno."
+            ],
+            "fr": [
+              "Mercredi, samedi et dimanche pour le Musée Antoine Brun à Ste Consorce et la Maison du Blanchisseur-Musée à Grézieu-la-Varenne.\r\n\r\nDu mercredi au dimanche pour le Musée Théâtre Guignol à Brindas. \r\n\r\nFermeture 3 semaines fin juillet/début août et entre Noël et jour de l'an."
+            ],
+            "nl": [
+              "Woensdag, zaterdag en zondag voor het Musée Antoine Brun in Ste Consorce en het Maison du Blanchisseur-Musée in Grézieu-la-Varenne.\r\n\r\nWoensdag tot zondag voor het Musée Théâtre Guignol in Brindas.\r\n\r\nEind juli/begin augustus en tussen Kerstmis en Nieuwjaar 3 weken gesloten."
+            ],
+            "es": [
+              "Miércoles, sábado y domingo para el Musée Antoine Brun de Ste Consorce y la Maison du Blanchisseur-Musée de Grézieu-la-Varenne.\r\n\r\nDe miércoles a domingo para el Musée Théâtre Guignol de Brindas.\r\n\r\nCerrado 3 semanas a finales de julio/principios de agosto y entre Navidad y Año Nuevo."
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/2f6ad747-3bed-30d1-9398-685396314ca6",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/397748b6-b269-3b46-a5c0-057120f5e3bd",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/6ebb237a-2782-301a-b441-30961e9913a9",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/b67b5477-fd17-3ee4-b3c2-84fb949d3af6",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/edc0ccdc-0672-3098-aed4-344fc35d6133",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/bac34a7b-fb36-3ffb-ad4c-ddb3fee2ebc3",
+      "schema:email": [
+        "christelle.julien@ccvl.fr",
+        "geraldine.sudres@ccvl.fr"
+      ],
+      "schema:legalName": "Office de Tourisme des Vallons du Lyonnais",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.ccvl.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-11-02",
+  "lastUpdateDatatourisme": "2023-11-03T06:41:33.686Z"
+}

@@ -1,0 +1,548 @@
+{
+  "@id": "https://data.datatourisme.fr/13/86356c65-c188-3201-87cc-e5cf9ff712e1",
+  "dc:identifier": "4932387",
+  "@type": [
+    "schema:FoodEstablishment",
+    "FoodEstablishment",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Monsieur P lädt seine Gäste in sein bürgerliches Haus ein. Hier können Sie die authentische Küche seines Chefkochs Florent Poulard genießen, der jeden Tag außergewöhnliche Produkte veredelt!"
+    ],
+    "en": [
+      "Chef Florent Poulard serves up authentic and innovative cuisine. Taking pride of place, the vegetables are sourced from local producers. The meat and fish are frequently cooked whole."
+    ],
+    "it": [
+      "Monsieur P invita gli ospiti nella sua casa borghese. Potranno gustare l'autentica cucina del suo chef privato, Florent Poulard, che ogni giorno tira fuori il meglio da prodotti eccezionali!"
+    ],
+    "fr": [
+      "Monsieur P invite ses convives à franchir la porte de sa maison bourgeoise. Ces derniers pourront y déguster la cuisine authentique de son chef particulier, Florent Poulard, qui sublime chaque jour des produits d’exception !"
+    ],
+    "nl": [
+      "Monsieur P nodigt zijn gasten uit in zijn burgerlijke woning. Ze kunnen genieten van de authentieke keuken van zijn privékok, Florent Poulard, die elke dag het beste uit uitzonderlijke producten haalt!"
+    ],
+    "es": [
+      "Monsieur P invita a sus huéspedes a su casa burguesa. Allí podrán disfrutar de la auténtica cocina de su chef privado, Florent Poulard, que cada día saca lo mejor de unos productos excepcionales"
+    ]
+  },
+  "rdfs:label": {
+    "de": [
+      "Monsieur P"
+    ],
+    "ru": [
+      "Monsieur P"
+    ],
+    "en": [
+      "Monsieur P"
+    ],
+    "it": [
+      "Monsieur P"
+    ],
+    "fr": [
+      "Monsieur P"
+    ],
+    "zh": [
+      "Monsieur P"
+    ],
+    "nl": [
+      "Monsieur P"
+    ],
+    "es": [
+      "Monsieur P"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/45c48cce-2e2d-3fbd-aa1a-fc51c7c6ad26",
+    "dc:identifier": "9",
+    "schema:email": [
+      "apidae@lyon-france.com",
+      "seveillard@lyon-france.com",
+      "vbilly@lyon-france.com"
+    ],
+    "schema:legalName": "Lyon Tourisme et Congrès / ONLYLYON Tourisme",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.lyon-france.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/8a9feb4b-2cbd-3d2c-b507-bd6c6776b23b",
+      "schema:legalName": "Apidae Tourisme Scic SA - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/82b85b29-8bb5-3625-b9d2-e63659cb3310",
+      "schema:email": [
+        "contact@monsieurp.fr"
+      ],
+      "schema:telephone": [
+        "+33 4 81 18 70 24"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.monsieurp.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/7f7e4955-9c22-351d-9750-5cae9c61e58c",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/090a7e65-204d-35e4-b1db-03fa66f5f097",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/52efb0ce-4c25-3c3f-bfab-b94b2aba9bca",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/6eefd25e-32d8-30c2-895e-a3929dd84350",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a16ac821-dfc1-3efd-a006-18b57a0cae6b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Monsieur P lädt seine Gäste in sein bürgerliches Haus ein. Hier können Sie die authentische Küche seines Chefkochs Florent Poulard genießen, der jeden Tag außergewöhnliche Produkte veredelt!"
+        ],
+        "en": [
+          "Chef Florent Poulard serves up authentic and innovative cuisine. Taking pride of place, the vegetables are sourced from local producers. The meat and fish are frequently cooked whole."
+        ],
+        "it": [
+          "Monsieur P invita gli ospiti nella sua casa borghese. Potranno gustare l'autentica cucina del suo chef privato, Florent Poulard, che ogni giorno tira fuori il meglio da prodotti eccezionali!"
+        ],
+        "fr": [
+          "Monsieur P invite ses convives à franchir la porte de sa maison bourgeoise. Ces derniers pourront y déguster la cuisine authentique de son chef particulier, Florent Poulard, qui sublime chaque jour des produits d’exception !"
+        ],
+        "nl": [
+          "Monsieur P nodigt zijn gasten uit in zijn burgerlijke woning. Ze kunnen genieten van de authentieke keuken van zijn privékok, Florent Poulard, die elke dag het beste uit uitzonderlijke producten haalt!"
+        ],
+        "es": [
+          "Monsieur P invita a sus huéspedes a su casa burguesa. Allí podrán disfrutar de la auténtica cocina de su chef privado, Florent Poulard, que cada día saca lo mejor de unos productos excepcionales"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/457da8fb-5b9e-31a7-9720-84a06b6f3dbf",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/8abeabe3-ec0c-3f37-bb54-dc2f57e36f83",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/8bb9eeea-84ab-3bf0-9a7a-da86de4ef800",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/900c9066-d632-3021-9500-af2b413572e7",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/c2797617-429c-325a-80bc-83f49256e8db",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/f079265a-7256-3bc1-bb4b-aafd976e697f",
+          "schema:addressLocality": "Lyon 2e Arrondissement",
+          "schema:postalCode": "69002",
+          "schema:streetAddress": [
+            "8 place des Célestins"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:69382",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Lyon 2e Arrondissement"
+              ],
+              "pt": [
+                "Lyon 2e Arrondissement"
+              ],
+              "en": [
+                "Lyon 2e Arrondissement"
+              ],
+              "it": [
+                "Lyon 2e Arrondissement"
+              ],
+              "fr": [
+                "Lyon 2e Arrondissement"
+              ],
+              "nl": [
+                "Lyon 2e Arrondissement"
+              ],
+              "es": [
+                "Lyon 2e Arrondissement"
+              ]
+            },
+            "insee": "69382",
+            "isPartOfDepartment": {
+              "@id": "kb:France8469",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Rhône"
+                ],
+                "pt": [
+                  "Rhône"
+                ],
+                "en": [
+                  "Rhône"
+                ],
+                "it": [
+                  "Rhône"
+                ],
+                "fr": [
+                  "Rhône"
+                ],
+                "nl": [
+                  "Rhône"
+                ],
+                "es": [
+                  "Rhône"
+                ]
+              },
+              "insee": "69",
+              "isPartOfRegion": {
+                "@id": "kb:France84",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "pt": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "en": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "it": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "fr": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "nl": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "es": [
+                    "Auvergne-Rhône-Alpes"
+                  ]
+                },
+                "insee": "84",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/06467fdc-3a1d-37de-bbae-e5329151b857",
+        "schema:latitude": "45.759386",
+        "schema:longitude": "4.832004",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/5bb06590-fcdf-3f05-8f22-a833f8ca59ef",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Ausnahmsweise geöffnet an den Samstagen 1., 8. und 22. Juli 2023."
+            ],
+            "en": [
+              "Exceptionally open on Saturdays July 1, 8 and 22, 2023."
+            ],
+            "it": [
+              "Aperto eccezionalmente i sabati 1, 8 e 22 luglio 2023."
+            ],
+            "fr": [
+              "Exceptionnellement ouvert les samedis 1er, 8 et 22 Juillet 2023."
+            ],
+            "nl": [
+              "Uitzonderlijk geopend op zaterdagen 1, 8 en 22 juli 2023."
+            ],
+            "es": [
+              "Abierto excepcionalmente los sábados 1, 8 y 22 de julio de 2023."
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/0b8f7de0-08a2-3edd-83b5-27a88503d10b",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/614ef801-95d6-302e-b678-85611cde1e6c",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/8b8c6747-611b-3cf8-a8bd-76b7528c5360",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/d7100bee-aceb-3c40-932d-6f3b8e4cd551",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/f18731ed-988e-398e-8f64-038105bfb556",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/33848473-e8f7-3b5e-a27f-1813fca76a01",
+      "schema:email": [
+        "apidae@lyon-france.com",
+        "seveillard@lyon-france.com",
+        "vbilly@lyon-france.com"
+      ],
+      "schema:legalName": "Lyon Tourisme et Congrès / ONLYLYON Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.lyon-france.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-11-03",
+  "lastUpdateDatatourisme": "2023-12-23T06:39:46.224Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/24a681d8-ed70-3d83-8dd5-60a4e866aa4a",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/ee4712bd-97e3-3610-b793-16276d874614",
+          "schema:maxPrice": [
+            "58",
+            "98"
+          ],
+          "schema:minPrice": [
+            "20",
+            "39",
+            "78"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/a425afdf-3594-300b-b55e-1858bafa3fd4",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2023-12-31",
+              "startDate": "2023-01-01"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

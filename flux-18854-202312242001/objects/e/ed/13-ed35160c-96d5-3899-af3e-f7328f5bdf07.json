@@ -1,0 +1,498 @@
+{
+  "@id": "https://data.datatourisme.fr/13/ed35160c-96d5-3899-af3e-f7328f5bdf07",
+  "dc:identifier": "122841",
+  "@type": [
+    "schema:LocalBusiness",
+    "CulturalSite",
+    "InterpretationCentre",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Lassen Sie sich auf eine Reise ins Herz der himmlischen Phänomene ein! 14 Astronomievostellungen, Sonderausstellungen und eine Dauerausstellung über die Geschichte des Universums, Ateliers und Konferenzen: Herzlich Willkommen im 2.0-Universum des Planetariums!"
+    ],
+    "en": [
+      "In the company of a scientific guide, take a journey through the cosmos to discover planets, stars and galaxies. Forteen different sessions are available, some of which are updated every year."
+    ],
+    "it": [
+      "Imbarcati per un viaggio al cuore dei fenomeni celesti! 14 sedute di astronomia, diverse mostre temporanee e una permanente sulla storia dell'Universo, laboratori, conferenze: benvenuto nell'Universo 2.0 del Planetario!"
+    ],
+    "fr": [
+      "Embarquez pour un voyage au cœur des phénomènes célestes ! 14 séances d'astronomie, des expositions temporaires et une exposition permanente sur l'histoire de l'Univers, des ateliers et des conférences : bienvenue dans l'Univers 2.0 du Planétarium !"
+    ],
+    "es": [
+      "Invitamos a todo el mundo a embarcarse en un viaje al corazón de los fenómenos celestes. 14 sesiones de astronomía, exposiciones temporales y una exposición permanente sobre la historia del universo, talleres y conferencias. ¡Bienvenidos al universo 2.0 del planetario!"
+    ],
+    "nl": [
+      "Ga op reis naar het hart van de hemelverschijnselen! 14 astronomische sessies, tijdelijke tentoonstellingen en een permanente tentoonstelling over de geschiedenis van het heelal, workshops en conferenties: welkom in het Planetarium 2.0!"
+    ]
+  },
+  "rdfs:label": {
+    "de": [
+      "Das Planetarium"
+    ],
+    "en": [
+      "The Planetarium"
+    ],
+    "it": [
+      "Il Planetarium"
+    ],
+    "fr": [
+      "Le Planétarium"
+    ],
+    "es": [
+      "El Planetario"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/45c48cce-2e2d-3fbd-aa1a-fc51c7c6ad26",
+    "dc:identifier": "9",
+    "schema:email": [
+      "apidae@lyon-france.com",
+      "seveillard@lyon-france.com",
+      "vbilly@lyon-france.com"
+    ],
+    "schema:legalName": "Lyon Tourisme et Congrès / ONLYLYON Tourisme",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.lyon-france.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/8a9feb4b-2cbd-3d2c-b507-bd6c6776b23b",
+      "schema:legalName": "Apidae Tourisme Scic SA - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/4fd69769-44c8-3bf8-82dc-3a3eff8f0e1c",
+      "schema:email": [
+        "stars@planetariumvv.com"
+      ],
+      "schema:telephone": [
+        "+33 4 78 79 50 10",
+        "+33 4 78 79 50 12",
+        "+33 4 78 79 50 13"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.planetariumvv.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/7fe21661-091e-394a-9471-4143ba2790f1",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/11ddad68-9fa6-3988-9f1f-69210a294718",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Lassen Sie sich auf eine Reise ins Herz der himmlischen Phänomene ein! 14 Astronomievostellungen, Sonderausstellungen und eine Dauerausstellung über die Geschichte des Universums, Ateliers und Konferenzen: Herzlich Willkommen im 2.0-Universum des Planetariums!"
+        ],
+        "en": [
+          "In the company of a scientific guide, take a journey through the cosmos to discover planets, stars and galaxies. Forteen different sessions are available, some of which are updated every year."
+        ],
+        "it": [
+          "Imbarcati per un viaggio al cuore dei fenomeni celesti! 14 sedute di astronomia, diverse mostre temporanee e una permanente sulla storia dell'Universo, laboratori, conferenze: benvenuto nell'Universo 2.0 del Planetario!"
+        ],
+        "fr": [
+          "Embarquez pour un voyage au cœur des phénomènes célestes ! 14 séances d'astronomie, des expositions temporaires et une exposition permanente sur l'histoire de l'Univers, des ateliers et des conférences : bienvenue dans l'Univers 2.0 du Planétarium !"
+        ],
+        "es": [
+          "Invitamos a todo el mundo a embarcarse en un viaje al corazón de los fenómenos celestes. 14 sesiones de astronomía, exposiciones temporales y una exposición permanente sobre la historia del universo, talleres y conferencias. ¡Bienvenidos al universo 2.0 del planetario!"
+        ],
+        "nl": [
+          "Ga op reis naar het hart van de hemelverschijnselen! 14 astronomische sessies, tijdelijke tentoonstellingen en een permanente tentoonstelling over de geschiedenis van het heelal, workshops en conferenties: welkom in het Planetarium 2.0!"
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/85a16143-76e8-3b27-8e35-43d6bd3bbcc1",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/aa79f246-7201-3fe4-b4ec-42c1e4651f05",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/59c666d0-cf6b-330f-8399-5e98b2996da3",
+          "schema:addressLocality": "Vaulx-en-Velin",
+          "schema:postalCode": "69120",
+          "schema:streetAddress": [
+            "(face à l’Hôtel de Ville, près du Centre Culturel Charlie Chaplin)",
+            "Place de la Nation"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:69256",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Vaulx-en-Velin"
+              ],
+              "pt": [
+                "Vaulx-en-Velin"
+              ],
+              "en": [
+                "Vaulx-en-Velin"
+              ],
+              "it": [
+                "Vaulx-en-Velin"
+              ],
+              "fr": [
+                "Vaulx-en-Velin"
+              ],
+              "nl": [
+                "Vaulx-en-Velin"
+              ],
+              "es": [
+                "Vaulx-en-Velin"
+              ]
+            },
+            "insee": "69256",
+            "isPartOfDepartment": {
+              "@id": "kb:France8469",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Rhône"
+                ],
+                "pt": [
+                  "Rhône"
+                ],
+                "en": [
+                  "Rhône"
+                ],
+                "it": [
+                  "Rhône"
+                ],
+                "fr": [
+                  "Rhône"
+                ],
+                "nl": [
+                  "Rhône"
+                ],
+                "es": [
+                  "Rhône"
+                ]
+              },
+              "insee": "69",
+              "isPartOfRegion": {
+                "@id": "kb:France84",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "pt": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "en": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "it": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "fr": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "nl": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "es": [
+                    "Auvergne-Rhône-Alpes"
+                  ]
+                },
+                "insee": "84",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/2f81c4bf-f78f-3eec-b4d5-28353ff71506",
+        "schema:elevation": "176",
+        "schema:latitude": "45.778049",
+        "schema:longitude": "4.921221",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f904bceb-3646-3949-9ce7-2d207362d8ab",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Außerhalb der Schulzeit"
+            ],
+            "en": [
+              "Outside school periods"
+            ],
+            "it": [
+              "Al di fuori dei periodi scolastici"
+            ],
+            "fr": [
+              "Hors périodes scolaires"
+            ],
+            "es": [
+              "Fuera del periodo escolar"
+            ],
+            "nl": [
+              "Buiten schoolperiodes"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/26c22758-93b4-32e9-b624-ed9b399b1196",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/387ada7d-8549-3174-aff2-33ce05f54873",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/4bf6318b-848e-303a-8506-1fadbe82897b",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/7b7a5edf-62cf-31b0-a4cf-a13e91107ced",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/c296c53a-c487-3732-8ce6-514104c3c988",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/33848473-e8f7-3b5e-a27f-1813fca76a01",
+      "schema:email": [
+        "apidae@lyon-france.com",
+        "seveillard@lyon-france.com",
+        "vbilly@lyon-france.com"
+      ],
+      "schema:legalName": "Lyon Tourisme et Congrès / ONLYLYON Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.lyon-france.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-11-20",
+  "lastUpdateDatatourisme": "2023-12-23T06:39:46.282Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/43bac9ed-8614-308c-9cf4-61fbc7defdeb",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/3581fb97-725a-3ec8-a666-0550b8a9486c",
+          "schema:maxPrice": [
+            "10",
+            "7",
+            "8"
+          ],
+          "schema:minPrice": [
+            "10",
+            "7",
+            "8"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/87bffbe1-8f95-3f67-b8d6-4429e852f0df",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2024-08-04",
+              "startDate": "2023-10-01"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

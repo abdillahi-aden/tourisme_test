@@ -1,0 +1,536 @@
+{
+  "@id": "https://data.datatourisme.fr/13/ec23f9f6-706f-3deb-85ed-6e6fbc39e921",
+  "dc:identifier": "6318320",
+  "@type": [
+    "schema:FoodEstablishment",
+    "schema:Winery",
+    "BistroOrWineBar",
+    "FoodEstablishment",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Besuchen Sie die Bar neben dem Stadion Olympique Lyonnais und tanken Sie Vitamine und Energie mit festlichen Cocktails oder heißen Getränken - egal, wie Ihre Stimmung ist!"
+    ],
+    "en": [
+      "Go to the bar next to the Olympique Lyonnais stadium to fill up on vitamins and energy with festive cocktails or hot drinks, whatever your mood of the day!"
+    ],
+    "it": [
+      "Recatevi al bar accanto allo stadio dell'Olympique Lyonnais per fare il pieno di vitamine e di energia con cocktail festivi o bevande calde, qualunque sia il vostro umore di quel giorno!"
+    ],
+    "fr": [
+      "Rendez-vous au bar à côté du stade Olympique Lyonnais pour faire le plein de vitamines et d'énergie avec des cocktails festifs ou des boissons chaudes, quelle que soit votre humeur du jour !"
+    ],
+    "nl": [
+      "Ga naar de bar naast het Olympique Lyonnais stadion om vitamines en energie bij te tanken met feestelijke cocktails of warme dranken, wat uw stemming die dag ook is!"
+    ],
+    "es": [
+      "Diríjase al bar situado junto al estadio del Olympique Lyonnais para llenarse de vitaminas y energía con cócteles festivos o bebidas calientes, sea cual sea su estado de ánimo ese día"
+    ]
+  },
+  "rdfs:label": {
+    "de": [
+      "Kopster Bar"
+    ],
+    "ru": [
+      "Kopster Bar"
+    ],
+    "en": [
+      "Kopster Bar"
+    ],
+    "it": [
+      "Kopster Bar"
+    ],
+    "fr": [
+      "Kopster Bar"
+    ],
+    "zh": [
+      "Kopster Bar"
+    ],
+    "nl": [
+      "Kopster Bar"
+    ],
+    "es": [
+      "Kopster Bar"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/45c48cce-2e2d-3fbd-aa1a-fc51c7c6ad26",
+    "dc:identifier": "9",
+    "schema:email": [
+      "apidae@lyon-france.com",
+      "seveillard@lyon-france.com",
+      "vbilly@lyon-france.com"
+    ],
+    "schema:legalName": "Lyon Tourisme et Congrès / ONLYLYON Tourisme",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.lyon-france.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/8a9feb4b-2cbd-3d2c-b507-bd6c6776b23b",
+      "schema:legalName": "Apidae Tourisme Scic SA - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/2fe1bd18-a0f7-338b-a4d8-3569de1c36bb",
+      "schema:telephone": [
+        "+33 4 87 25 73 73"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.kopsterhotels.com/lyon"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/7d8e32f9-70ac-30f4-8b1e-e0f5ec3dfca6",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/11acaa72-85a4-3d3a-93a5-add3f0823f1e",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/4ae2a081-8bd0-3dea-a181-2a856c2d9e6e",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/9ad10b13-822a-307b-8cb9-2d49f1543863",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a62d6210-a07d-3e1b-83b2-f7e9f3d69541",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/df01dc00-05a6-33bf-b8a9-5a561db8ccc3",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Besuchen Sie die Bar neben dem Stadion Olympique Lyonnais und tanken Sie Vitamine und Energie mit festlichen Cocktails oder heißen Getränken - egal, wie Ihre Stimmung ist!"
+        ],
+        "en": [
+          "Go to the bar next to the Olympique Lyonnais stadium to fill up on vitamins and energy with festive cocktails or hot drinks, whatever your mood of the day!"
+        ],
+        "it": [
+          "Recatevi al bar accanto allo stadio dell'Olympique Lyonnais per fare il pieno di vitamine e di energia con cocktail festivi o bevande calde, qualunque sia il vostro umore di quel giorno!"
+        ],
+        "fr": [
+          "Rendez-vous au bar à côté du stade Olympique Lyonnais pour faire le plein de vitamines et d'énergie avec des cocktails festifs ou des boissons chaudes, quelle que soit votre humeur du jour !"
+        ],
+        "nl": [
+          "Ga naar de bar naast het Olympique Lyonnais stadion om vitamines en energie bij te tanken met feestelijke cocktails of warme dranken, wat uw stemming die dag ook is!"
+        ],
+        "es": [
+          "Diríjase al bar situado junto al estadio del Olympique Lyonnais para llenarse de vitaminas y energía con cócteles festivos o bebidas calientes, sea cual sea su estado de ánimo ese día"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/31e020d9-5dd3-34ff-a4f9-579600da0715",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/458efaf1-8592-32a7-9e4a-6862be01d3bd",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/9509f878-5d07-3ca6-9570-69fd65f88114",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/a1cdd8f3-11ec-3e76-881f-241c859d8bc6",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/e91a1027-d471-3a20-b84e-5a8b416673f8",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/7f5caa6e-a362-393d-a107-aabd7c3486d6",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/83af5dbd-cfb5-30b5-88b3-b47023354141",
+          "schema:addressLocality": "Décines-Charpieu",
+          "schema:postalCode": "69150",
+          "schema:streetAddress": [
+            "12 avenue Simone Veil"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:69275",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Décines-Charpieu"
+              ],
+              "pt": [
+                "Décines-Charpieu"
+              ],
+              "en": [
+                "Décines-Charpieu"
+              ],
+              "it": [
+                "Décines-Charpieu"
+              ],
+              "fr": [
+                "Décines-Charpieu"
+              ],
+              "nl": [
+                "Décines-Charpieu"
+              ],
+              "es": [
+                "Décines-Charpieu"
+              ]
+            },
+            "insee": "69275",
+            "isPartOfDepartment": {
+              "@id": "kb:France8469",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Rhône"
+                ],
+                "pt": [
+                  "Rhône"
+                ],
+                "en": [
+                  "Rhône"
+                ],
+                "it": [
+                  "Rhône"
+                ],
+                "fr": [
+                  "Rhône"
+                ],
+                "nl": [
+                  "Rhône"
+                ],
+                "es": [
+                  "Rhône"
+                ]
+              },
+              "insee": "69",
+              "isPartOfRegion": {
+                "@id": "kb:France84",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "pt": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "en": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "it": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "fr": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "nl": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "es": [
+                    "Auvergne-Rhône-Alpes"
+                  ]
+                },
+                "insee": "84",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/18cb9c3e-4d35-3520-acbd-fb4ef1ae6724",
+        "schema:latitude": "45.767567",
+        "schema:longitude": "4.98308",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/0a5d0bfc-df79-39f0-b2e9-9fd0f283608c",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Bar: 7:00 - 23:00\r\nBretter - Pizzas: 21:45 - 00:00"
+            ],
+            "en": [
+              "Bar : 7:00 - 23:00\r\nPlates - Pizzas : 21:45 - 00:00"
+            ],
+            "it": [
+              "Bar: 7:00 - 23:00\r\nPiatti - Pizze: 21:45 - 00:00"
+            ],
+            "fr": [
+              "Bar : 7:00 - 23:00\r\nPlanches - Pizzas : 21:45 - 00:00"
+            ],
+            "es": [
+              "Bar: 7:00 - 23:00\r\nPlatos - Pizzas: 21:45 - 00:00"
+            ],
+            "nl": [
+              "Bar: 7:00 - 23:00\r\nBorden - Pizza's: 21:45 - 00:00"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/254e6c3e-820a-3d9b-b21c-fea9d44d6035",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/7d9bf605-01ef-3351-b8dc-53591ed0a9d5",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/a909ca19-5878-37ac-ab72-dd939cb210a2",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/b9c70b2d-021a-32ec-9a1f-32a6a104c6f1",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/e516a2f3-fe54-349e-8844-79c215bf8e87",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/33848473-e8f7-3b5e-a27f-1813fca76a01",
+      "schema:email": [
+        "apidae@lyon-france.com",
+        "seveillard@lyon-france.com",
+        "vbilly@lyon-france.com"
+      ],
+      "schema:legalName": "Lyon Tourisme et Congrès / ONLYLYON Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.lyon-france.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-10-31",
+  "lastUpdateDatatourisme": "2023-11-01T06:46:22.565Z"
+}

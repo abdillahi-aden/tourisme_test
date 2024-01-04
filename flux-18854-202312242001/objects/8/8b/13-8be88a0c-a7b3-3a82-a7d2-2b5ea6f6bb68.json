@@ -1,0 +1,513 @@
+{
+  "@id": "https://data.datatourisme.fr/13/8be88a0c-a7b3-3a82-a7d2-2b5ea6f6bb68",
+  "dc:identifier": "6482092",
+  "@type": [
+    "schema:Accommodation",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RentalAccommodation",
+    "SelfCateringAccommodation"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Eine atypische Unterkunft, Deckenhöhe 1,80cm, Haus aus dem Jahr 1787 im Herzen des Stadtzentrums mit der Möglichkeit, hochwertige Fahrradausrüstung für ein unvergessliches Erlebnis zu mieten."
+    ],
+    "en": [
+      "Atypical accommodation, ceiling height 1.80cm, house built in 1787 in the heart of the village center, with the possibility of renting quality cycling equipment for an unforgettable experience."
+    ],
+    "it": [
+      "Alloggio atipico, altezza del soffitto di 1,80 cm, casa costruita nel 1787 nel cuore del centro del paese con la possibilità di noleggiare attrezzatura ciclistica di qualità per un'esperienza indimenticabile."
+    ],
+    "fr": [
+      "Un hébergement atypique, hauteur sous plafond 1,80cm, maison de 1787 au cœur du centre bourg avec la possibilité de louer du matériel vélo de qualité pour une expérience inoubliable."
+    ],
+    "nl": [
+      "Atypische accommodatie, plafondhoogte 1.80 cm, huis gebouwd in 1787 in het hart van het dorpscentrum met de mogelijkheid om fietsmateriaal van hoge kwaliteit te huren voor een onvergetelijke ervaring."
+    ],
+    "es": [
+      "Alojamiento atípico, altura del techo de 1,80 cm, casa construida en 1787 en pleno centro del pueblo con posibilidad de alquilar material ciclista de calidad para vivir una experiencia inolvidable."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "ORC Adventure *"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/c74d97b0-1eae-357e-84aa-9d5bade97baf",
+    "dc:identifier": "16",
+    "schema:email": [
+      "christelle.julien@ccvl.fr",
+      "geraldine.sudres@ccvl.fr"
+    ],
+    "schema:legalName": "Office de Tourisme des Vallons du Lyonnais",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.ccvl.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/8a9feb4b-2cbd-3d2c-b507-bd6c6776b23b",
+      "schema:legalName": "Apidae Tourisme Scic SA - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/3d1664ff-eb15-3392-a164-b84c256a886b",
+      "schema:email": [
+        "orc.sportoutdoor@gmail.com"
+      ],
+      "schema:telephone": [
+        "+33 7 81 95 18 68"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.orcsportoutdoor.com/sejour"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/575e2361-d28c-3c36-8b26-de5b3bade7bf",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/10f27911-fbac-3fcd-a2bc-bcb11e47b6b6",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/6cf99f0e-f5c7-3028-a38b-a174bd7fec68",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a748d288-feba-32c1-addd-75e2401d60fd",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ca3e2016-f087-3792-904a-f833d87e8eed",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e05e3962-be51-3374-a4b5-de1c384602e1",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Eine atypische Unterkunft, Deckenhöhe 1,80cm, Haus aus dem Jahr 1787 im Herzen des Stadtzentrums mit der Möglichkeit, hochwertige Fahrradausrüstung für ein unvergessliches Erlebnis zu mieten."
+        ],
+        "en": [
+          "Atypical accommodation, ceiling height 1.80cm, house built in 1787 in the heart of the village center, with the possibility of renting quality cycling equipment for an unforgettable experience."
+        ],
+        "it": [
+          "Alloggio atipico, altezza del soffitto di 1,80 cm, casa costruita nel 1787 nel cuore del centro del paese con la possibilità di noleggiare attrezzatura ciclistica di qualità per un'esperienza indimenticabile."
+        ],
+        "fr": [
+          "Un hébergement atypique, hauteur sous plafond 1,80cm, maison de 1787 au cœur du centre bourg avec la possibilité de louer du matériel vélo de qualité pour une expérience inoubliable."
+        ],
+        "nl": [
+          "Atypische accommodatie, plafondhoogte 1.80 cm, huis gebouwd in 1787 in het hart van het dorpscentrum met de mogelijkheid om fietsmateriaal van hoge kwaliteit te huren voor een onvergetelijke ervaring."
+        ],
+        "es": [
+          "Alojamiento atípico, altura del techo de 1,80 cm, casa construida en 1787 en pleno centro del pueblo con posibilidad de alquilar material ciclista de calidad para vivir una experiencia inolvidable."
+        ]
+      }
+    }
+  ],
+  "hasReview": [
+    {
+      "@id": "https://data.datatourisme.fr/6e866798-cae5-351c-9e8d-963661217e60",
+      "@type": [
+        "Review"
+      ],
+      "hasReviewValue": {
+        "@id": "kb:LabelRating_AccueilVelo",
+        "@type": [
+          "LabelRating"
+        ],
+        "rdfs:label": {
+          "de": [
+            "Accueil Vélo"
+          ],
+          "pt": [
+            "Accueil Vélo"
+          ],
+          "en": [
+            "Accueil Vélo"
+          ],
+          "it": [
+            "Accueil Vélo"
+          ],
+          "fr": [
+            "Accueil Vélo"
+          ],
+          "nl": [
+            "Accueil Vélo"
+          ],
+          "es": [
+            "Accueil Vélo"
+          ]
+        },
+        "isCompliantWith": [
+          "PlaceOfInterest"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/25a09e29-a783-314f-8662-b85f5348f95e",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/2cceea9d-4975-3a2b-a24b-064c1b24f6f4",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/4f8541a2-4039-393a-85e5-85f132dbe5d0",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/55574a6d-9bc1-3aad-b574-61a93daee7de",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/ad7a10c1-60e2-3279-adf6-308880692ab4",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/0c4222b1-a658-3b06-981a-7366a535ea4e",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/d85fcc85-f98c-315f-b347-85a5fc8a6dff",
+          "schema:addressLocality": "Vaugneray",
+          "schema:postalCode": "69670",
+          "schema:streetAddress": [
+            "23 rue de la Maletière"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:69255",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Vaugneray"
+              ],
+              "pt": [
+                "Vaugneray"
+              ],
+              "en": [
+                "Vaugneray"
+              ],
+              "it": [
+                "Vaugneray"
+              ],
+              "fr": [
+                "Vaugneray"
+              ],
+              "nl": [
+                "Vaugneray"
+              ],
+              "es": [
+                "Vaugneray"
+              ]
+            },
+            "insee": "69255",
+            "isPartOfDepartment": {
+              "@id": "kb:France8469",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Rhône"
+                ],
+                "pt": [
+                  "Rhône"
+                ],
+                "en": [
+                  "Rhône"
+                ],
+                "it": [
+                  "Rhône"
+                ],
+                "fr": [
+                  "Rhône"
+                ],
+                "nl": [
+                  "Rhône"
+                ],
+                "es": [
+                  "Rhône"
+                ]
+              },
+              "insee": "69",
+              "isPartOfRegion": {
+                "@id": "kb:France84",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "pt": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "en": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "it": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "fr": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "nl": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "es": [
+                    "Auvergne-Rhône-Alpes"
+                  ]
+                },
+                "insee": "84",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/a86f5fbc-6d0b-32a0-9174-b310d5361d5c",
+        "schema:latitude": "45.740777",
+        "schema:longitude": "4.65566",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/bac34a7b-fb36-3ffb-ad4c-ddb3fee2ebc3",
+      "schema:email": [
+        "christelle.julien@ccvl.fr",
+        "geraldine.sudres@ccvl.fr"
+      ],
+      "schema:legalName": "Office de Tourisme des Vallons du Lyonnais",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.ccvl.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-06-28",
+  "lastUpdateDatatourisme": "2023-12-23T06:39:46.234Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/b03776db-6c1c-3e91-8dc8-f191b33b23b9",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/309367e2-40f9-31f6-b8fb-0fee1f5fa905",
+          "schema:maxPrice": [
+            "110",
+            "385",
+            "55"
+          ],
+          "schema:minPrice": [
+            "315",
+            "45",
+            "90"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/a425afdf-3594-300b-b55e-1858bafa3fd4",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2023-12-31",
+              "startDate": "2023-01-01"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

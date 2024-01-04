@@ -1,0 +1,549 @@
+{
+  "@id": "https://data.datatourisme.fr/13/1bc546d7-44c0-3ede-8d1b-01504ac1b7d0",
+  "dc:identifier": "172271",
+  "@type": [
+    "schema:LocalBusiness",
+    "schema:Museum",
+    "CulturalSite",
+    "DefenceSite",
+    "Museum",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Gefängnis von Jean Moulin, Marc Bloch, der Kinder von Izieu und mehr als 8.000 Juden, Widerständlern und Geiseln. Das deutsche Gefängnis Montluc inmitten der Hauptstadt der französischen Résistance war oftmals nur ein Zwischenstopp vor Deportationen oder Hinrichtungen."
+    ],
+    "en": [
+      "Once the prison of Jean Moulin, Marc Bloch, the Children of Izieu and 8,000 Jews, French resistance fighters, Montluc, a German prison in the city of the resistance movement, was nothing more than a stepping stone before deportation or execution."
+    ],
+    "it": [
+      "A Montluc, prigione tedesca nel cuore di Lione, sono stati imprigionati Jean Moulin, Marc Bloch, i Bambini di Izieu e più di 8000 tra ebrei, partigiani e ostaggi. Si trattava nella maggior parte dei casi di una tappa prima della deportazione o dell'esecuzione."
+    ],
+    "fr": [
+      "Prison de Jean Moulin, de Marc Bloch, des Enfants d’Izieu, et de plus de 8 000 juifs, résistants et otages, Montluc, prison allemande au cœur de la Capitale de la Résistance, n’était souvent qu’une étape avant la déportation ou les exécutions."
+    ],
+    "nl": [
+      "Gevangenis voor Jean Moulin, Marc Bloch, de Kinderen van Izieu en meer dan 8.000 Joden, verzetsstrijders en gijzelaars. Montluc, een Duitse gevangenis in het hart van de hoofdstad van het verzet, was vaak slechts een etappe voor deportatie of executie."
+    ],
+    "es": [
+      "En esta prisión estuvieron Jean Moulin, Marc Bloch, los niños de Izieu y más de 8.000 judíos, resistentes y rehenes. Montluc, prisión alemana en el corazón de la capital de la resistencia, sólo era una etapa antes de la deportación o la ejecución."
+    ]
+  },
+  "rdfs:label": {
+    "de": [
+      "Mahnmal des Gefängnisses von Montluc"
+    ],
+    "en": [
+      "National Memorial Prison of Montluc"
+    ],
+    "it": [
+      "Memorial Nazionale di Carcere Montluc"
+    ],
+    "fr": [
+      "Mémorial National de la prison de Montluc"
+    ],
+    "es": [
+      "Museo-prisión de Montluc"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/45c48cce-2e2d-3fbd-aa1a-fc51c7c6ad26",
+    "dc:identifier": "9",
+    "schema:email": [
+      "apidae@lyon-france.com",
+      "seveillard@lyon-france.com",
+      "vbilly@lyon-france.com"
+    ],
+    "schema:legalName": "Lyon Tourisme et Congrès / ONLYLYON Tourisme",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.lyon-france.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/8a9feb4b-2cbd-3d2c-b507-bd6c6776b23b",
+      "schema:legalName": "Apidae Tourisme Scic SA - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/708dd8eb-7724-3b35-9a2c-5b53db096c04",
+      "schema:email": [
+        "info@memorial-montluc.fr"
+      ],
+      "schema:telephone": [
+        "+33 4 78 53 60 41"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.memorial-montluc.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/7759b5f4-5031-3e16-b25d-d11e4547c43e",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/ef07f4d3-545c-39c2-8970-e7f3e46c2483",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Gefängnis von Jean Moulin, Marc Bloch, der Kinder von Izieu und mehr als 8.000 Juden, Widerständlern und Geiseln. Das deutsche Gefängnis Montluc inmitten der Hauptstadt der französischen Résistance war oftmals nur ein Zwischenstopp vor Deportationen oder Hinrichtungen."
+        ],
+        "en": [
+          "Once the prison of Jean Moulin, Marc Bloch, the Children of Izieu and 8,000 Jews, French resistance fighters, Montluc, a German prison in the city of the resistance movement, was nothing more than a stepping stone before deportation or execution."
+        ],
+        "it": [
+          "A Montluc, prigione tedesca nel cuore di Lione, sono stati imprigionati Jean Moulin, Marc Bloch, i Bambini di Izieu e più di 8000 tra ebrei, partigiani e ostaggi. Si trattava nella maggior parte dei casi di una tappa prima della deportazione o dell'esecuzione."
+        ],
+        "fr": [
+          "Prison de Jean Moulin, de Marc Bloch, des Enfants d’Izieu, et de plus de 8 000 juifs, résistants et otages, Montluc, prison allemande au cœur de la Capitale de la Résistance, n’était souvent qu’une étape avant la déportation ou les exécutions."
+        ],
+        "nl": [
+          "Gevangenis voor Jean Moulin, Marc Bloch, de Kinderen van Izieu en meer dan 8.000 Joden, verzetsstrijders en gijzelaars. Montluc, een Duitse gevangenis in het hart van de hoofdstad van het verzet, was vaak slechts een etappe voor deportatie of executie."
+        ],
+        "es": [
+          "En esta prisión estuvieron Jean Moulin, Marc Bloch, los niños de Izieu y más de 8.000 judíos, resistentes y rehenes. Montluc, prisión alemana en el corazón de la capital de la resistencia, sólo era una etapa antes de la deportación o la ejecución."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/ce599069-d914-383a-9878-ada6ff98ccb3",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/87eeb549-782c-32be-8ecc-91e3dbe61060",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/c291336f-0aa0-3e88-ba3e-ba522c79a92d",
+          "schema:addressLocality": "Lyon 3e Arrondissement",
+          "schema:postalCode": "69003",
+          "schema:streetAddress": [
+            "4 rue Jeanne Hachette",
+            "Mémorial National de la prison de Montluc"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:69383",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Lyon 3e Arrondissement"
+              ],
+              "pt": [
+                "Lyon 3e Arrondissement"
+              ],
+              "en": [
+                "Lyon 3e Arrondissement"
+              ],
+              "it": [
+                "Lyon 3e Arrondissement"
+              ],
+              "fr": [
+                "Lyon 3e Arrondissement"
+              ],
+              "nl": [
+                "Lyon 3e Arrondissement"
+              ],
+              "es": [
+                "Lyon 3e Arrondissement"
+              ]
+            },
+            "insee": "69383",
+            "isPartOfDepartment": {
+              "@id": "kb:France8469",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Rhône"
+                ],
+                "pt": [
+                  "Rhône"
+                ],
+                "en": [
+                  "Rhône"
+                ],
+                "it": [
+                  "Rhône"
+                ],
+                "fr": [
+                  "Rhône"
+                ],
+                "nl": [
+                  "Rhône"
+                ],
+                "es": [
+                  "Rhône"
+                ]
+              },
+              "insee": "69",
+              "isPartOfRegion": {
+                "@id": "kb:France84",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "pt": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "en": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "it": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "fr": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "nl": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "es": [
+                    "Auvergne-Rhône-Alpes"
+                  ]
+                },
+                "insee": "84",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/7256558c-17d2-3273-8f3e-1cfdf6799825",
+        "schema:elevation": "170",
+        "schema:latitude": "45.750725",
+        "schema:longitude": "4.861759",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/6985ae07-1811-38b3-bc7d-9a9dce4d758a",
+          "schema:validFrom": "2023-07-06T00:00:00",
+          "schema:validThrough": "2023-08-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "geführte Tour um 15:30 Uhr"
+            ],
+            "en": [
+              "guided tour at 3:30 pm"
+            ],
+            "it": [
+              "visita guidata alle 15:30"
+            ],
+            "fr": [
+              "visite guidée à 15h30"
+            ],
+            "es": [
+              "visita guiada a las 15:30"
+            ],
+            "nl": [
+              "rondleiding om 15:30"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/1cfe13a1-7b78-3f6f-895b-6572eaa39dac",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/51adc113-317b-367f-bc26-044d404d2e73",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/6e252dde-020f-3527-b30f-2f819b8642d2",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/a02673d3-ca0c-3192-94c5-b5255af93ddf",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/a0627c4d-1496-31b8-83e9-17d35b4bd2a8",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c69f2a91-8d0e-3adb-b735-6f8e08d83901",
+          "schema:validFrom": "2023-09-03T00:00:00",
+          "schema:validThrough": "2023-07-05T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "mittwochs bis freitags um 17 Uhr, samstags um 15.30 Uhr"
+            ],
+            "en": [
+              "guided tour at 5 p.m. Wednesday to Friday; at 3:30 p.m. Saturday"
+            ],
+            "it": [
+              "visita guidata alle 17.00 da mercoledì a venerdì; alle 15.30 il sabato"
+            ],
+            "fr": [
+              "visite guidée à 17h du mercredi au vendredi; à 15h30 le samedi"
+            ],
+            "es": [
+              "visita guiada a las 17.00 h de miércoles a viernes; a las 15.30 h los sábados"
+            ],
+            "nl": [
+              "rondleiding om 17.00 uur van woensdag tot vrijdag; om 15.30 uur op zaterdag"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/848cbafa-a455-30f4-99b7-d3a6b5caa0d8",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/94adf6e2-f9bd-3024-9df3-7e31b95e9fe4",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/9f4e4269-c8d2-38bd-8fdb-4fe4b0233038",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/ae189791-ed9c-32ee-a525-70f01f60f2ca",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/e062aa11-ef67-3a4c-86a1-438fd2d137d8",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/33848473-e8f7-3b5e-a27f-1813fca76a01",
+      "schema:email": [
+        "apidae@lyon-france.com",
+        "seveillard@lyon-france.com",
+        "vbilly@lyon-france.com"
+      ],
+      "schema:legalName": "Lyon Tourisme et Congrès / ONLYLYON Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.lyon-france.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-09-21",
+  "lastUpdateDatatourisme": "2023-09-22T05:52:52.341Z"
+}

@@ -1,0 +1,519 @@
+{
+  "@id": "https://data.datatourisme.fr/13/735d292d-b594-3905-8c73-068ed1bda50e",
+  "dc:identifier": "6590011",
+  "@type": [
+    "schema:Accommodation",
+    "schema:FoodEstablishment",
+    "schema:Hotel",
+    "schema:LodgingBusiness",
+    "schema:Restaurant",
+    "Accommodation",
+    "FoodEstablishment",
+    "Hotel",
+    "HotelRestaurant",
+    "HotelTrade",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "Restaurant"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Pullman Lyon, The New Place To Be! Entdecken Sie die Exklusivität der Marke Pullman in der Region Rhône-Alpes. Das Pullman Lyon, dessen Eröffnung für den Winter 2023 geplant ist, wird der neue unumgängliche Treffpunkt sein."
+    ],
+    "en": [
+      "Discover the exclusivity of the Pullman Lyon brand in the Rhône-Alpes region. Due to open in winter 2023, the Pullman Lyon will be the new place to be."
+    ],
+    "it": [
+      "Pullman Lyon, il nuovo posto dove stare! Scoprite l'esclusività del marchio Pullman nella regione Rodano-Alpi. Il Pullman Lyon, la cui apertura è prevista per l'inverno 2023, sarà il nuovo posto dove stare."
+    ],
+    "fr": [
+      "Pullman Lyon, The New Place To Be ! Découvrez l’exclusivité de la marque Pullman en région Rhône-Alpes. Le Pullman Lyon, dont l’ouverture est prévue en hiver 2023 sera le nouveau lieu de rendez-vous incontournable."
+    ],
+    "nl": [
+      "Pullman Lyon, de nieuwe place to be! Ontdek de exclusiviteit van het merk Pullman in de regio Rhône-Alpes. Het Pullman Lyon wordt geopend in de winter van 2023 en wordt de nieuwe place to be."
+    ],
+    "es": [
+      "Pullman Lyon, ¡el nuevo lugar para estar! Descubra la exclusividad de la marca Pullman en la región Rhône-Alpes. Con inauguración prevista para el invierno de 2023, el Pullman Lyon será el nuevo place to be."
+    ]
+  },
+  "rdfs:label": {
+    "de": [
+      "Pullman Lyon"
+    ],
+    "ru": [
+      "Pullman Lyon"
+    ],
+    "en": [
+      "Pullman Lyon"
+    ],
+    "it": [
+      "Pullman Lyon"
+    ],
+    "fr": [
+      "Pullman Lyon"
+    ],
+    "zh": [
+      "Pullman Lyon"
+    ],
+    "nl": [
+      "Pullman Lyon"
+    ],
+    "es": [
+      "Pullman Lyon"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/45c48cce-2e2d-3fbd-aa1a-fc51c7c6ad26",
+    "dc:identifier": "9",
+    "schema:email": [
+      "apidae@lyon-france.com",
+      "seveillard@lyon-france.com",
+      "vbilly@lyon-france.com"
+    ],
+    "schema:legalName": "Lyon Tourisme et Congrès / ONLYLYON Tourisme",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.lyon-france.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/8a9feb4b-2cbd-3d2c-b507-bd6c6776b23b",
+      "schema:legalName": "Apidae Tourisme Scic SA - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/98e4f732-c5e6-399b-9a85-30a8e6f8f01a",
+      "schema:email": [
+        "hc177@accor.com"
+      ],
+      "schema:telephone": [
+        "+33 4 12 05 03 70"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://all.accor.com/hotel/C177/index.fr.shtml"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/be41a166-a101-32d4-97ce-81f0e75c9344",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/1f27708f-b4fe-388b-b8ef-bd891f72dc49",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/3c19b590-e96c-3703-a0b4-966e0ed4b6a8",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/555d64b6-74e3-3625-a496-86e983d7928f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/9eeedd35-8fc1-33d3-9b92-0a96445e8645",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Pullman Lyon, The New Place To Be! Entdecken Sie die Exklusivität der Marke Pullman in der Region Rhône-Alpes. Das Pullman Lyon, dessen Eröffnung für den Winter 2023 geplant ist, wird der neue unumgängliche Treffpunkt sein."
+        ],
+        "en": [
+          "Discover the exclusivity of the Pullman Lyon brand in the Rhône-Alpes region. Due to open in winter 2023, the Pullman Lyon will be the new place to be."
+        ],
+        "it": [
+          "Pullman Lyon, il nuovo posto dove stare! Scoprite l'esclusività del marchio Pullman nella regione Rodano-Alpi. Il Pullman Lyon, la cui apertura è prevista per l'inverno 2023, sarà il nuovo posto dove stare."
+        ],
+        "fr": [
+          "Pullman Lyon, The New Place To Be ! Découvrez l’exclusivité de la marque Pullman en région Rhône-Alpes. Le Pullman Lyon, dont l’ouverture est prévue en hiver 2023 sera le nouveau lieu de rendez-vous incontournable."
+        ],
+        "nl": [
+          "Pullman Lyon, de nieuwe place to be! Ontdek de exclusiviteit van het merk Pullman in de regio Rhône-Alpes. Het Pullman Lyon wordt geopend in de winter van 2023 en wordt de nieuwe place to be."
+        ],
+        "es": [
+          "Pullman Lyon, ¡el nuevo lugar para estar! Descubra la exclusividad de la marca Pullman en la región Rhône-Alpes. Con inauguración prevista para el invierno de 2023, el Pullman Lyon será el nuevo place to be."
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/86653007-acb7-3eee-afbf-82c695954695",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/a5250f38-c8ab-3faf-aa0f-231a620aa606",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/c57678b4-111f-39b7-843d-85318e97bb97",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/d138b8cd-a095-368b-ab58-46e9162aa000",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/b66a0348-eb65-3a10-b38c-fe9b6d6d9ea4",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/30a19865-a0ec-3205-b32e-4b5137d81030",
+          "schema:addressLocality": "Lyon 3e Arrondissement",
+          "schema:postalCode": "69003",
+          "schema:streetAddress": [
+            "14 place Charles Béraudier"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:69383",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Lyon 3e Arrondissement"
+              ],
+              "pt": [
+                "Lyon 3e Arrondissement"
+              ],
+              "en": [
+                "Lyon 3e Arrondissement"
+              ],
+              "it": [
+                "Lyon 3e Arrondissement"
+              ],
+              "fr": [
+                "Lyon 3e Arrondissement"
+              ],
+              "nl": [
+                "Lyon 3e Arrondissement"
+              ],
+              "es": [
+                "Lyon 3e Arrondissement"
+              ]
+            },
+            "insee": "69383",
+            "isPartOfDepartment": {
+              "@id": "kb:France8469",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Rhône"
+                ],
+                "pt": [
+                  "Rhône"
+                ],
+                "en": [
+                  "Rhône"
+                ],
+                "it": [
+                  "Rhône"
+                ],
+                "fr": [
+                  "Rhône"
+                ],
+                "nl": [
+                  "Rhône"
+                ],
+                "es": [
+                  "Rhône"
+                ]
+              },
+              "insee": "69",
+              "isPartOfRegion": {
+                "@id": "kb:France84",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "pt": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "en": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "it": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "fr": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "nl": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "es": [
+                    "Auvergne-Rhône-Alpes"
+                  ]
+                },
+                "insee": "84",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/6448984e-98bb-34e9-9380-0091cfce7832",
+        "schema:latitude": "45.759667",
+        "schema:longitude": "4.858572",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/bab9cf45-ea26-36e2-956c-ac75378895fa",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "ERÖFFNUNG DEZEMBER 2023"
+            ],
+            "en": [
+              "OPENING DECEMBER 2023"
+            ],
+            "it": [
+              "APERTURA DICEMBRE 2023"
+            ],
+            "fr": [
+              "OUVERTURE DECEMBRE 2023"
+            ],
+            "nl": [
+              "OPENING DECEMBER 2023"
+            ],
+            "es": [
+              "APERTURA DICIEMBRE 2023"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/0ed5bd44-d7c0-35f5-a168-b4acd77fe9b6",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/0f5b41ad-d8d2-385a-b8ce-5eb6cdfffc1d",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/726464e0-b72b-380f-8f08-248685264167",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/9979b2ce-9067-3b35-b44f-91f7a2ae70f5",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/aa2919f6-a061-3b25-9644-fca3b584fc8f",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/33848473-e8f7-3b5e-a27f-1813fca76a01",
+      "schema:email": [
+        "apidae@lyon-france.com",
+        "seveillard@lyon-france.com",
+        "vbilly@lyon-france.com"
+      ],
+      "schema:legalName": "Lyon Tourisme et Congrès / ONLYLYON Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.lyon-france.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-09-14",
+  "lastUpdateDatatourisme": "2023-09-15T05:54:53.086Z"
+}

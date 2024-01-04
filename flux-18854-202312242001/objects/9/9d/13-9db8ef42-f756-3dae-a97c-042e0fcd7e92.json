@@ -1,0 +1,428 @@
+{
+  "@id": "https://data.datatourisme.fr/13/9db8ef42-f756-3dae-a97c-042e0fcd7e92",
+  "dc:identifier": "6239211",
+  "@type": [
+    "schema:FoodEstablishment",
+    "FoodEstablishment",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Hier kannst du frische, lokale und selbstgemachte Produkte essen.\r\nWir bieten dir Burger, Salate, Nudeln, Pokes ... und sogar Suppen!"
+    ],
+    "en": [
+      "You can eat fresh, local, homemade food.\r\nWe offer burgers, salads, pasta, pokes... and even soups!"
+    ],
+    "it": [
+      "Potrete mangiare prodotti freschi, locali e fatti in casa.\r\nOffriamo hamburger, insalate, pasta, punch... e persino zuppe!"
+    ],
+    "fr": [
+      "Vous pouvez manger des produits frais, locaux, et fait maison.\r\nNous vous proposons des burgers, salades, des pâtes, des pokes... et même des soupes !"
+    ],
+    "es": [
+      "Podrás comer productos frescos, locales y caseros.\r\nOfrecemos hamburguesas, ensaladas, pasta, pokes... ¡e incluso sopas!"
+    ],
+    "nl": [
+      "Je kunt bij ons verse, lokale, zelfgemaakte producten eten.\r\nWe hebben hamburgers, salades, pasta's en zelfs soepen!"
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Bine Gramen"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/38b3eff8-baf5-3627-878e-c76a704e9b52",
+    "dc:identifier": "101",
+    "schema:email": [
+      "ajouvenaud@vienne-condrieu.com",
+      "mdubus@vienne-condrieu.com"
+    ],
+    "schema:legalName": "Office de Tourisme de Vienne Condrieu Agglomération",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.vienne-condrieu.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/8a9feb4b-2cbd-3d2c-b507-bd6c6776b23b",
+      "schema:legalName": "Apidae Tourisme Scic SA - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/a3e2408b-82b3-3b7c-8410-648bcc4c7945",
+      "schema:telephone": [
+        "+33 9 63 54 32 78"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.tradastra.com/binegramen"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/a2a1662a-1428-35c3-8f7e-919bf9cb132f",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/24f582bc-d790-3341-8ecc-7db5ccb1cf57",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/57df839c-8d10-3d81-ad04-380d86b198ad",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/84407d31-3ba7-3877-980c-e39e1979ed72",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/86d13c5e-f910-3f05-96e9-c663add31b0d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/bbbfc76d-d4fe-32fc-b940-6dcd05b2bcd4",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Hier kannst du frische, lokale und selbstgemachte Produkte essen.\r\nWir bieten dir Burger, Salate, Nudeln, Pokes ... und sogar Suppen!"
+        ],
+        "en": [
+          "You can eat fresh, local, homemade food.\r\nWe offer burgers, salads, pasta, pokes... and even soups!"
+        ],
+        "it": [
+          "Potrete mangiare prodotti freschi, locali e fatti in casa.\r\nOffriamo hamburger, insalate, pasta, punch... e persino zuppe!"
+        ],
+        "fr": [
+          "Vous pouvez manger des produits frais, locaux, et fait maison.\r\nNous vous proposons des burgers, salades, des pâtes, des pokes... et même des soupes !"
+        ],
+        "es": [
+          "Podrás comer productos frescos, locales y caseros.\r\nOfrecemos hamburguesas, ensaladas, pasta, pokes... ¡e incluso sopas!"
+        ],
+        "nl": [
+          "Je kunt bij ons verse, lokale, zelfgemaakte producten eten.\r\nWe hebben hamburgers, salades, pasta's en zelfs soepen!"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/0aa145d7-3a86-3e1c-a6f8-0a2a4ea0346e",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/454bf8a2-bfef-37cd-bd3c-7e22e0c06a57",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/a074b9e0-21cd-3581-8738-c549459f4923",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/b801bd8d-2413-3880-918e-b9ad63e9d759",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/e513459e-6402-31ad-8cd7-ee5e1e8a2b11",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/4c220fe4-dedd-3544-a22d-f0c5b8985052",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/793e5764-2d8b-3ecd-a653-0fca2f4ee9b5",
+          "schema:addressLocality": "Ampuis",
+          "schema:postalCode": "69420",
+          "schema:streetAddress": [
+            "4 Route du Recru"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:69007",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Ampuis"
+              ],
+              "pt": [
+                "Ampuis"
+              ],
+              "en": [
+                "Ampuis"
+              ],
+              "it": [
+                "Ampuis"
+              ],
+              "fr": [
+                "Ampuis"
+              ],
+              "nl": [
+                "Ampuis"
+              ],
+              "es": [
+                "Ampuis"
+              ]
+            },
+            "insee": "69007",
+            "isPartOfDepartment": {
+              "@id": "kb:France8469",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Rhône"
+                ],
+                "pt": [
+                  "Rhône"
+                ],
+                "en": [
+                  "Rhône"
+                ],
+                "it": [
+                  "Rhône"
+                ],
+                "fr": [
+                  "Rhône"
+                ],
+                "nl": [
+                  "Rhône"
+                ],
+                "es": [
+                  "Rhône"
+                ]
+              },
+              "insee": "69",
+              "isPartOfRegion": {
+                "@id": "kb:France84",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "pt": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "en": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "it": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "fr": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "nl": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "es": [
+                    "Auvergne-Rhône-Alpes"
+                  ]
+                },
+                "insee": "84",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/812c2a3b-1197-3127-81b0-7fd814e81a39",
+        "schema:latitude": "45.491814",
+        "schema:longitude": "4.812387",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/77a7285f-3a2a-3e0f-86fd-f1b14ecb328f",
+      "schema:email": [
+        "ajouvenaud@vienne-condrieu.com",
+        "mdubus@vienne-condrieu.com"
+      ],
+      "schema:legalName": "Office de Tourisme de Vienne Condrieu Agglomération",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.vienne-condrieu.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-09-20",
+  "lastUpdateDatatourisme": "2023-10-28T05:51:47.935Z"
+}

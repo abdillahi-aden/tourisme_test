@@ -1,0 +1,324 @@
+{
+  "@id": "https://data.datatourisme.fr/13/cffb5969-12d2-338e-87ae-c6cd1f04b910",
+  "dc:identifier": "5034844",
+  "@type": [
+    "schema:Accommodation",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "CollectiveAccommodation",
+    "GroupLodging",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "StopOverOrGroupLodge"
+  ],
+  "rdfs:label": {
+    "fr": [
+      "Gîte des Moriers"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/1c9ac015-9c94-38d0-8bed-c973445af2da",
+    "dc:identifier": "156",
+    "schema:email": [
+      "c.berthelier@gites-de-france-rhone.com"
+    ],
+    "schema:legalName": "Gîtes de France Rhône",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.gites-de-france-rhone.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/8a9feb4b-2cbd-3d2c-b507-bd6c6776b23b",
+      "schema:legalName": "Apidae Tourisme Scic SA - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/2e7d2c2f-89f7-333c-8196-556d8fcc7bc4",
+      "schema:email": [
+        "monrozier@lecho.com"
+      ],
+      "schema:telephone": [
+        "+33 6 62 50 28 29"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.gites-de-france-rhone.com/fiche-hebergement-3097.html"
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/557c8c1b-0463-3438-8ac6-3af0b72b1e86",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/ab5eb11b-b073-3267-beb0-53873859d066",
+          "schema:addressLocality": "Fleurie",
+          "schema:postalCode": "69820",
+          "schema:streetAddress": [
+            "Les Moriers 69820 Fleurie",
+            "Les Moriers"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:69084",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Fleurie"
+              ],
+              "pt": [
+                "Fleurie"
+              ],
+              "en": [
+                "Fleurie"
+              ],
+              "it": [
+                "Fleurie"
+              ],
+              "fr": [
+                "Fleurie"
+              ],
+              "nl": [
+                "Fleurie"
+              ],
+              "es": [
+                "Fleurie"
+              ]
+            },
+            "insee": "69084",
+            "isPartOfDepartment": {
+              "@id": "kb:France8469",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Rhône"
+                ],
+                "pt": [
+                  "Rhône"
+                ],
+                "en": [
+                  "Rhône"
+                ],
+                "it": [
+                  "Rhône"
+                ],
+                "fr": [
+                  "Rhône"
+                ],
+                "nl": [
+                  "Rhône"
+                ],
+                "es": [
+                  "Rhône"
+                ]
+              },
+              "insee": "69",
+              "isPartOfRegion": {
+                "@id": "kb:France84",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "pt": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "en": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "it": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "fr": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "nl": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "es": [
+                    "Auvergne-Rhône-Alpes"
+                  ]
+                },
+                "insee": "84",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/907b65e3-571d-3fbe-84c0-1f9707816194",
+        "schema:elevation": "250",
+        "schema:latitude": "46.200413",
+        "schema:longitude": "4.715886",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/5164796f-2543-3003-9ae1-f96a6779a071",
+          "schema:validFrom": "2023-01-07T00:00:00",
+          "schema:validThrough": "2023-01-05T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a797cdcd-4b51-3c43-a8d9-20d85a5b48c0",
+          "schema:validFrom": "2023-01-06T00:00:00",
+          "schema:validThrough": "2023-01-03T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/24f62cd1-53e9-3bd6-ba70-6d83e5deb4f3",
+      "schema:email": [
+        "c.berthelier@gites-de-france-rhone.com"
+      ],
+      "schema:legalName": "Gîtes de France Rhône",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.gites-de-france-rhone.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-12-19",
+  "lastUpdateDatatourisme": "2023-12-23T06:39:46.174Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/cba43569-ec1e-3043-b5f4-995c1ab53cfa",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/072e0b9a-75fa-3180-bfc8-c529a5c7e379",
+          "schema:maxPrice": [
+            "1164",
+            "3394"
+          ],
+          "schema:minPrice": [
+            "1650",
+            "670"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/094d070d-86d4-3567-811e-c25c1582bba6",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2025-01-03",
+              "startDate": "2024-01-06"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/aa1001a5-639d-3d36-a4c0-73af5cb93b80",
+          "schema:maxPrice": [
+            "1980",
+            "840"
+          ],
+          "schema:minPrice": [
+            "1485",
+            "540"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/b1cf3ae7-cfbf-3a99-b307-3aaf93fb3127",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2024-01-05",
+              "startDate": "2023-01-07"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

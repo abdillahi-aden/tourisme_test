@@ -1,0 +1,580 @@
+{
+  "@id": "https://data.datatourisme.fr/13/251a44d7-2b31-3ed6-9924-69c326a0e7c8",
+  "dc:identifier": "5695026",
+  "@type": [
+    "schema:Park",
+    "CulturalSite",
+    "ParkAndGarden",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Entdecken Sie im Herzen einer Permakultur-Mikrofarm einen pädagogischen Rundgang, der eine andere Art der Arbeit mit der Natur aufwertet, ein lebendiges Ökosystem im Herzen der Hügel im Westen von Lyon. Wie wäre es mit einem Spaziergang durch den Garten Eden?"
+    ],
+    "en": [
+      "At the heart of a permaculture micro-farm, come and discover an educational circuit promoting a different way of working with nature, a living ecosystem in the hills of western Lyon. Would you like to follow the path of a Garden of Eden?"
+    ],
+    "it": [
+      "Nel cuore di una microfattoria in permacultura, venite a scoprire un percorso didattico che promuove un modo diverso di lavorare con la natura, un ecosistema vivente nel cuore delle colline a ovest di Lione. Volete seguire il percorso di un giardino dell'Eden?"
+    ],
+    "fr": [
+      "Au cœur d'une microferme en permaculture, venez découvrir un circuit pédagogique valorisant une autre façon de travailler avec la nature, un écosystème vivant au cœur des collines de l'ouest lyonnais. Parcourir le chemin d'un jardin d'Eden, ça vous dit ?"
+    ],
+    "nl": [
+      "Ontdek in het hart van een permacultuur microboerderij een educatief pad dat een andere manier van werken met de natuur promoot, een levend ecosysteem in het hart van de heuvels ten westen van Lyon. Wil je het pad van een Hof van Eden volgen?"
+    ],
+    "es": [
+      "En el corazón de una microgranja de permacultura, venga a descubrir un sendero pedagógico que promueve una forma diferente de trabajar con la naturaleza, un ecosistema vivo en el corazón de las colinas al oeste de Lyon. ¿Le gustaría seguir el camino de un Jardín del Edén?"
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Eco-circuit de la Source Dorée"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/b6d767d2-f8ed-3d21-a44b-0e5886680cb9",
+    "dc:identifier": "22",
+    "schema:email": [
+      "josiane.rivier@paysdelarbresle.fr",
+      "officedetourisme@paysdelarbresle.fr"
+    ],
+    "schema:legalName": "Office de Tourisme du Pays de l'Arbresle",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.arbresletourisme.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/8a9feb4b-2cbd-3d2c-b507-bd6c6776b23b",
+      "schema:legalName": "Apidae Tourisme Scic SA - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/556bd747-8d13-353c-b73d-f12e864f7d36",
+      "schema:email": [
+        "nathalie.gailletboidin@gmail.com"
+      ],
+      "schema:telephone": [
+        "+33 6 63 36 81 81"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.la-source-doree.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/6596a7b2-da50-3641-a031-b75485470753",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/00720819-010c-3db7-9190-c1477d46cd73",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/1b40349e-9bc3-3bd3-84a8-3e7a3a675a39",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/2094fffa-50fc-340d-8590-27e0b3349971",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/377afb66-6dcc-36a6-b7a7-0f98661f63c6",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/6dfe9149-a497-3f0c-9930-d03663128f7b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Entdecken Sie im Herzen einer Permakultur-Mikrofarm einen pädagogischen Rundgang, der eine andere Art der Arbeit mit der Natur aufwertet, ein lebendiges Ökosystem im Herzen der Hügel im Westen von Lyon. Wie wäre es mit einem Spaziergang durch den Garten Eden?"
+        ],
+        "en": [
+          "At the heart of a permaculture micro-farm, come and discover an educational circuit promoting a different way of working with nature, a living ecosystem in the hills of western Lyon. Would you like to follow the path of a Garden of Eden?"
+        ],
+        "it": [
+          "Nel cuore di una microfattoria in permacultura, venite a scoprire un percorso didattico che promuove un modo diverso di lavorare con la natura, un ecosistema vivente nel cuore delle colline a ovest di Lione. Volete seguire il percorso di un giardino dell'Eden?"
+        ],
+        "fr": [
+          "Au cœur d'une microferme en permaculture, venez découvrir un circuit pédagogique valorisant une autre façon de travailler avec la nature, un écosystème vivant au cœur des collines de l'ouest lyonnais. Parcourir le chemin d'un jardin d'Eden, ça vous dit ?"
+        ],
+        "nl": [
+          "Ontdek in het hart van een permacultuur microboerderij een educatief pad dat een andere manier van werken met de natuur promoot, een levend ecosysteem in het hart van de heuvels ten westen van Lyon. Wil je het pad van een Hof van Eden volgen?"
+        ],
+        "es": [
+          "En el corazón de una microgranja de permacultura, venga a descubrir un sendero pedagógico que promueve una forma diferente de trabajar con la naturaleza, un ecosistema vivo en el corazón de las colinas al oeste de Lyon. ¿Le gustaría seguir el camino de un Jardín del Edén?"
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/142a8dc1-fc43-31e5-b610-fc800af99fe1",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/3683e3f2-d331-3f25-8f13-bfe1ef1c5270",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/95861ba5-78f4-3530-b921-e54c3b42aa66",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/9afd5f6a-eaa3-3420-a8a8-334cd84aa566",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/c13cc639-1463-39dd-b822-7e42cf510ba9",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/7796a72c-e1ea-345a-88b9-2980faf2955c",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/44c5016f-9290-3843-bfac-ff56ca6a2682",
+          "schema:addressLocality": "Saint-Pierre-la-Palud",
+          "schema:postalCode": "69210",
+          "schema:streetAddress": [
+            "53 chemin du chalet"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:69231",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Saint-Pierre-la-Palud"
+              ],
+              "pt": [
+                "Saint-Pierre-la-Palud"
+              ],
+              "en": [
+                "Saint-Pierre-la-Palud"
+              ],
+              "it": [
+                "Saint-Pierre-la-Palud"
+              ],
+              "fr": [
+                "Saint-Pierre-la-Palud"
+              ],
+              "nl": [
+                "Saint-Pierre-la-Palud"
+              ],
+              "es": [
+                "Saint-Pierre-la-Palud"
+              ]
+            },
+            "insee": "69231",
+            "isPartOfDepartment": {
+              "@id": "kb:France8469",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Rhône"
+                ],
+                "pt": [
+                  "Rhône"
+                ],
+                "en": [
+                  "Rhône"
+                ],
+                "it": [
+                  "Rhône"
+                ],
+                "fr": [
+                  "Rhône"
+                ],
+                "nl": [
+                  "Rhône"
+                ],
+                "es": [
+                  "Rhône"
+                ]
+              },
+              "insee": "69",
+              "isPartOfRegion": {
+                "@id": "kb:France84",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "pt": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "en": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "it": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "fr": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "nl": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "es": [
+                    "Auvergne-Rhône-Alpes"
+                  ]
+                },
+                "insee": "84",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/db9ea1a7-cba4-3630-adf4-7913185b647e",
+        "schema:latitude": "45.798112",
+        "schema:longitude": "4.601163",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/4f572885-b390-3a6d-a1e8-b3c8aeff0c58",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "1 Stunde mindestens\r\n- Täglich: auf eigene Faust\r\n- Einmal im Monat: begleitete Besuche (fragen Sie nach dem Programm!)\r\n- Nach Vereinbarung: maßgeschneiderte Besuche für Gruppen oder Entdeckungen in kleiner Runde (2 bis 4 Pers.)"
+            ],
+            "en": [
+              "1 hour minimum\r\n- Daily: self-guided\r\n- Once a month: guided tours (ask for the program!)\r\n- By appointment: tailor-made tours for groups or small groups (2 to 4 people)"
+            ],
+            "it": [
+              "minimo 1 ora\r\n- Tutti i giorni: autoguida\r\n- Una volta al mese: visite guidate (richiedere il programma!)\r\n- Su prenotazione: visite su misura per gruppi o piccoli gruppi (da 2 a 4 persone)"
+            ],
+            "fr": [
+              "1 heure minimum\r\n- Tous les jours : en autonomie \r\n- Une fois par mois : visites accompagnées (demandez le programme !)\r\n- Sur rendez-vous : visites sur mesure pour groupes ou découverte en petit comité (2 à 4 pers.)"
+            ],
+            "nl": [
+              "1 uur minimum\r\n- Elke dag: op eigen gelegenheid\r\n- Eén keer per maand: rondleidingen (vraag naar het programma!)\r\n- Op afspraak: rondleidingen op maat voor groepen of kleine groepen (2 tot 4 personen)"
+            ],
+            "es": [
+              "1 hora mínimo\r\n- Todos los días: autoguiadas\r\n- Una vez al mes: visitas guiadas (solicite el programa)\r\n- Con cita previa: visitas a medida para grupos o grupos reducidos (de 2 a 4 personas)"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/75c8edd6-6010-3cc6-830b-1a1092c4b210",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/84b78905-5547-386d-baa1-9cce2236b8ca",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/db6afd74-3669-361f-9524-0bead8f047e5",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/dd5c3743-c4bc-3353-90dd-0cd5b9665733",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/f510d6a8-60f8-38c8-a7b3-8c1369fbad67",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/7479cce0-3110-30a6-9c12-c1cac0b8d082",
+      "schema:email": [
+        "josiane.rivier@paysdelarbresle.fr",
+        "officedetourisme@paysdelarbresle.fr"
+      ],
+      "schema:legalName": "Office de Tourisme du Pays de l'Arbresle",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.arbresletourisme.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-12-12",
+  "lastUpdateDatatourisme": "2023-12-13T06:41:39.793Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/ae397ddc-1d6a-3b52-a5b7-3d09a63c2255",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/75aa88d5-3b90-3317-8210-8246e7e6b4ab",
+          "schema:maxPrice": [
+            "8"
+          ],
+          "schema:minPrice": [
+            "2"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/31f5d72b-a58c-3b74-a324-625d6ba3a28e",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2024-12-31",
+              "startDate": "2024-01-01"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

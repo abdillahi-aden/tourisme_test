@@ -1,0 +1,461 @@
+{
+  "@id": "https://data.datatourisme.fr/13/aa4f48df-80b9-39ad-9287-2af63855768c",
+  "dc:identifier": "102788",
+  "@type": [
+    "schema:FoodEstablishment",
+    "FoodEstablishment",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Der Chefkoch, ein Feinschmecker, möchte der traditionellen französischen Küche eine persönliche Note verleihen. Er strebt danach, eine warme Atmosphäre für seine Gäste zu schaffen, indem er in seiner neu interpretierten Küche lokale Produkte hervorhebt."
+    ],
+    "en": [
+      "The Chef, a fine gourmet, wants to bring a personal touch to traditional French cuisine. He aims to create a warm ambience for his guests by highlighting local produce in his revisited cuisine."
+    ],
+    "it": [
+      "Lo chef, un raffinato gourmet, vuole dare un tocco personale alla cucina tradizionale francese. Il suo obiettivo è creare un ambiente accogliente per i suoi ospiti, valorizzando i prodotti locali nella sua cucina rivisitata."
+    ],
+    "fr": [
+      "Le Chef, un fin gourmet, souhaite apporter une touche personnelle à la cuisine française traditionnelle. Il aspire à créer une ambiance chaleureuse pour ses convives en mettant en valeur les produits locaux dans sa cuisine revisitée."
+    ],
+    "es": [
+      "El Chef, buen gourmet, quiere aportar un toque personal a la cocina tradicional francesa. Pretende crear un ambiente cálido para sus comensales poniendo de relieve los productos locales en su cocina revisitada."
+    ],
+    "nl": [
+      "De chef, een fijnproever, wil een persoonlijk tintje geven aan de traditionele Franse keuken. Hij wil een warme sfeer creëren voor zijn gasten door de nadruk te leggen op lokale producten in zijn vernieuwde keuken."
+    ]
+  },
+  "rdfs:label": {
+    "de": [
+      "Chez Tipote"
+    ],
+    "ru": [
+      "Chez Tipote"
+    ],
+    "en": [
+      "Chez Tipote"
+    ],
+    "it": [
+      "Chez Tipote"
+    ],
+    "fr": [
+      "Chez Tipote"
+    ],
+    "zh": [
+      "Chez Tipote"
+    ],
+    "nl": [
+      "Chez Tipote"
+    ],
+    "es": [
+      "Chez Tipote"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/45c48cce-2e2d-3fbd-aa1a-fc51c7c6ad26",
+    "dc:identifier": "9",
+    "schema:email": [
+      "apidae@lyon-france.com",
+      "seveillard@lyon-france.com",
+      "vbilly@lyon-france.com"
+    ],
+    "schema:legalName": "Lyon Tourisme et Congrès / ONLYLYON Tourisme",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.lyon-france.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/8a9feb4b-2cbd-3d2c-b507-bd6c6776b23b",
+      "schema:legalName": "Apidae Tourisme Scic SA - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/160f5d30-d50a-3a12-8c4b-3496c4b81be1",
+      "schema:telephone": [
+        "+33 4 81 09 17 03"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/f936a8f8-d9f2-3392-baff-de8473532ffb",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/010b2ced-2d07-387b-9289-a0560c6a011f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/3ef394d9-c801-38a8-b056-f01a0f235e9f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/710667c1-fde9-3625-920d-6bd25c80ff56",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d0232b6e-dd28-37a1-8864-5683973fd81c",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Der Chefkoch, ein Feinschmecker, möchte der traditionellen französischen Küche eine persönliche Note verleihen. Er strebt danach, eine warme Atmosphäre für seine Gäste zu schaffen, indem er in seiner neu interpretierten Küche lokale Produkte hervorhebt."
+        ],
+        "en": [
+          "The Chef, a fine gourmet, wants to bring a personal touch to traditional French cuisine. He aims to create a warm ambience for his guests by highlighting local produce in his revisited cuisine."
+        ],
+        "it": [
+          "Lo chef, un raffinato gourmet, vuole dare un tocco personale alla cucina tradizionale francese. Il suo obiettivo è creare un ambiente accogliente per i suoi ospiti, valorizzando i prodotti locali nella sua cucina rivisitata."
+        ],
+        "fr": [
+          "Le Chef, un fin gourmet, souhaite apporter une touche personnelle à la cuisine française traditionnelle. Il aspire à créer une ambiance chaleureuse pour ses convives en mettant en valeur les produits locaux dans sa cuisine revisitée."
+        ],
+        "es": [
+          "El Chef, buen gourmet, quiere aportar un toque personal a la cocina tradicional francesa. Pretende crear un ambiente cálido para sus comensales poniendo de relieve los productos locales en su cocina revisitada."
+        ],
+        "nl": [
+          "De chef, een fijnproever, wil een persoonlijk tintje geven aan de traditionele Franse keuken. Hij wil een warme sfeer creëren voor zijn gasten door de nadruk te leggen op lokale producten in zijn vernieuwde keuken."
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/1add573a-225b-3f11-ae4f-369a0a5f4677",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/615bde90-5f7d-3f85-80f3-53a1a790916b",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/aac2a472-724e-3f05-b389-8b7eeeb04c8c",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/cc4698f2-af95-32be-920c-2bf9bf134135",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/2a9d0c07-5020-3164-8fbd-5b0ec795453f",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/d6e52a3e-93ac-3eec-8d91-e2217b162d01",
+          "schema:addressLocality": "Lyon 2e Arrondissement",
+          "schema:postalCode": "69002",
+          "schema:streetAddress": [
+            "2 rue des Marronniers"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:69382",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Lyon 2e Arrondissement"
+              ],
+              "pt": [
+                "Lyon 2e Arrondissement"
+              ],
+              "en": [
+                "Lyon 2e Arrondissement"
+              ],
+              "it": [
+                "Lyon 2e Arrondissement"
+              ],
+              "fr": [
+                "Lyon 2e Arrondissement"
+              ],
+              "nl": [
+                "Lyon 2e Arrondissement"
+              ],
+              "es": [
+                "Lyon 2e Arrondissement"
+              ]
+            },
+            "insee": "69382",
+            "isPartOfDepartment": {
+              "@id": "kb:France8469",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Rhône"
+                ],
+                "pt": [
+                  "Rhône"
+                ],
+                "en": [
+                  "Rhône"
+                ],
+                "it": [
+                  "Rhône"
+                ],
+                "fr": [
+                  "Rhône"
+                ],
+                "nl": [
+                  "Rhône"
+                ],
+                "es": [
+                  "Rhône"
+                ]
+              },
+              "insee": "69",
+              "isPartOfRegion": {
+                "@id": "kb:France84",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "pt": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "en": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "it": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "fr": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "nl": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "es": [
+                    "Auvergne-Rhône-Alpes"
+                  ]
+                },
+                "insee": "84",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/69894759-bdeb-35f3-a813-eab0b363c5eb",
+        "schema:latitude": "45.757557",
+        "schema:longitude": "4.834786",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/33848473-e8f7-3b5e-a27f-1813fca76a01",
+      "schema:email": [
+        "apidae@lyon-france.com",
+        "seveillard@lyon-france.com",
+        "vbilly@lyon-france.com"
+      ],
+      "schema:legalName": "Lyon Tourisme et Congrès / ONLYLYON Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.lyon-france.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-09-13",
+  "lastUpdateDatatourisme": "2023-12-23T06:39:46.138Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/87ccfa8e-9197-357a-9393-b2a7fe318cb8",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/fb630eec-b9e4-336d-ad6e-956dfce094d3",
+          "schema:maxPrice": [
+            "11",
+            "12",
+            "24"
+          ],
+          "schema:minPrice": [
+            "11",
+            "12",
+            "18"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/a425afdf-3594-300b-b55e-1858bafa3fd4",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2023-12-31",
+              "startDate": "2023-01-01"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

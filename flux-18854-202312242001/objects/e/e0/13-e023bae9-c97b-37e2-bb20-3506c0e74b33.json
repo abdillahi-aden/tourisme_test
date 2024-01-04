@@ -1,0 +1,553 @@
+{
+  "@id": "https://data.datatourisme.fr/13/e023bae9-c97b-37e2-bb20-3506c0e74b33",
+  "dc:identifier": "145131",
+  "@type": [
+    "schema:FoodEstablishment",
+    "FoodEstablishment",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Das Restaurant le Mont Brouilly lädt Sie ein, an einem freundlichen und gemütlichen Ort einen authentischen Moment rund um eine saisonale Küche und regionale Gerichte zu genießen."
+    ],
+    "en": [
+      "The Mont Brouilly restaurant invites you to enjoy authentic seasonal cuisine and regional dishes in a warm and friendly setting."
+    ],
+    "it": [
+      "Il ristorante Mont Brouilly vi invita a gustare un'autentica cucina stagionale e piatti regionali in un ambiente caldo e accogliente."
+    ],
+    "fr": [
+      "Le restaurant le Mont Brouilly vous invite à savourer, dans un lieu convivial et chaleureux, un moment authentique autour d'une cuisine de saison et de plats régionaux."
+    ],
+    "nl": [
+      "Het Mont Brouilly restaurant nodigt je uit om te genieten van authentieke seizoensgerechten en regionale gerechten in een warme en vriendelijke omgeving."
+    ],
+    "es": [
+      "El restaurante Mont Brouilly le invita a degustar auténtica cocina de temporada y platos regionales en un ambiente cálido y acogedor."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Le Mont Brouilly"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/c20ad4d7-6fe9-3759-aa27-a0c99bff6710",
+    "dc:identifier": "12",
+    "schema:email": [
+      "f.champavere@destination-beaujolais.com",
+      "g.taburiaux@destination-beaujolais.com",
+      "j.capdegelle@destination-beaujolais.com",
+      "t.blanchier@destination-beaujolais.com",
+      "v.guerin@destination-beaujolais.com"
+    ],
+    "schema:legalName": "Destination Beaujolais",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.destination-beaujolais.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/8a9feb4b-2cbd-3d2c-b507-bd6c6776b23b",
+      "schema:legalName": "Apidae Tourisme Scic SA - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/b506ccb3-be8a-37f0-9eee-c9f1a51d68f1",
+      "schema:email": [
+        "contact@hotelbrouilly.com"
+      ],
+      "schema:telephone": [
+        "+33 4 74 04 33 73"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.hotelbrouilly.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/cbd83ec5-8dcc-31cc-977e-88ef6c278409",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/17f4f80f-ec52-3d49-9d55-aaede0501f81",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/3e5e813e-8c03-3c16-85e9-6fd451b2132c",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e2414c8a-83f1-3807-bb81-252acd1b396a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ee852917-df6d-3a28-8d7e-a17095f3a10f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f5ca81a9-db95-3206-a5bb-5c9ac4f8f278",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Das Restaurant le Mont Brouilly lädt Sie ein, an einem freundlichen und gemütlichen Ort einen authentischen Moment rund um eine saisonale Küche und regionale Gerichte zu genießen."
+        ],
+        "en": [
+          "The Mont Brouilly restaurant invites you to enjoy authentic seasonal cuisine and regional dishes in a warm and friendly setting."
+        ],
+        "it": [
+          "Il ristorante Mont Brouilly vi invita a gustare un'autentica cucina stagionale e piatti regionali in un ambiente caldo e accogliente."
+        ],
+        "fr": [
+          "Le restaurant le Mont Brouilly vous invite à savourer, dans un lieu convivial et chaleureux, un moment authentique autour d'une cuisine de saison et de plats régionaux."
+        ],
+        "nl": [
+          "Het Mont Brouilly restaurant nodigt je uit om te genieten van authentieke seizoensgerechten en regionale gerechten in een warme en vriendelijke omgeving."
+        ],
+        "es": [
+          "El restaurante Mont Brouilly le invita a degustar auténtica cocina de temporada y platos regionales en un ambiente cálido y acogedor."
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/2d70670d-2fb1-308d-b039-fc57b7a853ef",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/5fed9d84-7c3d-3390-a42c-11dba4608048",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/65297504-0d4d-39b7-98a1-0c36066102ff",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/aadb97c4-200d-3e1f-b320-ccde0ead0928",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/f6d992c4-2fb8-3ed0-a2e7-45b097ae22af",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/c660ea4b-a9c4-35c0-9ca9-161c65f16297",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/5f681bb6-e5aa-30be-bacb-4c414c1adb14",
+          "schema:addressLocality": "Quincié-en-Beaujolais",
+          "schema:postalCode": "69430",
+          "schema:streetAddress": [
+            "139, impasse des Quatre Mesure"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:69162",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Quincié-en-Beaujolais"
+              ],
+              "pt": [
+                "Quincié-en-Beaujolais"
+              ],
+              "en": [
+                "Quincié-en-Beaujolais"
+              ],
+              "it": [
+                "Quincié-en-Beaujolais"
+              ],
+              "fr": [
+                "Quincié-en-Beaujolais"
+              ],
+              "nl": [
+                "Quincié-en-Beaujolais"
+              ],
+              "es": [
+                "Quincié-en-Beaujolais"
+              ]
+            },
+            "insee": "69162",
+            "isPartOfDepartment": {
+              "@id": "kb:France8469",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Rhône"
+                ],
+                "pt": [
+                  "Rhône"
+                ],
+                "en": [
+                  "Rhône"
+                ],
+                "it": [
+                  "Rhône"
+                ],
+                "fr": [
+                  "Rhône"
+                ],
+                "nl": [
+                  "Rhône"
+                ],
+                "es": [
+                  "Rhône"
+                ]
+              },
+              "insee": "69",
+              "isPartOfRegion": {
+                "@id": "kb:France84",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "pt": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "en": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "it": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "fr": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "nl": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "es": [
+                    "Auvergne-Rhône-Alpes"
+                  ]
+                },
+                "insee": "84",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/dbc76cfb-6055-3b5c-8468-c640c447e1e2",
+        "schema:elevation": "239",
+        "schema:latitude": "46.118011",
+        "schema:longitude": "4.641241",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/5eb91b23-efce-3bdf-a128-c8e303c5efce",
+          "schema:validFrom": "2023-03-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Geöffnet von Dienstag bis Samstag abends und samstags mittags.\r\nSonntag nur für Gruppen nach vorheriger Reservierung."
+            ],
+            "en": [
+              "Open Tuesday to Saturday evenings and Saturday lunchtimes.\r\nSunday only for groups, by reservation."
+            ],
+            "it": [
+              "Aperto dal martedì al sabato sera e il sabato a pranzo.\r\nLa domenica solo per gruppi su prenotazione."
+            ],
+            "fr": [
+              "Ouvert du mardi au samedi soir et le samedi midi.\r\nDimanche uniquement pour les groupes sur réservation."
+            ],
+            "nl": [
+              "Geopend van dinsdag- tot zaterdagavond en zaterdagmiddag.\r\nOp zondag alleen voor groepen op reservering."
+            ],
+            "es": [
+              "Abierto de martes a sábado por la noche y los sábados al mediodía.\r\nDomingos sólo para grupos previa reserva."
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/27a4aca8-7877-3693-9e92-2ba19fe0a82c",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/6335ac13-d508-3dae-9745-8d796cf7bed5",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/670ea600-b9ee-3c27-8dba-20d0bb754570",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/b6d3afe1-1ce4-3682-bd18-ea7d89f45645",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/e69a383e-c3fc-37d5-8a71-14a58429d0da",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/dcdcfd62-5ee6-30e4-b2a5-4e7736aaeabd",
+      "schema:email": [
+        "f.champavere@destination-beaujolais.com",
+        "g.taburiaux@destination-beaujolais.com",
+        "v.guerin@destination-beaujolais.com"
+      ],
+      "schema:legalName": "Destination Beaujolais",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.destination-beaujolais.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-11-02",
+  "lastUpdateDatatourisme": "2023-11-03T06:41:33.608Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/f7653664-2b6b-303b-9770-5aa636cd683d",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/dbf07011-bbe8-3c34-9d22-8627eecc715a",
+          "schema:maxPrice": [
+            "30"
+          ],
+          "schema:minPrice": [
+            "10"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/532fb970-91ab-396e-a5d1-0130ab646d7a",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2023-12-31",
+              "startDate": "2023-03-01"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

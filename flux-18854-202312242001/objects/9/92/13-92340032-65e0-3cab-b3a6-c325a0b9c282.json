@@ -1,0 +1,467 @@
+{
+  "@id": "https://data.datatourisme.fr/13/92340032-65e0-3cab-b3a6-c325a0b9c282",
+  "dc:identifier": "204050",
+  "@type": [
+    "schema:FoodEstablishment",
+    "FoodEstablishment",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Le Bouchon des Cordeliers empfängt Sie in einem authentischen und raffinierten Rahmen. Der Chefkoch bietet Ihnen eine traditionelle Lyoner Küche, die mit frischen Produkten zubereitet wird."
+    ],
+    "en": [
+      "Le Bouchon des Cordeliers welcomes you in an elegant and refined setting. The Chef offers authentic Lyonnaise cuisine, prepared with fresh produce, in a warm and friendly atmosphere."
+    ],
+    "it": [
+      "Le Bouchon des Cordeliers vi accoglie in un ambiente autentico e raffinato. Lo chef propone una cucina lionese tradizionale, preparata con prodotti freschi, in un'atmosfera calda e accogliente."
+    ],
+    "fr": [
+      "Le Bouchon des Cordeliers vous accueille dans un cadre authentique et raffiné. Le Chef vous propose une cuisine lyonnaise traditionnelle, élaborée avec des produits frais, le tout dans une ambiance chaleureuse et conviviale."
+    ],
+    "es": [
+      "Le Bouchon des Cordeliers le da la bienvenida en un marco auténtico y refinado. El Chef le propone una cocina tradicional lionesa, elaborada con productos frescos, en un ambiente cálido y acogedor."
+    ],
+    "nl": [
+      "Le Bouchon des Cordeliers heet u welkom in een authentieke en verfijnde omgeving. De chef biedt traditionele gerechten uit Lyonnais, bereid met verse producten, in een warme en vriendelijke sfeer."
+    ]
+  },
+  "rdfs:label": {
+    "de": [
+      "Bouchon des Cordeliers"
+    ],
+    "ru": [
+      "Le Bouchon des Cordeliers"
+    ],
+    "en": [
+      "Bouchon des Cordeliers"
+    ],
+    "it": [
+      "Bouchon des Cordeliers"
+    ],
+    "fr": [
+      "Bouchon des Cordeliers"
+    ],
+    "zh": [
+      "Le Bouchon des Cordeliers"
+    ],
+    "nl": [
+      "Bouchon des Cordeliers"
+    ],
+    "es": [
+      "Bouchon des Cordeliers"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/45c48cce-2e2d-3fbd-aa1a-fc51c7c6ad26",
+    "dc:identifier": "9",
+    "schema:email": [
+      "apidae@lyon-france.com",
+      "seveillard@lyon-france.com",
+      "vbilly@lyon-france.com"
+    ],
+    "schema:legalName": "Lyon Tourisme et Congrès / ONLYLYON Tourisme",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.lyon-france.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/8a9feb4b-2cbd-3d2c-b507-bd6c6776b23b",
+      "schema:legalName": "Apidae Tourisme Scic SA - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/6cc25741-549b-33f6-bc5c-59f1698def58",
+      "schema:email": [
+        "contact@bouchondescordeliers.com"
+      ],
+      "schema:telephone": [
+        "+33 4 78 03 33 53"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.bouchondescordeliers.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/fabad6de-54b8-3754-9bb7-fe2854f877db",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/3eed27f0-752e-3822-b04b-9658c71e50e4",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a02e3b89-0e19-306e-8c9d-ab3f6203c7f1",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c1d2237f-4f58-3854-9e89-9143636f83de",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d4b98b94-710b-3fb9-842f-793d3fae91c3",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Le Bouchon des Cordeliers empfängt Sie in einem authentischen und raffinierten Rahmen. Der Chefkoch bietet Ihnen eine traditionelle Lyoner Küche, die mit frischen Produkten zubereitet wird."
+        ],
+        "en": [
+          "Le Bouchon des Cordeliers welcomes you in an elegant and refined setting. The Chef offers authentic Lyonnaise cuisine, prepared with fresh produce, in a warm and friendly atmosphere."
+        ],
+        "it": [
+          "Le Bouchon des Cordeliers vi accoglie in un ambiente autentico e raffinato. Lo chef propone una cucina lionese tradizionale, preparata con prodotti freschi, in un'atmosfera calda e accogliente."
+        ],
+        "fr": [
+          "Le Bouchon des Cordeliers vous accueille dans un cadre authentique et raffiné. Le Chef vous propose une cuisine lyonnaise traditionnelle, élaborée avec des produits frais, le tout dans une ambiance chaleureuse et conviviale."
+        ],
+        "es": [
+          "Le Bouchon des Cordeliers le da la bienvenida en un marco auténtico y refinado. El Chef le propone una cocina tradicional lionesa, elaborada con productos frescos, en un ambiente cálido y acogedor."
+        ],
+        "nl": [
+          "Le Bouchon des Cordeliers heet u welkom in een authentieke en verfijnde omgeving. De chef biedt traditionele gerechten uit Lyonnais, bereid met verse producten, in een warme en vriendelijke sfeer."
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/32c64b77-1dd2-31b9-b0d6-7c25e797bf49",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/3842d4c1-5ef6-3dca-b784-11fe5a3093af",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/58e8ac25-2059-354d-9c22-11df96af6e7a",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/a6327c7b-d51a-3755-be08-4984ab2d3cea",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/263f7460-bfe7-3c0a-9a4f-ec4ba7527d8b",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/a6d579dc-edb5-3870-a1d3-79144e707858",
+          "schema:addressLocality": "Lyon 2e Arrondissement",
+          "schema:postalCode": "69002",
+          "schema:streetAddress": [
+            "15 rue Claudia"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:69382",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Lyon 2e Arrondissement"
+              ],
+              "pt": [
+                "Lyon 2e Arrondissement"
+              ],
+              "en": [
+                "Lyon 2e Arrondissement"
+              ],
+              "it": [
+                "Lyon 2e Arrondissement"
+              ],
+              "fr": [
+                "Lyon 2e Arrondissement"
+              ],
+              "nl": [
+                "Lyon 2e Arrondissement"
+              ],
+              "es": [
+                "Lyon 2e Arrondissement"
+              ]
+            },
+            "insee": "69382",
+            "isPartOfDepartment": {
+              "@id": "kb:France8469",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Rhône"
+                ],
+                "pt": [
+                  "Rhône"
+                ],
+                "en": [
+                  "Rhône"
+                ],
+                "it": [
+                  "Rhône"
+                ],
+                "fr": [
+                  "Rhône"
+                ],
+                "nl": [
+                  "Rhône"
+                ],
+                "es": [
+                  "Rhône"
+                ]
+              },
+              "insee": "69",
+              "isPartOfRegion": {
+                "@id": "kb:France84",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "pt": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "en": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "it": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "fr": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "nl": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "es": [
+                    "Auvergne-Rhône-Alpes"
+                  ]
+                },
+                "insee": "84",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/c584791a-ac1c-39fe-a757-4db64da0c455",
+        "schema:latitude": "45.764195",
+        "schema:longitude": "4.837634",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/33848473-e8f7-3b5e-a27f-1813fca76a01",
+      "schema:email": [
+        "apidae@lyon-france.com",
+        "seveillard@lyon-france.com",
+        "vbilly@lyon-france.com"
+      ],
+      "schema:legalName": "Lyon Tourisme et Congrès / ONLYLYON Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.lyon-france.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-12-13",
+  "lastUpdateDatatourisme": "2023-12-23T06:39:46.256Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/9124519f-ce55-3f54-9813-07a75ed23aa1",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/25f96e2b-fd11-3a75-aabc-73c729a43e5a",
+          "schema:maxPrice": [
+            "14",
+            "25",
+            "32"
+          ],
+          "schema:minPrice": [
+            "14",
+            "25",
+            "32"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/a94125bb-9faa-3784-8f75-5560b6e04a1a",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2024-12-31",
+              "startDate": "2023-01-01"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,478 @@
+{
+  "@id": "https://data.datatourisme.fr/13/6ec29621-cb9f-3017-b097-bc3837330eb3",
+  "dc:identifier": "253644",
+  "@type": [
+    "schema:Accommodation",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "CollectiveAccommodation",
+    "GroupLodging",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "StopOverOrGroupLodge"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "In einer außergewöhnlich grünen, ruhigen und erholsamen Umgebung, 2 km vom Lac des Sapins entfernt, empfangen Sie Françoise und Thierry in ihrem Ferienhaus für 15 Personen, das an ihr Wohnhaus angrenzt. Ehemaliger Bauernhof aus Stein, vollständig renoviert."
+    ],
+    "en": [
+      "Françoise and Thierry welcome you to a group gîte, adjoining their home, in peaceful, leafy setting 2km from the Lac des Sapins. Accommodation for 15 people. Old stone farmhouse, totally renovated with local natural materials, wood-fired boiler, solar panels, rainwater recycling. You are sure to love the character of this building (exposed stone walls, beams, wood panelling, bright and cheerful colours) and its modern comforts. Ground floor: very large living room, fully fitted kitchen, WC, bedroom (2 single beds, 2 bunk), bedroom with disabled access (160x200cm bed, single bed). 1st floor: open mezzanine above living room, 2 bedrooms (3 single beds) (double bed, 3 single beds in enclosed area). All bedrooms have en-suite facilities (shower, washbasin, WC). Outdoors: wooden deck reserved for occupants of gîte, garden furniture, lawned area overlooking the meadow where Sidonie, Doucette and Petrouchka graze. If desired, the owners will allow you to take these she-donkeys with you when you explore the leafy Beaujolais footpaths. Groups welcome: 45 sq. m. activity room (seminars, courses, etc.). Weekend package rate: 350€ (1 night), 500€ (2 nights), 630€ (3 nights). Weekly rate: 1,250€. Bed linen hire: 5€."
+    ],
+    "it": [
+      "Françoise e Thierry vi danno il benvenuto nel loro gîte per 15 persone, adiacente alla loro casa, in un ambiente eccezionalmente tranquillo e verde a 2 km dal Lac des Sapins. Questo antico casale in pietra è stato completamente ristrutturato."
+    ],
+    "fr": [
+      "Dans un cadre exceptionnel de verdure et de calme, reposant, à 2 km du Lac des Sapins, Françoise et Thierry vous accueillent dans leur gîte de 15 pers., mitoyen à leur habitation. Ancienne ferme en pierres, entièrement rénovée."
+    ],
+    "es": [
+      "Françoise y Thierry le dan la bienvenida a su casa rural para 15 personas, contigua a su casa, en un entorno excepcionalmente tranquilo y verde a 2 km del Lac des Sapins. Esta antigua granja de piedra ha sido completamente renovada."
+    ],
+    "nl": [
+      "Françoise en Thierry heten je welkom in hun 15-persoons gîte, aangrenzend aan hun huis, in een uitzonderlijk rustige, groene omgeving op 2 km van het Lac des Sapins. Deze oude stenen boerderij is volledig gerenoveerd."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Gîte Cubliz'ânes"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/1c9ac015-9c94-38d0-8bed-c973445af2da",
+    "dc:identifier": "156",
+    "schema:email": [
+      "c.berthelier@gites-de-france-rhone.com"
+    ],
+    "schema:legalName": "Gîtes de France Rhône",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.gites-de-france-rhone.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/8a9feb4b-2cbd-3d2c-b507-bd6c6776b23b",
+      "schema:legalName": "Apidae Tourisme Scic SA - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/3b1a27da-4851-367c-9b30-aaf9ba3ade65",
+      "schema:email": [
+        "info@cublizanes.fr"
+      ],
+      "schema:telephone": [
+        "+33 4 74 05 09 02",
+        "+33 6 32 18 39 41"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.cublizanes.fr/",
+        "http://www.gites-de-france-rhone.com/fiche-hebergement-3074.html"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/4b814467-7015-3027-b22c-98e50df64804",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/4273b20d-0427-3f41-b6bc-4afe73e05a6e",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b7468979-64c0-39da-a9f1-5d329be31fdc",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/dde8ae76-431f-3879-9fc2-cd5ea0798807",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ef0e6a91-0646-3b47-812e-2f5c08546352",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "In einer außergewöhnlich grünen, ruhigen und erholsamen Umgebung, 2 km vom Lac des Sapins entfernt, empfangen Sie Françoise und Thierry in ihrem Ferienhaus für 15 Personen, das an ihr Wohnhaus angrenzt. Ehemaliger Bauernhof aus Stein, vollständig renoviert."
+        ],
+        "en": [
+          "Françoise and Thierry welcome you to a group gîte, adjoining their home, in peaceful, leafy setting 2km from the Lac des Sapins. Accommodation for 15 people. Old stone farmhouse, totally renovated with local natural materials, wood-fired boiler, solar panels, rainwater recycling. You are sure to love the character of this building (exposed stone walls, beams, wood panelling, bright and cheerful colours) and its modern comforts. Ground floor: very large living room, fully fitted kitchen, WC, bedroom (2 single beds, 2 bunk), bedroom with disabled access (160x200cm bed, single bed). 1st floor: open mezzanine above living room, 2 bedrooms (3 single beds) (double bed, 3 single beds in enclosed area). All bedrooms have en-suite facilities (shower, washbasin, WC). Outdoors: wooden deck reserved for occupants of gîte, garden furniture, lawned area overlooking the meadow where Sidonie, Doucette and Petrouchka graze. If desired, the owners will allow you to take these she-donkeys with you when you explore the leafy Beaujolais footpaths. Groups welcome: 45 sq. m. activity room (seminars, courses, etc.). Weekend package rate: 350€ (1 night), 500€ (2 nights), 630€ (3 nights). Weekly rate: 1,250€. Bed linen hire: 5€."
+        ],
+        "it": [
+          "Françoise e Thierry vi danno il benvenuto nel loro gîte per 15 persone, adiacente alla loro casa, in un ambiente eccezionalmente tranquillo e verde a 2 km dal Lac des Sapins. Questo antico casale in pietra è stato completamente ristrutturato."
+        ],
+        "fr": [
+          "Dans un cadre exceptionnel de verdure et de calme, reposant, à 2 km du Lac des Sapins, Françoise et Thierry vous accueillent dans leur gîte de 15 pers., mitoyen à leur habitation. Ancienne ferme en pierres, entièrement rénovée."
+        ],
+        "es": [
+          "Françoise y Thierry le dan la bienvenida a su casa rural para 15 personas, contigua a su casa, en un entorno excepcionalmente tranquilo y verde a 2 km del Lac des Sapins. Esta antigua granja de piedra ha sido completamente renovada."
+        ],
+        "nl": [
+          "Françoise en Thierry heten je welkom in hun 15-persoons gîte, aangrenzend aan hun huis, in een uitzonderlijk rustige, groene omgeving op 2 km van het Lac des Sapins. Deze oude stenen boerderij is volledig gerenoveerd."
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/1ef820cf-209e-3b23-a6f2-cf549dffe789",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/2e594883-210d-386e-bb38-f8300642397f",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/6ac16974-6645-3475-9985-7e9d077f2cb0",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/6b33f8df-1302-36dd-8c06-6f5a02ac3897",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/3dd455fb-5344-37ba-9caa-56a4bc86836d",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/008d4c86-2658-3f78-b3be-60eb9ee12fdf",
+          "schema:addressLocality": "Cublize",
+          "schema:postalCode": "69550",
+          "schema:streetAddress": [
+            "123 Impasse des Abeilles",
+            "Le Nizerol"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:69070",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Cublize"
+              ],
+              "pt": [
+                "Cublize"
+              ],
+              "en": [
+                "Cublize"
+              ],
+              "it": [
+                "Cublize"
+              ],
+              "fr": [
+                "Cublize"
+              ],
+              "nl": [
+                "Cublize"
+              ],
+              "es": [
+                "Cublize"
+              ]
+            },
+            "insee": "69070",
+            "isPartOfDepartment": {
+              "@id": "kb:France8469",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Rhône"
+                ],
+                "pt": [
+                  "Rhône"
+                ],
+                "en": [
+                  "Rhône"
+                ],
+                "it": [
+                  "Rhône"
+                ],
+                "fr": [
+                  "Rhône"
+                ],
+                "nl": [
+                  "Rhône"
+                ],
+                "es": [
+                  "Rhône"
+                ]
+              },
+              "insee": "69",
+              "isPartOfRegion": {
+                "@id": "kb:France84",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "pt": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "en": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "it": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "fr": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "nl": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "es": [
+                    "Auvergne-Rhône-Alpes"
+                  ]
+                },
+                "insee": "84",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/b80324a2-f36f-3260-83a6-84374e60b007",
+        "schema:elevation": "550",
+        "schema:latitude": "46.023724",
+        "schema:longitude": "4.35971",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/5164796f-2543-3003-9ae1-f96a6779a071",
+          "schema:validFrom": "2023-01-07T00:00:00",
+          "schema:validThrough": "2023-01-05T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/24f62cd1-53e9-3bd6-ba70-6d83e5deb4f3",
+      "schema:email": [
+        "c.berthelier@gites-de-france-rhone.com"
+      ],
+      "schema:legalName": "Gîtes de France Rhône",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.gites-de-france-rhone.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-11-01",
+  "lastUpdateDatatourisme": "2023-12-23T06:39:46.144Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/dbb1fb01-e3e4-335d-82b0-1ea0e34c56e7",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/c8ee7a5e-dd2d-388e-a511-1fd4e1a9238e",
+          "schema:maxPrice": [
+            "1450",
+            "35",
+            "600"
+          ],
+          "schema:minPrice": [
+            "1150",
+            "35",
+            "560"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/b1cf3ae7-cfbf-3a99-b307-3aaf93fb3127",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2024-01-05",
+              "startDate": "2023-01-07"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f77c0c95-f0df-3d8d-843c-184de1c5b74b",
+          "schema:maxPrice": [
+            "1430",
+            "35",
+            "600"
+          ],
+          "schema:minPrice": [
+            "1180",
+            "35",
+            "580"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/094d070d-86d4-3567-811e-c25c1582bba6",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2025-01-03",
+              "startDate": "2024-01-06"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

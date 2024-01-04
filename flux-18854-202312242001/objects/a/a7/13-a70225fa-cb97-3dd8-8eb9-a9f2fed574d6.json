@@ -1,0 +1,470 @@
+{
+  "@id": "https://data.datatourisme.fr/13/a70225fa-cb97-3dd8-8eb9-a9f2fed574d6",
+  "dc:identifier": "4789875",
+  "@type": [
+    "schema:FoodEstablishment",
+    "FoodEstablishment",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Die Auberge des Canuts, ein authentischer Bouchon Lyonnais, empfängt Sie täglich von 12.00 bis 22.00 Uhr im Vieux-Lyon. Entdecken Sie den Service, die Einrichtung und die traditionelle Küche im historischen Viertel von Lyon."
+    ],
+    "en": [
+      "L’ Auberge des Canuts, an authentic Lyonnais restaurant, welcomes you every day from 12 PM to 10 PM in the Vieux-Lyon (Old Lyon) district. Discover a service, decor, and traditional cuisine in the historical neighborhood of Lyon."
+    ],
+    "it": [
+      "L'auberge des canuts, un autentico bouchon lionese, vi accoglie tutti i giorni dalle 12.00 alle 22.00 nella Vieux-Lyon. Scoprite il servizio, l'arredamento e la cucina tradizionali nel quartiere storico di Lione."
+    ],
+    "fr": [
+      "L’auberge des canuts, authentique bouchon lyonnais, vous accueille tous les jours de 12h à 22h dans le Vieux-Lyon. Découvrez un service, un décor et une cuisine traditionnelle dans le quartier historique de Lyon."
+    ],
+    "es": [
+      "L'auberge des canuts, un auténtico bouchon lionés, le da la bienvenida todos los días de 12:00 a 22:00 en Vieux-Lyon. Descubra el servicio, la decoración y la cocina tradicionales en el barrio histórico de Lyon."
+    ],
+    "nl": [
+      "L'auberge des canuts, een authentieke Lyonnais bouchon, verwelkomt u elke dag van 12 tot 22 uur in Vieux-Lyon. Ontdek de traditionele service, inrichting en keuken in de historische wijk van Lyon."
+    ]
+  },
+  "rdfs:label": {
+    "de": [
+      "L'Auberge des Canuts"
+    ],
+    "ru": [
+      "L'Auberge des Canuts"
+    ],
+    "en": [
+      "L'Auberge des Canuts"
+    ],
+    "it": [
+      "L'Auberge des Canuts"
+    ],
+    "fr": [
+      "L'Auberge des Canuts"
+    ],
+    "zh": [
+      "L'Auberge des Canuts"
+    ],
+    "nl": [
+      "L'Auberge des Canuts"
+    ],
+    "es": [
+      "L'Auberge des Canuts"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/45c48cce-2e2d-3fbd-aa1a-fc51c7c6ad26",
+    "dc:identifier": "9",
+    "schema:email": [
+      "apidae@lyon-france.com",
+      "seveillard@lyon-france.com",
+      "vbilly@lyon-france.com"
+    ],
+    "schema:legalName": "Lyon Tourisme et Congrès / ONLYLYON Tourisme",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.lyon-france.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/8a9feb4b-2cbd-3d2c-b507-bd6c6776b23b",
+      "schema:legalName": "Apidae Tourisme Scic SA - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/50bfd46d-e915-3ec3-b46e-973995700a03",
+      "schema:email": [
+        "aubergedescanuts@gmail.com"
+      ],
+      "schema:telephone": [
+        "+33 7 70 68 09 49",
+        "+33 9 86 50 89 66"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.auberge-des-canuts.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/fdf34226-50f4-38d3-9d71-d25eadb81c30",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/033e8948-e07d-3072-85b0-bbaf5bed04b6",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/674b199f-5398-3ddc-9175-83a3a2af7a8c",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c8b0a6ee-ab02-32e3-9974-e50e1d9d6900",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e36d3309-d59d-34da-b7e2-d20507073c2f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Die Auberge des Canuts, ein authentischer Bouchon Lyonnais, empfängt Sie täglich von 12.00 bis 22.00 Uhr im Vieux-Lyon. Entdecken Sie den Service, die Einrichtung und die traditionelle Küche im historischen Viertel von Lyon."
+        ],
+        "en": [
+          "L’ Auberge des Canuts, an authentic Lyonnais restaurant, welcomes you every day from 12 PM to 10 PM in the Vieux-Lyon (Old Lyon) district. Discover a service, decor, and traditional cuisine in the historical neighborhood of Lyon."
+        ],
+        "it": [
+          "L'auberge des canuts, un autentico bouchon lionese, vi accoglie tutti i giorni dalle 12.00 alle 22.00 nella Vieux-Lyon. Scoprite il servizio, l'arredamento e la cucina tradizionali nel quartiere storico di Lione."
+        ],
+        "fr": [
+          "L’auberge des canuts, authentique bouchon lyonnais, vous accueille tous les jours de 12h à 22h dans le Vieux-Lyon. Découvrez un service, un décor et une cuisine traditionnelle dans le quartier historique de Lyon."
+        ],
+        "es": [
+          "L'auberge des canuts, un auténtico bouchon lionés, le da la bienvenida todos los días de 12:00 a 22:00 en Vieux-Lyon. Descubra el servicio, la decoración y la cocina tradicionales en el barrio histórico de Lyon."
+        ],
+        "nl": [
+          "L'auberge des canuts, een authentieke Lyonnais bouchon, verwelkomt u elke dag van 12 tot 22 uur in Vieux-Lyon. Ontdek de traditionele service, inrichting en keuken in de historische wijk van Lyon."
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/2a45abeb-73b2-3c1f-a52c-e6d7ccd55ba9",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/41011843-0638-3e40-9205-936d8f415cb1",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/6bdca6d3-abd3-318a-ae9c-c02448451b3c",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/8a0086ab-c96f-3659-88bc-e89bd2aa3284",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/af9d1b08-e460-399d-a900-9655b7323097",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/15e10889-0ef9-33c9-9bfa-9ae3995b7168",
+          "schema:addressLocality": "Lyon 5e Arrondissement",
+          "schema:postalCode": "69005",
+          "schema:streetAddress": [
+            "8 place Saint-Jean"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:69385",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Lyon 5e Arrondissement"
+              ],
+              "pt": [
+                "Lyon 5e Arrondissement"
+              ],
+              "en": [
+                "Lyon 5e Arrondissement"
+              ],
+              "it": [
+                "Lyon 5e Arrondissement"
+              ],
+              "fr": [
+                "Lyon 5e Arrondissement"
+              ],
+              "nl": [
+                "Lyon 5e Arrondissement"
+              ],
+              "es": [
+                "Lyon 5e Arrondissement"
+              ]
+            },
+            "insee": "69385",
+            "isPartOfDepartment": {
+              "@id": "kb:France8469",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Rhône"
+                ],
+                "pt": [
+                  "Rhône"
+                ],
+                "en": [
+                  "Rhône"
+                ],
+                "it": [
+                  "Rhône"
+                ],
+                "fr": [
+                  "Rhône"
+                ],
+                "nl": [
+                  "Rhône"
+                ],
+                "es": [
+                  "Rhône"
+                ]
+              },
+              "insee": "69",
+              "isPartOfRegion": {
+                "@id": "kb:France84",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "pt": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "en": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "it": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "fr": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "nl": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "es": [
+                    "Auvergne-Rhône-Alpes"
+                  ]
+                },
+                "insee": "84",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/afa81de9-fff7-3f7a-acaf-831a046bbc5d",
+        "schema:latitude": "45.761189",
+        "schema:longitude": "4.826646",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/33848473-e8f7-3b5e-a27f-1813fca76a01",
+      "schema:email": [
+        "apidae@lyon-france.com",
+        "seveillard@lyon-france.com",
+        "vbilly@lyon-france.com"
+      ],
+      "schema:legalName": "Lyon Tourisme et Congrès / ONLYLYON Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.lyon-france.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-10-10",
+  "lastUpdateDatatourisme": "2023-12-23T06:39:46.274Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/13cf4e2e-1132-3fbf-a143-1265a7e0ea03",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/b507bd50-2833-3c34-9c04-ead4616787d3",
+          "schema:maxPrice": [
+            "13",
+            "27",
+            "35",
+            "39"
+          ],
+          "schema:minPrice": [
+            "13",
+            "18",
+            "27",
+            "29"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/a425afdf-3594-300b-b55e-1858bafa3fd4",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2023-12-31",
+              "startDate": "2023-01-01"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

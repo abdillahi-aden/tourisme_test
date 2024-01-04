@@ -1,0 +1,469 @@
+{
+  "@id": "https://data.datatourisme.fr/13/8fef7cc4-f28b-3466-8eb0-4b0748bd67cf",
+  "dc:identifier": "5292229",
+  "@type": [
+    "schema:Accommodation",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RentalAccommodation",
+    "SelfCateringAccommodation"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "L'Etalon Blanc ist ein unabhängiges Studio mit privatem Zugang. Sie haben eine Terrasse mit Gartenmöbeln. Innerhalb dieses idyllischen Anwesens ist ein gemeinsames Schwimmbad zugänglich."
+    ],
+    "en": [
+      "L'Etalon Blanc is an independent studio with private access. You will have a terrace with its garden furniture. Within this bucolic property, a common swimming pool is accessible."
+    ],
+    "it": [
+      "Venite a godervi la campagna, vicino a Vienne, Condrieu e Ampuis."
+    ],
+    "fr": [
+      "Venez passer un bon moment à la campagne, à proximité de Vienne, Condrieu et Ampuis."
+    ],
+    "es": [
+      "Venga a disfrutar del campo, cerca de Vienne, Condrieu y Ampuis."
+    ],
+    "nl": [
+      "Kom genieten van het platteland, vlakbij Vienne, Condrieu en Ampuis."
+    ]
+  },
+  "rdfs:label": {
+    "de": [
+      "Gîte l'Étalon Blanc"
+    ],
+    "en": [
+      "Gîte l'Étalon Blanc"
+    ],
+    "fr": [
+      "Gîte l'Étalon Blanc"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/38b3eff8-baf5-3627-878e-c76a704e9b52",
+    "dc:identifier": "101",
+    "schema:email": [
+      "ajouvenaud@vienne-condrieu.com",
+      "mdubus@vienne-condrieu.com"
+    ],
+    "schema:legalName": "Office de Tourisme de Vienne Condrieu Agglomération",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.vienne-condrieu.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/8a9feb4b-2cbd-3d2c-b507-bd6c6776b23b",
+      "schema:legalName": "Apidae Tourisme Scic SA - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/2b595c40-e5bc-3918-b76c-fef32429e5cf",
+      "schema:email": [
+        "daniele.scafi@sfr.fr"
+      ],
+      "schema:telephone": [
+        "+33 4 74 87 54 59",
+        "+33 6 61 54 00 27"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/8c6ca045-863e-3b5f-8363-54e0a7f1527d",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/408e38a1-f190-3ed9-be1f-5e968190d5f6",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/446f2cff-0972-3a1e-a8f1-88e6cf9681e6",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/7d1ca11c-a1c3-3a42-96d6-2d14bfa3a512",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "L'Etalon Blanc ist ein unabhängiges Studio mit privatem Zugang. Sie haben eine Terrasse mit Gartenmöbeln. Innerhalb dieses idyllischen Anwesens ist ein gemeinsames Schwimmbad zugänglich."
+        ],
+        "en": [
+          "L'Etalon Blanc is an independent studio with private access. You will have a terrace with its garden furniture. Within this bucolic property, a common swimming pool is accessible."
+        ],
+        "it": [
+          "Venite a godervi la campagna, vicino a Vienne, Condrieu e Ampuis."
+        ],
+        "fr": [
+          "Venez passer un bon moment à la campagne, à proximité de Vienne, Condrieu et Ampuis."
+        ],
+        "es": [
+          "Venga a disfrutar del campo, cerca de Vienne, Condrieu y Ampuis."
+        ],
+        "nl": [
+          "Kom genieten van het platteland, vlakbij Vienne, Condrieu en Ampuis."
+        ]
+      }
+    }
+  ],
+  "hasReview": [
+    {
+      "@id": "https://data.datatourisme.fr/55b939bd-a411-3618-8f73-77921a0e60a6",
+      "@type": [
+        "Review"
+      ],
+      "hasReviewValue": {
+        "@id": "kb:ScaleRating_2etoiles",
+        "schema:ratingValue": "2.0",
+        "@type": [
+          "ScaleRating"
+        ],
+        "rdfs:label": {
+          "de": [
+            "2 Sterne"
+          ],
+          "pt": [
+            "2 estrelas"
+          ],
+          "en": [
+            "2 Stars"
+          ],
+          "it": [
+            "2 stelle"
+          ],
+          "fr": [
+            "2 étoiles"
+          ],
+          "nl": [
+            "2 sterren"
+          ],
+          "es": [
+            "2 estrellas"
+          ]
+        },
+        "isCompliantWith": [
+          "CampingAndCaravanning",
+          "ClubOrHolidayVillage",
+          "HolidayCentre",
+          "Hotel",
+          "SelfCateringAccommodation"
+        ]
+      }
+    },
+    {
+      "@id": "https://data.datatourisme.fr/6e866798-cae5-351c-9e8d-963661217e60",
+      "@type": [
+        "Review"
+      ],
+      "hasReviewValue": {
+        "@id": "kb:LabelRating_AccueilVelo",
+        "@type": [
+          "LabelRating"
+        ],
+        "rdfs:label": {
+          "de": [
+            "Accueil Vélo"
+          ],
+          "pt": [
+            "Accueil Vélo"
+          ],
+          "en": [
+            "Accueil Vélo"
+          ],
+          "it": [
+            "Accueil Vélo"
+          ],
+          "fr": [
+            "Accueil Vélo"
+          ],
+          "nl": [
+            "Accueil Vélo"
+          ],
+          "es": [
+            "Accueil Vélo"
+          ]
+        },
+        "isCompliantWith": [
+          "PlaceOfInterest"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/28e2e2f2-73cf-3809-a43b-2f08e8c4cfa2",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/6f3692cd-425d-3cd0-969d-38d61161fcdd",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/e3c82e58-727b-345e-b9d8-2b8637fb189d",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/31313def-cc73-38de-ad22-99be89e112f1",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/e1edffdf-2852-385c-9b43-1aeda9257e70",
+          "schema:addressLocality": "Tupin-et-Semons",
+          "schema:postalCode": "69420",
+          "schema:streetAddress": [
+            "1800 Route des Haies"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:69253",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Tupin-et-Semons"
+              ],
+              "pt": [
+                "Tupin-et-Semons"
+              ],
+              "en": [
+                "Tupin-et-Semons"
+              ],
+              "it": [
+                "Tupin-et-Semons"
+              ],
+              "fr": [
+                "Tupin-et-Semons"
+              ],
+              "nl": [
+                "Tupin-et-Semons"
+              ],
+              "es": [
+                "Tupin-et-Semons"
+              ]
+            },
+            "insee": "69253",
+            "isPartOfDepartment": {
+              "@id": "kb:France8469",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Rhône"
+                ],
+                "pt": [
+                  "Rhône"
+                ],
+                "en": [
+                  "Rhône"
+                ],
+                "it": [
+                  "Rhône"
+                ],
+                "fr": [
+                  "Rhône"
+                ],
+                "nl": [
+                  "Rhône"
+                ],
+                "es": [
+                  "Rhône"
+                ]
+              },
+              "insee": "69",
+              "isPartOfRegion": {
+                "@id": "kb:France84",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "pt": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "en": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "it": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "fr": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "nl": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "es": [
+                    "Auvergne-Rhône-Alpes"
+                  ]
+                },
+                "insee": "84",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/dc3c4d82-b676-3279-937a-d02ad829a139",
+        "schema:latitude": "45.490735",
+        "schema:longitude": "4.770036",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/77a7285f-3a2a-3e0f-86fd-f1b14ecb328f",
+      "schema:email": [
+        "ajouvenaud@vienne-condrieu.com",
+        "mdubus@vienne-condrieu.com"
+      ],
+      "schema:legalName": "Office de Tourisme de Vienne Condrieu Agglomération",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.vienne-condrieu.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-06-28",
+  "lastUpdateDatatourisme": "2023-10-27T05:50:20.864Z"
+}

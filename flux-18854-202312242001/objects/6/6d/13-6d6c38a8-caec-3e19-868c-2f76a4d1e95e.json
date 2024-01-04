@@ -1,0 +1,467 @@
+{
+  "@id": "https://data.datatourisme.fr/13/6d6c38a8-caec-3e19-868c-2f76a4d1e95e",
+  "dc:identifier": "781796",
+  "@type": [
+    "schema:FoodEstablishment",
+    "FoodEstablishment",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "\"Philippe Bellan\", ein Schöpfer von Tafelfreuden, überrascht Ihre Geschmacksknospen und lässt Sie durch eine originelle und farbenfrohe Küche, die mit frischen lokalen Produkten zubereitet wird, reisen. Wenn Sie sich von seiner Küche inspirieren lassen, finden Sie seine Kreationen in seiner Käserei wieder"
+    ],
+    "en": [
+      "\"Philippe Bellan\", creator of the pleasures of the table, will surprise your taste buds and take you on a journey through original, colorful cuisine prepared with fresh local produce. If his cuisine inspires you, you'll find his creations in his cheese shop"
+    ],
+    "it": [
+      "\"Philippe Bellan, creatore dei piaceri della tavola, sorprenderà le vostre papille gustative e vi porterà in viaggio con la sua cucina originale e colorata, preparata con prodotti freschi locali. Se la sua cucina vi ispira, potete trovare le sue creazioni nel suo negozio di formaggi"
+    ],
+    "fr": [
+      "\"Philippe Bellan\", créateur des plaisirs de la table surprend vos papilles et vous fait voyager à travers une cuisine originale et colorée préparée avec des produits frais locaux. Si sa cuisine vous inspire, retrouverez ses créations  dans sa fromagerie"
+    ],
+    "nl": [
+      "\"Philippe Bellan, schepper van de geneugten van de tafel, zal je smaakpapillen verrassen en je meenemen op reis met zijn originele en kleurrijke keuken bereid met verse lokale producten. Als zijn keuken je inspireert, kun je zijn creaties vinden in zijn kaaswinkel"
+    ],
+    "es": [
+      "\"Philippe Bellan, creador de los placeres de la mesa, sorprenderá a sus papilas gustativas y le hará viajar con su cocina original y colorista elaborada con productos frescos de la tierra. Si su cocina le inspira, podrá encontrar sus creaciones en su quesería"
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "The Popote, Restaurant Fromagerie Épicerie"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/98f13708-2101-34c4-b568-7be6106a3b84",
+    "dc:identifier": "20",
+    "schema:email": [
+      "accueil@beaujolaisvert.com",
+      "amandine.duvernay@beaujolaisvert.com",
+      "sarah.gianone@c-or.fr"
+    ],
+    "schema:legalName": "Office de Tourisme du Beaujolais Vert - Lac des sapins",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.beaujolaisvert.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/8a9feb4b-2cbd-3d2c-b507-bd6c6776b23b",
+      "schema:legalName": "Apidae Tourisme Scic SA - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/4b1780c2-11e4-3d0c-9814-34fcbc0f6d24",
+      "schema:email": [
+        "chef@thepopote.com"
+      ],
+      "schema:telephone": [
+        "+33 4 74 63 41 61",
+        "+33 6 78 53 59 85"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.thepopote.com/",
+        "https://www.thepopote-eboutique.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/3b4e232c-48bf-3d20-ac42-da162de9af68",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/0dfdfc79-c5ad-3c26-adac-5d5290e393ca",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/3b8367f3-65cb-373d-b803-c6c447c66bca",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/4f1b7c50-b059-32f6-a94f-8da155db3b4e",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/6951704c-2956-3145-b68d-65a34dc05ad0",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/9b7807ce-058d-3011-bd2a-8276656f5259",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "\"Philippe Bellan\", ein Schöpfer von Tafelfreuden, überrascht Ihre Geschmacksknospen und lässt Sie durch eine originelle und farbenfrohe Küche, die mit frischen lokalen Produkten zubereitet wird, reisen. Wenn Sie sich von seiner Küche inspirieren lassen, finden Sie seine Kreationen in seiner Käserei wieder"
+        ],
+        "en": [
+          "\"Philippe Bellan\", creator of the pleasures of the table, will surprise your taste buds and take you on a journey through original, colorful cuisine prepared with fresh local produce. If his cuisine inspires you, you'll find his creations in his cheese shop"
+        ],
+        "it": [
+          "\"Philippe Bellan, creatore dei piaceri della tavola, sorprenderà le vostre papille gustative e vi porterà in viaggio con la sua cucina originale e colorata, preparata con prodotti freschi locali. Se la sua cucina vi ispira, potete trovare le sue creazioni nel suo negozio di formaggi"
+        ],
+        "fr": [
+          "\"Philippe Bellan\", créateur des plaisirs de la table surprend vos papilles et vous fait voyager à travers une cuisine originale et colorée préparée avec des produits frais locaux. Si sa cuisine vous inspire, retrouverez ses créations  dans sa fromagerie"
+        ],
+        "nl": [
+          "\"Philippe Bellan, schepper van de geneugten van de tafel, zal je smaakpapillen verrassen en je meenemen op reis met zijn originele en kleurrijke keuken bereid met verse lokale producten. Als zijn keuken je inspireert, kun je zijn creaties vinden in zijn kaaswinkel"
+        ],
+        "es": [
+          "\"Philippe Bellan, creador de los placeres de la mesa, sorprenderá a sus papilas gustativas y le hará viajar con su cocina original y colorista elaborada con productos frescos de la tierra. Si su cocina le inspira, podrá encontrar sus creaciones en su quesería"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/0d77de39-a524-3620-b3c0-60f09ba819c1",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/2891540c-faa2-3869-8b9c-f72c4b3360f8",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/969dfa9e-5c88-3f95-98a5-785b2039a485",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/c689592e-70f2-3128-a521-694a36f7c9e3",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/fcce5bbc-e841-30c5-9c40-0db7057cb2bd",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/0c52ee9b-34da-3cd3-9d06-e50912b43316",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/589b67f3-d4fb-3a9f-96ff-132abb693e79",
+          "schema:addressLocality": "Tarare",
+          "schema:postalCode": "69170",
+          "schema:streetAddress": [
+            "24 & 25 RUE ANNA BIBERT"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:69243",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Tarare"
+              ],
+              "pt": [
+                "Tarare"
+              ],
+              "en": [
+                "Tarare"
+              ],
+              "it": [
+                "Tarare"
+              ],
+              "fr": [
+                "Tarare"
+              ],
+              "nl": [
+                "Tarare"
+              ],
+              "es": [
+                "Tarare"
+              ]
+            },
+            "insee": "69243",
+            "isPartOfDepartment": {
+              "@id": "kb:France8469",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Rhône"
+                ],
+                "pt": [
+                  "Rhône"
+                ],
+                "en": [
+                  "Rhône"
+                ],
+                "it": [
+                  "Rhône"
+                ],
+                "fr": [
+                  "Rhône"
+                ],
+                "nl": [
+                  "Rhône"
+                ],
+                "es": [
+                  "Rhône"
+                ]
+              },
+              "insee": "69",
+              "isPartOfRegion": {
+                "@id": "kb:France84",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "pt": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "en": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "it": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "fr": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "nl": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "es": [
+                    "Auvergne-Rhône-Alpes"
+                  ]
+                },
+                "insee": "84",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/eaee5dc0-a44b-3a4d-af7d-4e2809f2544a",
+        "schema:latitude": "45.896212",
+        "schema:longitude": "4.434141",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/4800bf11-da5a-3bf4-a539-67ed7a3fbf2a",
+          "schema:validFrom": "2023-12-04T00:00:00",
+          "schema:validThrough": "2023-12-04T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/57f9bf34-3324-3289-9dcf-ca2860685b63",
+      "schema:email": [
+        "accueil@beaujolaisvert.com",
+        "amandine.duvernay@beaujolaisvert.com",
+        "sarah.gianone@c-or.fr"
+      ],
+      "schema:legalName": "Office de Tourisme du Beaujolais Vert - Lac des sapins",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.beaujolaisvert.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-12-18",
+  "lastUpdateDatatourisme": "2023-12-19T06:47:33.869Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/9923b27c-06b0-3958-982b-cb580a85fa07",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/c3aedb5f-de37-37aa-925f-9fc099b88330",
+          "schema:minPrice": [
+            "16.5"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/73a6c19d-5c9a-3853-8ff1-ab340e41d31d",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2024-12-04",
+              "startDate": "2023-12-04"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

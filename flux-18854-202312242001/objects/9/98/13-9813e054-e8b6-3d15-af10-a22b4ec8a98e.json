@@ -1,0 +1,551 @@
+{
+  "@id": "https://data.datatourisme.fr/13/9813e054-e8b6-3d15-af10-a22b4ec8a98e",
+  "dc:identifier": "6564729",
+  "@type": [
+    "schema:FoodEstablishment",
+    "FoodEstablishment",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Zwischen Bouchon und Bistronomie, im Herzen der Halbinsel, im Viertel Cordeliers, bietet Ihnen das Atelier du Square eine aufrichtige und verantwortungsbewusste Küche. Alles ist hausgemacht."
+    ],
+    "en": [
+      "Between Bouchon and Bistronomy, in the heart of Presqu’ile, Cordeliers district, l'Atelier du Square concocts you a sincere and responsive cuisine. Everything is homemade."
+    ],
+    "it": [
+      "Tra Bouchon e Bistronomy, nel cuore della Presqu'ile, nel quartiere dei Cordeliers, l'Atelier du Square propone una cucina sincera e responsabile. Tutto è fatto in casa."
+    ],
+    "fr": [
+      "Entre Bouchon et Bistronomie, en plein coeur de la Presqu’ile, dans le quartier des Cordeliers, l'Atelier du Square vous concocte une cuisine sincère et responsable. Tout est fait maison."
+    ],
+    "nl": [
+      "Tussen Bouchon en Bistronomy, in het hart van Presqu?ile, in de wijk Cordeliers, brouwt l'Atelier du Square een eerlijke en verantwoorde keuken. Alles is huisgemaakt."
+    ],
+    "es": [
+      "Entre Bouchon y Bistronomy, en el corazón de la Presqu'ile, en el barrio de Cordeliers, l'Atelier du Square elabora una cocina sincera y responsable. Todo es casero."
+    ]
+  },
+  "rdfs:label": {
+    "de": [
+      "L'Atelier du Square"
+    ],
+    "ru": [
+      "L'Atelier du Square"
+    ],
+    "en": [
+      "L'Atelier du Square"
+    ],
+    "it": [
+      "L'Atelier du Square"
+    ],
+    "fr": [
+      "L'Atelier du Square"
+    ],
+    "zh": [
+      "L'Atelier du Square"
+    ],
+    "nl": [
+      "L'Atelier du Square"
+    ],
+    "es": [
+      "L'Atelier du Square"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/45c48cce-2e2d-3fbd-aa1a-fc51c7c6ad26",
+    "dc:identifier": "9",
+    "schema:email": [
+      "apidae@lyon-france.com",
+      "seveillard@lyon-france.com",
+      "vbilly@lyon-france.com"
+    ],
+    "schema:legalName": "Lyon Tourisme et Congrès / ONLYLYON Tourisme",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.lyon-france.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/8a9feb4b-2cbd-3d2c-b507-bd6c6776b23b",
+      "schema:legalName": "Apidae Tourisme Scic SA - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/163f198c-2322-3eb3-907d-1ea03aa26615",
+      "schema:email": [
+        "latelierdusquare@orange.fr"
+      ],
+      "schema:telephone": [
+        "+33 4 78 71 00 25"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://latelier-du-square.com/fr"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/4baff62b-2dda-3966-936f-428aeb4e8ede",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/32bfcb55-42d7-3cf6-a699-fffcf8732d03",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/48b654b1-bafc-37a1-86bf-5c1e82434e60",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/539f79d1-83c2-3ee5-8b98-e1ab130e603e",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d8d7bc02-8ab0-3289-9c7d-851c3984b284",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Zwischen Bouchon und Bistronomie, im Herzen der Halbinsel, im Viertel Cordeliers, bietet Ihnen das Atelier du Square eine aufrichtige und verantwortungsbewusste Küche. Alles ist hausgemacht."
+        ],
+        "en": [
+          "Between Bouchon and Bistronomy, in the heart of Presqu’ile, Cordeliers district, l'Atelier du Square concocts you a sincere and responsive cuisine. Everything is homemade."
+        ],
+        "it": [
+          "Tra Bouchon e Bistronomy, nel cuore della Presqu'ile, nel quartiere dei Cordeliers, l'Atelier du Square propone una cucina sincera e responsabile. Tutto è fatto in casa."
+        ],
+        "fr": [
+          "Entre Bouchon et Bistronomie, en plein coeur de la Presqu’ile, dans le quartier des Cordeliers, l'Atelier du Square vous concocte une cuisine sincère et responsable. Tout est fait maison."
+        ],
+        "nl": [
+          "Tussen Bouchon en Bistronomy, in het hart van Presqu?ile, in de wijk Cordeliers, brouwt l'Atelier du Square een eerlijke en verantwoorde keuken. Alles is huisgemaakt."
+        ],
+        "es": [
+          "Entre Bouchon y Bistronomy, en el corazón de la Presqu'ile, en el barrio de Cordeliers, l'Atelier du Square elabora una cocina sincera y responsable. Todo es casero."
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/6b712104-5549-3426-afb7-4ed84232e241",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/e3bd59e8-7a99-3aa7-aeea-76b2b5f8c716",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/ed867c14-454a-3bf6-8230-6c9c7bb923b0",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/fa1047ef-72fc-381a-abd1-a34c07649dd0",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/d833ef0d-8874-3081-a172-211f7cb8aa8e",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/f5c71487-048c-35c5-a31d-b02d6762f416",
+          "schema:addressLocality": "Lyon 2e Arrondissement",
+          "schema:postalCode": "69002",
+          "schema:streetAddress": [
+            "10 rue Claudia"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:69382",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Lyon 2e Arrondissement"
+              ],
+              "pt": [
+                "Lyon 2e Arrondissement"
+              ],
+              "en": [
+                "Lyon 2e Arrondissement"
+              ],
+              "it": [
+                "Lyon 2e Arrondissement"
+              ],
+              "fr": [
+                "Lyon 2e Arrondissement"
+              ],
+              "nl": [
+                "Lyon 2e Arrondissement"
+              ],
+              "es": [
+                "Lyon 2e Arrondissement"
+              ]
+            },
+            "insee": "69382",
+            "isPartOfDepartment": {
+              "@id": "kb:France8469",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Rhône"
+                ],
+                "pt": [
+                  "Rhône"
+                ],
+                "en": [
+                  "Rhône"
+                ],
+                "it": [
+                  "Rhône"
+                ],
+                "fr": [
+                  "Rhône"
+                ],
+                "nl": [
+                  "Rhône"
+                ],
+                "es": [
+                  "Rhône"
+                ]
+              },
+              "insee": "69",
+              "isPartOfRegion": {
+                "@id": "kb:France84",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "pt": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "en": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "it": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "fr": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "nl": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "es": [
+                    "Auvergne-Rhône-Alpes"
+                  ]
+                },
+                "insee": "84",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/7e3f832c-609b-304c-9a12-87c1b6bc9f0f",
+        "schema:latitude": "45.764364",
+        "schema:longitude": "4.837593",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/3a0a093c-1d2d-3d11-96c5-ef314007e889",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Geschlossen vom 4. August bis zum 27. August und zwischen Weihnachten und Neujahr."
+            ],
+            "en": [
+              "Closed from August 4 to August 27, and between Christmas and New Year's Day."
+            ],
+            "it": [
+              "Chiuso dal 4 al 27 agosto e tra Natale e Capodanno."
+            ],
+            "fr": [
+              "Fermeture à partir du 4 août jusqu'au 27, et entre Noel et le jour de l'an."
+            ],
+            "nl": [
+              "Gesloten van 4 augustus tot 27 augustus en tussen Kerstmis en Nieuwjaarsdag."
+            ],
+            "es": [
+              "Cerrado del 4 al 27 de agosto y entre Navidad y Año Nuevo."
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/0ce63c3d-6a63-38bb-800a-83b7d416121e",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/67bc23aa-d04c-3649-a004-8c247d18c4f3",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/812ea475-31f5-351a-89da-846880457df9",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/900a2dc1-95e8-342f-9ed4-ca58dc776734",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/c03faa84-9534-390d-9f6a-f2f10b93640c",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/33848473-e8f7-3b5e-a27f-1813fca76a01",
+      "schema:email": [
+        "apidae@lyon-france.com",
+        "seveillard@lyon-france.com",
+        "vbilly@lyon-france.com"
+      ],
+      "schema:legalName": "Lyon Tourisme et Congrès / ONLYLYON Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.lyon-france.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-07-12",
+  "lastUpdateDatatourisme": "2023-12-23T06:39:46.208Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/bd8bc581-bcc6-3881-a743-d173c183125d",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/1968706a-350f-34dc-9784-02ed41b9076b",
+          "schema:maxPrice": [
+            "16",
+            "28",
+            "39",
+            "60"
+          ],
+          "schema:minPrice": [
+            "16",
+            "26",
+            "28",
+            "39"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/a425afdf-3594-300b-b55e-1858bafa3fd4",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2023-12-31",
+              "startDate": "2023-01-01"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

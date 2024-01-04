@@ -1,0 +1,473 @@
+{
+  "@id": "https://data.datatourisme.fr/13/d443279a-cba3-3f53-9e38-6181c9ecce42",
+  "dc:identifier": "420678",
+  "@type": [
+    "schema:Accommodation",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "CollectiveAccommodation",
+    "GroupLodging",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "StopOverOrGroupLodge"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "In einer friedlichen Schlucht des Beaujolais, zwischen Weinbergen und Wäldern, empfangen Sie die Winzer Jeannine und Gérard Lagneau und bieten Ihnen die Möglichkeit, in ihrer Gruppenunterkunft für 12 Personen zu übernachten, die an ihr Haus angrenzt."
+    ],
+    "en": [
+      "In a peaceful coomb of the Beaujolais, between vines and forests, Jeannine and Gérard Lagneau, winegrowers, welcome you and offer you to stay at their group holiday cottage of 12 persons, attached to their house."
+    ],
+    "it": [
+      "In un tranquillo coomb della regione del Beaujolais, tra vigneti e foreste, Jeannine e Gérard Lagneau, viticoltori, vi accolgono nel loro gîte per gruppi di 12 persone, adiacente alla loro casa."
+    ],
+    "fr": [
+      "Dans une combe paisible du Beaujolais, entre vignes et forêts, Jeannine et Gérard Lagneau, viticulteurs vous accueillent et vous proposent de séjourner dans leur Gîte de groupe de 12 pers., mitoyen à leur maison."
+    ],
+    "nl": [
+      "In een rustige vallei in de Beaujolais, tussen wijngaarden en bossen, heten Jeannine en Gérard Lagneau, wijnbouwers, je welkom in hun 12-persoons groepsgîte, grenzend aan hun huis."
+    ],
+    "es": [
+      "En un apacible cobijo de la región de Beaujolais, entre viñedos y bosques, Jeannine y Gérard Lagneau, viticultores, le dan la bienvenida a su casa rural colectiva para 12 personas, contigua a su casa."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Gîte de groupe Lagneau"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/1c9ac015-9c94-38d0-8bed-c973445af2da",
+    "dc:identifier": "156",
+    "schema:email": [
+      "c.berthelier@gites-de-france-rhone.com"
+    ],
+    "schema:legalName": "Gîtes de France Rhône",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.gites-de-france-rhone.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/8a9feb4b-2cbd-3d2c-b507-bd6c6776b23b",
+      "schema:legalName": "Apidae Tourisme Scic SA - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/9771def8-fc07-35a5-b65f-df04b94e9a14",
+      "schema:email": [
+        "jealagneau@wanadoo.fr"
+      ],
+      "schema:telephone": [
+        "+33 4 74 69 20 70",
+        "+33 6 07 55 55 00"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.gites-de-france-rhone.com/fiche-hebergement-3080.html",
+        "https://domaine-lagneau-gerard-et-didier-vignoble-gite-chambre.business.site/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/f505a651-dbb7-3c4a-a660-f6aff7b8f8a9",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/1d2c8354-1957-3bd2-99bf-570252da5b99",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/3c3c8d35-d561-39d1-a112-06060ba37c7b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/733f7ff7-581a-3f7c-abbc-07cc6f5b34fd",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b8d303a7-7bfe-3a3e-9d93-dbe9ac1c0df2",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "In einer friedlichen Schlucht des Beaujolais, zwischen Weinbergen und Wäldern, empfangen Sie die Winzer Jeannine und Gérard Lagneau und bieten Ihnen die Möglichkeit, in ihrer Gruppenunterkunft für 12 Personen zu übernachten, die an ihr Haus angrenzt."
+        ],
+        "en": [
+          "In a peaceful coomb of the Beaujolais, between vines and forests, Jeannine and Gérard Lagneau, winegrowers, welcome you and offer you to stay at their group holiday cottage of 12 persons, attached to their house."
+        ],
+        "it": [
+          "In un tranquillo coomb della regione del Beaujolais, tra vigneti e foreste, Jeannine e Gérard Lagneau, viticoltori, vi accolgono nel loro gîte per gruppi di 12 persone, adiacente alla loro casa."
+        ],
+        "fr": [
+          "Dans une combe paisible du Beaujolais, entre vignes et forêts, Jeannine et Gérard Lagneau, viticulteurs vous accueillent et vous proposent de séjourner dans leur Gîte de groupe de 12 pers., mitoyen à leur maison."
+        ],
+        "nl": [
+          "In een rustige vallei in de Beaujolais, tussen wijngaarden en bossen, heten Jeannine en Gérard Lagneau, wijnbouwers, je welkom in hun 12-persoons groepsgîte, grenzend aan hun huis."
+        ],
+        "es": [
+          "En un apacible cobijo de la región de Beaujolais, entre viñedos y bosques, Jeannine y Gérard Lagneau, viticultores, le dan la bienvenida a su casa rural colectiva para 12 personas, contigua a su casa."
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/5f213b13-104e-3960-bbea-05d3bfd621bc",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/67ae3a67-a7fe-3e75-b017-e7a207a921eb",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/84a505d3-a234-3ccd-af50-719fe6b97d1e",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/e39080f4-0eaf-34ab-9243-7227ed074da5",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/594c9c28-d691-3c37-8ac9-f6a7b4ee54fb",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/2fc2c9dc-e526-3d25-9242-88c8024d87e3",
+          "schema:addressLocality": "Quincié-en-Beaujolais",
+          "schema:postalCode": "69430",
+          "schema:streetAddress": [
+            "941 Route d'Huire"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:69162",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Quincié-en-Beaujolais"
+              ],
+              "pt": [
+                "Quincié-en-Beaujolais"
+              ],
+              "en": [
+                "Quincié-en-Beaujolais"
+              ],
+              "it": [
+                "Quincié-en-Beaujolais"
+              ],
+              "fr": [
+                "Quincié-en-Beaujolais"
+              ],
+              "nl": [
+                "Quincié-en-Beaujolais"
+              ],
+              "es": [
+                "Quincié-en-Beaujolais"
+              ]
+            },
+            "insee": "69162",
+            "isPartOfDepartment": {
+              "@id": "kb:France8469",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Rhône"
+                ],
+                "pt": [
+                  "Rhône"
+                ],
+                "en": [
+                  "Rhône"
+                ],
+                "it": [
+                  "Rhône"
+                ],
+                "fr": [
+                  "Rhône"
+                ],
+                "nl": [
+                  "Rhône"
+                ],
+                "es": [
+                  "Rhône"
+                ]
+              },
+              "insee": "69",
+              "isPartOfRegion": {
+                "@id": "kb:France84",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "pt": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "en": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "it": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "fr": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "nl": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "es": [
+                    "Auvergne-Rhône-Alpes"
+                  ]
+                },
+                "insee": "84",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/eff255e0-fcde-3d9a-95f9-1425425021a6",
+        "schema:elevation": "350",
+        "schema:latitude": "46.135269",
+        "schema:longitude": "4.597425",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/5164796f-2543-3003-9ae1-f96a6779a071",
+          "schema:validFrom": "2023-01-07T00:00:00",
+          "schema:validThrough": "2023-01-05T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/24f62cd1-53e9-3bd6-ba70-6d83e5deb4f3",
+      "schema:email": [
+        "c.berthelier@gites-de-france-rhone.com"
+      ],
+      "schema:legalName": "Gîtes de France Rhône",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.gites-de-france-rhone.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-09-29",
+  "lastUpdateDatatourisme": "2023-12-23T06:39:46.312Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/64048f7f-173c-3155-82be-f8d1ec15cbbb",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/1051ea02-75c5-321f-8ff5-2d43a2b9163a",
+          "schema:maxPrice": [
+            "1950",
+            "850"
+          ],
+          "schema:minPrice": [
+            "1950",
+            "850"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/b1cf3ae7-cfbf-3a99-b307-3aaf93fb3127",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2024-01-05",
+              "startDate": "2023-01-07"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/6f4d5f9c-f465-36d7-b020-8f8c5b6e7a45",
+          "schema:maxPrice": [
+            "1950",
+            "850"
+          ],
+          "schema:minPrice": [
+            "1950",
+            "850"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/094d070d-86d4-3567-811e-c25c1582bba6",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2025-01-03",
+              "startDate": "2024-01-06"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

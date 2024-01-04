@@ -1,0 +1,520 @@
+{
+  "@id": "https://data.datatourisme.fr/13/d24dad20-8ed8-38d7-b7eb-0ad54931f901",
+  "dc:identifier": "198887",
+  "@type": [
+    "schema:FoodEstablishment",
+    "FoodEstablishment",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Das Restaurant bietet eine einfache und reichhaltige Küche à la carte an, welche im Saal oder auf der Terrasse am Rande des Schwimmbeckens serviert wird."
+    ],
+    "en": [
+      "Jardin & Company proposes \"à la carte\" a cuisine that is simple and generous, served  in the restaurant, on the terrace or by the swimming-pool."
+    ],
+    "it": [
+      "Il ristorante propone alla carta una cucina semplice e generosa, servita in sala o all'aperto sul bordo della piscina."
+    ],
+    "fr": [
+      "Le restaurant propose à la carte une cuisine simple et généreuse, servie en salle ou en terrasse, au bord de la piscine."
+    ],
+    "nl": [
+      "Het restaurant biedt een eenvoudige en royale à la carte keuken, geserveerd in de eetzaal of op het terras bij het zwembad."
+    ],
+    "es": [
+      "El restaurante propone una carta de cocina sencilla y generosa, servida en sala, en la terraza o al borde de la piscina."
+    ]
+  },
+  "rdfs:label": {
+    "de": [
+      "Jardin & Company"
+    ],
+    "ru": [
+      "Jardin & Company"
+    ],
+    "en": [
+      "Jardin & Company"
+    ],
+    "it": [
+      "Jardin & Company"
+    ],
+    "fr": [
+      "Jardin & Company"
+    ],
+    "zh": [
+      "Jardin & Company"
+    ],
+    "nl": [
+      "Jardin & Company"
+    ],
+    "es": [
+      "Jardin & Company"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/45c48cce-2e2d-3fbd-aa1a-fc51c7c6ad26",
+    "dc:identifier": "9",
+    "schema:email": [
+      "apidae@lyon-france.com",
+      "seveillard@lyon-france.com",
+      "vbilly@lyon-france.com"
+    ],
+    "schema:legalName": "Lyon Tourisme et Congrès / ONLYLYON Tourisme",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.lyon-france.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/8a9feb4b-2cbd-3d2c-b507-bd6c6776b23b",
+      "schema:legalName": "Apidae Tourisme Scic SA - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/5632f01d-30ca-391c-930b-b9cb8fc2bf8f",
+      "schema:email": [
+        "restauration-4716@hotelbb.com"
+      ],
+      "schema:telephone": [
+        "+33 4 72 17 29 19"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.jardin-company.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/e29f73a3-d33d-36ad-bfc4-5c29abea3ea2",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/c5551ab4-ff8d-3fc5-88bb-915362448b1b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Das Restaurant bietet eine einfache und reichhaltige Küche à la carte an, welche im Saal oder auf der Terrasse am Rande des Schwimmbeckens serviert wird."
+        ],
+        "en": [
+          "Jardin & Company proposes \"à la carte\" a cuisine that is simple and generous, served  in the restaurant, on the terrace or by the swimming-pool."
+        ],
+        "it": [
+          "Il ristorante propone alla carta una cucina semplice e generosa, servita in sala o all'aperto sul bordo della piscina."
+        ],
+        "fr": [
+          "Le restaurant propose à la carte une cuisine simple et généreuse, servie en salle ou en terrasse, au bord de la piscine."
+        ],
+        "nl": [
+          "Het restaurant biedt een eenvoudige en royale à la carte keuken, geserveerd in de eetzaal of op het terras bij het zwembad."
+        ],
+        "es": [
+          "El restaurante propone una carta de cocina sencilla y generosa, servida en sala, en la terraza o al borde de la piscina."
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/15581a18-1622-3885-a312-689413b4cc31",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/61b49a83-0cef-3eb9-8846-f94e0ca09b9b",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/ba6c2035-8358-37f0-bca8-e2e56b898005",
+          "schema:addressLocality": "Dardilly",
+          "schema:postalCode": "69570",
+          "schema:streetAddress": [
+            "Allée du Camping International",
+            "Autoroute A6 - Porte de Lyon"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:69072",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Dardilly"
+              ],
+              "pt": [
+                "Dardilly"
+              ],
+              "en": [
+                "Dardilly"
+              ],
+              "it": [
+                "Dardilly"
+              ],
+              "fr": [
+                "Dardilly"
+              ],
+              "nl": [
+                "Dardilly"
+              ],
+              "es": [
+                "Dardilly"
+              ]
+            },
+            "insee": "69072",
+            "isPartOfDepartment": {
+              "@id": "kb:France8469",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Rhône"
+                ],
+                "pt": [
+                  "Rhône"
+                ],
+                "en": [
+                  "Rhône"
+                ],
+                "it": [
+                  "Rhône"
+                ],
+                "fr": [
+                  "Rhône"
+                ],
+                "nl": [
+                  "Rhône"
+                ],
+                "es": [
+                  "Rhône"
+                ]
+              },
+              "insee": "69",
+              "isPartOfRegion": {
+                "@id": "kb:France84",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "pt": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "en": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "it": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "fr": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "nl": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "es": [
+                    "Auvergne-Rhône-Alpes"
+                  ]
+                },
+                "insee": "84",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/62680123-8b9d-330e-8c8e-e2f210ebac0b",
+        "schema:latitude": "45.819906",
+        "schema:longitude": "4.760192",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/26b79372-6d5b-38a3-914a-a8f64757b7ed",
+          "schema:closes": "22:00:00",
+          "schema:opens": "12:00:00",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Täglich von 12:00 bis 14:00 Uhr und von 19:00 bis 22:00 Uhr geöffnet."
+            ],
+            "en": [
+              "Open daily from 12:00 to 14:00 and from 19:00 to 22:00."
+            ],
+            "it": [
+              "Aperto tutti i giorni dalle 12.00 alle 14.00 e dalle 19.00 alle 22.00."
+            ],
+            "fr": [
+              "Ouvert tous les jours de 12h00 à 14h00 et de 19h00 à 22h00."
+            ],
+            "nl": [
+              "Elke dag geopend van 12.00 tot 14.00 uur en van 19.00 tot 22.00 uur."
+            ],
+            "es": [
+              "Abierto todos los días de 12.00 a 14.00 y de 19.00 a 22.00."
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/347f96a1-65c5-35f7-bdcc-05a9406666d9",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/778a578a-98eb-30d9-ba4b-e1267761249e",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/8af9680f-2e66-3e91-9d48-3d4ad8f3f422",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/c3d7642b-26a4-3420-8600-9651c307e8c7",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/fb655011-d26f-33e6-b7bb-62241fd20d61",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/33848473-e8f7-3b5e-a27f-1813fca76a01",
+      "schema:email": [
+        "apidae@lyon-france.com",
+        "seveillard@lyon-france.com",
+        "vbilly@lyon-france.com"
+      ],
+      "schema:legalName": "Lyon Tourisme et Congrès / ONLYLYON Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.lyon-france.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-11-02",
+  "lastUpdateDatatourisme": "2023-12-23T06:39:46.173Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/9c610c4c-b04c-3a3f-8b01-ecaf43b073ba",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/a5558ced-3129-3c55-af05-7df67626bb5b",
+          "schema:maxPrice": [
+            "15",
+            "18",
+            "2.4",
+            "21",
+            "30",
+            "4.5",
+            "9.5"
+          ],
+          "schema:minPrice": [
+            "13",
+            "15",
+            "18",
+            "2.4",
+            "21",
+            "4.5",
+            "5.5",
+            "9.5"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/a425afdf-3594-300b-b55e-1858bafa3fd4",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2023-12-31",
+              "startDate": "2023-01-01"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e2a90879-b64d-38f5-913b-c4490162a1d9",
+          "schema:maxPrice": [
+            "15",
+            "18",
+            "2.4",
+            "21",
+            "30",
+            "4.5",
+            "9.5"
+          ],
+          "schema:minPrice": [
+            "13",
+            "15",
+            "18",
+            "2.4",
+            "21",
+            "4.5",
+            "5.5",
+            "9.5"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/31f5d72b-a58c-3b74-a324-625d6ba3a28e",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2024-12-31",
+              "startDate": "2024-01-01"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

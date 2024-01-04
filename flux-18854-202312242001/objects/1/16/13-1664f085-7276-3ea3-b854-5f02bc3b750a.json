@@ -1,0 +1,568 @@
+{
+  "@id": "https://data.datatourisme.fr/13/1664f085-7276-3ea3-b854-5f02bc3b750a",
+  "dc:identifier": "5498970",
+  "@type": [
+    "schema:Accommodation",
+    "schema:FoodEstablishment",
+    "schema:Hotel",
+    "schema:LodgingBusiness",
+    "schema:Restaurant",
+    "Accommodation",
+    "FoodEstablishment",
+    "Hotel",
+    "HotelRestaurant",
+    "HotelTrade",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "Restaurant"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "24 komfortable und helle Zimmer mit Charme im Herzen der Berge des Beaujolais.\r\nDas B Complex Hotel liegt vor den Toren Lyons und ist ein modernes und funktionelles Hotel."
+    ],
+    "en": [
+      "24 charming, comfortable and bright rooms in the heart of the Beaujolais mountains.\r\nModern and functional, all our rooms are optimized to meet your every need. Completely functional, the B Complexe Hotel is located at the gateway to Lyon."
+    ],
+    "it": [
+      "24 camere affascinanti, confortevoli e luminose nel cuore delle montagne del Beaujolais.\r\nModerne e funzionali, tutte le nostre camere sono ottimizzate per soddisfare ogni vostra esigenza. Completamente funzionale, l'hotel B Complexe si trova alla periferia di Lione."
+    ],
+    "fr": [
+      "24 chambres de Charme confortables et lumineuses au cœur des monts du Beaujolais.\r\nModerne et fonctionnel toutes nos chambres sont optimisées pour satisfaire tout vos besoins, complètement fonctionnel, le B Complexe Hotel se situe aux portes de Lyon."
+    ],
+    "es": [
+      "24 habitaciones con encanto, cómodas y luminosas en el corazón de las montañas del Beaujolais.\r\nModernas y funcionales, todas nuestras habitaciones están optimizadas para satisfacer todas sus necesidades. Completamente funcional, el hotel B Complexe está situado a las afueras de Lyon."
+    ],
+    "nl": [
+      "24 charmante, comfortabele en lichte kamers in het hart van de Beaujolais.\r\nModern en functioneel, al onze kamers zijn geoptimaliseerd om aan al uw wensen te voldoen. Het B Complexe Hotel ligt aan de rand van Lyon."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Le B Complexe Hôtel"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/c20ad4d7-6fe9-3759-aa27-a0c99bff6710",
+    "dc:identifier": "12",
+    "schema:email": [
+      "f.champavere@destination-beaujolais.com",
+      "g.taburiaux@destination-beaujolais.com",
+      "j.capdegelle@destination-beaujolais.com",
+      "t.blanchier@destination-beaujolais.com",
+      "v.guerin@destination-beaujolais.com"
+    ],
+    "schema:legalName": "Destination Beaujolais",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.destination-beaujolais.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/8a9feb4b-2cbd-3d2c-b507-bd6c6776b23b",
+      "schema:legalName": "Apidae Tourisme Scic SA - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/cb90d308-c761-308a-afa5-6370156c742b",
+      "schema:email": [
+        "jones@le-complexe.com"
+      ],
+      "schema:telephone": [
+        "+33 4 72 54 13 23"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.lebcomplexe.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/f06c3705-4f51-346e-93fa-ad7e3f6f51ec",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/354ddbc9-3493-38fd-bc4a-c2e656e09e82",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/4e21e66c-58b9-3cfc-bb44-a1a5406ac882",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/867c639b-05fd-35d6-866a-723a1fa8dfef",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e2a36ce9-2037-3096-81b5-5ee56fee8e73",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f64abdcc-6290-3c6c-a201-cd32d2f5ceda",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "24 komfortable und helle Zimmer mit Charme im Herzen der Berge des Beaujolais.\r\nDas B Complex Hotel liegt vor den Toren Lyons und ist ein modernes und funktionelles Hotel."
+        ],
+        "en": [
+          "24 charming, comfortable and bright rooms in the heart of the Beaujolais mountains.\r\nModern and functional, all our rooms are optimized to meet your every need. Completely functional, the B Complexe Hotel is located at the gateway to Lyon."
+        ],
+        "it": [
+          "24 camere affascinanti, confortevoli e luminose nel cuore delle montagne del Beaujolais.\r\nModerne e funzionali, tutte le nostre camere sono ottimizzate per soddisfare ogni vostra esigenza. Completamente funzionale, l'hotel B Complexe si trova alla periferia di Lione."
+        ],
+        "fr": [
+          "24 chambres de Charme confortables et lumineuses au cœur des monts du Beaujolais.\r\nModerne et fonctionnel toutes nos chambres sont optimisées pour satisfaire tout vos besoins, complètement fonctionnel, le B Complexe Hotel se situe aux portes de Lyon."
+        ],
+        "es": [
+          "24 habitaciones con encanto, cómodas y luminosas en el corazón de las montañas del Beaujolais.\r\nModernas y funcionales, todas nuestras habitaciones están optimizadas para satisfacer todas sus necesidades. Completamente funcional, el hotel B Complexe está situado a las afueras de Lyon."
+        ],
+        "nl": [
+          "24 charmante, comfortabele en lichte kamers in het hart van de Beaujolais.\r\nModern en functioneel, al onze kamers zijn geoptimaliseerd om aan al uw wensen te voldoen. Het B Complexe Hotel ligt aan de rand van Lyon."
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/1352f200-40b0-354d-a667-ceac8dc9b235",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/3940cf30-87a7-392b-99b2-61db8b0aa675",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/43265e00-f8e1-363e-90e9-25312282f8f2",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/81d8702c-1afc-341c-a0ab-a2c36a50411b",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/b1a84efd-5316-38d4-aa87-71a4a5505350",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/2a9cd7a3-b500-355a-b5dc-8fa831e72bdb",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/819ab61d-6cf7-36c7-99cb-b2ea706111eb",
+          "schema:addressLocality": "Lozanne",
+          "schema:postalCode": "69380",
+          "schema:streetAddress": [
+            "37 rue de l'entreprise"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:69121",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Lozanne"
+              ],
+              "pt": [
+                "Lozanne"
+              ],
+              "en": [
+                "Lozanne"
+              ],
+              "it": [
+                "Lozanne"
+              ],
+              "fr": [
+                "Lozanne"
+              ],
+              "nl": [
+                "Lozanne"
+              ],
+              "es": [
+                "Lozanne"
+              ]
+            },
+            "insee": "69121",
+            "isPartOfDepartment": {
+              "@id": "kb:France8469",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Rhône"
+                ],
+                "pt": [
+                  "Rhône"
+                ],
+                "en": [
+                  "Rhône"
+                ],
+                "it": [
+                  "Rhône"
+                ],
+                "fr": [
+                  "Rhône"
+                ],
+                "nl": [
+                  "Rhône"
+                ],
+                "es": [
+                  "Rhône"
+                ]
+              },
+              "insee": "69",
+              "isPartOfRegion": {
+                "@id": "kb:France84",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "pt": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "en": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "it": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "fr": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "nl": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "es": [
+                    "Auvergne-Rhône-Alpes"
+                  ]
+                },
+                "insee": "84",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/6c6f02b7-0f71-3501-a6d4-6c7bb25ac602",
+        "schema:latitude": "45.855303",
+        "schema:longitude": "4.688042",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/d979d694-3639-3af6-845b-a065d4d44fff",
+          "schema:validFrom": "2023-02-27T00:00:00",
+          "schema:validThrough": "2023-03-14T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "24 Stunden am Tag geöffnet."
+            ],
+            "en": [
+              "Open 24 hours a day."
+            ],
+            "it": [
+              "Aperto 24 ore su 24."
+            ],
+            "fr": [
+              "Ouvert 24h/24."
+            ],
+            "es": [
+              "Abierto las 24 horas."
+            ],
+            "nl": [
+              "24 uur open."
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/0b1978f2-9fff-32d2-bc24-6f6266e0e7f8",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/447c1f91-7898-3add-a2f9-bda4a97cceed",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/51e865ce-3538-3e3c-96b2-abdd40821173",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/b928082a-18b6-3b60-8241-03c409731d09",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/c3428fd2-ecf1-3ef2-befe-bbd07fabae21",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/f2d6ec66-5049-36d6-8440-12b20d93174d",
+      "schema:email": [
+        "f.champavere@destination-beaujolais.com",
+        "g.taburiaux@destination-beaujolais.com",
+        "t.blanchier@destination-beaujolais.com",
+        "v.guerin@destination-beaujolais.com"
+      ],
+      "schema:legalName": "Destination Beaujolais",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.destination-beaujolais.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-11-08",
+  "lastUpdateDatatourisme": "2023-12-23T06:39:46.147Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/458218c7-4e6d-3902-96a4-ae39ba16c178",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/00ce2c84-ac61-3453-9b66-b8ff9546b07b",
+          "schema:maxPrice": [
+            "12",
+            "5"
+          ],
+          "schema:minPrice": [
+            "100",
+            "12",
+            "125",
+            "170",
+            "5",
+            "90"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/d2c01749-972c-320a-9fea-444cc61c7d18",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2026-04-27",
+              "startDate": "2023-02-27"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

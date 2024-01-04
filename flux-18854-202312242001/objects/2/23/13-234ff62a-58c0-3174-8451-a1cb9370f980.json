@@ -1,0 +1,461 @@
+{
+  "@id": "https://data.datatourisme.fr/13/234ff62a-58c0-3174-8451-a1cb9370f980",
+  "dc:identifier": "6374145",
+  "@type": [
+    "schema:FoodEstablishment",
+    "schema:Winery",
+    "BistroOrWineBar",
+    "FoodEstablishment",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Pilo c'est un bistrot locavore, avec des produits locaux de saison. Die Bar bietet Biere aus unseren Regionen, Bio- und lokale Getränke. Nicht zu vergessen die hausgemachten Patisserien und die Barista-Ecke."
+    ],
+    "en": [
+      "Pilo is a locavore bistro, with seasonal local produce. The bar offers regional beers, organic and local drinks. And don't forget our home-made pastries and barista corner."
+    ],
+    "it": [
+      "Pilo è un bistrot locavore, con prodotti locali di stagione. Il bar offre birre regionali, bevande biologiche e locali. Senza dimenticare i dolci fatti in casa e l'angolo barista."
+    ],
+    "fr": [
+      "Pilo c’est un bistrot locavore, avec des produits locaux de saison. Le bar propose des bières de nos régions, des boissons bio et locales. Sans oublier les pâtisseries maison et le corner barista."
+    ],
+    "nl": [
+      "Pilo is een locavore bistro, met seizoensgebonden lokale producten. De bar biedt regionale bieren, biologische en lokale dranken. En niet te vergeten het huisgemaakte gebak en de barista corner."
+    ],
+    "es": [
+      "Pilo es un bistró locavore, con productos locales de temporada. El bar ofrece cervezas regionales y bebidas ecológicas y locales. Sin olvidar la repostería casera y el rincón barista."
+    ]
+  },
+  "rdfs:label": {
+    "de": [
+      "Bar de l'Hôtel Pilo"
+    ],
+    "ru": [
+      "Bar de l'Hôtel Pilo"
+    ],
+    "en": [
+      "Bar de l'Hôtel Pilo"
+    ],
+    "it": [
+      "Bar de l'Hôtel Pilo"
+    ],
+    "fr": [
+      "Bar de l'Hôtel Pilo"
+    ],
+    "zh": [
+      "Bar de l'Hôtel Pilo"
+    ],
+    "nl": [
+      "Bar de l'Hôtel Pilo"
+    ],
+    "es": [
+      "Bar de l'Hôtel Pilo"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/45c48cce-2e2d-3fbd-aa1a-fc51c7c6ad26",
+    "dc:identifier": "9",
+    "schema:email": [
+      "apidae@lyon-france.com",
+      "seveillard@lyon-france.com",
+      "vbilly@lyon-france.com"
+    ],
+    "schema:legalName": "Lyon Tourisme et Congrès / ONLYLYON Tourisme",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.lyon-france.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/8a9feb4b-2cbd-3d2c-b507-bd6c6776b23b",
+      "schema:legalName": "Apidae Tourisme Scic SA - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/7262fc2d-9613-377c-9e00-23b9653be795",
+      "schema:email": [
+        "hello@pilolyon.com"
+      ],
+      "schema:telephone": [
+        "+33 4 28 01 86 00"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.pilohotels.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/622b5b78-265c-3143-8834-49a395bfeceb",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/a70447f9-4b0a-33cd-8ca4-c6370186b728",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/bb1cead2-16c8-3ae2-8dc7-a91db6ffac7c",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/bbce2214-2584-30d4-b8a0-08a871ed6c91",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/bd8307b4-e5d6-38f0-820f-31355716d001",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Pilo c'est un bistrot locavore, avec des produits locaux de saison. Die Bar bietet Biere aus unseren Regionen, Bio- und lokale Getränke. Nicht zu vergessen die hausgemachten Patisserien und die Barista-Ecke."
+        ],
+        "en": [
+          "Pilo is a locavore bistro, with seasonal local produce. The bar offers regional beers, organic and local drinks. And don't forget our home-made pastries and barista corner."
+        ],
+        "it": [
+          "Pilo è un bistrot locavore, con prodotti locali di stagione. Il bar offre birre regionali, bevande biologiche e locali. Senza dimenticare i dolci fatti in casa e l'angolo barista."
+        ],
+        "fr": [
+          "Pilo c’est un bistrot locavore, avec des produits locaux de saison. Le bar propose des bières de nos régions, des boissons bio et locales. Sans oublier les pâtisseries maison et le corner barista."
+        ],
+        "nl": [
+          "Pilo is een locavore bistro, met seizoensgebonden lokale producten. De bar biedt regionale bieren, biologische en lokale dranken. En niet te vergeten het huisgemaakte gebak en de barista corner."
+        ],
+        "es": [
+          "Pilo es un bistró locavore, con productos locales de temporada. El bar ofrece cervezas regionales y bebidas ecológicas y locales. Sin olvidar la repostería casera y el rincón barista."
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/22209961-7189-38ab-9234-52bc056d3b3e",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/3df29256-a67a-3d36-8f58-a46c3a96640f",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/80435117-05b0-3a99-893e-e23d4388946c",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/eca2b4cf-e0bd-3c32-916a-47f11287bd65",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/3d5a76d3-990d-3ac3-b8f3-ab670db8d21e",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/83103d87-53f2-3a5c-b242-f734033c380e",
+          "schema:addressLocality": "Lyon 1er Arrondissement",
+          "schema:postalCode": "69001",
+          "schema:streetAddress": [
+            "10 montée des Carmélites"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:69381",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Lyon 1er Arrondissement"
+              ],
+              "pt": [
+                "Lyon 1er Arrondissement"
+              ],
+              "en": [
+                "Lyon 1er Arrondissement"
+              ],
+              "it": [
+                "Lyon 1er Arrondissement"
+              ],
+              "fr": [
+                "Lyon 1er Arrondissement"
+              ],
+              "nl": [
+                "Lyon 1er Arrondissement"
+              ],
+              "es": [
+                "Lyon 1er Arrondissement"
+              ]
+            },
+            "insee": "69381",
+            "isPartOfDepartment": {
+              "@id": "kb:France8469",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Rhône"
+                ],
+                "pt": [
+                  "Rhône"
+                ],
+                "en": [
+                  "Rhône"
+                ],
+                "it": [
+                  "Rhône"
+                ],
+                "fr": [
+                  "Rhône"
+                ],
+                "nl": [
+                  "Rhône"
+                ],
+                "es": [
+                  "Rhône"
+                ]
+              },
+              "insee": "69",
+              "isPartOfRegion": {
+                "@id": "kb:France84",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "pt": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "en": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "it": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "fr": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "nl": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "es": [
+                    "Auvergne-Rhône-Alpes"
+                  ]
+                },
+                "insee": "84",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/8ac4d9e9-0dcb-3274-8f0f-f9587d7b1bf7",
+        "schema:latitude": "45.771649",
+        "schema:longitude": "4.827543",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/a14169b0-7698-3435-a943-a7a761bac22d",
+          "schema:closes": "00:00:00",
+          "schema:opens": "07:00:00",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/33848473-e8f7-3b5e-a27f-1813fca76a01",
+      "schema:email": [
+        "apidae@lyon-france.com",
+        "seveillard@lyon-france.com",
+        "vbilly@lyon-france.com"
+      ],
+      "schema:legalName": "Lyon Tourisme et Congrès / ONLYLYON Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.lyon-france.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-10-26",
+  "lastUpdateDatatourisme": "2023-10-27T05:50:20.978Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/ae3b36b2-5f75-3aa3-99c8-eebe59770307",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/d60aa801-b465-3330-8681-899729bf3ef8",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/a425afdf-3594-300b-b55e-1858bafa3fd4",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2023-12-31",
+              "startDate": "2023-01-01"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

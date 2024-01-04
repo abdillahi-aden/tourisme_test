@@ -1,0 +1,431 @@
+{
+  "@id": "https://data.datatourisme.fr/13/1c22b16c-bc3f-3cb0-bc47-3bc979fdbb1e",
+  "dc:identifier": "6604191",
+  "@type": [
+    "schema:FoodEstablishment",
+    "FoodEstablishment",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Wir bieten Ihnen geräuchertes Fleisch, das bei niedriger Temperatur gegart wird, um eine schmelzende und schmackhafte Textur zu erhalten (Rind, Schwein, Huhn, Ribs und Würstchen) und in Form von Burgern (selbstgebackenes Brot) mit hausgemachten Pommes frites."
+    ],
+    "en": [
+      "We offer smoked meats (beef, pork, chicken, ribs and sausages) cooked at low temperatures for a melt-in-the-mouth texture, and burgers (homemade buns) served with home fries."
+    ],
+    "it": [
+      "Offriamo carni affumicate, cotte a bassa temperatura per una consistenza fondente e gustosa (manzo, maiale, pollo, costine e salsicce) e sotto forma di hamburger (pane fatto in casa), accompagnati da patatine fritte."
+    ],
+    "fr": [
+      "Nous vous proposons des viandes fumées, cuites à basse température pour une texture fondante et savoureuse (bœuf, porc, poulet, ribs et saucisses) et sous forme de burgers (pain fait maison), accompagnés de frites maison."
+    ],
+    "nl": [
+      "We bieden gerookt vlees, gegaard op lage temperatuur voor een smeltzachte textuur (rundvlees, varkensvlees, kip, ribbetjes en worstjes) en in de vorm van hamburgers (zelfgebakken brood), vergezeld van huisgemaakte frietjes."
+    ],
+    "es": [
+      "Ofrecemos carnes ahumadas, cocinadas a baja temperatura para conseguir una textura fundente y sabrosa (ternera, cerdo, pollo, costillas y salchichas) y en forma de hamburguesas (pan casero), acompañadas de patatas fritas caseras."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Les Enfants du Rhône"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/38b3eff8-baf5-3627-878e-c76a704e9b52",
+    "dc:identifier": "101",
+    "schema:email": [
+      "ajouvenaud@vienne-condrieu.com",
+      "mdubus@vienne-condrieu.com"
+    ],
+    "schema:legalName": "Office de Tourisme de Vienne Condrieu Agglomération",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.vienne-condrieu.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/8a9feb4b-2cbd-3d2c-b507-bd6c6776b23b",
+      "schema:legalName": "Apidae Tourisme Scic SA - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/745876ee-a5a9-344b-8e6d-96385d6c2b45",
+      "schema:email": [
+        "contact@lesenfantsdurhone.com"
+      ],
+      "schema:telephone": [
+        "+33 9 85 21 11 22"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.lesenfantsdurhone.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/2d7da195-e6f7-3b2a-852f-53c22ab2a726",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/16315fb9-c6dc-32a1-88f0-0ad73ca5799f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/46cad997-6fa0-3c72-8047-51101e46a5fa",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/4debe35f-99ff-3030-a009-0cf7bdd46cbe",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/cb969433-bd62-3612-87a3-61f671f6fd78",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/dee50733-0157-3ca0-abf6-f012e997e101",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Wir bieten Ihnen geräuchertes Fleisch, das bei niedriger Temperatur gegart wird, um eine schmelzende und schmackhafte Textur zu erhalten (Rind, Schwein, Huhn, Ribs und Würstchen) und in Form von Burgern (selbstgebackenes Brot) mit hausgemachten Pommes frites."
+        ],
+        "en": [
+          "We offer smoked meats (beef, pork, chicken, ribs and sausages) cooked at low temperatures for a melt-in-the-mouth texture, and burgers (homemade buns) served with home fries."
+        ],
+        "it": [
+          "Offriamo carni affumicate, cotte a bassa temperatura per una consistenza fondente e gustosa (manzo, maiale, pollo, costine e salsicce) e sotto forma di hamburger (pane fatto in casa), accompagnati da patatine fritte."
+        ],
+        "fr": [
+          "Nous vous proposons des viandes fumées, cuites à basse température pour une texture fondante et savoureuse (bœuf, porc, poulet, ribs et saucisses) et sous forme de burgers (pain fait maison), accompagnés de frites maison."
+        ],
+        "nl": [
+          "We bieden gerookt vlees, gegaard op lage temperatuur voor een smeltzachte textuur (rundvlees, varkensvlees, kip, ribbetjes en worstjes) en in de vorm van hamburgers (zelfgebakken brood), vergezeld van huisgemaakte frietjes."
+        ],
+        "es": [
+          "Ofrecemos carnes ahumadas, cocinadas a baja temperatura para conseguir una textura fundente y sabrosa (ternera, cerdo, pollo, costillas y salchichas) y en forma de hamburguesas (pan casero), acompañadas de patatas fritas caseras."
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/15d80d3c-fb53-3a3f-8d7c-e261593a477a",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/4379cbbb-cbd9-3f6d-8ed2-f04af6b70aac",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/5b47c38e-f3e4-36b9-8f6c-184bcb319dcf",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/685f96cb-5ada-3a76-8bcb-3095f89779f4",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/c2f4a0d3-7f78-30ca-9c52-c1ffaa0f63ac",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/4eee29b0-9f1a-3963-9ede-105b44a52a6e",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/8b6c1c31-bc59-372d-bddb-833e66730209",
+          "schema:addressLocality": "Condrieu",
+          "schema:postalCode": "69420",
+          "schema:streetAddress": [
+            "8 Rue des Mariniers"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:69064",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Condrieu"
+              ],
+              "pt": [
+                "Condrieu"
+              ],
+              "en": [
+                "Condrieu"
+              ],
+              "it": [
+                "Condrieu"
+              ],
+              "fr": [
+                "Condrieu"
+              ],
+              "nl": [
+                "Condrieu"
+              ],
+              "es": [
+                "Condrieu"
+              ]
+            },
+            "insee": "69064",
+            "isPartOfDepartment": {
+              "@id": "kb:France8469",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Rhône"
+                ],
+                "pt": [
+                  "Rhône"
+                ],
+                "en": [
+                  "Rhône"
+                ],
+                "it": [
+                  "Rhône"
+                ],
+                "fr": [
+                  "Rhône"
+                ],
+                "nl": [
+                  "Rhône"
+                ],
+                "es": [
+                  "Rhône"
+                ]
+              },
+              "insee": "69",
+              "isPartOfRegion": {
+                "@id": "kb:France84",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "pt": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "en": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "it": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "fr": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "nl": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "es": [
+                    "Auvergne-Rhône-Alpes"
+                  ]
+                },
+                "insee": "84",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/dfd2ba9e-307d-34a9-8ae8-ea761250317b",
+        "schema:latitude": "45.458547",
+        "schema:longitude": "4.769364",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/77a7285f-3a2a-3e0f-86fd-f1b14ecb328f",
+      "schema:email": [
+        "ajouvenaud@vienne-condrieu.com",
+        "mdubus@vienne-condrieu.com"
+      ],
+      "schema:legalName": "Office de Tourisme de Vienne Condrieu Agglomération",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.vienne-condrieu.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-12-14",
+  "lastUpdateDatatourisme": "2023-12-15T06:40:57.174Z"
+}

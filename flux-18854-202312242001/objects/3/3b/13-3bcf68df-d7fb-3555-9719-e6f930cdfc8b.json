@@ -1,0 +1,543 @@
+{
+  "@id": "https://data.datatourisme.fr/13/3bcf68df-d7fb-3555-9719-e6f930cdfc8b",
+  "dc:identifier": "118360",
+  "@type": [
+    "Church",
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "ReligiousSite"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Kirche aus dem 12. Jahrhundert, die im 15. und 18. Jahrhundert restauriert wurde. 1895 wurde sie entweiht. Sie ist im Zusatzinventar der historischen Denkmäler eingetragen."
+    ],
+    "en": [
+      "This 12th-century church, restored in the 15th and 18th centuries, was decommissioned in 1895. It is listed in the supplementary inventory of historical monuments."
+    ],
+    "it": [
+      "Questa chiesa del XII secolo, restaurata nel XV e XVIII secolo, è stata dismessa nel 1895. È inserita nell'inventario supplementare dei monumenti storici."
+    ],
+    "fr": [
+      "Eglise du XIIème siècle, restaurée au XVème et XVIIIème siècle, elle a été désaffectée en 1895. Elle est inscrite à l'inventaire supplémentaire des monuments historiques."
+    ],
+    "es": [
+      "Esta iglesia del siglo XII, restaurada en los siglos XV y XVIII, quedó en desuso en 1895. Está inscrita en el inventario suplementario de monumentos históricos."
+    ],
+    "nl": [
+      "Deze kerk uit de 12e eeuw, gerestaureerd in de 15e en 18e eeuw, werd in 1895 buiten gebruik gesteld. Ze staat op de aanvullende inventaris van historische monumenten."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Ancienne église Saint Jean Baptiste"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/b6d767d2-f8ed-3d21-a44b-0e5886680cb9",
+    "dc:identifier": "22",
+    "schema:email": [
+      "josiane.rivier@paysdelarbresle.fr",
+      "officedetourisme@paysdelarbresle.fr"
+    ],
+    "schema:legalName": "Office de Tourisme du Pays de l'Arbresle",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.arbresletourisme.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/8a9feb4b-2cbd-3d2c-b507-bd6c6776b23b",
+      "schema:legalName": "Apidae Tourisme Scic SA - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/25aeded2-1a68-343e-953c-413fa680a430",
+      "schema:email": [
+        "contact@sain-bel.fr"
+      ],
+      "schema:telephone": [
+        "+33 4 74 01 24 80"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/f50847c8-4e88-38dc-b5c9-2f9df20f5357",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/03994a2a-ef4c-32de-9b60-17ae44a21aae",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/5ad38393-42bb-3e63-8195-4bfaee326f41",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/71069742-5dbc-3eb0-ae2b-7fc6a19be908",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/8c1da32e-9aa3-3af4-8d5e-8129b42d38c3",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f0063e71-70c4-3700-9caa-15ad7abec4be",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Kirche aus dem 12. Jahrhundert, die im 15. und 18. Jahrhundert restauriert wurde. 1895 wurde sie entweiht. Sie ist im Zusatzinventar der historischen Denkmäler eingetragen."
+        ],
+        "en": [
+          "This 12th-century church, restored in the 15th and 18th centuries, was decommissioned in 1895. It is listed in the supplementary inventory of historical monuments."
+        ],
+        "it": [
+          "Questa chiesa del XII secolo, restaurata nel XV e XVIII secolo, è stata dismessa nel 1895. È inserita nell'inventario supplementare dei monumenti storici."
+        ],
+        "fr": [
+          "Eglise du XIIème siècle, restaurée au XVème et XVIIIème siècle, elle a été désaffectée en 1895. Elle est inscrite à l'inventaire supplémentaire des monuments historiques."
+        ],
+        "es": [
+          "Esta iglesia del siglo XII, restaurada en los siglos XV y XVIII, quedó en desuso en 1895. Está inscrita en el inventario suplementario de monumentos históricos."
+        ],
+        "nl": [
+          "Deze kerk uit de 12e eeuw, gerestaureerd in de 15e en 18e eeuw, werd in 1895 buiten gebruik gesteld. Ze staat op de aanvullende inventaris van historische monumenten."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/01956e59-a903-3aed-bd7a-4ae751ab61cd",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/82545f1f-6893-3838-87b1-047af2fd2617",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/90b243a4-1db0-3c4d-8c69-cb2e4fd5086f",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/97abb5b0-fd24-38b6-84c8-8e615c4c5c8d",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/e81223f4-87fe-3838-9240-f485e5bbeb3a",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/f28bbcf1-9929-3fbf-8cca-8f5709dfd683",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/f1d8f74d-02de-3dc0-85f1-74b597a96bb1",
+          "schema:addressLocality": "Sain-Bel",
+          "schema:postalCode": "69210",
+          "schema:streetAddress": [
+            "Place de l'église"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:69171",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Sain-Bel"
+              ],
+              "pt": [
+                "Sain-Bel"
+              ],
+              "en": [
+                "Sain-Bel"
+              ],
+              "it": [
+                "Sain-Bel"
+              ],
+              "fr": [
+                "Sain-Bel"
+              ],
+              "nl": [
+                "Sain-Bel"
+              ],
+              "es": [
+                "Sain-Bel"
+              ]
+            },
+            "insee": "69171",
+            "isPartOfDepartment": {
+              "@id": "kb:France8469",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Rhône"
+                ],
+                "pt": [
+                  "Rhône"
+                ],
+                "en": [
+                  "Rhône"
+                ],
+                "it": [
+                  "Rhône"
+                ],
+                "fr": [
+                  "Rhône"
+                ],
+                "nl": [
+                  "Rhône"
+                ],
+                "es": [
+                  "Rhône"
+                ]
+              },
+              "insee": "69",
+              "isPartOfRegion": {
+                "@id": "kb:France84",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "pt": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "en": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "it": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "fr": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "nl": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "es": [
+                    "Auvergne-Rhône-Alpes"
+                  ]
+                },
+                "insee": "84",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/7c42c76b-accf-396a-8fb0-fbecb9e11b3b",
+        "schema:elevation": "254",
+        "schema:latitude": "45.809517",
+        "schema:longitude": "4.597097",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/8eae29b6-535f-3e03-b159-b4fdc3c211e1",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "auf Anfrage"
+            ],
+            "en": [
+              "on demand"
+            ],
+            "it": [
+              "su richiesta"
+            ],
+            "fr": [
+              "sur demande"
+            ],
+            "nl": [
+              "op verzoek"
+            ],
+            "es": [
+              "a petición"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/02d5b8e9-fe99-3940-a848-470b506f52d4",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/1331dd3b-3ff1-3f67-8e3d-0d04714dd330",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/74102b70-f268-3e74-b1dc-f072288cddec",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/77cfcf73-c80b-3d9d-8cd8-0ddfa790080e",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/84fa2547-f34b-3fd9-8997-cae42a33edd6",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/7479cce0-3110-30a6-9c12-c1cac0b8d082",
+      "schema:email": [
+        "josiane.rivier@paysdelarbresle.fr",
+        "officedetourisme@paysdelarbresle.fr"
+      ],
+      "schema:legalName": "Office de Tourisme du Pays de l'Arbresle",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.arbresletourisme.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-11-22",
+  "lastUpdateDatatourisme": "2023-11-23T06:43:44.69Z"
+}

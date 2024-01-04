@@ -1,0 +1,507 @@
+{
+  "@id": "https://data.datatourisme.fr/13/677b27ae-b7db-3719-a3b2-e33cae229b7d",
+  "dc:identifier": "6614034",
+  "@type": [
+    "schema:Accommodation",
+    "schema:BedAndBreakfast",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "Guesthouse",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RentalAccommodation"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Neuheit! Eröffnung im September 2023.\r\nEin atypischer, ungewöhnlicher und authentischer Lebensraum, eine einzigartige Erfahrung mit den Füßen im Wasser, um Ihnen unvergessliche Nächte und Momente in einem Slow-Life-Geist zu bieten."
+    ],
+    "en": [
+      "What's new? Opening in September 2023.\r\nA truly atypical, unusual and authentic place to live, a unique experience with your feet in the water, to offer you unforgettable nights and moments in a Slow Life spirit."
+    ],
+    "it": [
+      "Cosa c'è di nuovo? Apertura a settembre 2023.\r\nUn luogo di vita atipico, insolito e autentico, un'esperienza unica con i piedi nell'acqua, per offrirvi notti e momenti indimenticabili in uno spirito Slow Life."
+    ],
+    "fr": [
+      "Nouveauté ! Ouverture en septembre 2023.\r\nVéritable lieu de vie atypique, Insolite et authentique, une expérience unique les pieds dans l’eau, pour vous offrir des nuits et moments inoubliables dans un esprit Slow Life."
+    ],
+    "es": [
+      "¿Qué hay de nuevo? Inauguración en septiembre de 2023.\r\nUn lugar atípico, insólito y auténtico para vivir, una experiencia única con los pies en el agua, para ofrecerle noches y momentos inolvidables en un espíritu Slow Life."
+    ],
+    "nl": [
+      "Wat is er nieuw? Opening in september 2023.\r\nEen atypische, ongewone en authentieke plek om te wonen, een unieke ervaring met je voeten in het water, om je onvergetelijke nachten en momenten te bieden in de geest van Slow Life."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Bed and Bicycle (La Péniche)"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/38b3eff8-baf5-3627-878e-c76a704e9b52",
+    "dc:identifier": "101",
+    "schema:email": [
+      "ajouvenaud@vienne-condrieu.com",
+      "mdubus@vienne-condrieu.com"
+    ],
+    "schema:legalName": "Office de Tourisme de Vienne Condrieu Agglomération",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.vienne-condrieu.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/8a9feb4b-2cbd-3d2c-b507-bd6c6776b23b",
+      "schema:legalName": "Apidae Tourisme Scic SA - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/5edf0573-96d5-388e-9595-7fd1f3fa673b",
+      "schema:email": [
+        "bedandbicycle@lapeniche.eu"
+      ],
+      "schema:telephone": [
+        "+33 4 65 84 02 73"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.lapeniche.eu/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/3a00f9ed-ed0f-3c99-a8a3-6d19b01fa953",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/13bef45e-9a59-35b1-9f3b-2e20ce5fcb6d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/3dcc3278-ad5e-3e3c-9255-8245acd662ff",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/7e98b17c-b08d-3cbc-8895-59bddbaca307",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/bf50d0c0-8092-3066-9ecd-59b6b5863e64",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e2ed33ca-e106-393a-aa5e-c76eaab13f44",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Neuheit! Eröffnung im September 2023.\r\nEin atypischer, ungewöhnlicher und authentischer Lebensraum, eine einzigartige Erfahrung mit den Füßen im Wasser, um Ihnen unvergessliche Nächte und Momente in einem Slow-Life-Geist zu bieten."
+        ],
+        "en": [
+          "What's new? Opening in September 2023.\r\nA truly atypical, unusual and authentic place to live, a unique experience with your feet in the water, to offer you unforgettable nights and moments in a Slow Life spirit."
+        ],
+        "it": [
+          "Cosa c'è di nuovo? Apertura a settembre 2023.\r\nUn luogo di vita atipico, insolito e autentico, un'esperienza unica con i piedi nell'acqua, per offrirvi notti e momenti indimenticabili in uno spirito Slow Life."
+        ],
+        "fr": [
+          "Nouveauté ! Ouverture en septembre 2023.\r\nVéritable lieu de vie atypique, Insolite et authentique, une expérience unique les pieds dans l’eau, pour vous offrir des nuits et moments inoubliables dans un esprit Slow Life."
+        ],
+        "es": [
+          "¿Qué hay de nuevo? Inauguración en septiembre de 2023.\r\nUn lugar atípico, insólito y auténtico para vivir, una experiencia única con los pies en el agua, para ofrecerle noches y momentos inolvidables en un espíritu Slow Life."
+        ],
+        "nl": [
+          "Wat is er nieuw? Opening in september 2023.\r\nEen atypische, ongewone en authentieke plek om te wonen, een unieke ervaring met je voeten in het water, om je onvergetelijke nachten en momenten te bieden in de geest van Slow Life."
+        ]
+      }
+    }
+  ],
+  "hasReview": [
+    {
+      "@id": "https://data.datatourisme.fr/6e866798-cae5-351c-9e8d-963661217e60",
+      "@type": [
+        "Review"
+      ],
+      "hasReviewValue": {
+        "@id": "kb:LabelRating_AccueilVelo",
+        "@type": [
+          "LabelRating"
+        ],
+        "rdfs:label": {
+          "de": [
+            "Accueil Vélo"
+          ],
+          "pt": [
+            "Accueil Vélo"
+          ],
+          "en": [
+            "Accueil Vélo"
+          ],
+          "it": [
+            "Accueil Vélo"
+          ],
+          "fr": [
+            "Accueil Vélo"
+          ],
+          "nl": [
+            "Accueil Vélo"
+          ],
+          "es": [
+            "Accueil Vélo"
+          ]
+        },
+        "isCompliantWith": [
+          "PlaceOfInterest"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/896957aa-2130-3ffb-a8b8-3e027703791c",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/8f9cbb56-129d-3bc0-9ed8-5bb7172ce514",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/bb7a00ca-4796-32a6-a645-9dc7c4683912",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/c90b25e3-a766-3afc-ad5a-64af95805283",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/ce7dcb10-9d02-384e-ac00-d78fd13fa605",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/bdcbfa48-1f12-35df-a8f6-2a7a10cf81cb",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/17cafdab-7d64-346a-a79a-575aced0aa10",
+          "schema:addressLocality": "Sainte-Colombe",
+          "schema:postalCode": "69560",
+          "schema:streetAddress": [
+            "420 Quai d’Herbouville"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:69189",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Sainte-Colombe"
+              ],
+              "pt": [
+                "Sainte-Colombe"
+              ],
+              "en": [
+                "Sainte-Colombe"
+              ],
+              "it": [
+                "Sainte-Colombe"
+              ],
+              "fr": [
+                "Sainte-Colombe"
+              ],
+              "nl": [
+                "Sainte-Colombe"
+              ],
+              "es": [
+                "Sainte-Colombe"
+              ]
+            },
+            "insee": "69189",
+            "isPartOfDepartment": {
+              "@id": "kb:France8469",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Rhône"
+                ],
+                "pt": [
+                  "Rhône"
+                ],
+                "en": [
+                  "Rhône"
+                ],
+                "it": [
+                  "Rhône"
+                ],
+                "fr": [
+                  "Rhône"
+                ],
+                "nl": [
+                  "Rhône"
+                ],
+                "es": [
+                  "Rhône"
+                ]
+              },
+              "insee": "69",
+              "isPartOfRegion": {
+                "@id": "kb:France84",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "pt": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "en": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "it": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "fr": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "nl": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "es": [
+                    "Auvergne-Rhône-Alpes"
+                  ]
+                },
+                "insee": "84",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/7c4cb1fb-149a-3687-9f1e-6db9d60ee91b",
+        "schema:latitude": "45.524488",
+        "schema:longitude": "4.868303",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/fab38873-05e4-33f5-ad59-43d12e8d3d1d",
+          "schema:validFrom": "2023-09-25T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/77a7285f-3a2a-3e0f-86fd-f1b14ecb328f",
+      "schema:email": [
+        "ajouvenaud@vienne-condrieu.com",
+        "mdubus@vienne-condrieu.com"
+      ],
+      "schema:legalName": "Office de Tourisme de Vienne Condrieu Agglomération",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.vienne-condrieu.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-11-12",
+  "lastUpdateDatatourisme": "2023-11-13T06:42:35.591Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/8d0c8258-1ba4-3dcc-84f7-5706921f3c80",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/9ccffe1a-7e6e-3da4-bcf9-49a8dfc2f581",
+          "schema:minPrice": [
+            "179"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/0d91f026-3973-33c6-b60b-1ed48fa9eb20",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2024-12-31",
+              "startDate": "2023-09-25"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

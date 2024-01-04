@@ -1,0 +1,430 @@
+{
+  "@id": "https://data.datatourisme.fr/13/95c96b50-5a07-3845-ad02-90bcfadf82fc",
+  "dc:identifier": "6471992",
+  "@type": [
+    "schema:FoodEstablishment",
+    "FoodEstablishment",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "In \"La Luciole\", Comptoir gourmand & éthique, können Sie Ihren Gaumen verwöhnen und gleichzeitig Ihre ethischen Überzeugungen respektieren! Das Konzept wurde entwickelt, um Ihnen eine schnelle und schmackhafte Mittagspause zu bieten. Eine gute Adresse in Lyon, um ein Sandwich zu essen!"
+    ],
+    "en": [
+      "Indulge in delicious treats while upholding your ethical beliefs at “la Luciole”, tasty and ethical counter in the heart of Lyon. Our concept was designed to offer you a quick and tasty lunch break, without compromising on the quality and ethics of our preparations."
+    ],
+    "it": [
+      "Concedetevi una pausa dolce nel rispetto delle vostre convinzioni etiche presso \"La Luciole\", un banco gourmet ed etico! L'idea è di offrire una pausa pranzo veloce e gustosa. Un luogo ideale per mangiare un panino a Lione!"
+    ],
+    "fr": [
+      "Succombez à la gourmandise tout en respectant vos convictions éthiques à « la Luciole », Comptoir gourmand & éthique ! Le concept a été conçu pour vous offrir une pause déjeuner rapide et savoureuse. Une bonne adresse lyonnaise pour manger un sandwich !"
+    ],
+    "nl": [
+      "Verwen je zoetekauw met respect voor je ethische overtuigingen bij \"La Luciole\", een gastronomisch en ethisch loket! Het concept is ontworpen om je een snelle en smakelijke lunchpauze te geven. Een geweldige plek om een broodje te eten in Lyon!"
+    ],
+    "es": [
+      "Dése un capricho respetando sus convicciones éticas en \"La Luciole\", un mostrador gourmet y ético El concepto está pensado para ofrecerle un almuerzo rápido y sabroso. Un lugar ideal para comer un bocadillo en Lyon"
+    ]
+  },
+  "rdfs:label": {
+    "de": [
+      "La Luciole - Comptoir Gourmand et Ethique"
+    ],
+    "ru": [
+      "La Luciole - Comptoir Gourmand et Ethique"
+    ],
+    "en": [
+      "La Luciole - Comptoir Gourmand et Ethique"
+    ],
+    "it": [
+      "La Luciole - Comptoir Gourmand et Ethique"
+    ],
+    "fr": [
+      "La Luciole - Comptoir Gourmand et Ethique"
+    ],
+    "zh": [
+      "La Luciole - Comptoir Gourmand et Ethique"
+    ],
+    "nl": [
+      "La Luciole - Comptoir Gourmand et Ethique"
+    ],
+    "es": [
+      "La Luciole - Comptoir Gourmand et Ethique"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/45c48cce-2e2d-3fbd-aa1a-fc51c7c6ad26",
+    "dc:identifier": "9",
+    "schema:email": [
+      "apidae@lyon-france.com",
+      "seveillard@lyon-france.com",
+      "vbilly@lyon-france.com"
+    ],
+    "schema:legalName": "Lyon Tourisme et Congrès / ONLYLYON Tourisme",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.lyon-france.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/8a9feb4b-2cbd-3d2c-b507-bd6c6776b23b",
+      "schema:legalName": "Apidae Tourisme Scic SA - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/12a627bc-66e7-378c-ba4d-7b0de1bb5f14",
+      "schema:email": [
+        "apollinelyon@gmail.com"
+      ],
+      "schema:telephone": [
+        "+33 9 86 54 16 34"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.laluciole-lyon.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/ae8bf34a-2ea3-3920-9a1f-e86bbd45c8ba",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/00b3b83a-b624-32f9-a303-4140f72da9e7",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/04075446-220e-3ce6-ad8e-4ad62c223baa",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/32e13585-aa0e-33c0-b760-cf099ec95d75",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/59071956-42a6-3464-9df2-a465e0431a43",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "In \"La Luciole\", Comptoir gourmand & éthique, können Sie Ihren Gaumen verwöhnen und gleichzeitig Ihre ethischen Überzeugungen respektieren! Das Konzept wurde entwickelt, um Ihnen eine schnelle und schmackhafte Mittagspause zu bieten. Eine gute Adresse in Lyon, um ein Sandwich zu essen!"
+        ],
+        "en": [
+          "Indulge in delicious treats while upholding your ethical beliefs at “la Luciole”, tasty and ethical counter in the heart of Lyon. Our concept was designed to offer you a quick and tasty lunch break, without compromising on the quality and ethics of our preparations."
+        ],
+        "it": [
+          "Concedetevi una pausa dolce nel rispetto delle vostre convinzioni etiche presso \"La Luciole\", un banco gourmet ed etico! L'idea è di offrire una pausa pranzo veloce e gustosa. Un luogo ideale per mangiare un panino a Lione!"
+        ],
+        "fr": [
+          "Succombez à la gourmandise tout en respectant vos convictions éthiques à « la Luciole », Comptoir gourmand & éthique ! Le concept a été conçu pour vous offrir une pause déjeuner rapide et savoureuse. Une bonne adresse lyonnaise pour manger un sandwich !"
+        ],
+        "nl": [
+          "Verwen je zoetekauw met respect voor je ethische overtuigingen bij \"La Luciole\", een gastronomisch en ethisch loket! Het concept is ontworpen om je een snelle en smakelijke lunchpauze te geven. Een geweldige plek om een broodje te eten in Lyon!"
+        ],
+        "es": [
+          "Dése un capricho respetando sus convicciones éticas en \"La Luciole\", un mostrador gourmet y ético El concepto está pensado para ofrecerle un almuerzo rápido y sabroso. Un lugar ideal para comer un bocadillo en Lyon"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/2644ab7d-5af7-3975-bb19-9cb12b2ed110",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/3e97ab60-035e-3c70-b5a9-90eca95f5a39",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/495fb3d1-885b-3bf0-abc9-e10208ec06db",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/e3545984-766d-387e-8891-d6b42eaf3582",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/466dc300-4373-389f-b5f5-96e478cbfc6a",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/e8b7b7c5-37c5-373a-99fb-76079b0ac9d4",
+          "schema:addressLocality": "Lyon 2e Arrondissement",
+          "schema:postalCode": "69002",
+          "schema:streetAddress": [
+            "22 rue de la Charité"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:69382",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Lyon 2e Arrondissement"
+              ],
+              "pt": [
+                "Lyon 2e Arrondissement"
+              ],
+              "en": [
+                "Lyon 2e Arrondissement"
+              ],
+              "it": [
+                "Lyon 2e Arrondissement"
+              ],
+              "fr": [
+                "Lyon 2e Arrondissement"
+              ],
+              "nl": [
+                "Lyon 2e Arrondissement"
+              ],
+              "es": [
+                "Lyon 2e Arrondissement"
+              ]
+            },
+            "insee": "69382",
+            "isPartOfDepartment": {
+              "@id": "kb:France8469",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Rhône"
+                ],
+                "pt": [
+                  "Rhône"
+                ],
+                "en": [
+                  "Rhône"
+                ],
+                "it": [
+                  "Rhône"
+                ],
+                "fr": [
+                  "Rhône"
+                ],
+                "nl": [
+                  "Rhône"
+                ],
+                "es": [
+                  "Rhône"
+                ]
+              },
+              "insee": "69",
+              "isPartOfRegion": {
+                "@id": "kb:France84",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "pt": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "en": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "it": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "fr": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "nl": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "es": [
+                    "Auvergne-Rhône-Alpes"
+                  ]
+                },
+                "insee": "84",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/2174def8-2cbc-3860-abc9-844971b83c85",
+        "schema:latitude": "45.754336",
+        "schema:longitude": "4.832265",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/3e620c25-0386-3f24-9e33-3280462b7b97",
+          "schema:closes": "15:00:00",
+          "schema:opens": "08:00:00",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/33848473-e8f7-3b5e-a27f-1813fca76a01",
+      "schema:email": [
+        "apidae@lyon-france.com",
+        "seveillard@lyon-france.com",
+        "vbilly@lyon-france.com"
+      ],
+      "schema:legalName": "Lyon Tourisme et Congrès / ONLYLYON Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.lyon-france.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-11-24",
+  "lastUpdateDatatourisme": "2023-11-25T06:45:32.637Z"
+}

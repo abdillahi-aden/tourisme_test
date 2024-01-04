@@ -1,0 +1,541 @@
+{
+  "@id": "https://data.datatourisme.fr/13/adc7cbe5-a8ac-39ac-8025-36dbb483ee44",
+  "dc:identifier": "255341",
+  "@type": [
+    "schema:FoodEstablishment",
+    "FoodEstablishment",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Genießen Sie unter dem Barockzelt des Cirque Imagine eine Dinnershow \"Cabaret-Cirque\" in einer zauberhaften und atypischen Welt!\r\nEin einzigartiges und in Frankreich noch nie dagewesenes Konzept."
+    ],
+    "en": [
+      "Under the Cirque Imagine's baroque-style big top\" enjoy a dinner-show in  a magical and unusual setting ! An unique and unpublished concept in France."
+    ],
+    "it": [
+      "Sotto il tendone barocco del Cirque Imagine, godetevi una cena-spettacolo \"Cabaret-Cirque\", in un universo incantevole e atipico!\r\nUn concetto unico mai visto prima in Francia."
+    ],
+    "fr": [
+      "Sous le chapiteau baroque du Cirque Imagine, profitez d'un dîner-spectacle \"Cabaret-Cirque\", dans un univers enchanteur et atypique ! \r\nUn concept unique et inédit en France."
+    ],
+    "nl": [
+      "Onder de barokke big top van het Cirque Imagine kunt u genieten van een \"Cabaret-Cirque\" dinnershow, in een betoverende en atypische wereld!\r\nEen uniek concept, nooit eerder gezien in Frankrijk."
+    ],
+    "es": [
+      "Bajo la carpa barroca del Cirque Imagine, disfrute de una cena-espectáculo \"Cabaret-Cirque\", en un universo encantador y atípico\r\nUn concepto único nunca visto en Francia."
+    ]
+  },
+  "rdfs:label": {
+    "de": [
+      "Cirque Imagine"
+    ],
+    "en": [
+      "Cirque Imagine"
+    ],
+    "it": [
+      "Cirque Imagine"
+    ],
+    "fr": [
+      "Cirque Imagine"
+    ],
+    "es": [
+      "Cirque Imagine"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/45c48cce-2e2d-3fbd-aa1a-fc51c7c6ad26",
+    "dc:identifier": "9",
+    "schema:email": [
+      "apidae@lyon-france.com",
+      "seveillard@lyon-france.com",
+      "vbilly@lyon-france.com"
+    ],
+    "schema:legalName": "Lyon Tourisme et Congrès / ONLYLYON Tourisme",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.lyon-france.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/8a9feb4b-2cbd-3d2c-b507-bd6c6776b23b",
+      "schema:legalName": "Apidae Tourisme Scic SA - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/3866a854-65d8-3f64-9c6a-d0021440ba70",
+      "schema:email": [
+        "contact@cirqueimagine.com"
+      ],
+      "schema:telephone": [
+        "+33 4 78 24 32 43"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.cirqueimagine.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/37cde57d-cd73-30ef-9f41-4297965cb15e",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/6f46344f-93c9-37ea-a6e9-99eadf10a9c9",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/8fea3a8b-c4a1-3e2c-ae64-d36f3a7cf6ea",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b007b253-97ee-31de-b2ba-52ec913c09f0",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e7351731-8cc9-3f89-943a-623ae6902687",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Genießen Sie unter dem Barockzelt des Cirque Imagine eine Dinnershow \"Cabaret-Cirque\" in einer zauberhaften und atypischen Welt!\r\nEin einzigartiges und in Frankreich noch nie dagewesenes Konzept."
+        ],
+        "en": [
+          "Under the Cirque Imagine's baroque-style big top\" enjoy a dinner-show in  a magical and unusual setting ! An unique and unpublished concept in France."
+        ],
+        "it": [
+          "Sotto il tendone barocco del Cirque Imagine, godetevi una cena-spettacolo \"Cabaret-Cirque\", in un universo incantevole e atipico!\r\nUn concetto unico mai visto prima in Francia."
+        ],
+        "fr": [
+          "Sous le chapiteau baroque du Cirque Imagine, profitez d'un dîner-spectacle \"Cabaret-Cirque\", dans un univers enchanteur et atypique ! \r\nUn concept unique et inédit en France."
+        ],
+        "nl": [
+          "Onder de barokke big top van het Cirque Imagine kunt u genieten van een \"Cabaret-Cirque\" dinnershow, in een betoverende en atypische wereld!\r\nEen uniek concept, nooit eerder gezien in Frankrijk."
+        ],
+        "es": [
+          "Bajo la carpa barroca del Cirque Imagine, disfrute de una cena-espectáculo \"Cabaret-Cirque\", en un universo encantador y atípico\r\nUn concepto único nunca visto en Francia."
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/20d95838-7bf1-344c-bdf8-4c6614775101",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/283e9f1c-9862-3751-b7e1-ef67b7b4bf11",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/78785ef4-2631-3ab8-8eb2-5fc6fa52fe97",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/8f424e4f-9d41-3c24-bc5f-82823e6d7555",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/175cc176-e253-3827-9546-7685e8dadf48",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/9f1faa44-a83b-3db6-b71f-3e5408562bae",
+          "schema:addressLocality": "Vaulx-en-Velin",
+          "schema:postalCode": "69120",
+          "schema:streetAddress": [
+            "5 avenue des Canuts",
+            "Carré de Soie"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:69256",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Vaulx-en-Velin"
+              ],
+              "pt": [
+                "Vaulx-en-Velin"
+              ],
+              "en": [
+                "Vaulx-en-Velin"
+              ],
+              "it": [
+                "Vaulx-en-Velin"
+              ],
+              "fr": [
+                "Vaulx-en-Velin"
+              ],
+              "nl": [
+                "Vaulx-en-Velin"
+              ],
+              "es": [
+                "Vaulx-en-Velin"
+              ]
+            },
+            "insee": "69256",
+            "isPartOfDepartment": {
+              "@id": "kb:France8469",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Rhône"
+                ],
+                "pt": [
+                  "Rhône"
+                ],
+                "en": [
+                  "Rhône"
+                ],
+                "it": [
+                  "Rhône"
+                ],
+                "fr": [
+                  "Rhône"
+                ],
+                "nl": [
+                  "Rhône"
+                ],
+                "es": [
+                  "Rhône"
+                ]
+              },
+              "insee": "69",
+              "isPartOfRegion": {
+                "@id": "kb:France84",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "pt": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "en": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "it": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "fr": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "nl": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "es": [
+                    "Auvergne-Rhône-Alpes"
+                  ]
+                },
+                "insee": "84",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/2fc4df52-fa2e-3c4a-8742-a192dee447ff",
+        "schema:latitude": "45.762191",
+        "schema:longitude": "4.924717",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/6f6d5f85-0acc-31e2-a65a-5f85c9ed22ff",
+          "schema:validFrom": "2023-09-05T00:00:00",
+          "schema:validThrough": "2023-07-01T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Termine der Aufführungen sind im Kalender auf der Website einsehbar."
+            ],
+            "en": [
+              "Dates of shows can be consulted on the calendar of the website."
+            ],
+            "it": [
+              "Le date degli spettacoli possono essere consultate sul calendario del sito web."
+            ],
+            "fr": [
+              "Dates de spectacles consultables sur le calendrier du site Internet."
+            ],
+            "nl": [
+              "Voorstellingsdata zijn te raadplegen op de kalender van de website."
+            ],
+            "es": [
+              "Las fechas de las actuaciones pueden consultarse en el calendario del sitio web."
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/07a8e192-e4e9-3ffc-91d5-90b0dc583b22",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/2f3cf315-15bb-3591-bbfc-dd3c6ecd8226",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/4718031c-3021-337c-a5f0-cd70377238bf",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/50dd2fc5-c8c8-37dc-9740-56fe300464a6",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/b0cca228-413d-3c7b-827f-b5b745bff7c2",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/33848473-e8f7-3b5e-a27f-1813fca76a01",
+      "schema:email": [
+        "apidae@lyon-france.com",
+        "seveillard@lyon-france.com",
+        "vbilly@lyon-france.com"
+      ],
+      "schema:legalName": "Lyon Tourisme et Congrès / ONLYLYON Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.lyon-france.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-11-13",
+  "lastUpdateDatatourisme": "2023-12-23T06:39:46.311Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/d90038a7-b092-3621-9d77-73082778bf05",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f8dd86a3-32d9-3ccd-bc0a-1d00b3bc2125",
+          "schema:maxPrice": [
+            "50",
+            "93",
+            "95"
+          ],
+          "schema:minPrice": [
+            "50",
+            "63",
+            "65"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/59be72f3-3ce1-3121-8da5-ee86a29213d2",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2024-07-01",
+              "startDate": "2023-09-05"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

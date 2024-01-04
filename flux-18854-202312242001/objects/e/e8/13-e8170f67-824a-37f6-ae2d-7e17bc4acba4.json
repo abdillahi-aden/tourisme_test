@@ -1,0 +1,589 @@
+{
+  "@id": "https://data.datatourisme.fr/13/e8170f67-824a-37f6-ae2d-7e17bc4acba4",
+  "dc:identifier": "5502560",
+  "@type": [
+    "schema:Landform",
+    "schema:LocalBusiness",
+    "Beach",
+    "FitnessCenter",
+    "NaturalHeritage",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "SportsAndLeisurePlace",
+    "SwimmingPool"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "L'Archipel, Ihr Aqua-Center im Pays de L'Arbresle, liegt nur 20 km von Lyon entfernt! Dieser Komplex bietet eine große Auswahl an Wassersportangeboten."
+    ],
+    "en": [
+      "This hydro centre is devoted to the pleasure of water, relaxation and fitness, in summer as in winter. It has indoor and outdoor pools with slides and wide raft slide, a playground, picnic area and fitness centre (body building, sauna...)."
+    ],
+    "it": [
+      "A soli 20 km da Lione, venite a scoprire L'Archipel, il vostro centro acquatico nel Pays de L'Arbresle! Questo complesso offre un'ampia gamma di attività acquatiche per il tempo libero."
+    ],
+    "fr": [
+      "Situé à seulement 20 km de Lyon, venez découvrir L’Archipel, votre Aqua-Centre du Pays de L’Arbresle ! Ce complexe offre un large choix de prestations de loisirs aquatiques."
+    ],
+    "es": [
+      "Situado a sólo 20 km de Lyon, venga a descubrir L'Archipel, su centro acuático en el País de Arbresle Este complejo ofrece una amplia gama de actividades de ocio acuático."
+    ],
+    "nl": [
+      "Kom op 20 km van Lyon L'Archipel ontdekken, uw Aqua-Centrum in het Pays de L'Arbresle! Dit complex biedt een breed scala aan aquatische vrijetijdsactiviteiten."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "L'Archipel, Aqua-centre du Pays de L'Arbresle (groupe)"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/b6d767d2-f8ed-3d21-a44b-0e5886680cb9",
+    "dc:identifier": "22",
+    "schema:email": [
+      "josiane.rivier@paysdelarbresle.fr",
+      "officedetourisme@paysdelarbresle.fr"
+    ],
+    "schema:legalName": "Office de Tourisme du Pays de l'Arbresle",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.arbresletourisme.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/8a9feb4b-2cbd-3d2c-b507-bd6c6776b23b",
+      "schema:legalName": "Apidae Tourisme Scic SA - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/4f0a6595-3d00-395b-8792-f749fa7e64e7",
+      "schema:email": [
+        "contact@archipel-aquacentre.fr"
+      ],
+      "schema:telephone": [
+        "+33 4 74 01 55 00"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.archipel-aquacentre.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/bf33a640-97e7-302d-bef1-9e04414be80f",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/2b59b5ce-6aee-3b58-bd29-33066cdc6b1e",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/76e27e45-fa71-3c42-88ec-07d6e3da8b65",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/97478b7d-2e9c-3213-8a4b-c667fc24dd22",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a93e3c39-c2c5-34bb-ad73-02c5b01a6950",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "L'Archipel, Ihr Aqua-Center im Pays de L'Arbresle, liegt nur 20 km von Lyon entfernt! Dieser Komplex bietet eine große Auswahl an Wassersportangeboten."
+        ],
+        "en": [
+          "This hydro centre is devoted to the pleasure of water, relaxation and fitness, in summer as in winter. It has indoor and outdoor pools with slides and wide raft slide, a playground, picnic area and fitness centre (body building, sauna...)."
+        ],
+        "it": [
+          "A soli 20 km da Lione, venite a scoprire L'Archipel, il vostro centro acquatico nel Pays de L'Arbresle! Questo complesso offre un'ampia gamma di attività acquatiche per il tempo libero."
+        ],
+        "fr": [
+          "Situé à seulement 20 km de Lyon, venez découvrir L’Archipel, votre Aqua-Centre du Pays de L’Arbresle ! Ce complexe offre un large choix de prestations de loisirs aquatiques."
+        ],
+        "es": [
+          "Situado a sólo 20 km de Lyon, venga a descubrir L'Archipel, su centro acuático en el País de Arbresle Este complejo ofrece una amplia gama de actividades de ocio acuático."
+        ],
+        "nl": [
+          "Kom op 20 km van Lyon L'Archipel ontdekken, uw Aqua-Centrum in het Pays de L'Arbresle! Dit complex biedt een breed scala aan aquatische vrijetijdsactiviteiten."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Bathing",
+      "@type": [
+        "AccommodationAmenity",
+        "SportsTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Baden"
+        ],
+        "pt": [
+          "Banho"
+        ],
+        "en": [
+          "Bathing"
+        ],
+        "it": [
+          "Bagno"
+        ],
+        "fr": [
+          "Baignade"
+        ],
+        "nl": [
+          "Zwemmen"
+        ],
+        "es": [
+          "Baño"
+        ]
+      }
+    },
+    {
+      "@id": "kb:Fitness",
+      "@type": [
+        "SportsTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Fitness"
+        ],
+        "pt": [
+          "Manutenção da forma física"
+        ],
+        "en": [
+          "Fitness"
+        ],
+        "it": [
+          "Fitness"
+        ],
+        "fr": [
+          "Remise en forme"
+        ],
+        "nl": [
+          "Fitness"
+        ],
+        "es": [
+          "Fitness"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/5b1f5501-f5fb-37d3-aa32-30dc54e65a4d",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/6464b73f-b0f6-38d6-b600-f34d987dbb04",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/a430615e-51b6-3d0d-b47c-c4e62096e2a8",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/df17bae5-9745-3d42-852b-f221f8ce58b7",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/21c53aa9-6422-33f5-aa69-3df06e52aa00",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/1a581827-3232-3ac8-a49c-51ad02302e6e",
+          "schema:addressLocality": "Sain-Bel",
+          "schema:postalCode": "69210",
+          "schema:streetAddress": [
+            "Route de Grands Champs"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:69171",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Sain-Bel"
+              ],
+              "pt": [
+                "Sain-Bel"
+              ],
+              "en": [
+                "Sain-Bel"
+              ],
+              "it": [
+                "Sain-Bel"
+              ],
+              "fr": [
+                "Sain-Bel"
+              ],
+              "nl": [
+                "Sain-Bel"
+              ],
+              "es": [
+                "Sain-Bel"
+              ]
+            },
+            "insee": "69171",
+            "isPartOfDepartment": {
+              "@id": "kb:France8469",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Rhône"
+                ],
+                "pt": [
+                  "Rhône"
+                ],
+                "en": [
+                  "Rhône"
+                ],
+                "it": [
+                  "Rhône"
+                ],
+                "fr": [
+                  "Rhône"
+                ],
+                "nl": [
+                  "Rhône"
+                ],
+                "es": [
+                  "Rhône"
+                ]
+              },
+              "insee": "69",
+              "isPartOfRegion": {
+                "@id": "kb:France84",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "pt": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "en": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "it": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "fr": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "nl": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "es": [
+                    "Auvergne-Rhône-Alpes"
+                  ]
+                },
+                "insee": "84",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/5ed4d5f8-5c5f-3434-975d-5235ef1e7f0d",
+        "schema:elevation": "290",
+        "schema:latitude": "45.825619",
+        "schema:longitude": "4.598106",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/c1d6fe1f-218b-3b6c-8376-225f7958fac5",
+          "schema:validFrom": "2023-09-01T00:00:00",
+          "schema:validThrough": "2023-09-01T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Jeden Tag geöffnet.\r\nDie Öffnungszeiten sind zwischen den Schulzeiten, den kleinen Schulferien und den Sommerferien angepasst.\r\nSiehe Öffnungszeiten auf der Website des Archipels."
+            ],
+            "en": [
+              "Open every day.\r\nOpenings to the public adapted between the school periods, the small school vacations and the summer vacations.\r\nSee opening hours on the Archipelago website."
+            ],
+            "it": [
+              "Aperto tutti i giorni.\r\nAperto al pubblico tra i periodi scolastici, le vacanze scolastiche brevi e le vacanze estive.\r\nVedere gli orari di apertura sul sito di Archipel."
+            ],
+            "fr": [
+              "Ouverts tous les jours.\r\nOuvertures au public adaptées entre les période scolaires, les petites vacances scolaires et les vacances d'été.\r\nVoir horaires d'ouvertures sur le site de l'Archipel."
+            ],
+            "nl": [
+              "Elke dag open.\r\nOpen voor het publiek tussen schoolperiodes, korte schoolvakanties en zomervakanties.\r\nZie de openingstijden op de Archipel-site."
+            ],
+            "es": [
+              "Abierto todos los días.\r\nAbierto al público entre los períodos escolares, las vacaciones escolares cortas y las vacaciones de verano.\r\nConsulte los horarios de apertura en la página web de Archipel."
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/0b4bd54a-70b4-315f-ae1f-38418ecde8de",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/168614a0-6f7a-3d14-a0f9-d9e347031ab8",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/6db99627-e03a-3381-a244-6583b17087a8",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/c4d7cc85-9616-3a9e-844d-1ffb97766e58",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/df827fcb-945d-3d35-b288-0652938afbee",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/7479cce0-3110-30a6-9c12-c1cac0b8d082",
+      "schema:email": [
+        "josiane.rivier@paysdelarbresle.fr",
+        "officedetourisme@paysdelarbresle.fr"
+      ],
+      "schema:legalName": "Office de Tourisme du Pays de l'Arbresle",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.arbresletourisme.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-12-12",
+  "lastUpdateDatatourisme": "2023-12-13T06:41:39.829Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/5f20f728-be55-39c3-bcbf-62d2fe4c0474",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/bf87ed78-0905-395a-b49c-768dbd790323",
+          "schema:maxPrice": [
+            "33.6"
+          ],
+          "schema:minPrice": [
+            "29.4"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/7dbf85a3-4bc3-376f-87c3-236fdb09989b",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2024-09-01",
+              "startDate": "2023-09-01"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,469 @@
+{
+  "@id": "https://data.datatourisme.fr/13/05feb9ab-d470-301d-9500-843fa8af2191",
+  "dc:identifier": "536667",
+  "@type": [
+    "schema:FoodEstablishment",
+    "FoodEstablishment",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Im Viertel Brotteaux hat sich Christophe Roure, der 2007 zum \"Besten Handwerker Frankreichs\" ausgezeichnet wurde, niedergelassen. Der Sternekoch betreibt eine geschmackvolle, farbenfrohe und kreative Küche in einem klaren öko-chic-Ambiente, in dem jedes Gericht ein Gemälde zum Probieren ist."
+    ],
+    "en": [
+      "Christophe Roure (\"Best French Craftsman\" in 2007, in the cooking category), moved to the Brotteaux district. This star-rated Chef is devoted to tasty, colourful and creative cuisine. The atmosphere is that of refined, green chic and every dish is a work of art to be enjoyed to the full."
+    ],
+    "it": [
+      "Christophe Roure, eletto Migliore Artigiano di Francia nel settore della cucina nel 2007, si è insediato da poco nel quartiere dei Brotteaux. Questo chef stellato pratica una cucina piena di gusto, di colore e di creazione. Atmosfera sobria eco-chic in cui ogni piatto è un quadro da degustare."
+    ],
+    "fr": [
+      "C'est dans le quartier des Brotteaux que Christophe Roure, MOF cuisine 2007, s'est installé. Le Chef étoilé pratique une cuisine de goût, de couleur et de création. Ambiance écolo-chic épurée où chaque plat est un tableau à déguster."
+    ],
+    "nl": [
+      "In de wijk Brotteaux heeft Christophe Roure, MOF cuisine 2007, zijn restaurant gevestigd. De sterrenkok beoefent een keuken van smaak, kleur en creatie. Een verfijnde eco-chique sfeer waar elk gerecht een schilderij is om te proeven."
+    ],
+    "es": [
+      "Christophe Roure, nombrado Meilleur Ouvrier de France de cocina en 2007, acaba de instalarse en el barrio de Brotteaux. Este chef con estrellas cultiva una cocina de sabor, color y creación. Todo en un ambiente eco-chic depurado en el que cada plato es un cuadro para degustar."
+    ]
+  },
+  "rdfs:label": {
+    "de": [
+      "Le Neuvième Art **"
+    ],
+    "ru": [
+      "Le Neuvième Art **"
+    ],
+    "en": [
+      "Le Neuvième Art **"
+    ],
+    "it": [
+      "Le Neuvième Art **"
+    ],
+    "fr": [
+      "Le Neuvième Art **"
+    ],
+    "zh": [
+      "Le Neuvième Art **"
+    ],
+    "nl": [
+      "Le Neuvième Art **"
+    ],
+    "es": [
+      "Le Neuvième Art **"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/45c48cce-2e2d-3fbd-aa1a-fc51c7c6ad26",
+    "dc:identifier": "9",
+    "schema:email": [
+      "apidae@lyon-france.com",
+      "seveillard@lyon-france.com",
+      "vbilly@lyon-france.com"
+    ],
+    "schema:legalName": "Lyon Tourisme et Congrès / ONLYLYON Tourisme",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.lyon-france.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/8a9feb4b-2cbd-3d2c-b507-bd6c6776b23b",
+      "schema:legalName": "Apidae Tourisme Scic SA - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/ca8e8e16-76b7-3942-ac08-d89705ee5b2f",
+      "schema:email": [
+        "reservation@leneuviemeart.com"
+      ],
+      "schema:telephone": [
+        "+33 4 72 74 12 74"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.leneuviemeart.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/a7adfd79-173c-3d45-9b91-f80b9362c87f",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/2c65dbb4-b999-3b05-9b85-d79266218632",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Im Viertel Brotteaux hat sich Christophe Roure, der 2007 zum \"Besten Handwerker Frankreichs\" ausgezeichnet wurde, niedergelassen. Der Sternekoch betreibt eine geschmackvolle, farbenfrohe und kreative Küche in einem klaren öko-chic-Ambiente, in dem jedes Gericht ein Gemälde zum Probieren ist."
+        ],
+        "en": [
+          "Christophe Roure (\"Best French Craftsman\" in 2007, in the cooking category), moved to the Brotteaux district. This star-rated Chef is devoted to tasty, colourful and creative cuisine. The atmosphere is that of refined, green chic and every dish is a work of art to be enjoyed to the full."
+        ],
+        "it": [
+          "Christophe Roure, eletto Migliore Artigiano di Francia nel settore della cucina nel 2007, si è insediato da poco nel quartiere dei Brotteaux. Questo chef stellato pratica una cucina piena di gusto, di colore e di creazione. Atmosfera sobria eco-chic in cui ogni piatto è un quadro da degustare."
+        ],
+        "fr": [
+          "C'est dans le quartier des Brotteaux que Christophe Roure, MOF cuisine 2007, s'est installé. Le Chef étoilé pratique une cuisine de goût, de couleur et de création. Ambiance écolo-chic épurée où chaque plat est un tableau à déguster."
+        ],
+        "nl": [
+          "In de wijk Brotteaux heeft Christophe Roure, MOF cuisine 2007, zijn restaurant gevestigd. De sterrenkok beoefent een keuken van smaak, kleur en creatie. Een verfijnde eco-chique sfeer waar elk gerecht een schilderij is om te proeven."
+        ],
+        "es": [
+          "Christophe Roure, nombrado Meilleur Ouvrier de France de cocina en 2007, acaba de instalarse en el barrio de Brotteaux. Este chef con estrellas cultiva una cocina de sabor, color y creación. Todo en un ambiente eco-chic depurado en el que cada plato es un cuadro para degustar."
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/5257d7c6-9a35-3c6d-9d0b-e14c2aa56dbc",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/6c057cae-b358-3904-bf0a-58cc2e0571f8",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/35a4ab39-eb22-37be-a0cd-d61330fdc068",
+          "schema:addressLocality": "Lyon 6e Arrondissement",
+          "schema:postalCode": "69006",
+          "schema:streetAddress": [
+            "173 rue Cuvier"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:69386",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Lyon 6e Arrondissement"
+              ],
+              "pt": [
+                "Lyon 6e Arrondissement"
+              ],
+              "en": [
+                "Lyon 6e Arrondissement"
+              ],
+              "it": [
+                "Lyon 6e Arrondissement"
+              ],
+              "fr": [
+                "Lyon 6e Arrondissement"
+              ],
+              "nl": [
+                "Lyon 6e Arrondissement"
+              ],
+              "es": [
+                "Lyon 6e Arrondissement"
+              ]
+            },
+            "insee": "69386",
+            "isPartOfDepartment": {
+              "@id": "kb:France8469",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Rhône"
+                ],
+                "pt": [
+                  "Rhône"
+                ],
+                "en": [
+                  "Rhône"
+                ],
+                "it": [
+                  "Rhône"
+                ],
+                "fr": [
+                  "Rhône"
+                ],
+                "nl": [
+                  "Rhône"
+                ],
+                "es": [
+                  "Rhône"
+                ]
+              },
+              "insee": "69",
+              "isPartOfRegion": {
+                "@id": "kb:France84",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "pt": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "en": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "it": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "fr": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "nl": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "es": [
+                    "Auvergne-Rhône-Alpes"
+                  ]
+                },
+                "insee": "84",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/7dd8d3bd-0738-33e0-9e4f-3f9d6a73ffbe",
+        "schema:latitude": "45.76798",
+        "schema:longitude": "4.856326",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/1b4d8043-e160-3d1a-bdd6-5a2df4a61fb3",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Geschlossen vom 6. bis einschließlich 29. August."
+            ],
+            "en": [
+              "Closed from August 6 to 29 inclusive."
+            ],
+            "it": [
+              "Chiuso dal 6 al 29 agosto compreso."
+            ],
+            "fr": [
+              "Fermé du 6 au 29 aout inclus."
+            ],
+            "nl": [
+              "Gesloten van 6 tot en met 29 augustus."
+            ],
+            "es": [
+              "Cerrado del 6 al 29 de agosto, ambos inclusive."
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/3e07e517-24bf-39f1-a71d-5a7fe467f8c0",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/42605d29-eab3-3b6a-b854-d171a52f35c6",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/c3316f3d-f4bf-3013-a96f-ffb798a32b2a",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/de47cf8a-6e35-3308-b424-3dae38efa7de",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/eca276fb-ba9e-3b84-bab1-eac566e8572e",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/33848473-e8f7-3b5e-a27f-1813fca76a01",
+      "schema:email": [
+        "apidae@lyon-france.com",
+        "seveillard@lyon-france.com",
+        "vbilly@lyon-france.com"
+      ],
+      "schema:legalName": "Lyon Tourisme et Congrès / ONLYLYON Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.lyon-france.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-11-24",
+  "lastUpdateDatatourisme": "2023-12-23T06:39:46.149Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/c53b1e3a-fd38-38e1-8c2d-f1ba921223bc",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/63b7e894-ddd2-3ccc-8512-528589af772d",
+          "schema:maxPrice": [
+            "110",
+            "230"
+          ],
+          "schema:minPrice": [
+            "150",
+            "60"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/a425afdf-3594-300b-b55e-1858bafa3fd4",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2023-12-31",
+              "startDate": "2023-01-01"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

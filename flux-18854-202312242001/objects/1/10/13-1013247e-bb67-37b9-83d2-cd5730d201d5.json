@@ -1,0 +1,476 @@
+{
+  "@id": "https://data.datatourisme.fr/13/1013247e-bb67-37b9-83d2-cd5730d201d5",
+  "dc:identifier": "6138227",
+  "@type": [
+    "schema:LocalBusiness",
+    "schema:Museum",
+    "CulturalSite",
+    "Museum",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Musée des Soieries Brochier, ein unumgänglicher Ort der Seidenherstellung im Herzen der Stadt Lyon."
+    ],
+    "en": [
+      "The Musée des Soieries Brochier offers a fascinating way to discover Lyon’s silk-making tradition, in the heart of the city."
+    ],
+    "it": [
+      "Il Musée des Soieries Brochier è un museo nel cuore di Lione dedicato alla seta assolutamente da non perdere."
+    ],
+    "fr": [
+      "Musée des Soieries Brochier, un lieu incontournable de la soierie en plein cœur de la cité lyonnaise."
+    ],
+    "es": [
+      "Musée des Soieries Brochier, un museo de la seda de visita obligada en pleno centro de Lyon."
+    ],
+    "nl": [
+      "Musée des Soieries Brochier, een niet te missen zijdemuseum in het hart van Lyon."
+    ]
+  },
+  "rdfs:label": {
+    "de": [
+      "Musée Soieries Brochier"
+    ],
+    "ru": [
+      "Musée Soieries Brochier"
+    ],
+    "en": [
+      "Musée Soieries Brochier"
+    ],
+    "it": [
+      "Musée Soieries Brochier"
+    ],
+    "fr": [
+      "Musée Soieries Brochier"
+    ],
+    "zh": [
+      "Musée Soieries Brochier"
+    ],
+    "nl": [
+      "Musée Soieries Brochier"
+    ],
+    "es": [
+      "Musée Soieries Brochier"
+    ]
+  },
+  "owl:sameAs": [
+    "http://www.wikidata.org/entity/Q116994847"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/45c48cce-2e2d-3fbd-aa1a-fc51c7c6ad26",
+    "dc:identifier": "9",
+    "schema:email": [
+      "apidae@lyon-france.com",
+      "seveillard@lyon-france.com",
+      "vbilly@lyon-france.com"
+    ],
+    "schema:legalName": "Lyon Tourisme et Congrès / ONLYLYON Tourisme",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.lyon-france.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/8a9feb4b-2cbd-3d2c-b507-bd6c6776b23b",
+      "schema:legalName": "Apidae Tourisme Scic SA - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/2692bfb6-f81b-3992-a24a-052340a39b34",
+      "schema:email": [
+        "ghd@brochiersoieries.com"
+      ],
+      "schema:telephone": [
+        "+33 4 81 13 25 51"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://shop.brochiersoieries.com/",
+        "https://www.brochiersoieries.com/le-musee/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/7db42e78-4f81-3e5e-b664-de6af5d0d8e6",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/001fcf23-d8ba-3825-bb39-6c0801c45d0c",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/461cb865-b301-30cc-a568-ce576d48a616",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/bcdfbb76-fb3b-3b11-8d5c-90a2deba0bd9",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Musée des Soieries Brochier, ein unumgänglicher Ort der Seidenherstellung im Herzen der Stadt Lyon."
+        ],
+        "en": [
+          "The Musée des Soieries Brochier offers a fascinating way to discover Lyon’s silk-making tradition, in the heart of the city."
+        ],
+        "it": [
+          "Il Musée des Soieries Brochier è un museo nel cuore di Lione dedicato alla seta assolutamente da non perdere."
+        ],
+        "fr": [
+          "Musée des Soieries Brochier, un lieu incontournable de la soierie en plein cœur de la cité lyonnaise."
+        ],
+        "es": [
+          "Musée des Soieries Brochier, un museo de la seda de visita obligada en pleno centro de Lyon."
+        ],
+        "nl": [
+          "Musée des Soieries Brochier, een niet te missen zijdemuseum in het hart van Lyon."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/51a705ff-35c7-3698-b944-c8592af74db0",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/6ea29f1d-3290-3c15-8909-ed0cd0f4ee4b",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/f987de98-e293-3dea-9469-3937b2789d9e",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/8bc00cce-9bec-33eb-907d-d405059fbf06",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/254fe5b2-f172-3eac-a300-d5b647709490",
+          "schema:addressLocality": "Lyon 2e Arrondissement",
+          "schema:postalCode": "69002",
+          "schema:streetAddress": [
+            "18 quai Jules Courmont"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:69382",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Lyon 2e Arrondissement"
+              ],
+              "pt": [
+                "Lyon 2e Arrondissement"
+              ],
+              "en": [
+                "Lyon 2e Arrondissement"
+              ],
+              "it": [
+                "Lyon 2e Arrondissement"
+              ],
+              "fr": [
+                "Lyon 2e Arrondissement"
+              ],
+              "nl": [
+                "Lyon 2e Arrondissement"
+              ],
+              "es": [
+                "Lyon 2e Arrondissement"
+              ]
+            },
+            "insee": "69382",
+            "isPartOfDepartment": {
+              "@id": "kb:France8469",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Rhône"
+                ],
+                "pt": [
+                  "Rhône"
+                ],
+                "en": [
+                  "Rhône"
+                ],
+                "it": [
+                  "Rhône"
+                ],
+                "fr": [
+                  "Rhône"
+                ],
+                "nl": [
+                  "Rhône"
+                ],
+                "es": [
+                  "Rhône"
+                ]
+              },
+              "insee": "69",
+              "isPartOfRegion": {
+                "@id": "kb:France84",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "pt": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "en": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "it": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "fr": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "nl": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "es": [
+                    "Auvergne-Rhône-Alpes"
+                  ]
+                },
+                "insee": "84",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/577b007a-3834-35be-90a9-3a6bff9a8c2e",
+        "schema:latitude": "45.759722",
+        "schema:longitude": "4.837386",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/33848473-e8f7-3b5e-a27f-1813fca76a01",
+      "schema:email": [
+        "apidae@lyon-france.com",
+        "seveillard@lyon-france.com",
+        "vbilly@lyon-france.com"
+      ],
+      "schema:legalName": "Lyon Tourisme et Congrès / ONLYLYON Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.lyon-france.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-12-21",
+  "lastUpdateDatatourisme": "2023-12-23T06:39:46.3Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/a9c722a2-d6f2-3673-b807-482b0d8e45e6",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/12bd735d-857a-3ae3-8355-ae9ba6491475",
+          "schema:maxPrice": [
+            "6",
+            "8"
+          ],
+          "schema:minPrice": [
+            "6",
+            "8"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/a425afdf-3594-300b-b55e-1858bafa3fd4",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2023-12-31",
+              "startDate": "2023-01-01"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

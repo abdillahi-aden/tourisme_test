@@ -1,0 +1,546 @@
+{
+  "@id": "https://data.datatourisme.fr/13/be5e52cd-7d72-31f9-9492-ed6ef00126a0",
+  "dc:identifier": "5164915",
+  "@type": [
+    "schema:Accommodation",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Im Süden des \"Beaujolais\" bietet das \"Château de Ronzière\" einen außergewöhnlichen Ort für Ihre Familien-, Cousin-, Freundschafts- oder Geschäftstreffen für 34 Personen.\r\nEs liegt westlich von Lyon (25min) und 7 Minuten von der Ausfahrt 35 der A89 entfernt."
+    ],
+    "en": [
+      "In the southern Beaujolais region, Château de Ronzière offers an exceptional location for family gatherings, cousinhoods, friendships or business meetings for 34 people.\r\nLocated west of Lyon (25min) and 7 minutes from exit 35 of the A89 motorway."
+    ],
+    "it": [
+      "Nel sud della regione del Beaujolais, lo Château de Ronzière offre una location eccezionale per riunioni di famiglia, di amicizia o di lavoro fino a 34 persone.\r\nSi trova a 25 minuti a ovest di Lione e a 7 minuti dall'uscita 35 dell'autostrada A89."
+    ],
+    "fr": [
+      "Dans le Sud du \"Beaujolais\", le \"Château de Ronzière\" offre un site exceptionnel pour vos rencontres familiales, cousinades, amicales ou professionnelles pour 34 personnes.\r\nSitué à l'Ouest de Lyon (25min) et à 7 minutes de la sortie 35 de l'A89."
+    ],
+    "nl": [
+      "In het zuiden van de Beaujolais biedt Château de Ronzière een uitzonderlijke locatie voor familiebijeenkomsten, vriendschappen of zakelijke bijeenkomsten voor maximaal 34 personen.\r\nGelegen op 25 minuten ten westen van Lyon en op 7 minuten van afslag 35 van de snelweg A89."
+    ],
+    "es": [
+      "En el sur de la región de Beaujolais, el Château de Ronzière ofrece un lugar excepcional para reuniones familiares, de amigos o de negocios para un máximo de 34 personas.\r\nSituado a 25 minutos al oeste de Lyon y a 7 minutos de la salida 35 de la autopista A89."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Château de Ronzière"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/98f13708-2101-34c4-b568-7be6106a3b84",
+    "dc:identifier": "20",
+    "schema:email": [
+      "accueil@beaujolaisvert.com",
+      "amandine.duvernay@beaujolaisvert.com",
+      "sarah.gianone@c-or.fr"
+    ],
+    "schema:legalName": "Office de Tourisme du Beaujolais Vert - Lac des sapins",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.beaujolaisvert.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/8a9feb4b-2cbd-3d2c-b507-bd6c6776b23b",
+      "schema:legalName": "Apidae Tourisme Scic SA - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/c6991476-76c3-3bc9-abfe-6352d9bfd123",
+      "schema:email": [
+        "amarie.jonnard@gmail.com"
+      ],
+      "schema:telephone": [
+        "+33 6 86 56 73 48"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.chateauderonziere.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/607f96ea-bfe6-3523-ac95-f5dfac445f91",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/058b0a81-aaa8-3ef3-98d0-e22f10f755b9",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/2673da68-ec57-3c55-beb5-a773c9489e98",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/5420e41d-1e45-3c95-b7d7-247b4c2b475c",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/cd75c6b2-e80b-3591-884b-e818153dd65f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d6c23cac-8d0b-36af-a6b2-2aa5d759d75b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Im Süden des \"Beaujolais\" bietet das \"Château de Ronzière\" einen außergewöhnlichen Ort für Ihre Familien-, Cousin-, Freundschafts- oder Geschäftstreffen für 34 Personen.\r\nEs liegt westlich von Lyon (25min) und 7 Minuten von der Ausfahrt 35 der A89 entfernt."
+        ],
+        "en": [
+          "In the southern Beaujolais region, Château de Ronzière offers an exceptional location for family gatherings, cousinhoods, friendships or business meetings for 34 people.\r\nLocated west of Lyon (25min) and 7 minutes from exit 35 of the A89 motorway."
+        ],
+        "it": [
+          "Nel sud della regione del Beaujolais, lo Château de Ronzière offre una location eccezionale per riunioni di famiglia, di amicizia o di lavoro fino a 34 persone.\r\nSi trova a 25 minuti a ovest di Lione e a 7 minuti dall'uscita 35 dell'autostrada A89."
+        ],
+        "fr": [
+          "Dans le Sud du \"Beaujolais\", le \"Château de Ronzière\" offre un site exceptionnel pour vos rencontres familiales, cousinades, amicales ou professionnelles pour 34 personnes.\r\nSitué à l'Ouest de Lyon (25min) et à 7 minutes de la sortie 35 de l'A89."
+        ],
+        "nl": [
+          "In het zuiden van de Beaujolais biedt Château de Ronzière een uitzonderlijke locatie voor familiebijeenkomsten, vriendschappen of zakelijke bijeenkomsten voor maximaal 34 personen.\r\nGelegen op 25 minuten ten westen van Lyon en op 7 minuten van afslag 35 van de snelweg A89."
+        ],
+        "es": [
+          "En el sur de la región de Beaujolais, el Château de Ronzière ofrece un lugar excepcional para reuniones familiares, de amigos o de negocios para un máximo de 34 personas.\r\nSituado a 25 minutos al oeste de Lyon y a 7 minutos de la salida 35 de la autopista A89."
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/15b09c67-f9ed-3d8f-96bf-1c433a81651d",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/51f9dc1a-44b7-3fee-b424-f9ffd2ba30c1",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/5b6f085c-43cd-30b7-be89-127ffa649e76",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/ac9bee2d-f585-32ad-8427-b4e0ecc3a5f4",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/cc320547-b825-3e1a-8521-748bcb46b763",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/80c65390-351d-3cf3-882b-421999874c9e",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/6cc9a7de-d7db-3a40-b04c-c5b4aa35d0f5",
+          "schema:addressLocality": "Saint-Forgeux",
+          "schema:postalCode": "69490",
+          "schema:streetAddress": [
+            "240 Allée du Château de Ronzière"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:69200",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Saint-Forgeux"
+              ],
+              "pt": [
+                "Saint-Forgeux"
+              ],
+              "en": [
+                "Saint-Forgeux"
+              ],
+              "it": [
+                "Saint-Forgeux"
+              ],
+              "fr": [
+                "Saint-Forgeux"
+              ],
+              "nl": [
+                "Saint-Forgeux"
+              ],
+              "es": [
+                "Saint-Forgeux"
+              ]
+            },
+            "insee": "69200",
+            "isPartOfDepartment": {
+              "@id": "kb:France8469",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Rhône"
+                ],
+                "pt": [
+                  "Rhône"
+                ],
+                "en": [
+                  "Rhône"
+                ],
+                "it": [
+                  "Rhône"
+                ],
+                "fr": [
+                  "Rhône"
+                ],
+                "nl": [
+                  "Rhône"
+                ],
+                "es": [
+                  "Rhône"
+                ]
+              },
+              "insee": "69",
+              "isPartOfRegion": {
+                "@id": "kb:France84",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "pt": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "en": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "it": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "fr": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "nl": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "es": [
+                    "Auvergne-Rhône-Alpes"
+                  ]
+                },
+                "insee": "84",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/9ffc4788-5eb6-384d-b9ad-3600e14525c0",
+        "schema:elevation": "400",
+        "schema:latitude": "45.861372",
+        "schema:longitude": "4.44761",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/333b8a04-fbeb-3bb4-9651-774f643eeb2f",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Täglich geöffnet"
+            ],
+            "en": [
+              "Open every day"
+            ],
+            "it": [
+              "Aperto tutti i giorni"
+            ],
+            "fr": [
+              "Ouvert tous les jours"
+            ],
+            "nl": [
+              "Elke dag geopend"
+            ],
+            "es": [
+              "Abierto todos los días"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/213d2043-0bf0-35b4-b172-482e026084d0",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/4d3191e9-488f-389b-83c1-7a9917846b48",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/736511f9-d0ec-3ffb-9d5a-0223a9476c4d",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/a24007a5-d5cd-315e-b685-781ec585bc08",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/fd20ea70-dcc9-3f66-b5f2-9ed5db4ee57e",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/57f9bf34-3324-3289-9dcf-ca2860685b63",
+      "schema:email": [
+        "accueil@beaujolaisvert.com",
+        "amandine.duvernay@beaujolaisvert.com",
+        "sarah.gianone@c-or.fr"
+      ],
+      "schema:legalName": "Office de Tourisme du Beaujolais Vert - Lac des sapins",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.beaujolaisvert.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-12-05",
+  "lastUpdateDatatourisme": "2023-12-06T06:38:59.23Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/2857d5dc-806f-3bd5-926f-35703218d325",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/6bef62c6-77db-30c2-8761-cc7685e3ba22",
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/31f5d72b-a58c-3b74-a324-625d6ba3a28e",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2024-12-31",
+              "startDate": "2024-01-01"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

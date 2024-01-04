@@ -1,0 +1,529 @@
+{
+  "@id": "https://data.datatourisme.fr/13/259f8526-c154-386d-a72d-67b9ce56c639",
+  "dc:identifier": "161120",
+  "@type": [
+    "schema:FoodEstablishment",
+    "FoodEstablishment",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Chefküche in einer Mühle mit funktionierendem Rad und Terrasse am Ufer des Flusses Garon."
+    ],
+    "en": [
+      "Fine dining in a mill with working wheel and terrace on the banks of the Garon."
+    ],
+    "it": [
+      "Cucina dello chef in un mulino con ruota funzionante e terrazza sulle rive del Garon."
+    ],
+    "fr": [
+      "Cuisine de chef dans un moulin avec sa roue en activité et sa terrasse au bord du Garon."
+    ],
+    "nl": [
+      "Keuken van de chef in een molen met werkend rad en terras aan de oever van de Garon."
+    ],
+    "es": [
+      "Cocina del chef en un molino con su rueda de trabajo y terraza a orillas del Garón."
+    ]
+  },
+  "rdfs:label": {
+    "en": [
+      "Le Petit Meunier"
+    ],
+    "fr": [
+      "Le Petit Meunier"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/c74d97b0-1eae-357e-84aa-9d5bade97baf",
+    "dc:identifier": "16",
+    "schema:email": [
+      "christelle.julien@ccvl.fr",
+      "geraldine.sudres@ccvl.fr"
+    ],
+    "schema:legalName": "Office de Tourisme des Vallons du Lyonnais",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.ccvl.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/8a9feb4b-2cbd-3d2c-b507-bd6c6776b23b",
+      "schema:legalName": "Apidae Tourisme Scic SA - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/801c265b-3743-35ce-b332-d5d1154b95c6",
+      "schema:email": [
+        "contact@lepetitmeunier.fr"
+      ],
+      "schema:telephone": [
+        "+33 4 78 45 05 03"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.lepetitmeunier.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/6675c817-eb5f-34cf-9f0c-bfeda06e2d23",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/29f03c74-b04d-37dc-86a5-918eb7f4bcf8",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/30a34426-1f98-3e56-a0a9-92bce1daa98f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/6b957b13-a556-3784-9e5e-481c8959643b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/83f2ddf7-5ebd-33db-8ca5-bbe5924a84a6",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Chefküche in einer Mühle mit funktionierendem Rad und Terrasse am Ufer des Flusses Garon."
+        ],
+        "en": [
+          "Fine dining in a mill with working wheel and terrace on the banks of the Garon."
+        ],
+        "it": [
+          "Cucina dello chef in un mulino con ruota funzionante e terrazza sulle rive del Garon."
+        ],
+        "fr": [
+          "Cuisine de chef dans un moulin avec sa roue en activité et sa terrasse au bord du Garon."
+        ],
+        "nl": [
+          "Keuken van de chef in een molen met werkend rad en terras aan de oever van de Garon."
+        ],
+        "es": [
+          "Cocina del chef en un molino con su rueda de trabajo y terraza a orillas del Garón."
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/35b5f472-7b03-3fb0-a32e-a8f8a79ecaef",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/49de5cbd-7f2d-3164-bc70-ea69392b1407",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/65ccd97d-86ee-3125-953e-d6b4629b1a4d",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/bd9f60cc-16b1-386f-b979-6f3be73cfa87",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/0a113518-b0d4-38ed-9e18-11d0008fedd5",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/f0304ca5-5b2d-3ece-85ab-8ceba8207396",
+          "schema:addressLocality": "Messimy",
+          "schema:postalCode": "69510",
+          "schema:streetAddress": [
+            "12 chemin du Moulin"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:69131",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Messimy"
+              ],
+              "pt": [
+                "Messimy"
+              ],
+              "en": [
+                "Messimy"
+              ],
+              "it": [
+                "Messimy"
+              ],
+              "fr": [
+                "Messimy"
+              ],
+              "nl": [
+                "Messimy"
+              ],
+              "es": [
+                "Messimy"
+              ]
+            },
+            "insee": "69131",
+            "isPartOfDepartment": {
+              "@id": "kb:France8469",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Rhône"
+                ],
+                "pt": [
+                  "Rhône"
+                ],
+                "en": [
+                  "Rhône"
+                ],
+                "it": [
+                  "Rhône"
+                ],
+                "fr": [
+                  "Rhône"
+                ],
+                "nl": [
+                  "Rhône"
+                ],
+                "es": [
+                  "Rhône"
+                ]
+              },
+              "insee": "69",
+              "isPartOfRegion": {
+                "@id": "kb:France84",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "pt": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "en": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "it": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "fr": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "nl": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "es": [
+                    "Auvergne-Rhône-Alpes"
+                  ]
+                },
+                "insee": "84",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/dde566a9-b60e-354c-8419-5f9c19e2a187",
+        "schema:elevation": "310",
+        "schema:latitude": "45.684627",
+        "schema:longitude": "4.673524",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/695291f8-db33-312c-b1ed-39c2e546d688",
+          "schema:closes": "14:00:00",
+          "schema:opens": "12:00:00",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Nur freitags und samstags abends"
+            ],
+            "en": [
+              "Friday and Saturday evenings only"
+            ],
+            "it": [
+              "Solo venerdì e sabato sera"
+            ],
+            "fr": [
+              "Uniquement les vendredis et les samedis soirs"
+            ],
+            "es": [
+              "Viernes y sábados sólo por la noche"
+            ],
+            "nl": [
+              "Alleen op vrijdag en zaterdag 's avonds"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/028f7b3e-5812-3712-af82-a316a497223f",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/23eaba4d-1821-3eb0-8bba-d91b4fbda453",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/3b9d86ef-a774-32c3-978f-5599cd08d5e0",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/e2b31a1d-b623-331a-acfc-20a628004b0c",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/eca91764-3bec-3750-b86c-e9217abbe238",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/2b236151-c173-3db2-9769-862aab979c30",
+      "schema:email": [
+        "geraldine.sudres@ccvl.fr"
+      ],
+      "schema:legalName": "Office de Tourisme des Vallons du Lyonnais",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.ccvl.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-12-01",
+  "lastUpdateDatatourisme": "2023-12-23T06:39:46.286Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/b339ba61-d290-3db8-8737-2cade83d8fc9",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/138323ce-b91a-3080-b157-a63b0a15800b",
+          "schema:maxPrice": [
+            "60"
+          ],
+          "schema:minPrice": [
+            "20",
+            "23",
+            "40"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/31f5d72b-a58c-3b74-a324-625d6ba3a28e",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2024-12-31",
+              "startDate": "2024-01-01"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

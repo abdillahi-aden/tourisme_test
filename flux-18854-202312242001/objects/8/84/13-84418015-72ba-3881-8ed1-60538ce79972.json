@@ -1,0 +1,616 @@
+{
+  "@id": "https://data.datatourisme.fr/13/84418015-72ba-3881-8ed1-60538ce79972",
+  "dc:identifier": "5271862",
+  "@type": [
+    "schema:Accommodation",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RentalAccommodation",
+    "SelfCateringAccommodation"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Hübsche möblierte Wohnung mit zeitgenössischem Ambiente im Erdgeschoss eines großen Architektenhauses in einem ruhigen und grünen kleinen Dorf, zwischen zwei unumgänglichen Orten des Beaujolais: dem Lac des Sapins und den Dörfern der Pierres Dorées, darunter Oingt."
+    ],
+    "en": [
+      "Attractive, contemporary furnished apartment on the first floor of a large architect-designed house, in a quiet, leafy village between two of Beaujolais' must-see sites: Lac des Sapins and the Pierres Dorées villages, including Oingt."
+    ],
+    "it": [
+      "Grazioso appartamento arredato in stile contemporaneo al piano terra di una grande casa progettata da un architetto, in un villaggio tranquillo e verdeggiante tra due luoghi imperdibili del Beaujolais: il Lac des Sapins e i villaggi di Pierres Dorées, tra cui Oingt."
+    ],
+    "fr": [
+      "Joli meublé à l'ambiance contemporaine au rez-de-chaussée d'une grande maison d'architecte, dans un petit village calme et verdoyant, entre deux lieux incontournables du Beaujolais : le Lac des Sapins et les villages des Pierres Dorées dont Oingt."
+    ],
+    "es": [
+      "Precioso apartamento amueblado de estilo contemporáneo en la planta baja de una gran casa de arquitecto, en un pueblo tranquilo y frondoso entre dos de los lugares imprescindibles del Beaujolais: el lago des Sapins y los pueblos de Pierres Dorées, entre ellos Oingt."
+    ],
+    "nl": [
+      "Mooi gemeubileerd appartement met een eigentijdse uitstraling op de begane grond van een groot onder architectuur gebouwd huis, in een rustig, lommerrijk dorp tussen twee van de bezienswaardigheden van de Beaujolais: het Lac des Sapins en de dorpen Pierres Dorées, waaronder Oingt."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Meublé \"Le cocon\""
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/98f13708-2101-34c4-b568-7be6106a3b84",
+    "dc:identifier": "20",
+    "schema:email": [
+      "accueil@beaujolaisvert.com",
+      "amandine.duvernay@beaujolaisvert.com",
+      "sarah.gianone@c-or.fr"
+    ],
+    "schema:legalName": "Office de Tourisme du Beaujolais Vert - Lac des sapins",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.beaujolaisvert.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/8a9feb4b-2cbd-3d2c-b507-bd6c6776b23b",
+      "schema:legalName": "Apidae Tourisme Scic SA - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/aae094da-e247-3945-a97d-d275010c3f4e",
+      "schema:email": [
+        "contact@domainedelaruedelatour.com"
+      ],
+      "schema:telephone": [
+        "+33 7 77 26 77 72"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://domainedelaruedelatour.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/51cbb29c-17af-333d-8476-38f0da2338d8",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/53e7b55c-b79d-331a-ad4c-a8e4afaf39e8",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/aa32acf9-adb8-3870-b91c-2b0947ac0ca1",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/cce87d9f-9899-311a-a2ed-85617475d4b0",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d5941249-1fb3-3b95-824a-625981e06d7e",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/fbc6b08f-c440-3b63-9ea5-26161351da94",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Hübsche möblierte Wohnung mit zeitgenössischem Ambiente im Erdgeschoss eines großen Architektenhauses in einem ruhigen und grünen kleinen Dorf, zwischen zwei unumgänglichen Orten des Beaujolais: dem Lac des Sapins und den Dörfern der Pierres Dorées, darunter Oingt."
+        ],
+        "en": [
+          "Attractive, contemporary furnished apartment on the first floor of a large architect-designed house, in a quiet, leafy village between two of Beaujolais' must-see sites: Lac des Sapins and the Pierres Dorées villages, including Oingt."
+        ],
+        "it": [
+          "Grazioso appartamento arredato in stile contemporaneo al piano terra di una grande casa progettata da un architetto, in un villaggio tranquillo e verdeggiante tra due luoghi imperdibili del Beaujolais: il Lac des Sapins e i villaggi di Pierres Dorées, tra cui Oingt."
+        ],
+        "fr": [
+          "Joli meublé à l'ambiance contemporaine au rez-de-chaussée d'une grande maison d'architecte, dans un petit village calme et verdoyant, entre deux lieux incontournables du Beaujolais : le Lac des Sapins et les villages des Pierres Dorées dont Oingt."
+        ],
+        "es": [
+          "Precioso apartamento amueblado de estilo contemporáneo en la planta baja de una gran casa de arquitecto, en un pueblo tranquilo y frondoso entre dos de los lugares imprescindibles del Beaujolais: el lago des Sapins y los pueblos de Pierres Dorées, entre ellos Oingt."
+        ],
+        "nl": [
+          "Mooi gemeubileerd appartement met een eigentijdse uitstraling op de begane grond van een groot onder architectuur gebouwd huis, in een rustig, lommerrijk dorp tussen twee van de bezienswaardigheden van de Beaujolais: het Lac des Sapins en de dorpen Pierres Dorées, waaronder Oingt."
+        ]
+      }
+    }
+  ],
+  "hasReview": [
+    {
+      "@id": "https://data.datatourisme.fr/6e866798-cae5-351c-9e8d-963661217e60",
+      "@type": [
+        "Review"
+      ],
+      "hasReviewValue": {
+        "@id": "kb:LabelRating_AccueilVelo",
+        "@type": [
+          "LabelRating"
+        ],
+        "rdfs:label": {
+          "de": [
+            "Accueil Vélo"
+          ],
+          "pt": [
+            "Accueil Vélo"
+          ],
+          "en": [
+            "Accueil Vélo"
+          ],
+          "it": [
+            "Accueil Vélo"
+          ],
+          "fr": [
+            "Accueil Vélo"
+          ],
+          "nl": [
+            "Accueil Vélo"
+          ],
+          "es": [
+            "Accueil Vélo"
+          ]
+        },
+        "isCompliantWith": [
+          "PlaceOfInterest"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/015b45ba-564e-3196-8dab-22cb7edfd6b7",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/01c543e1-e6aa-35df-89fa-53f863e0675c",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/2c1ff251-8e68-30d1-9911-06e44916daf2",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/980429c4-0f68-3085-84cf-db8b7e574513",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/f27caab5-e820-36b4-bb0a-66fe520da42b",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/b9c32acc-9a0f-36ea-9323-5647c544f24c",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/d545dcb4-252c-34cd-9c02-6001a5ba3743",
+          "schema:addressLocality": "Valsonne",
+          "schema:postalCode": "69170",
+          "schema:streetAddress": [
+            "102 Rue de la Tour"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:69254",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Valsonne"
+              ],
+              "pt": [
+                "Valsonne"
+              ],
+              "en": [
+                "Valsonne"
+              ],
+              "it": [
+                "Valsonne"
+              ],
+              "fr": [
+                "Valsonne"
+              ],
+              "nl": [
+                "Valsonne"
+              ],
+              "es": [
+                "Valsonne"
+              ]
+            },
+            "insee": "69254",
+            "isPartOfDepartment": {
+              "@id": "kb:France8469",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Rhône"
+                ],
+                "pt": [
+                  "Rhône"
+                ],
+                "en": [
+                  "Rhône"
+                ],
+                "it": [
+                  "Rhône"
+                ],
+                "fr": [
+                  "Rhône"
+                ],
+                "nl": [
+                  "Rhône"
+                ],
+                "es": [
+                  "Rhône"
+                ]
+              },
+              "insee": "69",
+              "isPartOfRegion": {
+                "@id": "kb:France84",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "pt": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "en": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "it": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "fr": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "nl": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "es": [
+                    "Auvergne-Rhône-Alpes"
+                  ]
+                },
+                "insee": "84",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/a6f8cb5d-a15f-383b-a4ca-c35fae6cdf1c",
+        "schema:elevation": "480",
+        "schema:latitude": "45.947701",
+        "schema:longitude": "4.43065",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/ee4b8e8c-fd8b-3348-9e5a-adc4f5f10830",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "24 Stunden am Tag geöffnet.\n\nDie Einrichtung ist das ganze Jahr über geöffnet"
+            ],
+            "en": [
+              "Open 24 hours a day.\n\nOpen all year round"
+            ],
+            "it": [
+              "Aperto 24 ore su 24.\n\nAperto tutto l'anno"
+            ],
+            "fr": [
+              "Ouvert 24h/24.\n\nL'établissement est ouvert toute l'année"
+            ],
+            "es": [
+              "Abierto 24 horas al día.\n\nAbierto todo el año"
+            ],
+            "nl": [
+              "24 uur per dag geopend.\n\nHet hele jaar door geopend"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/1db03004-6277-31b0-bed9-10b75dbe2012",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/62ae081c-d0b4-32c4-8af4-6dd472081afe",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/9b14b586-89d1-335d-ab05-10aeea381bba",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/bcb0e633-e890-3f14-9a51-3197a5a90853",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/cb4b6d11-3cb0-3dcc-a508-a644fb8a2a59",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/57f9bf34-3324-3289-9dcf-ca2860685b63",
+      "schema:email": [
+        "accueil@beaujolaisvert.com",
+        "amandine.duvernay@beaujolaisvert.com",
+        "sarah.gianone@c-or.fr"
+      ],
+      "schema:legalName": "Office de Tourisme du Beaujolais Vert - Lac des sapins",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.beaujolaisvert.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-06-22",
+  "lastUpdateDatatourisme": "2023-12-23T06:39:46.221Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/bc259ceb-b18f-3dfa-9b1e-dabca45843bd",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/94225852-c62e-3536-826b-b8e2c936e453",
+          "schema:minPrice": [
+            "185",
+            "296",
+            "648"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/3950d565-5ce9-30ab-bc8b-fafbe54c7336",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2023-09-17",
+              "startDate": "2023-05-15"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e41567ab-f283-3b9c-aa31-de3e0564b867",
+          "schema:minPrice": [
+            "155",
+            "248",
+            "543"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/e2692d54-4f2f-328a-8fa2-a80bf50347c1",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2023-05-14",
+              "startDate": "2023-01-01"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

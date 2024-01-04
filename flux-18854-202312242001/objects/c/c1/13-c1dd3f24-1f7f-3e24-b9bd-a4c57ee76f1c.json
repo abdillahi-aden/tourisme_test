@@ -1,0 +1,538 @@
+{
+  "@id": "https://data.datatourisme.fr/13/c1dd3f24-1f7f-3e24-b9bd-a4c57ee76f1c",
+  "dc:identifier": "126777",
+  "@type": [
+    "schema:FoodEstablishment",
+    "FoodEstablishment",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Unsere Speisekarte bietet eine Auswahl an authentischen Gerichten, die den Geschmack und die Traditionen der italienischen Küche mit einem modernen Touch hervorheben. Alle Gerichte und Desserts werden hausgemacht."
+    ],
+    "en": [
+      "Our menu features a selection of authentic dishes that highlight the flavors and traditions of Italian cuisine, with a modern twist. All dishes and desserts are home-cooked."
+    ],
+    "it": [
+      "Il nostro menu offre una selezione di piatti autentici che esaltano i sapori e le tradizioni della cucina italiana, con un tocco moderno. Tutti i piatti e i dessert sono fatti in casa."
+    ],
+    "fr": [
+      "Notre menu propose une sélection de plats authentiques qui mettent en avant les saveurs et les traditions de la cuisine italienne, avec une touche de modernité. Tous les plats et tous les desserts sont cuisinés maison."
+    ],
+    "nl": [
+      "Ons menu biedt een selectie authentieke gerechten die de smaken en tradities van de Italiaanse keuken benadrukken, met een moderne twist. Alle gerechten en desserts zijn huisgemaakt."
+    ],
+    "es": [
+      "Nuestro menú ofrece una selección de platos auténticos que resaltan los sabores y tradiciones de la cocina italiana, con un toque moderno. Todos los platos y postres son caseros."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Mezzaluna Trattoria"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/4e732ced-3463-306d-a0ca-9a15b6153677",
+    "dc:identifier": "26",
+    "schema:email": [
+      "accueil.chaponost@montsdulyonnaistourisme.fr",
+      "accueil.mornant@montsdulyonnaistourisme.fr",
+      "alexandra.colombet@montsdulyonnaistourisme.fr",
+      "amelie.goutagny@montsdulyonnaistourisme.fr",
+      "garance.alivon@montsdulyonnaistourisme.fr",
+      "marine.rulliat@montsdulyonnaistourisme.fr"
+    ],
+    "schema:legalName": "OTI des Monts du Lyonnais",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.montsdulyonnaistourisme.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/8a9feb4b-2cbd-3d2c-b507-bd6c6776b23b",
+      "schema:legalName": "Apidae Tourisme Scic SA - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/95b72d1f-c515-3308-89cd-0fdad2d3f915",
+      "schema:email": [
+        "mezzaluna.pinea@gmail.com"
+      ],
+      "schema:telephone": [
+        "+33 4 78 05 76 54"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://mezzalunatrattoria.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/6ecc8742-185d-3a8c-8abf-79656db0a747",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/362dbfd3-816e-3ce0-a61d-c5f0e09bb083",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a9f07fa7-24bd-374c-a5e0-c09edfb9e126",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/bceb76ec-0149-3391-a3f5-8e002abb316e",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e545ad80-5ce4-3f64-8b66-679ffb53ce04",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/fa10464f-09e1-3621-a9db-dfedbe42b5f9",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Unsere Speisekarte bietet eine Auswahl an authentischen Gerichten, die den Geschmack und die Traditionen der italienischen Küche mit einem modernen Touch hervorheben. Alle Gerichte und Desserts werden hausgemacht."
+        ],
+        "en": [
+          "Our menu features a selection of authentic dishes that highlight the flavors and traditions of Italian cuisine, with a modern twist. All dishes and desserts are home-cooked."
+        ],
+        "it": [
+          "Il nostro menu offre una selezione di piatti autentici che esaltano i sapori e le tradizioni della cucina italiana, con un tocco moderno. Tutti i piatti e i dessert sono fatti in casa."
+        ],
+        "fr": [
+          "Notre menu propose une sélection de plats authentiques qui mettent en avant les saveurs et les traditions de la cuisine italienne, avec une touche de modernité. Tous les plats et tous les desserts sont cuisinés maison."
+        ],
+        "nl": [
+          "Ons menu biedt een selectie authentieke gerechten die de smaken en tradities van de Italiaanse keuken benadrukken, met een moderne twist. Alle gerechten en desserts zijn huisgemaakt."
+        ],
+        "es": [
+          "Nuestro menú ofrece una selección de platos auténticos que resaltan los sabores y tradiciones de la cocina italiana, con un toque moderno. Todos los platos y postres son caseros."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:MediterraneanCuisine",
+      "@type": [
+        "CuisineCategory"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Mediterrane Küche"
+        ],
+        "pt": [
+          "Cozinha mediterrânica"
+        ],
+        "en": [
+          "Mediterranean cuisine"
+        ],
+        "it": [
+          "Cucina mediterranea"
+        ],
+        "fr": [
+          "Cuisine méditerranéenne"
+        ],
+        "nl": [
+          "Mediterrane keuken"
+        ],
+        "es": [
+          "Cocina mediterránea"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/1a1f5d79-3756-3b12-84d7-6296979403d6",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/4fb5e063-b54c-3374-859d-2e78500c6cd3",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/9c848479-3c7f-38da-87ad-a1002f32f1b0",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/9e58b1e2-d71b-3f8b-a0c4-dd88e0a61164",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/aa7e82e9-4ae1-3a64-b83e-add838aed99d",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/bbabb171-af10-379e-8c42-61e01e758cea",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/45f43c9c-04e5-3d45-9edc-79b326a3a840",
+          "schema:addressLocality": "Brignais",
+          "schema:postalCode": "69530",
+          "schema:streetAddress": [
+            "205-207 rue Général de Gaulle"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:69027",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Brignais"
+              ],
+              "pt": [
+                "Brignais"
+              ],
+              "en": [
+                "Brignais"
+              ],
+              "it": [
+                "Brignais"
+              ],
+              "fr": [
+                "Brignais"
+              ],
+              "nl": [
+                "Brignais"
+              ],
+              "es": [
+                "Brignais"
+              ]
+            },
+            "insee": "69027",
+            "isPartOfDepartment": {
+              "@id": "kb:France8469",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Rhône"
+                ],
+                "pt": [
+                  "Rhône"
+                ],
+                "en": [
+                  "Rhône"
+                ],
+                "it": [
+                  "Rhône"
+                ],
+                "fr": [
+                  "Rhône"
+                ],
+                "nl": [
+                  "Rhône"
+                ],
+                "es": [
+                  "Rhône"
+                ]
+              },
+              "insee": "69",
+              "isPartOfRegion": {
+                "@id": "kb:France84",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "pt": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "en": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "it": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "fr": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "nl": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "es": [
+                    "Auvergne-Rhône-Alpes"
+                  ]
+                },
+                "insee": "84",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/4b62f3b5-d144-3692-bf22-dfae37bd3e72",
+        "schema:latitude": "45.671584",
+        "schema:longitude": "4.754848",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/286d1b16-07bb-3d1b-8216-018722e6f324",
+      "schema:email": [
+        "accueil.chaponost@montsdulyonnaistourisme.fr",
+        "accueil.mornant@montsdulyonnaistourisme.fr",
+        "alexandra.colombet@montsdulyonnaistourisme.fr",
+        "amelie.goutagny@montsdulyonnaistourisme.fr",
+        "garance.alivon@montsdulyonnaistourisme.fr",
+        "marine.rulliat@montsdulyonnaistourisme.fr"
+      ],
+      "schema:legalName": "OTI des Monts du Lyonnais",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.montsdulyonnaistourisme.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-09-21",
+  "lastUpdateDatatourisme": "2023-12-23T06:39:46.188Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/47e1ca75-e181-3713-bdf1-f8ed6e3b43de",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/a6143999-1b1d-3678-a6db-14771b0b7b88",
+          "schema:maxPrice": [
+            "11",
+            "17.9"
+          ],
+          "schema:minPrice": [
+            "11",
+            "17.9"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/a425afdf-3594-300b-b55e-1858bafa3fd4",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2023-12-31",
+              "startDate": "2023-01-01"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ],
+  "providesCuisineOfType": [
+    {
+      "@id": "kb:MediterraneanCuisine",
+      "@type": [
+        "CuisineCategory"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Mediterrane Küche"
+        ],
+        "pt": [
+          "Cozinha mediterrânica"
+        ],
+        "en": [
+          "Mediterranean cuisine"
+        ],
+        "it": [
+          "Cucina mediterranea"
+        ],
+        "fr": [
+          "Cuisine méditerranéenne"
+        ],
+        "nl": [
+          "Mediterrane keuken"
+        ],
+        "es": [
+          "Cocina mediterránea"
+        ]
+      }
+    }
+  ]
+}

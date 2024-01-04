@@ -1,0 +1,441 @@
+{
+  "@id": "https://data.datatourisme.fr/13/4ef7dae0-ec70-31f3-959f-385fdcb9fc85",
+  "dc:identifier": "6625156",
+  "@type": [
+    "schema:FoodEstablishment",
+    "schema:Winery",
+    "BistroOrWineBar",
+    "FoodEstablishment",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "In einer geselligen Atmosphäre ist das Jamais Vu gleichzeitig eine handwerkliche Brasserie, ein Pub mit Essen und Trinken vor Ort, ein Programm mit Jazz- und Elektrokonzerten sowie ein Seminarraum mit maßgeschneiderten Angeboten."
+    ],
+    "en": [
+      "In a friendly atmosphere, Jamais Vu is an artisanal brasserie, a pub with on-site catering, a program of jazz and electro concerts and a seminar room with made-to-measure formulas."
+    ],
+    "it": [
+      "In un'atmosfera amichevole, il Jamais Vu è una brasserie tradizionale, un pub con cucina in loco, un programma di concerti jazz ed elettro e una sala seminari con pacchetti su misura."
+    ],
+    "fr": [
+      "Dans une ambiance conviviale, le Jamais Vu, c'est à la fois une brasserie artisanale, un pub avec de quoi se restaurer sur place, une programmation de concerts jazz, électro et une salle de séminaire avec des formules sur mesure."
+    ],
+    "nl": [
+      "In een gezellige sfeer biedt de Jamais Vu een traditionele brasserie, een pub met eten ter plaatse, een programma met jazz- en elektroconcerten en een seminarruimte met pakketten op maat."
+    ],
+    "es": [
+      "En un ambiente acogedor, el Jamais Vu es una brasserie tradicional, un pub con comida in situ, un programa de conciertos de jazz y electro y una sala de seminarios con paquetes a medida."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Le Jamais Vu"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/4e732ced-3463-306d-a0ca-9a15b6153677",
+    "dc:identifier": "26",
+    "schema:email": [
+      "accueil.chaponost@montsdulyonnaistourisme.fr",
+      "accueil.mornant@montsdulyonnaistourisme.fr",
+      "alexandra.colombet@montsdulyonnaistourisme.fr",
+      "amelie.goutagny@montsdulyonnaistourisme.fr",
+      "garance.alivon@montsdulyonnaistourisme.fr",
+      "marine.rulliat@montsdulyonnaistourisme.fr"
+    ],
+    "schema:legalName": "OTI des Monts du Lyonnais",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.montsdulyonnaistourisme.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/8a9feb4b-2cbd-3d2c-b507-bd6c6776b23b",
+      "schema:legalName": "Apidae Tourisme Scic SA - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/0fa83a43-0ed5-3c31-8877-478bbc503798",
+      "schema:email": [
+        "lejamaisvumornant@gmail.com"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://lejamaisvu.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/9bfa1ca7-bc26-3a94-8417-3d6a93a00026",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/1d18305f-125f-3877-8520-d19a314483cb",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/3a759935-db89-3355-a788-a0d2a998cbc0",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/5789f27d-4656-37b2-abff-6400d99c61c0",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/6b9d5ab3-b0cf-3aca-b5b4-a312f200fe65",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ba41907c-201e-32e0-b785-67a5fd4b37cb",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "In einer geselligen Atmosphäre ist das Jamais Vu gleichzeitig eine handwerkliche Brasserie, ein Pub mit Essen und Trinken vor Ort, ein Programm mit Jazz- und Elektrokonzerten sowie ein Seminarraum mit maßgeschneiderten Angeboten."
+        ],
+        "en": [
+          "In a friendly atmosphere, Jamais Vu is an artisanal brasserie, a pub with on-site catering, a program of jazz and electro concerts and a seminar room with made-to-measure formulas."
+        ],
+        "it": [
+          "In un'atmosfera amichevole, il Jamais Vu è una brasserie tradizionale, un pub con cucina in loco, un programma di concerti jazz ed elettro e una sala seminari con pacchetti su misura."
+        ],
+        "fr": [
+          "Dans une ambiance conviviale, le Jamais Vu, c'est à la fois une brasserie artisanale, un pub avec de quoi se restaurer sur place, une programmation de concerts jazz, électro et une salle de séminaire avec des formules sur mesure."
+        ],
+        "nl": [
+          "In een gezellige sfeer biedt de Jamais Vu een traditionele brasserie, een pub met eten ter plaatse, een programma met jazz- en elektroconcerten en een seminarruimte met pakketten op maat."
+        ],
+        "es": [
+          "En un ambiente acogedor, el Jamais Vu es una brasserie tradicional, un pub con comida in situ, un programa de conciertos de jazz y electro y una sala de seminarios con paquetes a medida."
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/435667c6-1112-3aa4-b69f-596d29dd8750",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/5275593e-7d39-3bbf-8895-968887b334d1",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/6c2725b9-af72-3290-ab8f-e5908a1b7d04",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/9efe820e-e05e-3bbf-b06b-a8053980a660",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/c2c08d41-c9de-3fd9-9213-f061dc5e9d3b",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/034aa5f4-00a7-3df7-9087-aa50c998b086",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/9b8a8bfe-3baf-3826-a75c-c6fac547eb8c",
+          "schema:addressLocality": "Mornant",
+          "schema:postalCode": "69440",
+          "schema:streetAddress": [
+            "234 rue de la Garennière"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:69141",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Mornant"
+              ],
+              "pt": [
+                "Mornant"
+              ],
+              "en": [
+                "Mornant"
+              ],
+              "it": [
+                "Mornant"
+              ],
+              "fr": [
+                "Mornant"
+              ],
+              "nl": [
+                "Mornant"
+              ],
+              "es": [
+                "Mornant"
+              ]
+            },
+            "insee": "69141",
+            "isPartOfDepartment": {
+              "@id": "kb:France8469",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Rhône"
+                ],
+                "pt": [
+                  "Rhône"
+                ],
+                "en": [
+                  "Rhône"
+                ],
+                "it": [
+                  "Rhône"
+                ],
+                "fr": [
+                  "Rhône"
+                ],
+                "nl": [
+                  "Rhône"
+                ],
+                "es": [
+                  "Rhône"
+                ]
+              },
+              "insee": "69",
+              "isPartOfRegion": {
+                "@id": "kb:France84",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "pt": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "en": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "it": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "fr": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "nl": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "es": [
+                    "Auvergne-Rhône-Alpes"
+                  ]
+                },
+                "insee": "84",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/acc5d61f-d2a8-3b2a-8222-4094cf4cb888",
+        "schema:latitude": "45.618629",
+        "schema:longitude": "4.701781",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/ee75686d-c2d7-3d6d-9f67-a587aaf8f865",
+          "schema:closes": "00:45:00",
+          "schema:opens": "18:30:00",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/286d1b16-07bb-3d1b-8216-018722e6f324",
+      "schema:email": [
+        "accueil.chaponost@montsdulyonnaistourisme.fr",
+        "accueil.mornant@montsdulyonnaistourisme.fr",
+        "alexandra.colombet@montsdulyonnaistourisme.fr",
+        "amelie.goutagny@montsdulyonnaistourisme.fr",
+        "garance.alivon@montsdulyonnaistourisme.fr",
+        "marine.rulliat@montsdulyonnaistourisme.fr"
+      ],
+      "schema:legalName": "OTI des Monts du Lyonnais",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.montsdulyonnaistourisme.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-11-17",
+  "lastUpdateDatatourisme": "2023-11-18T06:42:18.096Z"
+}

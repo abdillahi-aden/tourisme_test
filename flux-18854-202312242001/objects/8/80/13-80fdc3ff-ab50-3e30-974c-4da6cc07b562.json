@@ -1,0 +1,507 @@
+{
+  "@id": "https://data.datatourisme.fr/13/80fdc3ff-ab50-3e30-974c-4da6cc07b562",
+  "dc:identifier": "379060",
+  "@type": [
+    "schema:FoodEstablishment",
+    "FoodEstablishment",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "L'encart ist das Abenteuer von zwei Kumpels, die sich für Wein und Gastronomie begeistern. L'encart, das sind sie: Julien, in der Küche, und Xavier, im Speisesaal."
+    ],
+    "en": [
+      "L'Encart is an adventure embarked upon by two friends, passionate about wine and good food. L'Encart features Julien in the kitchen and Xavier in the dining room."
+    ],
+    "it": [
+      "L'encart è l'avventura di due amici con la passione per il vino e la gastronomia. L'encart siamo noi: Julien in cucina e Xavier in sala."
+    ],
+    "fr": [
+      "L’encart c’est l’aventure de deux potes, passionnés de vin et de gastronomie. L’encart, c’est eux : Julien, en cuisine et Xavier, en salle."
+    ],
+    "nl": [
+      "L'encart is het avontuur van twee vrienden met een passie voor wijn en gastronomie. Dat zijn Julien in de keuken en Xavier in de eetkamer."
+    ],
+    "es": [
+      "L'encart es la aventura de dos amigos apasionados por el vino y la gastronomía. Son Julien en la cocina y Xavier en el comedor."
+    ]
+  },
+  "rdfs:label": {
+    "en": [
+      "L'Encart"
+    ],
+    "it": [
+      "L'Encart"
+    ],
+    "fr": [
+      "L'Encart"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/45c48cce-2e2d-3fbd-aa1a-fc51c7c6ad26",
+    "dc:identifier": "9",
+    "schema:email": [
+      "apidae@lyon-france.com",
+      "seveillard@lyon-france.com",
+      "vbilly@lyon-france.com"
+    ],
+    "schema:legalName": "Lyon Tourisme et Congrès / ONLYLYON Tourisme",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.lyon-france.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/8a9feb4b-2cbd-3d2c-b507-bd6c6776b23b",
+      "schema:legalName": "Apidae Tourisme Scic SA - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/86bfd0e9-eb94-318e-bfaa-8724ca4de98b",
+      "schema:email": [
+        "contact@l-encart.com"
+      ],
+      "schema:telephone": [
+        "+33 4 78 03 13 67"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.l-encart.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/4d6873b7-e935-392f-b68c-1dc88db52fcb",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/1e495f82-263c-3f4f-b354-47240c3721d4",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/335bd0d7-aed6-3a4f-aecd-5185635fccaa",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/dc590a7f-5ee3-3939-8a2c-eb519f0997da",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "L'encart ist das Abenteuer von zwei Kumpels, die sich für Wein und Gastronomie begeistern. L'encart, das sind sie: Julien, in der Küche, und Xavier, im Speisesaal."
+        ],
+        "en": [
+          "L'Encart is an adventure embarked upon by two friends, passionate about wine and good food. L'Encart features Julien in the kitchen and Xavier in the dining room."
+        ],
+        "it": [
+          "L'encart è l'avventura di due amici con la passione per il vino e la gastronomia. L'encart siamo noi: Julien in cucina e Xavier in sala."
+        ],
+        "fr": [
+          "L’encart c’est l’aventure de deux potes, passionnés de vin et de gastronomie. L’encart, c’est eux : Julien, en cuisine et Xavier, en salle."
+        ],
+        "nl": [
+          "L'encart is het avontuur van twee vrienden met een passie voor wijn en gastronomie. Dat zijn Julien in de keuken en Xavier in de eetkamer."
+        ],
+        "es": [
+          "L'encart es la aventura de dos amigos apasionados por el vino y la gastronomía. Son Julien en la cocina y Xavier en el comedor."
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/a335e58b-0057-3869-912a-22964a53248b",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/edb749dd-b3b6-3898-bd4e-3e31ab2c5a16",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/f5f0ccef-b67a-3d66-ba7f-36026e262815",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/f2ba9938-7aa6-3363-8a53-c9412d288c76",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/716c2ad2-fd7e-34f4-93c0-217a573deece",
+          "schema:addressLocality": "Lyon 2e Arrondissement",
+          "schema:postalCode": "69002",
+          "schema:streetAddress": [
+            "30 rue du Plat"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:69382",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Lyon 2e Arrondissement"
+              ],
+              "pt": [
+                "Lyon 2e Arrondissement"
+              ],
+              "en": [
+                "Lyon 2e Arrondissement"
+              ],
+              "it": [
+                "Lyon 2e Arrondissement"
+              ],
+              "fr": [
+                "Lyon 2e Arrondissement"
+              ],
+              "nl": [
+                "Lyon 2e Arrondissement"
+              ],
+              "es": [
+                "Lyon 2e Arrondissement"
+              ]
+            },
+            "insee": "69382",
+            "isPartOfDepartment": {
+              "@id": "kb:France8469",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Rhône"
+                ],
+                "pt": [
+                  "Rhône"
+                ],
+                "en": [
+                  "Rhône"
+                ],
+                "it": [
+                  "Rhône"
+                ],
+                "fr": [
+                  "Rhône"
+                ],
+                "nl": [
+                  "Rhône"
+                ],
+                "es": [
+                  "Rhône"
+                ]
+              },
+              "insee": "69",
+              "isPartOfRegion": {
+                "@id": "kb:France84",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "pt": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "en": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "it": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "fr": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "nl": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "es": [
+                    "Auvergne-Rhône-Alpes"
+                  ]
+                },
+                "insee": "84",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/57fd70cd-4373-3fc3-ae6b-e8b42da4245a",
+        "schema:latitude": "45.756782",
+        "schema:longitude": "4.828207",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/efc9f1d5-64eb-3065-b7b3-12111ad66e14",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Privatisierung an Abenden und Schließtagen möglich."
+            ],
+            "en": [
+              "Privatization possible on evenings and days of closure."
+            ],
+            "it": [
+              "Possibilità di privatizzazione nelle serate e nei giorni di chiusura dell'hotel."
+            ],
+            "fr": [
+              "Privatisation possible les soirs et jours de fermeture."
+            ],
+            "es": [
+              "Privatización posible por las tardes y los días en que el hotel está cerrado."
+            ],
+            "nl": [
+              "Privatisering mogelijk op avonden en dagen dat het hotel gesloten is."
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/49d405bf-80d7-3c98-a1a6-487adcf8088c",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/4f19be8f-6eef-3342-b5ee-63483239c9d3",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/7a1110c4-b93f-3b06-9954-d5a1f1035686",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/ba96941a-124f-373a-89b7-97d54f8cad46",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/d958fe25-2df5-330a-bfcb-d75d0a297c33",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/33848473-e8f7-3b5e-a27f-1813fca76a01",
+      "schema:email": [
+        "apidae@lyon-france.com",
+        "seveillard@lyon-france.com",
+        "vbilly@lyon-france.com"
+      ],
+      "schema:legalName": "Lyon Tourisme et Congrès / ONLYLYON Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.lyon-france.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-07-18",
+  "lastUpdateDatatourisme": "2023-12-23T06:39:46.168Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/9f64d49a-0389-381a-85a6-3959aa305d80",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/9f92b63f-4fba-386f-a445-d4fdff508d25",
+          "schema:maxPrice": [
+            "15",
+            "25"
+          ],
+          "schema:minPrice": [
+            "15",
+            "19.9",
+            "25"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/a425afdf-3594-300b-b55e-1858bafa3fd4",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2023-12-31",
+              "startDate": "2023-01-01"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

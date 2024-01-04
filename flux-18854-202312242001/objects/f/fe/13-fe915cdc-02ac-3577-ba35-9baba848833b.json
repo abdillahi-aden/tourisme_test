@@ -1,0 +1,470 @@
+{
+  "@id": "https://data.datatourisme.fr/13/fe915cdc-02ac-3577-ba35-9baba848833b",
+  "dc:identifier": "6651800",
+  "@type": [
+    "schema:FoodEstablishment",
+    "FoodEstablishment",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Zwischen Rhone und Saône, an der Ecke einer kleinen Straße, wird Ihnen das Casse Museau seine Geheimnisse enthüllen, sobald Sie die Tür durchschritten haben."
+    ],
+    "en": [
+      "Between the Rhone and Saône rivers, just around the corner, Le Casse Museau reveals its secrets."
+    ],
+    "it": [
+      "Situata tra i fiumi Rodano e Saona, Le Casse Museau è proprio dietro l'angolo e vi svelerà i suoi segreti non appena varcherete la porta."
+    ],
+    "fr": [
+      "Entre Rhone et Saône, au détour d’une petite rue Le Casse Museau sera vous dévoiler ses secrets dès la porte franchie."
+    ],
+    "es": [
+      "Situado entre los ríos Ródano y Saona, Le Casse Museau está a la vuelta de la esquina y le revelará sus secretos nada más cruzar la puerta."
+    ],
+    "nl": [
+      "Le Casse Museau, gelegen tussen de Rhône en de Saône, ligt om de hoek en zal zijn geheimen aan je prijsgeven zodra je door de deur loopt."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Le Casse Museau"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/45c48cce-2e2d-3fbd-aa1a-fc51c7c6ad26",
+    "dc:identifier": "9",
+    "schema:email": [
+      "apidae@lyon-france.com",
+      "seveillard@lyon-france.com",
+      "vbilly@lyon-france.com"
+    ],
+    "schema:legalName": "Lyon Tourisme et Congrès / ONLYLYON Tourisme",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.lyon-france.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/8a9feb4b-2cbd-3d2c-b507-bd6c6776b23b",
+      "schema:legalName": "Apidae Tourisme Scic SA - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/7948af46-f2a8-38d9-bf0d-69da99a9fe45",
+      "schema:email": [
+        "lecassemuseau@gmail.com"
+      ],
+      "schema:telephone": [
+        "+33 4 78 32 64 42"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://lecassemuseau.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/77879a3d-1c50-30e9-a928-6784bd38e511",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/187b307a-7fe0-36d1-a4d6-cef2b3e316df",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/8917374c-b778-3f2b-aaa6-54c216406db6",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/9416621b-7222-381f-bc46-f972a9c192bb",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d0549f86-9add-3aa6-b8cc-dff960c0a460",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e877eba8-8d03-3f1f-93a4-19e108df4b39",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Zwischen Rhone und Saône, an der Ecke einer kleinen Straße, wird Ihnen das Casse Museau seine Geheimnisse enthüllen, sobald Sie die Tür durchschritten haben."
+        ],
+        "en": [
+          "Between the Rhone and Saône rivers, just around the corner, Le Casse Museau reveals its secrets."
+        ],
+        "it": [
+          "Situata tra i fiumi Rodano e Saona, Le Casse Museau è proprio dietro l'angolo e vi svelerà i suoi segreti non appena varcherete la porta."
+        ],
+        "fr": [
+          "Entre Rhone et Saône, au détour d’une petite rue Le Casse Museau sera vous dévoiler ses secrets dès la porte franchie."
+        ],
+        "es": [
+          "Situado entre los ríos Ródano y Saona, Le Casse Museau está a la vuelta de la esquina y le revelará sus secretos nada más cruzar la puerta."
+        ],
+        "nl": [
+          "Le Casse Museau, gelegen tussen de Rhône en de Saône, ligt om de hoek en zal zijn geheimen aan je prijsgeven zodra je door de deur loopt."
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/12f68332-f447-3f0b-87bd-e26abd2d5393",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/573e10bb-b81b-3f1f-ba26-ea2b7cb0d66d",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/845483ab-2f68-3fa0-9c1b-91d2cd05af82",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/a4f26b60-c75f-344d-b9d8-489b58e9d414",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/eb4060c7-2afb-35dc-8532-08cc2675e2c2",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/1ff095a9-60f7-34af-a233-948f85764db6",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/56b3ce49-eeae-3b8d-8d26-4eaf6977529b",
+          "schema:addressLocality": "Lyon 1er Arrondissement",
+          "schema:postalCode": "69001",
+          "schema:streetAddress": [
+            "2 rue Chavanne"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:69381",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Lyon 1er Arrondissement"
+              ],
+              "pt": [
+                "Lyon 1er Arrondissement"
+              ],
+              "en": [
+                "Lyon 1er Arrondissement"
+              ],
+              "it": [
+                "Lyon 1er Arrondissement"
+              ],
+              "fr": [
+                "Lyon 1er Arrondissement"
+              ],
+              "nl": [
+                "Lyon 1er Arrondissement"
+              ],
+              "es": [
+                "Lyon 1er Arrondissement"
+              ]
+            },
+            "insee": "69381",
+            "isPartOfDepartment": {
+              "@id": "kb:France8469",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Rhône"
+                ],
+                "pt": [
+                  "Rhône"
+                ],
+                "en": [
+                  "Rhône"
+                ],
+                "it": [
+                  "Rhône"
+                ],
+                "fr": [
+                  "Rhône"
+                ],
+                "nl": [
+                  "Rhône"
+                ],
+                "es": [
+                  "Rhône"
+                ]
+              },
+              "insee": "69",
+              "isPartOfRegion": {
+                "@id": "kb:France84",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "pt": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "en": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "it": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "fr": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "nl": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "es": [
+                    "Auvergne-Rhône-Alpes"
+                  ]
+                },
+                "insee": "84",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/07979fe3-33e6-3a9e-8023-ad9137f370c8",
+        "schema:latitude": "45.765483",
+        "schema:longitude": "4.832494",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/33848473-e8f7-3b5e-a27f-1813fca76a01",
+      "schema:email": [
+        "apidae@lyon-france.com",
+        "seveillard@lyon-france.com",
+        "vbilly@lyon-france.com"
+      ],
+      "schema:legalName": "Lyon Tourisme et Congrès / ONLYLYON Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.lyon-france.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-09-05",
+  "lastUpdateDatatourisme": "2023-12-23T06:39:46.147Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/18dfd741-45bb-377b-97e8-d8ec41bd8e32",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/ab9375cc-6fb9-3f37-b9ac-9b1a24646922",
+          "schema:maxPrice": [
+            "22",
+            "36.5"
+          ],
+          "schema:minPrice": [
+            "19",
+            "32.5"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/a425afdf-3594-300b-b55e-1858bafa3fd4",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2023-12-31",
+              "startDate": "2023-01-01"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,575 @@
+{
+  "@id": "https://data.datatourisme.fr/13/924bfdcf-251b-345a-9f6f-9c3dd3b8d087",
+  "dc:identifier": "843791",
+  "@type": [
+    "schema:FoodEstablishment",
+    "FoodEstablishment",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Mademoiselle Simone ist viel mehr als ein Bar-Restaurant. Es ist ein einzigartiger Ort der Begegnung, an dem lebendige Musik und Jazz-Noten harmonisch mit einer kreativen und durchdachten Küche verschmelzen. Eine Einladung zu einer Reise, die alle Ihre Sinne wecken wird."
+    ],
+    "en": [
+      "Mademoiselle Simone is much more than a Bar Restaurant. It's a unique meeting place where lively music and jazz notes blend harmoniously with creative, reasoned cuisine. An invitation to travel that will awaken all your senses."
+    ],
+    "it": [
+      "Mademoiselle Simone è molto più di un Bar Ristorante. È un luogo d'incontro unico dove la musica vivace e le note del jazz si fondono armoniosamente con una cucina creativa e ben studiata. Un invito al viaggio che risveglierà tutti i vostri sensi."
+    ],
+    "fr": [
+      "Mademoiselle Simone est bien plus qu'un Bar Restaurant. C'est un lieu unique de rencontre où la musique vivante et les notes de jazz se marient harmonieusement avec une cuisine créative et raisonnée. Une invitation au voyage qui éveillera tous vos sens."
+    ],
+    "nl": [
+      "Mademoiselle Simone is veel meer dan een Bar Restaurant. Het is een unieke ontmoetingsplaats waar levendige muziek en jazznoten harmonieus samengaan met een creatieve, goed doordachte keuken. Een uitnodiging om te reizen die al je zintuigen zal prikkelen."
+    ],
+    "es": [
+      "Mademoiselle Simone es mucho más que un Bar Restaurante. Es un lugar de encuentro único donde la música animada y las notas de jazz se mezclan armoniosamente con una cocina creativa y bien pensada. Una invitación a viajar que despertará todos sus sentidos."
+    ]
+  },
+  "rdfs:label": {
+    "de": [
+      "Mademoiselle Simone Restaurant Bar Jazz"
+    ],
+    "ru": [
+      "Mademoiselle Simone Restaurant Bar Jazz"
+    ],
+    "en": [
+      "Mademoiselle Simone Restaurant Bar Jazz"
+    ],
+    "it": [
+      "Mademoiselle Simone Restaurant Bar Jazz"
+    ],
+    "fr": [
+      "Mademoiselle Simone Restaurant Bar Jazz"
+    ],
+    "zh": [
+      "Mademoiselle Simone Restaurant Bar Jazz"
+    ],
+    "nl": [
+      "Mademoiselle Simone Restaurant Bar Jazz"
+    ],
+    "es": [
+      "Mademoiselle Simone Restaurant Bar Jazz"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/45c48cce-2e2d-3fbd-aa1a-fc51c7c6ad26",
+    "dc:identifier": "9",
+    "schema:email": [
+      "apidae@lyon-france.com",
+      "seveillard@lyon-france.com",
+      "vbilly@lyon-france.com"
+    ],
+    "schema:legalName": "Lyon Tourisme et Congrès / ONLYLYON Tourisme",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.lyon-france.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/8a9feb4b-2cbd-3d2c-b507-bd6c6776b23b",
+      "schema:legalName": "Apidae Tourisme Scic SA - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/f5825c84-0881-3d03-a7c3-d0629a17c9bc",
+      "schema:email": [
+        "hb6g4@accor.com"
+      ],
+      "schema:telephone": [
+        "+33 4 78 71 17 47"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://restaurantsandbars.accor.com/fr/restaurant/B6G4_R001"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/8decb648-33d0-3878-ae76-8519a017b591",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/a0919f42-a7c7-3cc1-9c63-fc921d1729f7",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/aa0a14a4-a1e8-3b81-a3e4-579e07d65f63",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c05980f2-a07f-3e7a-bb26-937c7b3c65d7",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c7717653-2012-385c-b9aa-b03b795c0aa7",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ef75812d-12e3-39d0-a983-6711dbac8308",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Mademoiselle Simone ist viel mehr als ein Bar-Restaurant. Es ist ein einzigartiger Ort der Begegnung, an dem lebendige Musik und Jazz-Noten harmonisch mit einer kreativen und durchdachten Küche verschmelzen. Eine Einladung zu einer Reise, die alle Ihre Sinne wecken wird."
+        ],
+        "en": [
+          "Mademoiselle Simone is much more than a Bar Restaurant. It's a unique meeting place where lively music and jazz notes blend harmoniously with creative, reasoned cuisine. An invitation to travel that will awaken all your senses."
+        ],
+        "it": [
+          "Mademoiselle Simone è molto più di un Bar Ristorante. È un luogo d'incontro unico dove la musica vivace e le note del jazz si fondono armoniosamente con una cucina creativa e ben studiata. Un invito al viaggio che risveglierà tutti i vostri sensi."
+        ],
+        "fr": [
+          "Mademoiselle Simone est bien plus qu'un Bar Restaurant. C'est un lieu unique de rencontre où la musique vivante et les notes de jazz se marient harmonieusement avec une cuisine créative et raisonnée. Une invitation au voyage qui éveillera tous vos sens."
+        ],
+        "nl": [
+          "Mademoiselle Simone is veel meer dan een Bar Restaurant. Het is een unieke ontmoetingsplaats waar levendige muziek en jazznoten harmonieus samengaan met een creatieve, goed doordachte keuken. Een uitnodiging om te reizen die al je zintuigen zal prikkelen."
+        ],
+        "es": [
+          "Mademoiselle Simone es mucho más que un Bar Restaurante. Es un lugar de encuentro único donde la música animada y las notas de jazz se mezclan armoniosamente con una cocina creativa y bien pensada. Una invitación a viajar que despertará todos sus sentidos."
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/03223345-2062-31f6-b38e-10961f52cde0",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/16738ece-3f6b-3780-9ffb-f5304a2b509d",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/2356187f-61a0-3ecf-9573-ab7e3677163b",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/3fe902cd-65bc-3df0-a3d1-f5d8abaf5036",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/6affc633-7dad-36d7-883e-d2f719d3e477",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/6605ca37-289e-329e-94b8-9a1425c7b6e2",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/a1c874ac-5760-3082-b77c-247316b9adfb",
+          "schema:addressLocality": "Lyon 2e Arrondissement",
+          "schema:postalCode": "69002",
+          "schema:streetAddress": [
+            "26 cours de Verdun Perrache"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:69382",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Lyon 2e Arrondissement"
+              ],
+              "pt": [
+                "Lyon 2e Arrondissement"
+              ],
+              "en": [
+                "Lyon 2e Arrondissement"
+              ],
+              "it": [
+                "Lyon 2e Arrondissement"
+              ],
+              "fr": [
+                "Lyon 2e Arrondissement"
+              ],
+              "nl": [
+                "Lyon 2e Arrondissement"
+              ],
+              "es": [
+                "Lyon 2e Arrondissement"
+              ]
+            },
+            "insee": "69382",
+            "isPartOfDepartment": {
+              "@id": "kb:France8469",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Rhône"
+                ],
+                "pt": [
+                  "Rhône"
+                ],
+                "en": [
+                  "Rhône"
+                ],
+                "it": [
+                  "Rhône"
+                ],
+                "fr": [
+                  "Rhône"
+                ],
+                "nl": [
+                  "Rhône"
+                ],
+                "es": [
+                  "Rhône"
+                ]
+              },
+              "insee": "69",
+              "isPartOfRegion": {
+                "@id": "kb:France84",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "pt": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "en": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "it": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "fr": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "nl": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "es": [
+                    "Auvergne-Rhône-Alpes"
+                  ]
+                },
+                "insee": "84",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/3d19a736-d880-3561-b4a6-1fcbb6d2bef5",
+        "schema:latitude": "45.74856",
+        "schema:longitude": "4.827902",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/cd1bdad8-06bf-39a6-9cea-6be63f26d590",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "JAZZ BAR & KITCHEN\r\nRestaurant am Samstagmittag und Sonntag geschlossen.\r\nBar montags bis samstags von 7.00 bis 23.00 Uhr geöffnet."
+            ],
+            "en": [
+              "JAZZ BAR & KITCHEN\r\nRestaurant closed on saturday noon and sunday.\r\nBar open from Monday to Saturday from 7:00 am to 11:00 pm."
+            ],
+            "it": [
+              "JAZZ BAR E CUCINA\r\nIl ristorante è chiuso il sabato a pranzo e la domenica.\r\nBar aperto dal lunedì al sabato dalle 7.00 alle 23.00."
+            ],
+            "fr": [
+              "JAZZ BAR & KITCHEN\r\nRestaurant fermé le samedi midi et dimanche.\r\nBar ouvert du lundi au samedi de 7h00 à 23h."
+            ],
+            "nl": [
+              "JAZZ BAR & KEUKEN\r\nRestaurant gesloten op zaterdagmiddag en zondag.\r\nBar open van maandag tot zaterdag van 7 tot 23 uur."
+            ],
+            "es": [
+              "BAR Y COCINA DE JAZZ\r\nEl restaurante cierra el sábado al mediodía y el domingo.\r\nBar abierto de lunes a sábado de 7 a 23 horas."
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/01d3a164-855a-3da8-9406-4cdfdbe873b9",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/12226002-942f-3ad4-8a23-2edab37b5a32",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/55e25b16-8607-3dd3-9cf6-949204a5041a",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/99046ada-3bd3-30c4-ba06-ff3b9d7445a6",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/ebfe13ee-f135-3eeb-9ea3-fae26d0d9a4e",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/33848473-e8f7-3b5e-a27f-1813fca76a01",
+      "schema:email": [
+        "apidae@lyon-france.com",
+        "seveillard@lyon-france.com",
+        "vbilly@lyon-france.com"
+      ],
+      "schema:legalName": "Lyon Tourisme et Congrès / ONLYLYON Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.lyon-france.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-11-06",
+  "lastUpdateDatatourisme": "2023-12-23T06:39:46.143Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/2dc78d77-44fd-3c8e-b385-9d84536d213d",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/e44487b6-480a-31aa-bcb1-95f74b5eb0ee",
+          "schema:maxPrice": [
+            "12.9",
+            "30"
+          ],
+          "schema:minPrice": [
+            "12.9",
+            "16.5",
+            "17.5",
+            "8.5"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/a425afdf-3594-300b-b55e-1858bafa3fd4",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2023-12-31",
+              "startDate": "2023-01-01"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

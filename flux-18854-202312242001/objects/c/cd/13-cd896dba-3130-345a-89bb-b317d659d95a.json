@@ -1,0 +1,467 @@
+{
+  "@id": "https://data.datatourisme.fr/13/cd896dba-3130-345a-89bb-b317d659d95a",
+  "dc:identifier": "207391",
+  "@type": [
+    "schema:FoodEstablishment",
+    "FoodEstablishment",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Wenn Sie das Les Trois Dômes betreten, wird Ihr Blick sofort von dem Panoramablick auf die Stadt gefangen genommen, der sich vor Ihnen ausbreitet. Aber nicht nur dieser Anblick macht sprachlos, auch die Einrichtung vermittelt ein Gefühl von Authentizität und Gastfreundschaft."
+    ],
+    "en": [
+      "When you enter Les Trois Dômes, your eyes are immediately drawn to the panoramic view of the city that stretches out before you. But beyond this breathtaking spectacle, the decor conveys a feeling of authenticity and conviviality."
+    ],
+    "it": [
+      "Quando si entra a Les Trois Dômes, lo sguardo è immediatamente attratto dalla vista panoramica della città che si estende davanti a noi. Ma oltre a questo spettacolo mozzafiato, l'arredamento trasmette un senso di autenticità e convivialità."
+    ],
+    "fr": [
+      "Lorsque vous entrez aux Trois Dômes, le regard est immédiatement happé par la vue panoramique sur la ville qui s’étend devant vous. Mais au-delà de ce spectacle qui laisse sans voix, la décoration traduit un sentiment d’authenticité et de convivialité."
+    ],
+    "nl": [
+      "Als je Les Trois Dômes binnenkomt, word je meteen aangetrokken door het panoramische uitzicht over de stad dat zich voor je uitstrekt. Maar naast dit adembenemende spektakel straalt het decor een gevoel van authenticiteit en gezelligheid uit."
+    ],
+    "es": [
+      "Al entrar en Les Trois Dômes, los ojos se posan inmediatamente en la vista panorámica de la ciudad que se extiende ante usted. Pero más allá de este impresionante espectáculo, la decoración transmite una sensación de autenticidad y cordialidad."
+    ]
+  },
+  "rdfs:label": {
+    "de": [
+      "Les Trois Dômes"
+    ],
+    "ru": [
+      "Les Trois Dômes"
+    ],
+    "en": [
+      "Les Trois Dômes"
+    ],
+    "it": [
+      "Les Trois Dômes"
+    ],
+    "fr": [
+      "Les Trois Dômes"
+    ],
+    "zh": [
+      "Les Trois Dômes"
+    ],
+    "nl": [
+      "Les Trois Dômes"
+    ],
+    "es": [
+      "Les Trois Dômes"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/45c48cce-2e2d-3fbd-aa1a-fc51c7c6ad26",
+    "dc:identifier": "9",
+    "schema:email": [
+      "apidae@lyon-france.com",
+      "seveillard@lyon-france.com",
+      "vbilly@lyon-france.com"
+    ],
+    "schema:legalName": "Lyon Tourisme et Congrès / ONLYLYON Tourisme",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.lyon-france.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/8a9feb4b-2cbd-3d2c-b507-bd6c6776b23b",
+      "schema:legalName": "Apidae Tourisme Scic SA - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/5d87d25e-01d9-3fa8-88ab-664bb9d7e124",
+      "schema:email": [
+        "h0553-fb2@sofitel.com"
+      ],
+      "schema:telephone": [
+        "+33 4 72 41 20 97"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.les-3-domes.com/fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/cb4d928b-95ee-3dae-9da5-3155c00a52ad",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/1342c744-c10b-3b22-8b53-1c24b10871f0",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/65472509-f588-3177-975e-e5fbc4d19f6a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/8a985cc6-d58e-30e9-864e-c1d39d02a8d0",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ccbbab37-a9df-309d-bc2d-262c2f70d75d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Wenn Sie das Les Trois Dômes betreten, wird Ihr Blick sofort von dem Panoramablick auf die Stadt gefangen genommen, der sich vor Ihnen ausbreitet. Aber nicht nur dieser Anblick macht sprachlos, auch die Einrichtung vermittelt ein Gefühl von Authentizität und Gastfreundschaft."
+        ],
+        "en": [
+          "When you enter Les Trois Dômes, your eyes are immediately drawn to the panoramic view of the city that stretches out before you. But beyond this breathtaking spectacle, the decor conveys a feeling of authenticity and conviviality."
+        ],
+        "it": [
+          "Quando si entra a Les Trois Dômes, lo sguardo è immediatamente attratto dalla vista panoramica della città che si estende davanti a noi. Ma oltre a questo spettacolo mozzafiato, l'arredamento trasmette un senso di autenticità e convivialità."
+        ],
+        "fr": [
+          "Lorsque vous entrez aux Trois Dômes, le regard est immédiatement happé par la vue panoramique sur la ville qui s’étend devant vous. Mais au-delà de ce spectacle qui laisse sans voix, la décoration traduit un sentiment d’authenticité et de convivialité."
+        ],
+        "nl": [
+          "Als je Les Trois Dômes binnenkomt, word je meteen aangetrokken door het panoramische uitzicht over de stad dat zich voor je uitstrekt. Maar naast dit adembenemende spektakel straalt het decor een gevoel van authenticiteit en gezelligheid uit."
+        ],
+        "es": [
+          "Al entrar en Les Trois Dômes, los ojos se posan inmediatamente en la vista panorámica de la ciudad que se extiende ante usted. Pero más allá de este impresionante espectáculo, la decoración transmite una sensación de autenticidad y cordialidad."
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/394e1cdd-7de8-3474-966a-3ef4c4fa90b9",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/3dc2ffea-b435-37cd-b4e4-0b75c33daecb",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/55b7f119-7a4b-3e62-9397-62d7f0ac84d0",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/929adea5-9cd3-3a18-a722-213594373f8e",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/a0fa6caf-fe03-3dc8-b02d-784dbd85f55b",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/c55b734c-917a-38a9-a19f-c041536c0a9e",
+          "schema:addressLocality": "Lyon 2e Arrondissement",
+          "schema:postalCode": "69002",
+          "schema:streetAddress": [
+            "20 quai Gailleton"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:69382",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Lyon 2e Arrondissement"
+              ],
+              "pt": [
+                "Lyon 2e Arrondissement"
+              ],
+              "en": [
+                "Lyon 2e Arrondissement"
+              ],
+              "it": [
+                "Lyon 2e Arrondissement"
+              ],
+              "fr": [
+                "Lyon 2e Arrondissement"
+              ],
+              "nl": [
+                "Lyon 2e Arrondissement"
+              ],
+              "es": [
+                "Lyon 2e Arrondissement"
+              ]
+            },
+            "insee": "69382",
+            "isPartOfDepartment": {
+              "@id": "kb:France8469",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Rhône"
+                ],
+                "pt": [
+                  "Rhône"
+                ],
+                "en": [
+                  "Rhône"
+                ],
+                "it": [
+                  "Rhône"
+                ],
+                "fr": [
+                  "Rhône"
+                ],
+                "nl": [
+                  "Rhône"
+                ],
+                "es": [
+                  "Rhône"
+                ]
+              },
+              "insee": "69",
+              "isPartOfRegion": {
+                "@id": "kb:France84",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "pt": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "en": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "it": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "fr": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "nl": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "es": [
+                    "Auvergne-Rhône-Alpes"
+                  ]
+                },
+                "insee": "84",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/1b243d50-b9d5-3f12-b058-d5fab3a9728d",
+        "schema:latitude": "45.754275",
+        "schema:longitude": "4.834341",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/33848473-e8f7-3b5e-a27f-1813fca76a01",
+      "schema:email": [
+        "apidae@lyon-france.com",
+        "seveillard@lyon-france.com",
+        "vbilly@lyon-france.com"
+      ],
+      "schema:legalName": "Lyon Tourisme et Congrès / ONLYLYON Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.lyon-france.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-09-18",
+  "lastUpdateDatatourisme": "2023-12-23T06:39:46.262Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/bb56afc6-d916-32d3-883f-65c7708de793",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/0e2236b2-2aa4-3328-b0f9-bf8c24134c37",
+          "schema:maxPrice": [
+            "17",
+            "38",
+            "82"
+          ],
+          "schema:minPrice": [
+            "17",
+            "30",
+            "70"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/a425afdf-3594-300b-b55e-1858bafa3fd4",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2023-12-31",
+              "startDate": "2023-01-01"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

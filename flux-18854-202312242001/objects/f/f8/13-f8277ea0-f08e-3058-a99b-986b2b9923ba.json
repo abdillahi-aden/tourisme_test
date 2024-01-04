@@ -1,0 +1,355 @@
+{
+  "@id": "https://data.datatourisme.fr/13/f8277ea0-f08e-3058-a99b-986b2b9923ba",
+  "dc:identifier": "213561",
+  "@type": [
+    "schema:Accommodation",
+    "schema:Hotel",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "Hotel",
+    "HotelTrade",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Als wichtiger Akteur im Geschäftstourismus in Lyon unterstützt Valpré Sie dabei, Ihre Teams und Veranstaltungen in einer ruhigen Atmosphäre zu empfangen. Mit einem privaten Park, 110 Zimmern, 20 Tagungsräumen und einer hauseigenen Gastronomie. Kommen Sie ins Grüne, um Ihre Projekte wachsen zu lassen."
+    ],
+    "en": [
+      "As a key player in business tourism in Lyon, Valpré helps you welcome your teams and events in a serene atmosphere. With a private park, 110 rooms, 20 meeting spaces, and in-house dining options. Come to the green surroundings to nurture your projects."
+    ],
+    "it": [
+      "Come attore di rilievo nel turismo d'affari a Lione, Valpré vi aiuta ad accogliere le vostre squadre e i vostri eventi in un'atmosfera serena. Con un parco privato, 110 camere, 20 spazi per riunioni e un'offerta di ristorazione in loco. Venite nel verde per far crescere i vostri progetti."
+    ],
+    "fr": [
+      "Acteur incontournable du tourisme d’affaires à Lyon, Valpré vous aide à accueillir vos équipes et vos évènements dans la sérénité. Parc privé, 110 chambres, 20 espaces de réunion, une offre de restauration maison. Venez au vert, faire grandir vos projets."
+    ],
+    "es": [
+      "Como un actor destacado en el turismo de negocios en Lyon, Valpré le ayuda a recibir a sus equipos y eventos en un ambiente sereno. Con un parque privado, 110 habitaciones, 20 espacios para reuniones y una oferta de restauración in situ. Venga a un entorno verde para hacer crecer sus proyectos."
+    ],
+    "nl": [
+      "Als belangrijke speler in het zakentoerisme van Lyon helpt Valpré u om uw teams en uw evenementen met een gerust hart te ontvangen. Privépark, 110 kamers, 20 vergaderzalen, eigen catering. Kom en laat uw projecten groeien."
+    ]
+  },
+  "rdfs:label": {
+    "de": [
+      "Valpré - Lyon"
+    ],
+    "ru": [
+      "Valpré - Lyon"
+    ],
+    "en": [
+      "Valpré - Lyon"
+    ],
+    "it": [
+      "Valpré - Lyon"
+    ],
+    "fr": [
+      "Valpré - Lyon"
+    ],
+    "zh": [
+      "Valpré - Lyon"
+    ],
+    "nl": [
+      "Valpré - Lyon"
+    ],
+    "es": [
+      "Valpré - Lyon"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/45c48cce-2e2d-3fbd-aa1a-fc51c7c6ad26",
+    "dc:identifier": "9",
+    "schema:email": [
+      "apidae@lyon-france.com",
+      "seveillard@lyon-france.com",
+      "vbilly@lyon-france.com"
+    ],
+    "schema:legalName": "Lyon Tourisme et Congrès / ONLYLYON Tourisme",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.lyon-france.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/8a9feb4b-2cbd-3d2c-b507-bd6c6776b23b",
+      "schema:legalName": "Apidae Tourisme Scic SA - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/e7ba4621-d9af-3a88-8297-cbeefe8b815a",
+      "schema:email": [
+        "reception@valpre.com"
+      ],
+      "schema:telephone": [
+        "+33 4 72 18 05 05"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.valpre.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/f26a4829-3c48-39ae-835e-b44b449aa615",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/f0074294-579d-350c-ac1c-db9012391382",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Als wichtiger Akteur im Geschäftstourismus in Lyon unterstützt Valpré Sie dabei, Ihre Teams und Veranstaltungen in einer ruhigen Atmosphäre zu empfangen. Mit einem privaten Park, 110 Zimmern, 20 Tagungsräumen und einer hauseigenen Gastronomie. Kommen Sie ins Grüne, um Ihre Projekte wachsen zu lassen."
+        ],
+        "en": [
+          "As a key player in business tourism in Lyon, Valpré helps you welcome your teams and events in a serene atmosphere. With a private park, 110 rooms, 20 meeting spaces, and in-house dining options. Come to the green surroundings to nurture your projects."
+        ],
+        "it": [
+          "Come attore di rilievo nel turismo d'affari a Lione, Valpré vi aiuta ad accogliere le vostre squadre e i vostri eventi in un'atmosfera serena. Con un parco privato, 110 camere, 20 spazi per riunioni e un'offerta di ristorazione in loco. Venite nel verde per far crescere i vostri progetti."
+        ],
+        "fr": [
+          "Acteur incontournable du tourisme d’affaires à Lyon, Valpré vous aide à accueillir vos équipes et vos évènements dans la sérénité. Parc privé, 110 chambres, 20 espaces de réunion, une offre de restauration maison. Venez au vert, faire grandir vos projets."
+        ],
+        "es": [
+          "Como un actor destacado en el turismo de negocios en Lyon, Valpré le ayuda a recibir a sus equipos y eventos en un ambiente sereno. Con un parque privado, 110 habitaciones, 20 espacios para reuniones y una oferta de restauración in situ. Venga a un entorno verde para hacer crecer sus proyectos."
+        ],
+        "nl": [
+          "Als belangrijke speler in het zakentoerisme van Lyon helpt Valpré u om uw teams en uw evenementen met een gerust hart te ontvangen. Privépark, 110 kamers, 20 vergaderzalen, eigen catering. Kom en laat uw projecten groeien."
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/c2ec2529-8e24-38ca-bbcf-632dcab52399",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/83f4865d-8bfc-37c5-bb76-36662f90f5e1",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/e48c27b4-155d-3492-852d-65c251f75adb",
+          "schema:addressLocality": "Écully",
+          "schema:postalCode": "69130",
+          "schema:streetAddress": [
+            "1 chemin de Chalin"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:69081",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Écully"
+              ],
+              "pt": [
+                "Écully"
+              ],
+              "en": [
+                "Écully"
+              ],
+              "it": [
+                "Écully"
+              ],
+              "fr": [
+                "Écully"
+              ],
+              "nl": [
+                "Écully"
+              ],
+              "es": [
+                "Écully"
+              ]
+            },
+            "insee": "69081",
+            "isPartOfDepartment": {
+              "@id": "kb:France8469",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Rhône"
+                ],
+                "pt": [
+                  "Rhône"
+                ],
+                "en": [
+                  "Rhône"
+                ],
+                "it": [
+                  "Rhône"
+                ],
+                "fr": [
+                  "Rhône"
+                ],
+                "nl": [
+                  "Rhône"
+                ],
+                "es": [
+                  "Rhône"
+                ]
+              },
+              "insee": "69",
+              "isPartOfRegion": {
+                "@id": "kb:France84",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "pt": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "en": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "it": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "fr": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "nl": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "es": [
+                    "Auvergne-Rhône-Alpes"
+                  ]
+                },
+                "insee": "84",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/ac18557e-06c5-3d43-9e19-0451cdb57bdb",
+        "schema:elevation": "231",
+        "schema:latitude": "45.77717",
+        "schema:longitude": "4.791316",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/33848473-e8f7-3b5e-a27f-1813fca76a01",
+      "schema:email": [
+        "apidae@lyon-france.com",
+        "seveillard@lyon-france.com",
+        "vbilly@lyon-france.com"
+      ],
+      "schema:legalName": "Lyon Tourisme et Congrès / ONLYLYON Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.lyon-france.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-10-26",
+  "lastUpdateDatatourisme": "2023-10-27T05:50:20.931Z"
+}

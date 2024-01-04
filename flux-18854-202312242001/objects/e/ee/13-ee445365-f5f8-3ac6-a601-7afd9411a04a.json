@@ -1,0 +1,556 @@
+{
+  "@id": "https://data.datatourisme.fr/13/ee445365-f5f8-3ac6-a601-7afd9411a04a",
+  "dc:identifier": "145164",
+  "@type": [
+    "schema:Accommodation",
+    "schema:FoodEstablishment",
+    "schema:Hotel",
+    "schema:LodgingBusiness",
+    "schema:Restaurant",
+    "Accommodation",
+    "FoodEstablishment",
+    "Hotel",
+    "HotelRestaurant",
+    "HotelTrade",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "Restaurant"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Am Fuße des Mont Brouilly, im Herzen der Weinberge, in einer grünen Oase, erhebt sich ein charmantes Hotel mit 28 Zimmern mit allem Komfort. Eine charmante Etappe, die alles hat, um Sie zu verführen."
+    ],
+    "en": [
+      "A charming hotel providing all mod cons at the foot of Mount Brouilly in the lush green setting of the wine-growing heartland of France."
+    ],
+    "it": [
+      "Ai piedi del Mont Brouilly, nel cuore dei vigneti, in un ambiente verde, sorge un hotel di charme con 28 camere confortevoli. Una tappa affascinante che ha tutto per sedurvi."
+    ],
+    "fr": [
+      "Au pied du Mont Brouilly, au coeur du vignoble, dans un écrin de verdure, s’élève un charmant hôtel de 28 chambres tout confort. Une étape de charme qui a tout pour vous séduire."
+    ],
+    "nl": [
+      "Aan de voet van de Mont Brouilly, in het hart van de wijngaarden, in een groene omgeving, staat een charmant hotel met 28 comfortabele kamers. Een charmante tussenstop die alles heeft om u te verleiden."
+    ],
+    "es": [
+      "A los pies del Monte Brouilly, en el corazón de los viñedos, en un entorno verde, se encuentra un hotel con encanto con 28 cómodas habitaciones. Una escala encantadora que lo tiene todo para seducirte."
+    ]
+  },
+  "rdfs:label": {
+    "de": [
+      "Hôtel Restaurant Le Mont Brouilly"
+    ],
+    "ru": [
+      "Hôtel Restaurant Le Mont Brouilly"
+    ],
+    "en": [
+      "Hôtel Restaurant Le Mont Brouilly"
+    ],
+    "it": [
+      "Hôtel Restaurant Le Mont Brouilly"
+    ],
+    "fr": [
+      "Hôtel Restaurant Le Mont Brouilly"
+    ],
+    "zh": [
+      "Hôtel Restaurant Le Mont Brouilly"
+    ],
+    "nl": [
+      "Hôtel Restaurant Le Mont Brouilly"
+    ],
+    "es": [
+      "Hôtel Restaurant Le Mont Brouilly"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/c20ad4d7-6fe9-3759-aa27-a0c99bff6710",
+    "dc:identifier": "12",
+    "schema:email": [
+      "f.champavere@destination-beaujolais.com",
+      "g.taburiaux@destination-beaujolais.com",
+      "j.capdegelle@destination-beaujolais.com",
+      "t.blanchier@destination-beaujolais.com",
+      "v.guerin@destination-beaujolais.com"
+    ],
+    "schema:legalName": "Destination Beaujolais",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.destination-beaujolais.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/8a9feb4b-2cbd-3d2c-b507-bd6c6776b23b",
+      "schema:legalName": "Apidae Tourisme Scic SA - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/b506ccb3-be8a-37f0-9eee-c9f1a51d68f1",
+      "schema:email": [
+        "contact@hotelbrouilly.com"
+      ],
+      "schema:telephone": [
+        "+33 4 74 04 33 73"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.hotelbrouilly.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/28ccc496-05f7-3f37-bd1c-3ec8901263e1",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/05552332-0a81-3927-9aaa-71db487055e5",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/3a27fb53-cd8c-3b60-b37d-649b875fdc25",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f90e0fa9-8d52-3129-9cc4-24755cc14a66",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/fc044404-a625-32fd-9f19-c36fcc56089c",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Am Fuße des Mont Brouilly, im Herzen der Weinberge, in einer grünen Oase, erhebt sich ein charmantes Hotel mit 28 Zimmern mit allem Komfort. Eine charmante Etappe, die alles hat, um Sie zu verführen."
+        ],
+        "en": [
+          "A charming hotel providing all mod cons at the foot of Mount Brouilly in the lush green setting of the wine-growing heartland of France."
+        ],
+        "it": [
+          "Ai piedi del Mont Brouilly, nel cuore dei vigneti, in un ambiente verde, sorge un hotel di charme con 28 camere confortevoli. Una tappa affascinante che ha tutto per sedurvi."
+        ],
+        "fr": [
+          "Au pied du Mont Brouilly, au coeur du vignoble, dans un écrin de verdure, s’élève un charmant hôtel de 28 chambres tout confort. Une étape de charme qui a tout pour vous séduire."
+        ],
+        "nl": [
+          "Aan de voet van de Mont Brouilly, in het hart van de wijngaarden, in een groene omgeving, staat een charmant hotel met 28 comfortabele kamers. Een charmante tussenstop die alles heeft om u te verleiden."
+        ],
+        "es": [
+          "A los pies del Monte Brouilly, en el corazón de los viñedos, en un entorno verde, se encuentra un hotel con encanto con 28 cómodas habitaciones. Una escala encantadora que lo tiene todo para seducirte."
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/4f18a540-ddc2-3078-9589-bb552a309022",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/79b64625-2757-39b3-b7b0-a18ba5569696",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/a19d87d0-1cf7-364d-8fbc-a0517a97b800",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/ee963e28-d2ae-3d4b-b788-9e582bba4096",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/5a1534c9-4ab4-389f-bb08-b830d1c65209",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/5f681bb6-e5aa-30be-bacb-4c414c1adb14",
+          "schema:addressLocality": "Quincié-en-Beaujolais",
+          "schema:postalCode": "69430",
+          "schema:streetAddress": [
+            "139, impasse des Quatre Mesure"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:69162",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Quincié-en-Beaujolais"
+              ],
+              "pt": [
+                "Quincié-en-Beaujolais"
+              ],
+              "en": [
+                "Quincié-en-Beaujolais"
+              ],
+              "it": [
+                "Quincié-en-Beaujolais"
+              ],
+              "fr": [
+                "Quincié-en-Beaujolais"
+              ],
+              "nl": [
+                "Quincié-en-Beaujolais"
+              ],
+              "es": [
+                "Quincié-en-Beaujolais"
+              ]
+            },
+            "insee": "69162",
+            "isPartOfDepartment": {
+              "@id": "kb:France8469",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Rhône"
+                ],
+                "pt": [
+                  "Rhône"
+                ],
+                "en": [
+                  "Rhône"
+                ],
+                "it": [
+                  "Rhône"
+                ],
+                "fr": [
+                  "Rhône"
+                ],
+                "nl": [
+                  "Rhône"
+                ],
+                "es": [
+                  "Rhône"
+                ]
+              },
+              "insee": "69",
+              "isPartOfRegion": {
+                "@id": "kb:France84",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "pt": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "en": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "it": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "fr": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "nl": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "es": [
+                    "Auvergne-Rhône-Alpes"
+                  ]
+                },
+                "insee": "84",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/0ed83012-e866-3691-a714-4c1af6576e49",
+        "schema:elevation": "239",
+        "schema:latitude": "46.117952",
+        "schema:longitude": "4.641241",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/0eab0c86-8bad-3906-9c88-7989504078fd",
+          "schema:validFrom": "2023-03-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Hotel an sieben Tagen in der Woche geöffnet\r\nRestaurant von Dienstag bis Samstag abends und Samstag mittags geöffnet."
+            ],
+            "en": [
+              "Hotel open 7 days a week\r\nRestaurant open Tuesday to Saturday evenings and Saturday lunchtimes."
+            ],
+            "it": [
+              "Hotel aperto 7 giorni su 7\r\nRistorante aperto dal martedì al sabato sera e il sabato a pranzo."
+            ],
+            "fr": [
+              "Hôtel ouvert 7j/7\r\nRestaurant ouvert du mardi au samedi soir et samedi midi."
+            ],
+            "es": [
+              "Hotel abierto 7 días a la semana\r\nRestaurante abierto de martes a sábado por la noche y los sábados al mediodía."
+            ],
+            "nl": [
+              "Hotel 7 dagen per week geopend\r\nRestaurant geopend van dinsdag tot zaterdag 's avonds en zaterdag 's middags."
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/1b3a1fb5-ce8d-3be4-b9e8-81e052919772",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/49c9e3ca-68f3-3da9-bfc4-38ebd95cba50",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/4eb40718-1a38-364d-a415-9048b0487b43",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/d577be90-0f25-3e2e-9fb1-fea317adc6a9",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/dac0ded9-6399-3ad2-a6d6-fae6c2057cb1",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/dcdcfd62-5ee6-30e4-b2a5-4e7736aaeabd",
+      "schema:email": [
+        "f.champavere@destination-beaujolais.com",
+        "g.taburiaux@destination-beaujolais.com",
+        "v.guerin@destination-beaujolais.com"
+      ],
+      "schema:legalName": "Destination Beaujolais",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.destination-beaujolais.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-07-31",
+  "lastUpdateDatatourisme": "2023-12-23T06:39:46.311Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/f146261d-37f0-396c-bae6-0c62ce1e342f",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/8ec12301-a386-310e-bc75-a8adfcb1a4e2",
+          "schema:minPrice": [
+            "10",
+            "145",
+            "69"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/532fb970-91ab-396e-a5d1-0130ab646d7a",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2023-12-31",
+              "startDate": "2023-03-01"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

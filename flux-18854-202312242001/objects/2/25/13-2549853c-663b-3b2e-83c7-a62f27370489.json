@@ -1,0 +1,550 @@
+{
+  "@id": "https://data.datatourisme.fr/13/2549853c-663b-3b2e-83c7-a62f27370489",
+  "dc:identifier": "6687860",
+  "@type": [
+    "schema:FoodEstablishment",
+    "FoodEstablishment",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Ein Ort der Geselligkeit, des Teilens und der Solidarität bei einem Glas, einem Kaffee, einer Mahlzeit und soziokulturellen Veranstaltungen: Konzert, Café, Café-Philosophie... Der Alchimist ist ein Dritter Ort, der viele Aspekte bietet!"
+    ],
+    "en": [
+      "A place where people can meet, share and get together over a drink, a coffee, a meal and socio-cultural activities such as concerts, cafés, café-philoquies... L'Alchimiste is a one-stop shop with many facets!"
+    ],
+    "it": [
+      "Un luogo dove le persone possono incontrarsi, condividere e sostenersi a vicenda davanti a un drink, un caffè, un pasto ed eventi sociali e culturali come concerti, caffè, caffè-filosofia, ecc. L'Alchimiste è un negozio unico con molte sfaccettature!"
+    ],
+    "fr": [
+      "Un lieu de convivialité, de partage et de solidarité autour d'un verre, d'un café, d'un repas et d'animations socio-culturelle : concert, café, café-philo... L'Alchimiste est un tiers-lieu qui décline plein d'aspect !"
+    ],
+    "es": [
+      "Un lugar donde la gente puede reunirse, compartir y apoyarse mutuamente tomando una copa, un café, una comida y en torno a eventos sociales y culturales como conciertos, cafés, cafés-filosóficos, etc. L'Alchimiste es una ventanilla única con muchas facetas"
+    ],
+    "nl": [
+      "Een plaats waar mensen elkaar kunnen ontmoeten, delen en steunen bij een drankje, een koffie, een maaltijd en sociale en culturele evenementen zoals concerten, cafés, caféfilosofieën, enz. L'Alchimiste is een one-stop shop met vele facetten!"
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "L'Alchimiste"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/4e732ced-3463-306d-a0ca-9a15b6153677",
+    "dc:identifier": "26",
+    "schema:email": [
+      "accueil.chaponost@montsdulyonnaistourisme.fr",
+      "accueil.mornant@montsdulyonnaistourisme.fr",
+      "alexandra.colombet@montsdulyonnaistourisme.fr",
+      "amelie.goutagny@montsdulyonnaistourisme.fr",
+      "garance.alivon@montsdulyonnaistourisme.fr",
+      "marine.rulliat@montsdulyonnaistourisme.fr"
+    ],
+    "schema:legalName": "OTI des Monts du Lyonnais",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.montsdulyonnaistourisme.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/8a9feb4b-2cbd-3d2c-b507-bd6c6776b23b",
+      "schema:legalName": "Apidae Tourisme Scic SA - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/85323526-d087-3777-9092-68b26e14b5cb",
+      "schema:telephone": [
+        "+33 9 77 81 91 98"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/550ad1d7-6338-31c0-b58b-a7e326165439",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/1c1dbc4d-82ff-385a-bde0-bfab81c32b3a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/3ef95420-cb9b-3d43-9ded-939f6e32e949",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/91a3e537-c250-3049-a740-a210adbc76db",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/9550703e-681c-3ff0-b202-807ea2e5ef12",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ccd7de5e-14db-3217-b83b-59a778c2445a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Ein Ort der Geselligkeit, des Teilens und der Solidarität bei einem Glas, einem Kaffee, einer Mahlzeit und soziokulturellen Veranstaltungen: Konzert, Café, Café-Philosophie... Der Alchimist ist ein Dritter Ort, der viele Aspekte bietet!"
+        ],
+        "en": [
+          "A place where people can meet, share and get together over a drink, a coffee, a meal and socio-cultural activities such as concerts, cafés, café-philoquies... L'Alchimiste is a one-stop shop with many facets!"
+        ],
+        "it": [
+          "Un luogo dove le persone possono incontrarsi, condividere e sostenersi a vicenda davanti a un drink, un caffè, un pasto ed eventi sociali e culturali come concerti, caffè, caffè-filosofia, ecc. L'Alchimiste è un negozio unico con molte sfaccettature!"
+        ],
+        "fr": [
+          "Un lieu de convivialité, de partage et de solidarité autour d'un verre, d'un café, d'un repas et d'animations socio-culturelle : concert, café, café-philo... L'Alchimiste est un tiers-lieu qui décline plein d'aspect !"
+        ],
+        "es": [
+          "Un lugar donde la gente puede reunirse, compartir y apoyarse mutuamente tomando una copa, un café, una comida y en torno a eventos sociales y culturales como conciertos, cafés, cafés-filosóficos, etc. L'Alchimiste es una ventanilla única con muchas facetas"
+        ],
+        "nl": [
+          "Een plaats waar mensen elkaar kunnen ontmoeten, delen en steunen bij een drankje, een koffie, een maaltijd en sociale en culturele evenementen zoals concerten, cafés, caféfilosofieën, enz. L'Alchimiste is een one-stop shop met vele facetten!"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/0c9cc0fd-b7eb-3f1c-bb6d-71cd3299e705",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/31988c54-93d6-3439-b17c-610ed9aeaf1b",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/7540fed0-3a10-3c6e-bf55-63eb2e7f1e58",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/9d0ad6bb-e274-313d-a5d6-849f27c71f55",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/cff94119-bfd3-342b-b77c-aa840a7e7212",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/2b41f599-3776-3729-8d2b-f8b91d03c1c0",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/bc42bc25-3fbb-3a45-959e-000e45c9e766",
+          "schema:addressLocality": "Saint-Genis-l'Argentière",
+          "schema:postalCode": "69610",
+          "schema:streetAddress": [
+            "55 impasse mon village"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:69203",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Saint-Genis-l'Argentière"
+              ],
+              "pt": [
+                "Saint-Genis-l'Argentière"
+              ],
+              "en": [
+                "Saint-Genis-l'Argentière"
+              ],
+              "it": [
+                "Saint-Genis-l'Argentière"
+              ],
+              "fr": [
+                "Saint-Genis-l'Argentière"
+              ],
+              "nl": [
+                "Saint-Genis-l'Argentière"
+              ],
+              "es": [
+                "Saint-Genis-l'Argentière"
+              ]
+            },
+            "insee": "69203",
+            "isPartOfDepartment": {
+              "@id": "kb:France8469",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Rhône"
+                ],
+                "pt": [
+                  "Rhône"
+                ],
+                "en": [
+                  "Rhône"
+                ],
+                "it": [
+                  "Rhône"
+                ],
+                "fr": [
+                  "Rhône"
+                ],
+                "nl": [
+                  "Rhône"
+                ],
+                "es": [
+                  "Rhône"
+                ]
+              },
+              "insee": "69",
+              "isPartOfRegion": {
+                "@id": "kb:France84",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "pt": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "en": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "it": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "fr": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "nl": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "es": [
+                    "Auvergne-Rhône-Alpes"
+                  ]
+                },
+                "insee": "84",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/3d68e3d2-3537-3f35-abb2-3f2f236bc0a3",
+        "schema:latitude": "45.709423",
+        "schema:longitude": "4.492906",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/dc065134-1fc0-37a8-8d8a-fbff397c223d",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Dienstag bis Samstag von 6:30 bis 14:30 Uhr und von 17:30 bis 22:00 Uhr geöffnet. Sonntag von 6:30 bis 14:00 Uhr."
+            ],
+            "en": [
+              "Open Tuesday to Saturday, 6.30am to 2.30pm and 5.30pm to 10pm. Sunday from 6.30am to 2pm."
+            ],
+            "it": [
+              "Aperto da martedì a sabato, dalle 6.30 alle 14.30 e dalle 17.30 alle 22.00. Domenica dalle 6.30 alle 14.00."
+            ],
+            "fr": [
+              "Ouvert du mardi au samedi de 6h30 à 14h30 et de 17h30 à 22h. Dimanche de 6h30 à 14h."
+            ],
+            "nl": [
+              "Geopend van dinsdag tot zaterdag van 6.30 tot 14.30 uur en van 17.30 tot 22.00 uur. Zondag van 6.30 tot 14.00 uur."
+            ],
+            "es": [
+              "Abierto de martes a sábado, de 6.30 a 14.30 y de 17.30 a 22.00 h. Domingo de 6.30 a 14.00 h."
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/175305d8-4b64-34eb-9eb4-4e9d22f24f56",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/2a1784fd-fda5-3fcb-ae99-553063b33038",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/2ba45474-7a8d-36e4-be2e-2ccb90f7c8c8",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/e2283bb1-e6b8-3303-8079-2902a39aa20c",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/f8bfdf36-025b-3e72-9d20-b2706db97843",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/286d1b16-07bb-3d1b-8216-018722e6f324",
+      "schema:email": [
+        "accueil.chaponost@montsdulyonnaistourisme.fr",
+        "accueil.mornant@montsdulyonnaistourisme.fr",
+        "alexandra.colombet@montsdulyonnaistourisme.fr",
+        "amelie.goutagny@montsdulyonnaistourisme.fr",
+        "garance.alivon@montsdulyonnaistourisme.fr",
+        "marine.rulliat@montsdulyonnaistourisme.fr"
+      ],
+      "schema:legalName": "OTI des Monts du Lyonnais",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.montsdulyonnaistourisme.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-10-06",
+  "lastUpdateDatatourisme": "2023-10-30T06:41:41.788Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/fade5229-99fc-3db0-b331-f999d7d13d2b",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/b917fcba-a421-3866-850c-2aa8fee758e1",
+          "schema:maxPrice": [
+            "16"
+          ],
+          "schema:minPrice": [
+            "12"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/a425afdf-3594-300b-b55e-1858bafa3fd4",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2023-12-31",
+              "startDate": "2023-01-01"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,469 @@
+{
+  "@id": "https://data.datatourisme.fr/13/b978a1c0-c0c2-332f-a532-526534ed63aa",
+  "dc:identifier": "243101",
+  "@type": [
+    "schema:FoodEstablishment",
+    "FoodEstablishment",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Im 1. Arrondissement von Lyon, in der Rue du Bât d'Argent, wo die Papillote erfunden wurde, bietet das Gourmet-Restaurant La Quintessence seine emotionale Küche in einem ehemaligen Jesuitenrefektorium aus dem 16."
+    ],
+    "en": [
+      "In Lyon?s 1st arrondissement, on rue du Bât d?Argent, where the papillote was invented, the gastronomic restaurant La Quintessence serves up its emotional cuisine in a former 16th-century Jesuit refectory."
+    ],
+    "it": [
+      "Nel 1° arrondissement di Lione, in rue du Bât d? Argent, dove è stata inventata la papillote, il ristorante gourmet La Quintessence propone una serie di piatti entusiasmanti in un ex refettorio gesuita del XVI secolo."
+    ],
+    "fr": [
+      "Dans le 1er arrondissement de Lyon, rue du Bât d’Argent, là où la papillote fut inventée, le restaurant gastronomique La Quintessence décline sa cuisine d’émotion dans un ancien réfectoire jésuite du XVIème siècle."
+    ],
+    "nl": [
+      "In het 1e arrondissement van Lyon, in de rue du Bât d? Argent, waar de papillote werd uitgevonden, serveert het gastronomische restaurant La Quintessence een reeks spannende gerechten in een voormalige jezuïetenrefter uit de 16e eeuw."
+    ],
+    "es": [
+      "En el distrito 1 de Lyon, en la rue du Bât d'Argent, donde se inventó el papillote, el restaurante gastronómico La Quintessence sirve una gran variedad de platos en un antiguo refectorio jesuita del siglo XVI."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "La Quintessence"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/45c48cce-2e2d-3fbd-aa1a-fc51c7c6ad26",
+    "dc:identifier": "9",
+    "schema:email": [
+      "apidae@lyon-france.com",
+      "seveillard@lyon-france.com",
+      "vbilly@lyon-france.com"
+    ],
+    "schema:legalName": "Lyon Tourisme et Congrès / ONLYLYON Tourisme",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.lyon-france.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/8a9feb4b-2cbd-3d2c-b507-bd6c6776b23b",
+      "schema:legalName": "Apidae Tourisme Scic SA - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/47a893f9-563a-363d-b432-2f38f94616f0",
+      "schema:email": [
+        "contact@restaurant-laquintessence.fr"
+      ],
+      "schema:telephone": [
+        "+33 4 72 00 08 08"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://restaurant-laquintessence.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/02d790c4-311e-3547-b82b-0778b0f6e213",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/5b3211ca-eba0-335f-b60a-b64275111e88",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/67bb99b4-7b98-3ec7-ba94-998430f43843",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c2c08b54-e9b1-3247-ac76-715b674def60",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d4c66abe-2b0b-3c3b-8008-fd658b5a0c89",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e406adb8-ca4c-34fb-8792-e5fb60d67743",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Im 1. Arrondissement von Lyon, in der Rue du Bât d'Argent, wo die Papillote erfunden wurde, bietet das Gourmet-Restaurant La Quintessence seine emotionale Küche in einem ehemaligen Jesuitenrefektorium aus dem 16."
+        ],
+        "en": [
+          "In Lyon?s 1st arrondissement, on rue du Bât d?Argent, where the papillote was invented, the gastronomic restaurant La Quintessence serves up its emotional cuisine in a former 16th-century Jesuit refectory."
+        ],
+        "it": [
+          "Nel 1° arrondissement di Lione, in rue du Bât d? Argent, dove è stata inventata la papillote, il ristorante gourmet La Quintessence propone una serie di piatti entusiasmanti in un ex refettorio gesuita del XVI secolo."
+        ],
+        "fr": [
+          "Dans le 1er arrondissement de Lyon, rue du Bât d’Argent, là où la papillote fut inventée, le restaurant gastronomique La Quintessence décline sa cuisine d’émotion dans un ancien réfectoire jésuite du XVIème siècle."
+        ],
+        "nl": [
+          "In het 1e arrondissement van Lyon, in de rue du Bât d? Argent, waar de papillote werd uitgevonden, serveert het gastronomische restaurant La Quintessence een reeks spannende gerechten in een voormalige jezuïetenrefter uit de 16e eeuw."
+        ],
+        "es": [
+          "En el distrito 1 de Lyon, en la rue du Bât d'Argent, donde se inventó el papillote, el restaurante gastronómico La Quintessence sirve una gran variedad de platos en un antiguo refectorio jesuita del siglo XVI."
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/36f33145-0aa6-3d4d-a11c-7d87ff444cac",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/733ee22e-2796-30f1-b8a9-889fe82dae35",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/7ef9bd7e-d85e-3404-b529-7dca2b062b81",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/7f3f5b43-3e57-3bf8-85ec-eb56564f027f",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/f8655c90-cc77-3593-bb9f-763e9e36a2ee",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/ce66bb69-7a50-307c-a57d-fb0088baaf3d",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/d96de268-e3b8-38da-859f-c1abc87aeefa",
+          "schema:addressLocality": "Lyon 1er Arrondissement",
+          "schema:postalCode": "69001",
+          "schema:streetAddress": [
+            "31 rue du Bât d’Argent"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:69381",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Lyon 1er Arrondissement"
+              ],
+              "pt": [
+                "Lyon 1er Arrondissement"
+              ],
+              "en": [
+                "Lyon 1er Arrondissement"
+              ],
+              "it": [
+                "Lyon 1er Arrondissement"
+              ],
+              "fr": [
+                "Lyon 1er Arrondissement"
+              ],
+              "nl": [
+                "Lyon 1er Arrondissement"
+              ],
+              "es": [
+                "Lyon 1er Arrondissement"
+              ]
+            },
+            "insee": "69381",
+            "isPartOfDepartment": {
+              "@id": "kb:France8469",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Rhône"
+                ],
+                "pt": [
+                  "Rhône"
+                ],
+                "en": [
+                  "Rhône"
+                ],
+                "it": [
+                  "Rhône"
+                ],
+                "fr": [
+                  "Rhône"
+                ],
+                "nl": [
+                  "Rhône"
+                ],
+                "es": [
+                  "Rhône"
+                ]
+              },
+              "insee": "69",
+              "isPartOfRegion": {
+                "@id": "kb:France84",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "pt": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "en": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "it": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "fr": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "nl": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "es": [
+                    "Auvergne-Rhône-Alpes"
+                  ]
+                },
+                "insee": "84",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/264c34a4-19e9-3148-9d46-52f09972fcce",
+        "schema:latitude": "45.766177",
+        "schema:longitude": "4.837645",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/33848473-e8f7-3b5e-a27f-1813fca76a01",
+      "schema:email": [
+        "apidae@lyon-france.com",
+        "seveillard@lyon-france.com",
+        "vbilly@lyon-france.com"
+      ],
+      "schema:legalName": "Lyon Tourisme et Congrès / ONLYLYON Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.lyon-france.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-09-27",
+  "lastUpdateDatatourisme": "2023-12-23T06:39:46.143Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/ffd3de09-f9aa-38a9-b8f9-8ff349579f55",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/381c8aea-7cf7-3e25-b40a-1126affa3ec0",
+          "schema:maxPrice": [
+            "98"
+          ],
+          "schema:minPrice": [
+            "32",
+            "72"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/a425afdf-3594-300b-b55e-1858bafa3fd4",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2023-12-31",
+              "startDate": "2023-01-01"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,592 @@
+{
+  "@id": "https://data.datatourisme.fr/13/cb87196a-a083-348c-baad-bf76e4108a01",
+  "dc:identifier": "5705419",
+  "@type": [
+    "schema:Accommodation",
+    "schema:BedAndBreakfast",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "Guesthouse",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RentalAccommodation"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Zwei schöne Zimmer für 1 bis 3 Personen mit Frühstück und einer Stunde Schwimmen im nordischen Bad mit Blick auf das Dorf in einer grünen und ruhigen Umgebung. Abwechslung und Entspannung im Herzen des grünen Beaujolais sind garantiert"
+    ],
+    "en": [
+      "Two beautiful rooms accommodating 1 to 3 people, with breakfast and an hour's swim in the Nordic bath overlooking the village, in a calm, green setting. A change of scenery and relaxation guaranteed in the heart of green Beaujolais"
+    ],
+    "it": [
+      "Due belle camere da 1 a 3 posti letto con prima colazione e un'ora di bagno nella vasca nordica con vista sul villaggio, in un ambiente verde e tranquillo. Un cambio di scenario e un relax garantito nel cuore del verde Beaujolais"
+    ],
+    "fr": [
+      "Deux belles chambres pouvant accueillir entre 1 et 3 personnes avec petit-déjeuner et une heure de baignade dans le bain nordique surplombant le village dans un cadre verdoyant et calme. Dépaysement et détente garantis au cœur du Beaujolais vert"
+    ],
+    "nl": [
+      "Twee mooie kamers voor 1 tot 3 personen met ontbijt en een uur zwemmen in het Noordse bad met uitzicht op het dorp in een groene en rustige omgeving. Verandering van omgeving en ontspanning verzekerd in het hart van de groene Beaujolais"
+    ],
+    "es": [
+      "Dos bonitas habitaciones de 1 a 3 plazas con desayuno y una hora de baño en la bañera nórdica con vistas al pueblo en un entorno verde y tranquilo. Cambio de aires y relax garantizados en el corazón del verde Beaujolais"
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Chambres d'hôtes \"Domaine de la Rue de la Tour\""
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/98f13708-2101-34c4-b568-7be6106a3b84",
+    "dc:identifier": "20",
+    "schema:email": [
+      "accueil@beaujolaisvert.com",
+      "amandine.duvernay@beaujolaisvert.com",
+      "sarah.gianone@c-or.fr"
+    ],
+    "schema:legalName": "Office de Tourisme du Beaujolais Vert - Lac des sapins",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.beaujolaisvert.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/8a9feb4b-2cbd-3d2c-b507-bd6c6776b23b",
+      "schema:legalName": "Apidae Tourisme Scic SA - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/aae094da-e247-3945-a97d-d275010c3f4e",
+      "schema:email": [
+        "contact@domainedelaruedelatour.com"
+      ],
+      "schema:telephone": [
+        "+33 7 77 26 77 72"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://domainedelaruedelatour.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/472d4576-8b66-3626-9ed6-3b09cbc34823",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/1398c453-7197-3dc7-abb3-1d62e576f72b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/6b5920dd-676b-35c1-b822-ac170ba719c4",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/909d3114-09b4-3403-a25b-133b20f0bf72",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/be27eeb1-27ed-3e83-b084-eb485043e220",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ef518e35-23bc-3df9-a513-fc53033973eb",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Zwei schöne Zimmer für 1 bis 3 Personen mit Frühstück und einer Stunde Schwimmen im nordischen Bad mit Blick auf das Dorf in einer grünen und ruhigen Umgebung. Abwechslung und Entspannung im Herzen des grünen Beaujolais sind garantiert"
+        ],
+        "en": [
+          "Two beautiful rooms accommodating 1 to 3 people, with breakfast and an hour's swim in the Nordic bath overlooking the village, in a calm, green setting. A change of scenery and relaxation guaranteed in the heart of green Beaujolais"
+        ],
+        "it": [
+          "Due belle camere da 1 a 3 posti letto con prima colazione e un'ora di bagno nella vasca nordica con vista sul villaggio, in un ambiente verde e tranquillo. Un cambio di scenario e un relax garantito nel cuore del verde Beaujolais"
+        ],
+        "fr": [
+          "Deux belles chambres pouvant accueillir entre 1 et 3 personnes avec petit-déjeuner et une heure de baignade dans le bain nordique surplombant le village dans un cadre verdoyant et calme. Dépaysement et détente garantis au cœur du Beaujolais vert"
+        ],
+        "nl": [
+          "Twee mooie kamers voor 1 tot 3 personen met ontbijt en een uur zwemmen in het Noordse bad met uitzicht op het dorp in een groene en rustige omgeving. Verandering van omgeving en ontspanning verzekerd in het hart van de groene Beaujolais"
+        ],
+        "es": [
+          "Dos bonitas habitaciones de 1 a 3 plazas con desayuno y una hora de baño en la bañera nórdica con vistas al pueblo en un entorno verde y tranquilo. Cambio de aires y relax garantizados en el corazón del verde Beaujolais"
+        ]
+      }
+    }
+  ],
+  "hasReview": [
+    {
+      "@id": "https://data.datatourisme.fr/6e866798-cae5-351c-9e8d-963661217e60",
+      "@type": [
+        "Review"
+      ],
+      "hasReviewValue": {
+        "@id": "kb:LabelRating_AccueilVelo",
+        "@type": [
+          "LabelRating"
+        ],
+        "rdfs:label": {
+          "de": [
+            "Accueil Vélo"
+          ],
+          "pt": [
+            "Accueil Vélo"
+          ],
+          "en": [
+            "Accueil Vélo"
+          ],
+          "it": [
+            "Accueil Vélo"
+          ],
+          "fr": [
+            "Accueil Vélo"
+          ],
+          "nl": [
+            "Accueil Vélo"
+          ],
+          "es": [
+            "Accueil Vélo"
+          ]
+        },
+        "isCompliantWith": [
+          "PlaceOfInterest"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/077f094f-cc85-3184-a2f9-3f26bd19bc53",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/08dbe71c-879e-3783-9aae-2e83dbcc1cc7",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/79499edc-9888-3c70-bcb5-19c6c75086fd",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/b3d742f6-765d-3ceb-aebc-24001bcdcff3",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/d87100cd-7626-3e5d-b6ee-5c681ebc13a8",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/a0c0e032-439a-39dd-b958-225a91b176e2",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/d545dcb4-252c-34cd-9c02-6001a5ba3743",
+          "schema:addressLocality": "Valsonne",
+          "schema:postalCode": "69170",
+          "schema:streetAddress": [
+            "102 Rue de la Tour"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:69254",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Valsonne"
+              ],
+              "pt": [
+                "Valsonne"
+              ],
+              "en": [
+                "Valsonne"
+              ],
+              "it": [
+                "Valsonne"
+              ],
+              "fr": [
+                "Valsonne"
+              ],
+              "nl": [
+                "Valsonne"
+              ],
+              "es": [
+                "Valsonne"
+              ]
+            },
+            "insee": "69254",
+            "isPartOfDepartment": {
+              "@id": "kb:France8469",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Rhône"
+                ],
+                "pt": [
+                  "Rhône"
+                ],
+                "en": [
+                  "Rhône"
+                ],
+                "it": [
+                  "Rhône"
+                ],
+                "fr": [
+                  "Rhône"
+                ],
+                "nl": [
+                  "Rhône"
+                ],
+                "es": [
+                  "Rhône"
+                ]
+              },
+              "insee": "69",
+              "isPartOfRegion": {
+                "@id": "kb:France84",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "pt": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "en": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "it": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "fr": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "nl": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "es": [
+                    "Auvergne-Rhône-Alpes"
+                  ]
+                },
+                "insee": "84",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/bc81eabc-2cf3-3330-b042-2842958fb98d",
+        "schema:latitude": "45.948073",
+        "schema:longitude": "4.431389",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/337f168f-d2df-31bd-b6aa-ce2b6f6b477d",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Check-in ab 17 Uhr, außer auf besonderen Wunsch - Check-out bis spätestens 11 Uhr, außer auf besonderen Wunsch"
+            ],
+            "en": [
+              "Check-in from 5 p.m. unless otherwise requested - check-out no later than 11 a.m. unless otherwise requested"
+            ],
+            "it": [
+              "Check-in a partire dalle ore 17.00, se non diversamente richiesto - check-out entro le ore 11.00, se non diversamente richiesto"
+            ],
+            "fr": [
+              "Check-in à partir de 17h sauf demande particulière - check-out au plus tard à 11h sauf demande particulière"
+            ],
+            "es": [
+              "Entrada a partir de las 17.00 horas, salvo que se solicite lo contrario. Salida antes de las 11.00 horas, salvo que se solicite lo contrario"
+            ],
+            "nl": [
+              "Check-in vanaf 17.00 uur tenzij anders vermeld - check-out niet later dan 11.00 uur tenzij anders vermeld"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/257f04d4-0f62-3aa8-b502-b5c1957901b5",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/31708878-e3eb-322c-ba8c-0ffa724d0aaa",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/50987618-62aa-3abc-b673-0841c4a10cbb",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/699ce618-11de-30a6-8766-a25ed3fae54f",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/7ab98cb5-9b14-303c-845a-1c9cff7e90a0",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/57f9bf34-3324-3289-9dcf-ca2860685b63",
+      "schema:email": [
+        "accueil@beaujolaisvert.com",
+        "amandine.duvernay@beaujolaisvert.com",
+        "sarah.gianone@c-or.fr"
+      ],
+      "schema:legalName": "Office de Tourisme du Beaujolais Vert - Lac des sapins",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.beaujolaisvert.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-11-28",
+  "lastUpdateDatatourisme": "2023-12-23T06:39:46.168Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/8a779317-3e6b-348b-a71b-79fe2f851b92",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/ae6a1512-f6e6-37a9-b371-4406947047af",
+          "schema:minPrice": [
+            "100",
+            "80"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/7b878480-ea69-3925-b599-70887063111f",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2023-12-30",
+              "startDate": "2023-01-01"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

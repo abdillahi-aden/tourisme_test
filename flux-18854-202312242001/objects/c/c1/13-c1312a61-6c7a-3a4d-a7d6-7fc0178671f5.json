@@ -1,0 +1,521 @@
+{
+  "@id": "https://data.datatourisme.fr/13/c1312a61-6c7a-3a4d-a7d6-7fc0178671f5",
+  "dc:identifier": "405790",
+  "@type": [
+    "Castle",
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RemarkableBuilding"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Montbloy war um 1190 eine der Verteidigungsburgen der Benediktinerabtei Savigny und wurde im 15. Jahrhundert zum Wohnsitz der Äbte. Die Besichtigung zeigt die Bedeutung der Burg seit dem Mittelalter, Fresken und das Panorama vom Turm aus."
+    ],
+    "en": [
+      "This defensive château, which once belonged to Savigny's Benedictine abbey, became home to the abbots of Albon in the 15th century. Remains of the 12th century wall and chapel and 15th century buildings can still be seen."
+    ],
+    "it": [
+      "Montbloy era uno dei castelli difensivi dell'abbazia benedettina di Savigny intorno al 1190 e divenne la residenza degli abati nel XV secolo. La visita mostra l'importanza del castello fin dal Medioevo, gli affreschi e il panorama dalla cima della torre."
+    ],
+    "fr": [
+      "Montbloy fut un des châteaux de défense de l'abbaye bénédictine de Savigny vers 1190 et est devenu au XVème siècle la demeure des abbés. La visite présente l’importance du château dès le moyen-âge, des fresques et le panorama du haut de la tour."
+    ],
+    "nl": [
+      "Montbloy was rond 1190 een van de verdedigingskastelen van de benedictijnenabdij van Savigny en werd in de 15e eeuw de residentie van de abten. Het bezoek toont het belang van het kasteel sinds de middeleeuwen, fresco's en het panorama vanaf de top van de toren."
+    ],
+    "es": [
+      "Montbloy fue uno de los castillos defensivos de la abadía benedictina de Savigny hacia 1190 y se convirtió en la residencia de los abades en el siglo XV. La visita muestra la importancia del castillo desde la Edad Media, los frescos y el panorama desde lo alto de la torre."
+    ]
+  },
+  "rdfs:label": {
+    "en": [
+      "Le Château de Montbloy"
+    ],
+    "fr": [
+      "Le Château de Montbloy"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/b6d767d2-f8ed-3d21-a44b-0e5886680cb9",
+    "dc:identifier": "22",
+    "schema:email": [
+      "josiane.rivier@paysdelarbresle.fr",
+      "officedetourisme@paysdelarbresle.fr"
+    ],
+    "schema:legalName": "Office de Tourisme du Pays de l'Arbresle",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.arbresletourisme.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/8a9feb4b-2cbd-3d2c-b507-bd6c6776b23b",
+      "schema:legalName": "Apidae Tourisme Scic SA - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/82bac7eb-93d7-31ee-89bd-542a1e38b161",
+      "schema:email": [
+        "marcelle.casoli@wanadoo.fr"
+      ],
+      "schema:telephone": [
+        "+33 6 81 00 44 45"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/4cb7e971-a9c3-3f43-9e2f-31d8b8cf66f0",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/14c72ee3-370d-376a-b70a-1c50b9ec3719",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/15dc2c05-02b1-3a79-881c-9dc1b41ce41a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/3a6d0ef8-c01d-3711-af69-4da20b817073",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f942b189-3a64-31f0-978b-6ce6fd21ec81",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Montbloy war um 1190 eine der Verteidigungsburgen der Benediktinerabtei Savigny und wurde im 15. Jahrhundert zum Wohnsitz der Äbte. Die Besichtigung zeigt die Bedeutung der Burg seit dem Mittelalter, Fresken und das Panorama vom Turm aus."
+        ],
+        "en": [
+          "This defensive château, which once belonged to Savigny's Benedictine abbey, became home to the abbots of Albon in the 15th century. Remains of the 12th century wall and chapel and 15th century buildings can still be seen."
+        ],
+        "it": [
+          "Montbloy era uno dei castelli difensivi dell'abbazia benedettina di Savigny intorno al 1190 e divenne la residenza degli abati nel XV secolo. La visita mostra l'importanza del castello fin dal Medioevo, gli affreschi e il panorama dalla cima della torre."
+        ],
+        "fr": [
+          "Montbloy fut un des châteaux de défense de l'abbaye bénédictine de Savigny vers 1190 et est devenu au XVème siècle la demeure des abbés. La visite présente l’importance du château dès le moyen-âge, des fresques et le panorama du haut de la tour."
+        ],
+        "nl": [
+          "Montbloy was rond 1190 een van de verdedigingskastelen van de benedictijnenabdij van Savigny en werd in de 15e eeuw de residentie van de abten. Het bezoek toont het belang van het kasteel sinds de middeleeuwen, fresco's en het panorama vanaf de top van de toren."
+        ],
+        "es": [
+          "Montbloy fue uno de los castillos defensivos de la abadía benedictina de Savigny hacia 1190 y se convirtió en la residencia de los abades en el siglo XV. La visita muestra la importancia del castillo desde la Edad Media, los frescos y el panorama desde lo alto de la torre."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/2ee4191e-3f40-37ec-95a4-e9d074c87681",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/90ef305f-9439-3f1b-86e4-aba2020e0dd1",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/e3dad24f-746e-37b2-8169-a68a3207d55e",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/e4646f60-8424-3d8f-94cb-878c66fe0c38",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/1f9c2b00-8204-3de1-8ad3-572bb8658d82",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/a610af13-bcd7-3f03-8675-6ad4585d5f5d",
+          "schema:addressLocality": "Sain-Bel",
+          "schema:postalCode": "69210",
+          "schema:streetAddress": [
+            "16 montée du château",
+            "Château de Sain-Bel"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:69171",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Sain-Bel"
+              ],
+              "pt": [
+                "Sain-Bel"
+              ],
+              "en": [
+                "Sain-Bel"
+              ],
+              "it": [
+                "Sain-Bel"
+              ],
+              "fr": [
+                "Sain-Bel"
+              ],
+              "nl": [
+                "Sain-Bel"
+              ],
+              "es": [
+                "Sain-Bel"
+              ]
+            },
+            "insee": "69171",
+            "isPartOfDepartment": {
+              "@id": "kb:France8469",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Rhône"
+                ],
+                "pt": [
+                  "Rhône"
+                ],
+                "en": [
+                  "Rhône"
+                ],
+                "it": [
+                  "Rhône"
+                ],
+                "fr": [
+                  "Rhône"
+                ],
+                "nl": [
+                  "Rhône"
+                ],
+                "es": [
+                  "Rhône"
+                ]
+              },
+              "insee": "69",
+              "isPartOfRegion": {
+                "@id": "kb:France84",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "pt": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "en": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "it": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "fr": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "nl": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "es": [
+                    "Auvergne-Rhône-Alpes"
+                  ]
+                },
+                "insee": "84",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/f5e978d2-1eb2-3129-84b5-e58c81cd6fef",
+        "schema:elevation": "274",
+        "schema:latitude": "45.811861",
+        "schema:longitude": "4.598642",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/321e2173-442d-3b8b-b609-5cee71c044e4",
+          "schema:validFrom": "2023-05-01T00:00:00",
+          "schema:validThrough": "2023-10-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Während dieser Zeit nach Vereinbarung.\r\nGeöffnet an den Europäischen Tagen des Kulturerbes"
+            ],
+            "en": [
+              "By appointment only during this period.\r\nOpen for European Heritage Days"
+            ],
+            "it": [
+              "Solo su appuntamento durante questo periodo.\r\nAperto per le Giornate Europee del Patrimonio"
+            ],
+            "fr": [
+              "Sur rendez-vous pendant cette période. \r\nOuvert pour les Journées européennes du Patrimoine"
+            ],
+            "nl": [
+              "Op afspraak tijdens deze periode.\r\nGeopend voor de Europese Erfgoeddagen"
+            ],
+            "es": [
+              "Con cita previa durante este periodo.\r\nAbierto con motivo de las Jornadas Europeas del Patrimonio"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/7dd44f14-29f6-3729-85ee-937956fc1b60",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/928589ac-77a5-34e6-9f57-b455daf00aaa",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/d17ad316-7881-36cc-8df6-9c48ebdb197a",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/d48b1f38-2363-3c7b-971e-14e8e0f73a41",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/f0a82865-e856-3cbe-9773-9b86a5bc3075",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/7479cce0-3110-30a6-9c12-c1cac0b8d082",
+      "schema:email": [
+        "josiane.rivier@paysdelarbresle.fr",
+        "officedetourisme@paysdelarbresle.fr"
+      ],
+      "schema:legalName": "Office de Tourisme du Pays de l'Arbresle",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.arbresletourisme.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-12-12",
+  "lastUpdateDatatourisme": "2023-12-13T06:41:39.813Z"
+}

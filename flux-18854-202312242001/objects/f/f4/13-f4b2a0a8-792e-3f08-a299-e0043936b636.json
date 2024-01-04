@@ -1,0 +1,523 @@
+{
+  "@id": "https://data.datatourisme.fr/13/f4b2a0a8-792e-3f08-a299-e0043936b636",
+  "dc:identifier": "73166",
+  "@type": [
+    "schema:Library",
+    "CulturalSite",
+    "Library",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "SportsAndLeisurePlace"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Die Bibliothek bietet Ihnen 8.000 Medien für Jugendliche und Erwachsene zum Ausleihen."
+    ],
+    "en": [
+      "The library offers 8,000 items for children and adults to borrow."
+    ],
+    "it": [
+      "La biblioteca dispone di 8.000 articoli per giovani e adulti."
+    ],
+    "fr": [
+      "La bibliothèque vous propose 8 000 documents jeunesse et adultes à emprunter."
+    ],
+    "es": [
+      "La biblioteca dispone de 8.000 ejemplares para jóvenes y adultos."
+    ],
+    "nl": [
+      "De bibliotheek heeft 8.000 items die jongeren en volwassenen kunnen lenen."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Bibliothèque municipale de Montagny"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/4e732ced-3463-306d-a0ca-9a15b6153677",
+    "dc:identifier": "26",
+    "schema:email": [
+      "accueil.chaponost@montsdulyonnaistourisme.fr",
+      "accueil.mornant@montsdulyonnaistourisme.fr",
+      "alexandra.colombet@montsdulyonnaistourisme.fr",
+      "amelie.goutagny@montsdulyonnaistourisme.fr",
+      "garance.alivon@montsdulyonnaistourisme.fr",
+      "marine.rulliat@montsdulyonnaistourisme.fr"
+    ],
+    "schema:legalName": "OTI des Monts du Lyonnais",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.montsdulyonnaistourisme.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/8a9feb4b-2cbd-3d2c-b507-bd6c6776b23b",
+      "schema:legalName": "Apidae Tourisme Scic SA - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/52afce1b-9317-3a11-9c03-0cbab2b3753a",
+      "schema:email": [
+        "biblio@montagny69.fr"
+      ],
+      "schema:telephone": [
+        "+33 7 81 31 61 13"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/f0fc3f24-cf27-3b91-98c5-e92bcda8d152",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/10d959ce-4690-34fb-9201-d57a60388666",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/15ee4547-9701-339e-924c-5bc312810ed5",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/9ea44bc5-16b3-3070-9cdb-0ede9a3d8cf4",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b1be9eda-5c1f-32b0-a6a0-88d4eed2e6c1",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c9e9e337-d78a-3111-9961-9317b8e2c1c0",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Die Bibliothek bietet Ihnen 8.000 Medien für Jugendliche und Erwachsene zum Ausleihen."
+        ],
+        "en": [
+          "The library offers 8,000 items for children and adults to borrow."
+        ],
+        "it": [
+          "La biblioteca dispone di 8.000 articoli per giovani e adulti."
+        ],
+        "fr": [
+          "La bibliothèque vous propose 8 000 documents jeunesse et adultes à emprunter."
+        ],
+        "es": [
+          "La biblioteca dispone de 8.000 ejemplares para jóvenes y adultos."
+        ],
+        "nl": [
+          "De bibliotheek heeft 8.000 items die jongeren en volwassenen kunnen lenen."
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/3c9352fb-bb5c-322e-b8be-236e4021609b",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/48b4e6fa-1ab6-357b-876c-36ca3fd0b23d",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/5f71f261-a6b9-3429-b504-dec8869d8b96",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/7f378e79-77e4-3dda-9d26-1b301edd1acc",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/b96de91f-1006-38c0-a7e2-95f067f6ac90",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/dd58d3d8-ef59-3e58-8e7a-7ec84e308a62",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/113a08a8-1bcc-380b-8c28-1ec25a1241e9",
+          "schema:addressLocality": "Montagny",
+          "schema:postalCode": "69700",
+          "schema:streetAddress": [
+            "50 Route du Bâtard",
+            "au fond de l'école des Landes",
+            "route du batard"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:69136",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Montagny"
+              ],
+              "pt": [
+                "Montagny"
+              ],
+              "en": [
+                "Montagny"
+              ],
+              "it": [
+                "Montagny"
+              ],
+              "fr": [
+                "Montagny"
+              ],
+              "nl": [
+                "Montagny"
+              ],
+              "es": [
+                "Montagny"
+              ]
+            },
+            "insee": "69136",
+            "isPartOfDepartment": {
+              "@id": "kb:France8469",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Rhône"
+                ],
+                "pt": [
+                  "Rhône"
+                ],
+                "en": [
+                  "Rhône"
+                ],
+                "it": [
+                  "Rhône"
+                ],
+                "fr": [
+                  "Rhône"
+                ],
+                "nl": [
+                  "Rhône"
+                ],
+                "es": [
+                  "Rhône"
+                ]
+              },
+              "insee": "69",
+              "isPartOfRegion": {
+                "@id": "kb:France84",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "pt": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "en": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "it": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "fr": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "nl": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "es": [
+                    "Auvergne-Rhône-Alpes"
+                  ]
+                },
+                "insee": "84",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/593bb633-f9f1-304e-8ab2-2c03ae3a3092",
+        "schema:elevation": "332",
+        "schema:latitude": "45.627675",
+        "schema:longitude": "4.74185",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/33fa0db0-0796-3eea-accc-72364071891b",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Bibliothek geöffnet am Mittwoch von 10 bis 12 Uhr & von 15:30 bis 18:30 Uhr - Am Freitag von 15:30 bis 18:30 Uhr - am Samstag von 10 bis 12 Uhr."
+            ],
+            "en": [
+              "Library open Wednesdays 10am to 12pm & 3:30pm to 6:30pm - Fridays 3:30pm to 6:30pm - Saturdays 10am to 12pm."
+            ],
+            "it": [
+              "La biblioteca è aperta il mercoledì dalle 10.00 alle 12.00 e dalle 15.30 alle 18.30 - il venerdì dalle 15.30 alle 18.30 - il sabato dalle 10.00 alle 12.00."
+            ],
+            "fr": [
+              "Bibliothèque ouverte le mercredi de 10h à 12h & de 15h30 à 18h30 - Le vendredi de 15h30 à 18h30 - le samedi de 10h à 12h."
+            ],
+            "nl": [
+              "Bibliotheek open op woensdag van 10.00 tot 12.00 uur & van 15.30 tot 18.30 uur - vrijdag van 15.30 tot 18.30 uur - zaterdag van 10.00 tot 12.00 uur."
+            ],
+            "es": [
+              "Biblioteca abierta los miércoles de 10.00 a 12.00 y de 15.30 a 18.30 - viernes de 15.30 a 18.30 - sábados de 10.00 a 12.00."
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/77d6871a-9833-3bf8-ab37-55a3a5070adc",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/8bfc0dc9-ea48-3ff4-a8c8-3323869af1a8",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/91071d25-f74a-3d8a-a824-79e1974b8dfe",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/c101613b-f7c7-3af5-a5ba-f337f6a4a1e9",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/ed0d2458-0422-3504-a35c-d18bc34068bf",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/286d1b16-07bb-3d1b-8216-018722e6f324",
+      "schema:email": [
+        "accueil.chaponost@montsdulyonnaistourisme.fr",
+        "accueil.mornant@montsdulyonnaistourisme.fr",
+        "alexandra.colombet@montsdulyonnaistourisme.fr",
+        "amelie.goutagny@montsdulyonnaistourisme.fr",
+        "garance.alivon@montsdulyonnaistourisme.fr",
+        "marine.rulliat@montsdulyonnaistourisme.fr"
+      ],
+      "schema:legalName": "OTI des Monts du Lyonnais",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.montsdulyonnaistourisme.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-12-08",
+  "lastUpdateDatatourisme": "2023-12-09T06:44:07.132Z"
+}

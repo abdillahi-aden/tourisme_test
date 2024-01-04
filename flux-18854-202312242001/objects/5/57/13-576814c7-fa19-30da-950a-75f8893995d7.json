@@ -1,0 +1,468 @@
+{
+  "@id": "https://data.datatourisme.fr/13/576814c7-fa19-30da-950a-75f8893995d7",
+  "dc:identifier": "5831050",
+  "@type": [
+    "schema:FoodEstablishment",
+    "FoodEstablishment",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Das MirtiLLo wird Ihnen ein kulinarisches Erlebnis mit frischen und qualitativ hochwertigen Produkten bieten. Das gesamte Team des MirtiLLo freut sich auf Ihren Besuch!"
+    ],
+    "en": [
+      "MirtiLLo offers you a culinary experience using fresh, high-quality produce. MirtiLLo’s whole team offers you a first-class welcome!"
+    ],
+    "it": [
+      "Al MirtiLLo vivrete un'esperienza culinaria basata su prodotti freschi e di alta qualità. L'intero team di MirtiLLo sarà lieto di accogliervi con un'accoglienza impeccabile!"
+    ],
+    "fr": [
+      "Le MirtiLLo vous fera vivre une expérience culinaire avec des produits frais et de qualité. Toute l'équipe du MirtiLLo aura à cœur de vous recevoir avec une qualité d'accueil irréprochable !"
+    ],
+    "es": [
+      "En MirtiLLo disfrutará de una experiencia culinaria basada en productos frescos y de alta calidad. ¡Todo el equipo de MirtiLLo estará encantado de recibirle con una bienvenida impecable!"
+    ],
+    "nl": [
+      "Bij MirtiLLo geniet je van een culinaire ervaring op basis van verse kwaliteitsproducten. Het hele MirtiLLo-team verwelkomt je graag met een onberispelijk onthaal!"
+    ]
+  },
+  "rdfs:label": {
+    "de": [
+      "Le Mirtillo"
+    ],
+    "ru": [
+      "Le Mirtillo"
+    ],
+    "en": [
+      "Le Mirtillo"
+    ],
+    "it": [
+      "Le Mirtillo"
+    ],
+    "fr": [
+      "Le Mirtillo"
+    ],
+    "zh": [
+      "Le Mirtillo"
+    ],
+    "nl": [
+      "Le Mirtillo"
+    ],
+    "es": [
+      "Le Mirtillo"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/45c48cce-2e2d-3fbd-aa1a-fc51c7c6ad26",
+    "dc:identifier": "9",
+    "schema:email": [
+      "apidae@lyon-france.com",
+      "seveillard@lyon-france.com",
+      "vbilly@lyon-france.com"
+    ],
+    "schema:legalName": "Lyon Tourisme et Congrès / ONLYLYON Tourisme",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.lyon-france.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/8a9feb4b-2cbd-3d2c-b507-bd6c6776b23b",
+      "schema:legalName": "Apidae Tourisme Scic SA - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/da4f10cf-f0c0-32da-9cab-742bb9baa38d",
+      "schema:email": [
+        "salle@lemirtillo-restaurant.com"
+      ],
+      "schema:telephone": [
+        "+33 9 71 16 01 38"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://lemirtillo-restaurant.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/e2777917-3339-364a-a1c5-4ad7084001a1",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/28a113a6-b613-3fc2-9a14-1444bd940ae9",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/927e9aa7-a2aa-3f4e-8ee8-dcf19f52dd49",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/9b1f371d-5aaa-37d6-baf0-46402f3580e1",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a7a8dfbd-ab14-3f32-a095-adcb25173f70",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Das MirtiLLo wird Ihnen ein kulinarisches Erlebnis mit frischen und qualitativ hochwertigen Produkten bieten. Das gesamte Team des MirtiLLo freut sich auf Ihren Besuch!"
+        ],
+        "en": [
+          "MirtiLLo offers you a culinary experience using fresh, high-quality produce. MirtiLLo’s whole team offers you a first-class welcome!"
+        ],
+        "it": [
+          "Al MirtiLLo vivrete un'esperienza culinaria basata su prodotti freschi e di alta qualità. L'intero team di MirtiLLo sarà lieto di accogliervi con un'accoglienza impeccabile!"
+        ],
+        "fr": [
+          "Le MirtiLLo vous fera vivre une expérience culinaire avec des produits frais et de qualité. Toute l'équipe du MirtiLLo aura à cœur de vous recevoir avec une qualité d'accueil irréprochable !"
+        ],
+        "es": [
+          "En MirtiLLo disfrutará de una experiencia culinaria basada en productos frescos y de alta calidad. ¡Todo el equipo de MirtiLLo estará encantado de recibirle con una bienvenida impecable!"
+        ],
+        "nl": [
+          "Bij MirtiLLo geniet je van een culinaire ervaring op basis van verse kwaliteitsproducten. Het hele MirtiLLo-team verwelkomt je graag met een onberispelijk onthaal!"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/3aaed5ef-caf0-38d5-9916-8f26bec2695f",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/5241a806-f426-35c5-9a90-6625fa90b238",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/de682a9f-6b2c-3c0a-a319-d243873b7a15",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/eb611165-fa16-33ef-85e6-198acaf2a749",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/7874c877-276a-335c-9568-7625448c45ba",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/1fd92e44-e940-3678-881a-cd7f7259e96a",
+          "schema:addressLocality": "Lyon 2e Arrondissement",
+          "schema:postalCode": "69002",
+          "schema:streetAddress": [
+            "5 rue des Marronniers"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:69382",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Lyon 2e Arrondissement"
+              ],
+              "pt": [
+                "Lyon 2e Arrondissement"
+              ],
+              "en": [
+                "Lyon 2e Arrondissement"
+              ],
+              "it": [
+                "Lyon 2e Arrondissement"
+              ],
+              "fr": [
+                "Lyon 2e Arrondissement"
+              ],
+              "nl": [
+                "Lyon 2e Arrondissement"
+              ],
+              "es": [
+                "Lyon 2e Arrondissement"
+              ]
+            },
+            "insee": "69382",
+            "isPartOfDepartment": {
+              "@id": "kb:France8469",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Rhône"
+                ],
+                "pt": [
+                  "Rhône"
+                ],
+                "en": [
+                  "Rhône"
+                ],
+                "it": [
+                  "Rhône"
+                ],
+                "fr": [
+                  "Rhône"
+                ],
+                "nl": [
+                  "Rhône"
+                ],
+                "es": [
+                  "Rhône"
+                ]
+              },
+              "insee": "69",
+              "isPartOfRegion": {
+                "@id": "kb:France84",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "pt": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "en": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "it": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "fr": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "nl": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "es": [
+                    "Auvergne-Rhône-Alpes"
+                  ]
+                },
+                "insee": "84",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/5d52e7df-111f-3ce2-8dab-29ab4018b9ce",
+        "schema:latitude": "45.757078",
+        "schema:longitude": "4.835109",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/33848473-e8f7-3b5e-a27f-1813fca76a01",
+      "schema:email": [
+        "apidae@lyon-france.com",
+        "seveillard@lyon-france.com",
+        "vbilly@lyon-france.com"
+      ],
+      "schema:legalName": "Lyon Tourisme et Congrès / ONLYLYON Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.lyon-france.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-09-14",
+  "lastUpdateDatatourisme": "2023-12-23T06:39:46.207Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/9ebe1f5e-7cbf-328e-a1b4-d70fe04ccd97",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/837f01d4-96a9-3034-80e8-e47a3d347c8e",
+          "schema:maxPrice": [
+            "11",
+            "18",
+            "26",
+            "28"
+          ],
+          "schema:minPrice": [
+            "11",
+            "14",
+            "28"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/a425afdf-3594-300b-b55e-1858bafa3fd4",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2023-12-31",
+              "startDate": "2023-01-01"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

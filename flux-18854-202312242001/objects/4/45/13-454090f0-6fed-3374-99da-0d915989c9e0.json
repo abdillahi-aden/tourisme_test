@@ -1,0 +1,528 @@
+{
+  "@id": "https://data.datatourisme.fr/13/454090f0-6fed-3374-99da-0d915989c9e0",
+  "dc:identifier": "6606399",
+  "@type": [
+    "schema:FoodEstablishment",
+    "FoodEstablishment",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Das Howard House ist ein neues Restaurant auf dem Flughafen Lyon-Bron, das dem berühmten Flieger Howard Hughes Tribut zollt. Das Lokal ist von einer Fluggastbrücke inspiriert und hat ein minimalistisches Design."
+    ],
+    "en": [
+      "Howard House is a new restaurant at Lyon-Bron airport, paying tribute to the famous aviator Howard Hughes. Inspired by a boarding bridge, the minimalist design features raw concrete, glass and industrial colors"
+    ],
+    "it": [
+      "Howard House è un nuovo ristorante dell'aeroporto di Lione-Bron che rende omaggio al famoso aviatore Howard Hughes. Il ristorante, ispirato a un ponte d'imbarco, ha un design minimalista."
+    ],
+    "fr": [
+      "Howard House est un nouveau restaurant sur l’aéroport de Lyon-Bron, rendant hommage au célèbre aviateur Howard Hughes. Le lieu, inspiré d’une passerelle d’embarquement, adopte un design minimaliste."
+    ],
+    "nl": [
+      "Howard House is een nieuw restaurant op de luchthaven Lyon-Bron, een eerbetoon aan de beroemde vliegenier Howard Hughes. Het restaurant, geïnspireerd op een instapbrug, heeft een minimalistisch ontwerp."
+    ],
+    "es": [
+      "Howard House es un nuevo restaurante del aeropuerto de Lyon-Bron que rinde homenaje al famoso aviador Howard Hughes. El restaurante, inspirado en un puente de embarque, tiene un diseño minimalista."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Howard House"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/45c48cce-2e2d-3fbd-aa1a-fc51c7c6ad26",
+    "dc:identifier": "9",
+    "schema:email": [
+      "apidae@lyon-france.com",
+      "seveillard@lyon-france.com",
+      "vbilly@lyon-france.com"
+    ],
+    "schema:legalName": "Lyon Tourisme et Congrès / ONLYLYON Tourisme",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.lyon-france.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/8a9feb4b-2cbd-3d2c-b507-bd6c6776b23b",
+      "schema:legalName": "Apidae Tourisme Scic SA - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/bec86af4-9120-3a19-90de-934f9a940987",
+      "schema:email": [
+        "hello@howardhouse.fr"
+      ],
+      "schema:telephone": [
+        "+33 4 65 84 24 74"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.howardhouse.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/f360aa5a-1ff9-38b5-83bc-b41f151c0054",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/02f0708d-7ccb-3715-92d6-dbe514504194",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/3401b7aa-c5cc-3708-a2c4-ed003c6dfae2",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/8fa53dd7-75d4-337a-a165-5015e74441de",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/df0b064e-f04e-3f58-b5e4-0346802e6dbd",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Das Howard House ist ein neues Restaurant auf dem Flughafen Lyon-Bron, das dem berühmten Flieger Howard Hughes Tribut zollt. Das Lokal ist von einer Fluggastbrücke inspiriert und hat ein minimalistisches Design."
+        ],
+        "en": [
+          "Howard House is a new restaurant at Lyon-Bron airport, paying tribute to the famous aviator Howard Hughes. Inspired by a boarding bridge, the minimalist design features raw concrete, glass and industrial colors"
+        ],
+        "it": [
+          "Howard House è un nuovo ristorante dell'aeroporto di Lione-Bron che rende omaggio al famoso aviatore Howard Hughes. Il ristorante, ispirato a un ponte d'imbarco, ha un design minimalista."
+        ],
+        "fr": [
+          "Howard House est un nouveau restaurant sur l’aéroport de Lyon-Bron, rendant hommage au célèbre aviateur Howard Hughes. Le lieu, inspiré d’une passerelle d’embarquement, adopte un design minimaliste."
+        ],
+        "nl": [
+          "Howard House is een nieuw restaurant op de luchthaven Lyon-Bron, een eerbetoon aan de beroemde vliegenier Howard Hughes. Het restaurant, geïnspireerd op een instapbrug, heeft een minimalistisch ontwerp."
+        ],
+        "es": [
+          "Howard House es un nuevo restaurante del aeropuerto de Lyon-Bron que rinde homenaje al famoso aviador Howard Hughes. El restaurante, inspirado en un puente de embarque, tiene un diseño minimalista."
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/0443579a-800b-3b9b-944d-b77d5dfe759d",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/06e23e2c-157d-3c66-865f-ac9fad2d2292",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/2f92f4b9-e42b-39e1-b68d-7f6ff5762980",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/485ff044-d6f2-3700-af53-85d4712596fb",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/39559dfa-bcee-3169-b8a2-a0df5ba61fa9",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/95682f72-f155-3cb2-b101-77c857067247",
+          "schema:addressLocality": "Bron",
+          "schema:postalCode": "69500",
+          "schema:streetAddress": [
+            "Aéroport Terminal aviation d'affaires, Aéroport"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:69029",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Bron"
+              ],
+              "pt": [
+                "Bron"
+              ],
+              "en": [
+                "Bron"
+              ],
+              "it": [
+                "Bron"
+              ],
+              "fr": [
+                "Bron"
+              ],
+              "nl": [
+                "Bron"
+              ],
+              "es": [
+                "Bron"
+              ]
+            },
+            "insee": "69029",
+            "isPartOfDepartment": {
+              "@id": "kb:France8469",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Rhône"
+                ],
+                "pt": [
+                  "Rhône"
+                ],
+                "en": [
+                  "Rhône"
+                ],
+                "it": [
+                  "Rhône"
+                ],
+                "fr": [
+                  "Rhône"
+                ],
+                "nl": [
+                  "Rhône"
+                ],
+                "es": [
+                  "Rhône"
+                ]
+              },
+              "insee": "69",
+              "isPartOfRegion": {
+                "@id": "kb:France84",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "pt": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "en": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "it": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "fr": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "nl": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "es": [
+                    "Auvergne-Rhône-Alpes"
+                  ]
+                },
+                "insee": "84",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/2d3915c7-07b1-3a99-bce1-e97c3634fb83",
+        "schema:latitude": "45.743842",
+        "schema:longitude": "4.930041",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/eba24ddd-fd1d-3994-8588-44c1810c37be",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Vom 29. Juli bis zum 22. August."
+            ],
+            "en": [
+              "From July 29 to August 22."
+            ],
+            "it": [
+              "Dal 29 luglio al 22 agosto."
+            ],
+            "fr": [
+              "Du 29 juillet au 22 août."
+            ],
+            "nl": [
+              "Van 29 juli tot 22 augustus."
+            ],
+            "es": [
+              "Del 29 de julio al 22 de agosto."
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/130e0d8d-5150-3f41-b235-855e572eb2a0",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/6f931926-cb20-3228-93b9-058e39e0c227",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/778e1ff7-8136-3ceb-a98d-8da1e35f8331",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/f29c17b8-ee2c-320d-9173-45c8f40ba83e",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/f2ee2e72-8999-3e59-b80f-231a73223c7c",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/33848473-e8f7-3b5e-a27f-1813fca76a01",
+      "schema:email": [
+        "apidae@lyon-france.com",
+        "seveillard@lyon-france.com",
+        "vbilly@lyon-france.com"
+      ],
+      "schema:legalName": "Lyon Tourisme et Congrès / ONLYLYON Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.lyon-france.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-07-18",
+  "lastUpdateDatatourisme": "2023-12-23T06:39:46.136Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/6716f838-b51b-3764-8905-c4a64e424893",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/694deef7-d1e5-37a5-b00c-9dc4a1464b38",
+          "schema:maxPrice": [
+            "16",
+            "28",
+            "35"
+          ],
+          "schema:minPrice": [
+            "10",
+            "16",
+            "35"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/a425afdf-3594-300b-b55e-1858bafa3fd4",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2023-12-31",
+              "startDate": "2023-01-01"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

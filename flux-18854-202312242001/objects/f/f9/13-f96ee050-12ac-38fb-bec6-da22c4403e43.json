@@ -1,0 +1,708 @@
+{
+  "@id": "https://data.datatourisme.fr/13/f96ee050-12ac-38fb-bec6-da22c4403e43",
+  "dc:identifier": "152532",
+  "@type": [
+    "schema:Landform",
+    "schema:LocalBusiness",
+    "Beach",
+    "FitnessCenter",
+    "NaturalHeritage",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "SportsAndLeisurePlace",
+    "SwimmingPool"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "L'Archipel, Ihr Aqua-Center im Pays de L'Arbresle, liegt nur 20 km von Lyon entfernt! Dieser Komplex bietet eine große Auswahl an Wassersport-, Fitness- und Wellnessangeboten."
+    ],
+    "en": [
+      "This hydro centre is devoted to the pleasure of water, relaxation and fitness, in summer as in winter. It has indoor and outdoor pools with slides and wide raft slide, a playground, picnic area and fitness centre (body building, sauna...)."
+    ],
+    "it": [
+      "A soli 20 km da Lione, venite a scoprire L'Archipel, il vostro centro acquatico nel Pays de L'Arbresle! Questo complesso offre un'ampia gamma di servizi acquatici per il tempo libero, il fitness e il benessere."
+    ],
+    "fr": [
+      "Situé à seulement 20 km de Lyon, venez découvrir L’Archipel, votre Aqua-Centre du Pays de L’Arbresle ! Ce complexe offre un large choix de prestations de loisirs aquatiques, de remise en forme et de bien-être."
+    ],
+    "es": [
+      "Situado a sólo 20 km de Lyon, venga a descubrir L'Archipel, su Aqua-Centre en el Pays de L'Arbresle Este complejo ofrece una amplia gama de servicios de ocio acuático, fitness y bienestar."
+    ],
+    "nl": [
+      "Kom op 20 km van Lyon L'Archipel ontdekken, uw Aqua-Centrum in het Pays de L'Arbresle! Dit complex biedt een breed scala aan diensten op het gebied van waterrecreatie, fitness en welzijn."
+    ]
+  },
+  "rdfs:label": {
+    "en": [
+      "Grand Champ's swimming pool and hydro centre"
+    ],
+    "fr": [
+      "L'Archipel, Aqua-Centre du Pays de L'Arbresle"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/b6d767d2-f8ed-3d21-a44b-0e5886680cb9",
+    "dc:identifier": "22",
+    "schema:email": [
+      "josiane.rivier@paysdelarbresle.fr",
+      "officedetourisme@paysdelarbresle.fr"
+    ],
+    "schema:legalName": "Office de Tourisme du Pays de l'Arbresle",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.arbresletourisme.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/8a9feb4b-2cbd-3d2c-b507-bd6c6776b23b",
+      "schema:legalName": "Apidae Tourisme Scic SA - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/4f0a6595-3d00-395b-8792-f749fa7e64e7",
+      "schema:email": [
+        "contact@archipel-aquacentre.fr"
+      ],
+      "schema:telephone": [
+        "+33 4 74 01 55 00"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.archipel-aquacentre.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/230413b4-416f-3d43-a329-a61102dd4321",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/14a25746-9441-35dc-a634-169122aa6b5f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/311922c1-90ab-313b-94cd-98db2b10916d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c4d0981c-ebc8-3313-81be-9e4d13ac30eb",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f4efbe94-ff82-3d71-bbd0-a82478481e0d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "L'Archipel, Ihr Aqua-Center im Pays de L'Arbresle, liegt nur 20 km von Lyon entfernt! Dieser Komplex bietet eine große Auswahl an Wassersport-, Fitness- und Wellnessangeboten."
+        ],
+        "en": [
+          "This hydro centre is devoted to the pleasure of water, relaxation and fitness, in summer as in winter. It has indoor and outdoor pools with slides and wide raft slide, a playground, picnic area and fitness centre (body building, sauna...)."
+        ],
+        "it": [
+          "A soli 20 km da Lione, venite a scoprire L'Archipel, il vostro centro acquatico nel Pays de L'Arbresle! Questo complesso offre un'ampia gamma di servizi acquatici per il tempo libero, il fitness e il benessere."
+        ],
+        "fr": [
+          "Situé à seulement 20 km de Lyon, venez découvrir L’Archipel, votre Aqua-Centre du Pays de L’Arbresle ! Ce complexe offre un large choix de prestations de loisirs aquatiques, de remise en forme et de bien-être."
+        ],
+        "es": [
+          "Situado a sólo 20 km de Lyon, venga a descubrir L'Archipel, su Aqua-Centre en el Pays de L'Arbresle Este complejo ofrece una amplia gama de servicios de ocio acuático, fitness y bienestar."
+        ],
+        "nl": [
+          "Kom op 20 km van Lyon L'Archipel ontdekken, uw Aqua-Centrum in het Pays de L'Arbresle! Dit complex biedt een breed scala aan diensten op het gebied van waterrecreatie, fitness en welzijn."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Bathing",
+      "@type": [
+        "AccommodationAmenity",
+        "SportsTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Baden"
+        ],
+        "pt": [
+          "Banho"
+        ],
+        "en": [
+          "Bathing"
+        ],
+        "it": [
+          "Bagno"
+        ],
+        "fr": [
+          "Baignade"
+        ],
+        "nl": [
+          "Zwemmen"
+        ],
+        "es": [
+          "Baño"
+        ]
+      }
+    },
+    {
+      "@id": "kb:Fitness",
+      "@type": [
+        "SportsTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Fitness"
+        ],
+        "pt": [
+          "Manutenção da forma física"
+        ],
+        "en": [
+          "Fitness"
+        ],
+        "it": [
+          "Fitness"
+        ],
+        "fr": [
+          "Remise en forme"
+        ],
+        "nl": [
+          "Fitness"
+        ],
+        "es": [
+          "Fitness"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/10bdc923-79fa-3b4b-b1b7-45006b6f7c4f",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/990af476-f39b-3547-a03a-027a624fdabb",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/e3bfa0e7-0de9-3bcc-9960-9b656c642ea1",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/e5dac8db-2ec1-30a8-b76b-d632b001c790",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/ccb22492-4464-31df-91d0-4d659bfc5615",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/1a581827-3232-3ac8-a49c-51ad02302e6e",
+          "schema:addressLocality": "Sain-Bel",
+          "schema:postalCode": "69210",
+          "schema:streetAddress": [
+            "Route de Grands Champs"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:69171",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Sain-Bel"
+              ],
+              "pt": [
+                "Sain-Bel"
+              ],
+              "en": [
+                "Sain-Bel"
+              ],
+              "it": [
+                "Sain-Bel"
+              ],
+              "fr": [
+                "Sain-Bel"
+              ],
+              "nl": [
+                "Sain-Bel"
+              ],
+              "es": [
+                "Sain-Bel"
+              ]
+            },
+            "insee": "69171",
+            "isPartOfDepartment": {
+              "@id": "kb:France8469",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Rhône"
+                ],
+                "pt": [
+                  "Rhône"
+                ],
+                "en": [
+                  "Rhône"
+                ],
+                "it": [
+                  "Rhône"
+                ],
+                "fr": [
+                  "Rhône"
+                ],
+                "nl": [
+                  "Rhône"
+                ],
+                "es": [
+                  "Rhône"
+                ]
+              },
+              "insee": "69",
+              "isPartOfRegion": {
+                "@id": "kb:France84",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "pt": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "en": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "it": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "fr": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "nl": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "es": [
+                    "Auvergne-Rhône-Alpes"
+                  ]
+                },
+                "insee": "84",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/5ed4d5f8-5c5f-3434-975d-5235ef1e7f0d",
+        "schema:elevation": "290",
+        "schema:latitude": "45.825619",
+        "schema:longitude": "4.598106",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/a2cc2aa9-8e88-3edc-9389-5f578088ae67",
+          "schema:validFrom": "2023-06-19T00:00:00",
+          "schema:validThrough": "2023-09-03T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Wasser- und Wellnessbereich: Mo. bis So. 10h-20h.\r\nFitnessbereich Juli: Mo bis Fr 10-20 Uhr; Sa 10-17 Uhr; So 10-13 Uhr.\r\nFitnessbereich August: Mo bis Fr 10-20 Uhr; Sa und So geschlossen."
+            ],
+            "en": [
+              "Aquatic area and well-being: Mon. to Sun. 10am-8pm.\r\nFitness area July: Mon. to Fri. 10am-8pm; Sat. 10am-5pm; Sun. 10am-1pm.\r\nFitness area in August: Monday to Friday 10am-8pm; Saturday and Sunday closed."
+            ],
+            "it": [
+              "Area acquatica e benessere: dal lunedì alla domenica, dalle 10.00 alle 20.00.\r\nArea fitness luglio: da lun. a ven. 10.00-20.00; sab. 10.00-17.00; dom. 10.00-13.00.\r\nArea fitness agosto: lun-ven 10.00-20.00; sab e dom chiuso."
+            ],
+            "fr": [
+              "Espace aquatique et bien-être : du lun. au dim. 10h-20h.\r\nEspace forme juillet : du lun.au ven. 10h-20h ; sam. 10h-17h ; dim. 10h-13h.\r\nEspace forme août : du lun.au ven. 10h-20h ; sam. et dim. fermé."
+            ],
+            "es": [
+              "Zona acuática y de bienestar: de lunes a domingo, de 10.00 a 20.00 h.\r\nZona de fitness en julio: de lunes a viernes, de 10.00 a 20.00 h; sábados, de 10.00 a 17.00 h; domingos, de 10.00 a 13.00 h.\r\nZona de fitness en agosto: de lunes a viernes, de 10.00 a 20.00; sábados y domingos, cerrado."
+            ],
+            "nl": [
+              "Water- en wellnessruimte: ma. t/m zo. 10.00 - 20.00 uur.\r\nFitnessruimte juli: ma. t/m vr. 10.00-20.00 uur; za. 10.00-5.00 uur; zo. 10.00-1.00 uur.\r\nFitnessruimte augustus: ma-vr 10-18 uur; za en zo gesloten."
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/12be7715-4f63-39ff-a6a4-631105271e22",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/42c94bb4-23e3-32ec-8b6c-170bd654d142",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/4c6c0301-9c3f-38fe-af66-2c955fee6aec",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/4d21fe17-5c36-3611-a51e-9bc9c08d69ea",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/d1e1f5e2-2d1a-3d83-9ee2-0cae13e38c2d",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/fed0808c-38e9-399f-a786-ca12e903a92a",
+          "schema:validFrom": "2023-09-04T00:00:00",
+          "schema:validThrough": "2023-06-30T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Wassersportbereich :\r\n- sportbecken: Montag und Freitag von 12:00 bis 13:30 Uhr und von 16:30 bis 20:45 Uhr, Dienstag und Donnerstag von 12:00 bis 13:30 Uhr und von 17:00 bis 19:15 Uhr, Mittwoch von 12:00 bis 20:45 Uhr, Samstag von 10:00 bis 11:45 Uhr und von 14:00 bis 18:45 Uhr, Sonntag von 9:00 bis 12:45 Uhr.\r\n- Spielbecken: Montag von 16:30 bis 18:30 Uhr, Dienstag von 17:00 bis 19:15 Uhr, Mittwoch von 13:45 bis 18:30 Uhr, Donnerstag von 17:00 bis 18:30 Uhr, Freitag von 16:30 bis 19:15 Uhr, Samstag von 14:00 bis 18:45 Uhr, Sonntag von 9:00 bis 12:45 Uhr. Achtung: Das Spaßbecken ist während der Aquakurse geschlossen.\r\n\r\nFitnessbereich: Montag bis Freitag von 9:00 bis 21:00 Uhr, Samstag von 9:00 bis 17:00 Uhr und Sonntag von 9:00 bis 13:00 Uhr.\r\n\r\nWellnessbereich: Montag bis Freitag von 9:00 bis 21:00 Uhr, Samstag von 9:00 bis 19:00 Uhr und Sonntag von 9:00 bis 13:00 Uhr."
+            ],
+            "en": [
+              "Aquatic area :\r\n- sports pool: Mondays and Fridays, 12pm to 1:30pm and 4:30pm to 8:45pm, Tuesdays and Thursdays, 12pm to 1:30pm and 5pm to 7:15pm, Wednesdays, 12pm to 8:45pm, Saturdays, 10am to 11:45am and 2pm to 6:45pm, Sundays, 9am to 12:45pm.\r\n- Leisure pool: Mondays 4.30pm to 6.30pm, Tuesdays 5pm to 7.15pm, Wednesdays 1.45pm to 6.30pm, Thursdays 5pm to 6.30pm, Fridays 4.30pm to 7.15pm, Saturdays 2pm to 6.45pm, Sundays 9am to 12.45pm. Please note that the leisure pool is closed during aquatic courses.\r\n\r\nEspace forme: Monday to Friday 9am to 9pm, Saturday 9am to 5pm and Sunday 9am to 1pm.\r\n\r\nWellness area: Monday to Friday 9am to 9pm, Saturday 9am to 7pm and Sunday 9am to 1pm."
+            ],
+            "it": [
+              "Area acquatica :\r\n- piscina sportiva: lunedì e venerdì dalle 12.00 alle 13.30 e dalle 16.30 alle 20.45, martedì e giovedì dalle 12.00 alle 13.30 e dalle 17.00 alle 19.15, mercoledì dalle 12.00 alle 20.45, sabato dalle 10.00 alle 11.45 e dalle 14.00 alle 18.45, domenica dalle 9.00 alle 12.45.\r\n- Piscina per il tempo libero: lunedì dalle 16.30 alle 18.30, martedì dalle 17.00 alle 19.15, mercoledì dalle 13.45 alle 18.30, giovedì dalle 17.00 alle 18.30, venerdì dalle 16.30 alle 19.15, sabato dalle 14.00 alle 18.45, domenica dalle 9.00 alle 12.45. Si prega di notare che la piscina per il tempo libero è chiusa durante le lezioni di acquaticità.\r\n\r\nArea fitness: da lunedì a venerdì dalle 9.00 alle 21.00, sabato dalle 9.00 alle 17.00 e domenica dalle 9.00 alle 13.00.\r\n\r\nArea benessere: da lunedì a venerdì dalle 9 alle 21, sabato dalle 9 alle 19 e domenica dalle 9 alle 13."
+            ],
+            "fr": [
+              "Espace aquatique : \r\n- bassin sportif : lundi et vendredi de 12h à 13h30 et de 16h30 à 20h45, mardi et jeudi de 12h à 13h30 et de 17h à 19h15, mercredi de 12h à 20h45, samedi de 10h à 11h45 et de 14h à 18h45, dimanche de 9h à 12h45.\r\n- Bassin ludique : lundi de 16h30 à 18h30, mardi de 17h à 19h15, mercredi de 13h45 à 18h30, jeudi de 17h à 18h30, vendredi de 16h30 à 19h15, samedi de 14h à 18h45, dimanche de 9h à 12h45. Attention le bassin ludique est fermé pendant les cours aquatiques. \r\n\r\nEspace forme : du lundi au vendredi de 9h à 21h, samedi de 9h à 17h et dimanche de 9h à 13h.\r\n\r\nEspace bien-être : du lundi au vendredi de 9h à 21h, samedi de 9h à 19h et dimanche de 9h à 13h."
+            ],
+            "nl": [
+              "Waterpark :\r\n- sportbad: maandag en vrijdag van 12u tot 13u30 en van 16u30 tot 20u45, dinsdag en donderdag van 12u tot 13u30 en van 17u tot 19u15, woensdag van 12u tot 20u45, zaterdag van 10u tot 11u45 en van 14u tot 18u45, zondag van 9u tot 12u45.\r\n- Vrijetijdszwembad: maandag van 16.30 tot 18.30 uur, dinsdag van 17.00 tot 19.15 uur, woensdag van 13.45 tot 18.30 uur, donderdag van 17.00 tot 18.30 uur, vrijdag van 16.30 tot 19.15 uur, zaterdag van 14.00 tot 18.45 uur, zondag van 09.00 tot 12.45 uur. Houd er rekening mee dat het recreatiebad gesloten is tijdens de aquaticslessen.\r\n\r\nFitnessruimte: maandag t/m vrijdag van 9.00 tot 21.00 uur, zaterdag van 9.00 tot 17.00 uur en zondag van 9.00 tot 13.00 uur.\r\n\r\nWellnessruimte: maandag t/m vrijdag van 9.00 tot 21.00 uur, zaterdag van 9.00 tot 19.00 uur en zondag van 9.00 tot 13.00 uur."
+            ],
+            "es": [
+              "Espacio acuático :\r\n- piscina deportiva: lunes y viernes de 12h a 13h30 y de 16h30 a 20h45, martes y jueves de 12h a 13h30 y de 17h a 19h15, miércoles de 12h a 20h45, sábado de 10h a 11h45 y de 14h a 18h45, domingo de 9h a 12h45.\r\n- Piscina recreativa: lunes de 16.30 a 18.30 h, martes de 17.00 a 19.15 h, miércoles de 13.45 a 18.30 h, jueves de 17.00 a 18.30 h, viernes de 16.30 a 19.15 h, sábados de 14.00 a 18.45 h, domingos de 9.00 a 12.45 h. Tenga en cuenta que la piscina de recreo está cerrada durante las clases de gimnasia acuática.\r\n\r\nGimnasio: de lunes a viernes de 9.00 a 21.00 h, sábados de 9.00 a 17.00 h y domingos de 9.00 a 13.00 h.\r\n\r\nZona de bienestar: de lunes a viernes de 9.00 a 21.00 h, sábados de 9.00 a 19.00 h y domingos de 9.00 a 13.00 h."
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/626cc4e0-b6ed-3985-935f-8246dc664b86",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/9b1fe907-04e1-3f64-87aa-4cf5002b726a",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/c63c1892-0c85-3208-a54e-cedb82e06566",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/cf76cc5b-2b63-349b-8bf8-e39caa903737",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/de67a7da-4cac-3ec6-9d94-419e59fcd31a",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/7479cce0-3110-30a6-9c12-c1cac0b8d082",
+      "schema:email": [
+        "josiane.rivier@paysdelarbresle.fr",
+        "officedetourisme@paysdelarbresle.fr"
+      ],
+      "schema:legalName": "Office de Tourisme du Pays de l'Arbresle",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.arbresletourisme.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-12-06",
+  "lastUpdateDatatourisme": "2023-12-23T06:39:46.178Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/c103b590-89d1-37de-bfe4-1e300eb8133d",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/39e980f6-233f-31c3-ab9c-b9e284cf8e76",
+          "schema:maxPrice": [
+            "3.7",
+            "47.2",
+            "5.8"
+          ],
+          "schema:minPrice": [
+            "29.4",
+            "3.7",
+            "5.8"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/373f0905-cd7c-3cfe-83b6-d9e329128612",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2024-06-30",
+              "startDate": "2023-09-04"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c4518b29-4e15-3587-9039-9468366c3e16",
+          "schema:minPrice": [
+            "4.2",
+            "5.2"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/7969bfec-dfa4-30bf-9d12-df831343bb9d",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2023-09-03",
+              "startDate": "2023-06-19"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

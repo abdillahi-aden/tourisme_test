@@ -1,0 +1,383 @@
+{
+  "@id": "https://data.datatourisme.fr/13/6109e7de-40f7-3912-93c2-adb28be64383",
+  "dc:identifier": "173248",
+  "@type": [
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "TechnicalHeritage"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Entdecken Sie das Druckatelier nach Art Lyons: Kolorierung von quadratischen Seidentüchern, Tradition der lyoner Seidenhäuser, Herstellung von Accessoires (Tücher, Schals, Stolen, Krawatten...)."
+    ],
+    "en": [
+      "Discover a family workshop and its silk printing and colouring techniques: colouring of silk squares, tradition of the silk houses of Lyon, manufacture & sale of articles (squares, scarves, stoles, ties ...)."
+    ],
+    "it": [
+      "Scopri il laboratorio di stampa tessile di tradizione lionese: colorazione di quadrati in seta, tecniche delle case di seteria lionesi, elaborazione di accessori (foulard, sciarpe, stole, cravatte...)."
+    ],
+    "fr": [
+      "Découverte de l’Atelier d’impression Brochier Soierie où les imprimeurs sur soie perpétuent une tradition lyonnaise née au début du XXe siècle : l’impression au cadre de carrés de soie."
+    ],
+    "nl": [
+      "Ontdek de drukkerij Brochier Soierie, waar zijdedrukkers een Lyonese traditie voortzetten die begon in het begin van de 20e eeuw: het drukken van kaders op zijden vierkanten."
+    ],
+    "es": [
+      "Este es un auténtico taller de estampado a la lionesa: teñido de pañuelos de seda, tradición de las sederías lionesas, fabricación de accesorios (pañuelos, bufandas, echarpes, corbatas...)."
+    ]
+  },
+  "rdfs:label": {
+    "de": [
+      "Atelier d'impression Brochier Soieries"
+    ],
+    "ru": [
+      "Atelier d'impression Brochier Soieries"
+    ],
+    "en": [
+      "Atelier d'impression Brochier Soieries"
+    ],
+    "it": [
+      "Atelier d'impression Brochier Soieries"
+    ],
+    "fr": [
+      "Atelier d'impression Brochier Soieries"
+    ],
+    "zh": [
+      "Atelier d'impression Brochier Soieries"
+    ],
+    "nl": [
+      "Atelier d'impression Brochier Soieries"
+    ],
+    "es": [
+      "Atelier d'impression Brochier Soieries"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/45c48cce-2e2d-3fbd-aa1a-fc51c7c6ad26",
+    "dc:identifier": "9",
+    "schema:email": [
+      "apidae@lyon-france.com",
+      "seveillard@lyon-france.com",
+      "vbilly@lyon-france.com"
+    ],
+    "schema:legalName": "Lyon Tourisme et Congrès / ONLYLYON Tourisme",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.lyon-france.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/8a9feb4b-2cbd-3d2c-b507-bd6c6776b23b",
+      "schema:legalName": "Apidae Tourisme Scic SA - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/98e60e47-0e18-38a6-b4c6-8d957e879f94",
+      "schema:email": [
+        "atelier@brochiersoieries.com"
+      ],
+      "schema:telephone": [
+        "+33 4 72 07 97 83"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://shop.brochiersoieries.com/",
+        "https://www.brochiersoieries.com/latelier/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/840a3917-7e70-3e4b-8a24-4c29710e4299",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/b296713f-b613-3a3f-b3b2-f7daf8c668e3",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Entdecken Sie das Druckatelier nach Art Lyons: Kolorierung von quadratischen Seidentüchern, Tradition der lyoner Seidenhäuser, Herstellung von Accessoires (Tücher, Schals, Stolen, Krawatten...)."
+        ],
+        "en": [
+          "Discover a family workshop and its silk printing and colouring techniques: colouring of silk squares, tradition of the silk houses of Lyon, manufacture & sale of articles (squares, scarves, stoles, ties ...)."
+        ],
+        "it": [
+          "Scopri il laboratorio di stampa tessile di tradizione lionese: colorazione di quadrati in seta, tecniche delle case di seteria lionesi, elaborazione di accessori (foulard, sciarpe, stole, cravatte...)."
+        ],
+        "fr": [
+          "Découverte de l’Atelier d’impression Brochier Soierie où les imprimeurs sur soie perpétuent une tradition lyonnaise née au début du XXe siècle : l’impression au cadre de carrés de soie."
+        ],
+        "nl": [
+          "Ontdek de drukkerij Brochier Soierie, waar zijdedrukkers een Lyonese traditie voortzetten die begon in het begin van de 20e eeuw: het drukken van kaders op zijden vierkanten."
+        ],
+        "es": [
+          "Este es un auténtico taller de estampado a la lionesa: teñido de pañuelos de seda, tradición de las sederías lionesas, fabricación de accesorios (pañuelos, bufandas, echarpes, corbatas...)."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/cd22f399-be17-352b-b46a-abee639a5a9b",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/4088135a-3b3f-3d36-97fe-017e1ccb1ed9",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/f5d6deab-9415-3226-bbe2-205d61feb50f",
+          "schema:addressLocality": "Lyon 1er Arrondissement",
+          "schema:postalCode": "69001",
+          "schema:streetAddress": [
+            "33 rue Romarin"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:69381",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Lyon 1er Arrondissement"
+              ],
+              "pt": [
+                "Lyon 1er Arrondissement"
+              ],
+              "en": [
+                "Lyon 1er Arrondissement"
+              ],
+              "it": [
+                "Lyon 1er Arrondissement"
+              ],
+              "fr": [
+                "Lyon 1er Arrondissement"
+              ],
+              "nl": [
+                "Lyon 1er Arrondissement"
+              ],
+              "es": [
+                "Lyon 1er Arrondissement"
+              ]
+            },
+            "insee": "69381",
+            "isPartOfDepartment": {
+              "@id": "kb:France8469",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Rhône"
+                ],
+                "pt": [
+                  "Rhône"
+                ],
+                "en": [
+                  "Rhône"
+                ],
+                "it": [
+                  "Rhône"
+                ],
+                "fr": [
+                  "Rhône"
+                ],
+                "nl": [
+                  "Rhône"
+                ],
+                "es": [
+                  "Rhône"
+                ]
+              },
+              "insee": "69",
+              "isPartOfRegion": {
+                "@id": "kb:France84",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "pt": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "en": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "it": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "fr": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "nl": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "es": [
+                    "Auvergne-Rhône-Alpes"
+                  ]
+                },
+                "insee": "84",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/5adc19d3-b20c-3eab-98db-01e99a8dc56d",
+        "schema:elevation": "189",
+        "schema:latitude": "45.768077",
+        "schema:longitude": "4.834257",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/33848473-e8f7-3b5e-a27f-1813fca76a01",
+      "schema:email": [
+        "apidae@lyon-france.com",
+        "seveillard@lyon-france.com",
+        "vbilly@lyon-france.com"
+      ],
+      "schema:legalName": "Lyon Tourisme et Congrès / ONLYLYON Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.lyon-france.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-12-21",
+  "lastUpdateDatatourisme": "2023-12-22T06:44:06.213Z"
+}

@@ -1,0 +1,428 @@
+{
+  "@id": "https://data.datatourisme.fr/13/6b746ef7-d2b9-3e44-b89f-3c936bcf6b95",
+  "dc:identifier": "5066571",
+  "@type": [
+    "schema:FoodEstablishment",
+    "FoodEstablishment",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Genießen Sie in einem einzigartigen und komfortablen Rahmen in den Monts-d'Or für Ihr Geschäfts- oder Familienessen eine hausgemachte und saisonale Küche, die in drei Atmosphären in Form von Restaurant, Bar und Terrasse angeboten wird."
+    ],
+    "en": [
+      "Enjoy your business lunches in a unique and comfortable setting, in the hills of the Monts-d'Or. Seasonal, home-made cuisine is served in the three different ambiances offered by the restaurant, bar and terrace."
+    ],
+    "it": [
+      "Venite a godervi un ambiente unico e confortevole nel Monts-d'Or, per i vostri pranzi di lavoro o in famiglia, una cucina casalinga e stagionale offerta in tre atmosfere sotto forma di ristorante, bar e terrazza."
+    ],
+    "fr": [
+      "Venez savourer dans un cadre unique et confortable, dans les Monts-d'Or, pour vos déjeuners d'affaires ou en famille, une cuisine maison et de saison proposée dans trois ambiances sous forme de restaurant, bar et terrasse."
+    ],
+    "es": [
+      "Venga a disfrutar de un entorno único y confortable en el Monts-d'Or, para sus comidas de negocios o familiares, una cocina casera y de temporada ofrecida en tres ambientes en forma de restaurante, bar y terraza."
+    ],
+    "nl": [
+      "Kom genieten van een uniek en comfortabel kader in de Monts-d'Or, voor uw zakenlunches of familie lunches, een huisgemaakte en seizoensgebonden keuken aangeboden in drie sferen in de vorm van een restaurant, bar en terras."
+    ]
+  },
+  "rdfs:label": {
+    "de": [
+      "La Bastide"
+    ],
+    "ru": [
+      "La Bastide"
+    ],
+    "en": [
+      "La Bastide"
+    ],
+    "it": [
+      "La Bastide"
+    ],
+    "fr": [
+      "La Bastide"
+    ],
+    "zh": [
+      "La Bastide"
+    ],
+    "nl": [
+      "La Bastide"
+    ],
+    "es": [
+      "La Bastide"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/45c48cce-2e2d-3fbd-aa1a-fc51c7c6ad26",
+    "dc:identifier": "9",
+    "schema:email": [
+      "apidae@lyon-france.com",
+      "seveillard@lyon-france.com",
+      "vbilly@lyon-france.com"
+    ],
+    "schema:legalName": "Lyon Tourisme et Congrès / ONLYLYON Tourisme",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.lyon-france.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/8a9feb4b-2cbd-3d2c-b507-bd6c6776b23b",
+      "schema:legalName": "Apidae Tourisme Scic SA - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/65a7c3c0-b2eb-37b6-8114-3a1c2dd1bfe0",
+      "schema:email": [
+        "info@labastiderestaurant.com"
+      ],
+      "schema:telephone": [
+        "+33 4 72 27 82 91"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.labastiderestaurant.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/8e069835-03e9-38dc-a6b4-2fa9d0a384b9",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/141c8ae5-e839-3930-8a42-1876c9f6e0f1",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c2eb311e-d62c-30b2-9fe8-1120f8cf5acb",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/cf821bf3-bb50-385c-9269-c71fe2523141",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f77d0447-b996-39ca-82cc-5060517efb1a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Genießen Sie in einem einzigartigen und komfortablen Rahmen in den Monts-d'Or für Ihr Geschäfts- oder Familienessen eine hausgemachte und saisonale Küche, die in drei Atmosphären in Form von Restaurant, Bar und Terrasse angeboten wird."
+        ],
+        "en": [
+          "Enjoy your business lunches in a unique and comfortable setting, in the hills of the Monts-d'Or. Seasonal, home-made cuisine is served in the three different ambiances offered by the restaurant, bar and terrace."
+        ],
+        "it": [
+          "Venite a godervi un ambiente unico e confortevole nel Monts-d'Or, per i vostri pranzi di lavoro o in famiglia, una cucina casalinga e stagionale offerta in tre atmosfere sotto forma di ristorante, bar e terrazza."
+        ],
+        "fr": [
+          "Venez savourer dans un cadre unique et confortable, dans les Monts-d'Or, pour vos déjeuners d'affaires ou en famille, une cuisine maison et de saison proposée dans trois ambiances sous forme de restaurant, bar et terrasse."
+        ],
+        "es": [
+          "Venga a disfrutar de un entorno único y confortable en el Monts-d'Or, para sus comidas de negocios o familiares, una cocina casera y de temporada ofrecida en tres ambientes en forma de restaurante, bar y terraza."
+        ],
+        "nl": [
+          "Kom genieten van een uniek en comfortabel kader in de Monts-d'Or, voor uw zakenlunches of familie lunches, een huisgemaakte en seizoensgebonden keuken aangeboden in drie sferen in de vorm van een restaurant, bar en terras."
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/578793ac-4318-3c38-bda9-1afa2a3f662c",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/a8152470-b9e2-3ce0-a825-5811445e0b7d",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/d3b8cf47-97e9-30d9-8722-3ce38b2a478f",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/ee427a37-f1b9-30d1-8aa8-5d038892040b",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/9db8c8eb-7695-3fc1-a8d9-a6192ca27c70",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/7bb061c7-8438-331a-a995-2b68cf94f068",
+          "schema:addressLocality": "Collonges-au-Mont-d'Or",
+          "schema:postalCode": "69660",
+          "schema:streetAddress": [
+            "28 rue de la Plage"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:69063",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Collonges-au-Mont-d'Or"
+              ],
+              "pt": [
+                "Collonges-au-Mont-d'Or"
+              ],
+              "en": [
+                "Collonges-au-Mont-d'Or"
+              ],
+              "it": [
+                "Collonges-au-Mont-d'Or"
+              ],
+              "fr": [
+                "Collonges-au-Mont-d'Or"
+              ],
+              "nl": [
+                "Collonges-au-Mont-d'Or"
+              ],
+              "es": [
+                "Collonges-au-Mont-d'Or"
+              ]
+            },
+            "insee": "69063",
+            "isPartOfDepartment": {
+              "@id": "kb:France8469",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Rhône"
+                ],
+                "pt": [
+                  "Rhône"
+                ],
+                "en": [
+                  "Rhône"
+                ],
+                "it": [
+                  "Rhône"
+                ],
+                "fr": [
+                  "Rhône"
+                ],
+                "nl": [
+                  "Rhône"
+                ],
+                "es": [
+                  "Rhône"
+                ]
+              },
+              "insee": "69",
+              "isPartOfRegion": {
+                "@id": "kb:France84",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "pt": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "en": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "it": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "fr": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "nl": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "es": [
+                    "Auvergne-Rhône-Alpes"
+                  ]
+                },
+                "insee": "84",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/0166ba9b-bdb8-3591-a005-ca4b575cd36f",
+        "schema:latitude": "45.816968",
+        "schema:longitude": "4.848479",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/33848473-e8f7-3b5e-a27f-1813fca76a01",
+      "schema:email": [
+        "apidae@lyon-france.com",
+        "seveillard@lyon-france.com",
+        "vbilly@lyon-france.com"
+      ],
+      "schema:legalName": "Lyon Tourisme et Congrès / ONLYLYON Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.lyon-france.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-09-11",
+  "lastUpdateDatatourisme": "2023-09-12T05:50:15.178Z"
+}

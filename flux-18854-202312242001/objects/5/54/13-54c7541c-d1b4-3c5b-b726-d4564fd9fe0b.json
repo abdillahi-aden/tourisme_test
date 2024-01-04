@@ -1,0 +1,510 @@
+{
+  "@id": "https://data.datatourisme.fr/13/54c7541c-d1b4-3c5b-b726-d4564fd9fe0b",
+  "dc:identifier": "6268972",
+  "@type": [
+    "schema:FoodEstablishment",
+    "FoodEstablishment",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Les Petites Cantines Oullins ist ein partizipatives Restaurant, das für alle offen ist. Hier kommen Menschen zusammen, um gemeinsam zu kochen und/oder eine gute Mahlzeit zu essen, die zu einem freien Preis serviert wird. Es ist ein Ort, an dem sich gutes Essen auf Geselligkeit reimt!"
+    ],
+    "en": [
+      "Les Petites Cantines Oullins is a community restaurant open to everyone. People come together to cook and/or eat a good meal at a free price. It's a place where good food goes hand in hand with conviviality!"
+    ],
+    "it": [
+      "Les Petites Cantines Oullins è un ristorante partecipativo aperto a tutti. Le persone si riuniscono per cucinare e/o mangiare un buon pasto a prezzo libero. È un luogo dove mangiare bene fa rima con convivialità!"
+    ],
+    "fr": [
+      "Les Petites Cantines Oullins est un restaurant participatif ouvert à toutes et tous. On s'y rassemble pour cuisiner et/ou manger un bon repas servi à prix libre. C'est un lieu où bien manger rime avec convivialité !"
+    ],
+    "nl": [
+      "Les Petites Cantines Oullins is een participatief restaurant dat openstaat voor iedereen. Mensen komen samen om gratis een goede maaltijd te koken en/of te eten. Het is een plek waar goed eten rijmt met gezelligheid!"
+    ],
+    "es": [
+      "Les Petites Cantines Oullins es un restaurante participativo abierto a todos. La gente se reúne para cocinar y/o comer una buena comida a precio libre. Es un lugar donde comer bien rima con convivir"
+    ]
+  },
+  "rdfs:label": {
+    "de": [
+      "Les Petites Cantines Oullins"
+    ],
+    "ru": [
+      "Les Petites Cantines Oullins"
+    ],
+    "en": [
+      "Les Petites Cantines Oullins"
+    ],
+    "it": [
+      "Les Petites Cantines Oullins"
+    ],
+    "fr": [
+      "Les Petites Cantines Oullins"
+    ],
+    "zh": [
+      "Les Petites Cantines Oullins"
+    ],
+    "nl": [
+      "Les Petites Cantines Oullins"
+    ],
+    "es": [
+      "Les Petites Cantines Oullins"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/45c48cce-2e2d-3fbd-aa1a-fc51c7c6ad26",
+    "dc:identifier": "9",
+    "schema:email": [
+      "apidae@lyon-france.com",
+      "seveillard@lyon-france.com",
+      "vbilly@lyon-france.com"
+    ],
+    "schema:legalName": "Lyon Tourisme et Congrès / ONLYLYON Tourisme",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.lyon-france.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/8a9feb4b-2cbd-3d2c-b507-bd6c6776b23b",
+      "schema:legalName": "Apidae Tourisme Scic SA - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/93f74b55-70ac-327d-8346-7bf96cb42fff",
+      "schema:email": [
+        "oullins@lespetitescantines.org"
+      ],
+      "schema:telephone": [
+        "+33 9 88 56 70 66"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://oullins.lespetitescantines.org/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/cc5e895c-80a5-367b-8531-5eae9e37ae25",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/0adbee15-726f-3b52-9106-a3cd6e8447f3",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/32a4fd5c-8903-3145-9069-a4953cb2add6",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/9fd978a4-ff37-31aa-964a-092b0d23a09a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e152a67f-c8d3-38de-a5df-655e67e0593a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Les Petites Cantines Oullins ist ein partizipatives Restaurant, das für alle offen ist. Hier kommen Menschen zusammen, um gemeinsam zu kochen und/oder eine gute Mahlzeit zu essen, die zu einem freien Preis serviert wird. Es ist ein Ort, an dem sich gutes Essen auf Geselligkeit reimt!"
+        ],
+        "en": [
+          "Les Petites Cantines Oullins is a community restaurant open to everyone. People come together to cook and/or eat a good meal at a free price. It's a place where good food goes hand in hand with conviviality!"
+        ],
+        "it": [
+          "Les Petites Cantines Oullins è un ristorante partecipativo aperto a tutti. Le persone si riuniscono per cucinare e/o mangiare un buon pasto a prezzo libero. È un luogo dove mangiare bene fa rima con convivialità!"
+        ],
+        "fr": [
+          "Les Petites Cantines Oullins est un restaurant participatif ouvert à toutes et tous. On s'y rassemble pour cuisiner et/ou manger un bon repas servi à prix libre. C'est un lieu où bien manger rime avec convivialité !"
+        ],
+        "nl": [
+          "Les Petites Cantines Oullins is een participatief restaurant dat openstaat voor iedereen. Mensen komen samen om gratis een goede maaltijd te koken en/of te eten. Het is een plek waar goed eten rijmt met gezelligheid!"
+        ],
+        "es": [
+          "Les Petites Cantines Oullins es un restaurante participativo abierto a todos. La gente se reúne para cocinar y/o comer una buena comida a precio libre. Es un lugar donde comer bien rima con convivir"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/72cb5b5a-8878-3708-b24e-e088b48250af",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/8f935903-61bf-389f-bee2-1e80a816e491",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/9879a11c-763d-3b46-bba1-0322c3c02253",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/9dbc1cf6-f11c-3495-925e-0ca99d5d35ea",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/ad2f06ff-3cf2-30ae-8215-0deb7850f4ae",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/a9d7110b-a6b6-3170-ad7a-c6080498baf5",
+          "schema:addressLocality": "Oullins",
+          "schema:postalCode": "69600",
+          "schema:streetAddress": [
+            "10 rue Fleury"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:69149",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Oullins"
+              ],
+              "pt": [
+                "Oullins"
+              ],
+              "en": [
+                "Oullins"
+              ],
+              "it": [
+                "Oullins"
+              ],
+              "fr": [
+                "Oullins"
+              ],
+              "nl": [
+                "Oullins"
+              ],
+              "es": [
+                "Oullins"
+              ]
+            },
+            "insee": "69149",
+            "isPartOfDepartment": {
+              "@id": "kb:France8469",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Rhône"
+                ],
+                "pt": [
+                  "Rhône"
+                ],
+                "en": [
+                  "Rhône"
+                ],
+                "it": [
+                  "Rhône"
+                ],
+                "fr": [
+                  "Rhône"
+                ],
+                "nl": [
+                  "Rhône"
+                ],
+                "es": [
+                  "Rhône"
+                ]
+              },
+              "insee": "69",
+              "isPartOfRegion": {
+                "@id": "kb:France84",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "pt": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "en": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "it": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "fr": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "nl": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "es": [
+                    "Auvergne-Rhône-Alpes"
+                  ]
+                },
+                "insee": "84",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/48cdd1d0-a9f0-30de-a037-2bbfa7d7b895",
+        "schema:latitude": "45.715257",
+        "schema:longitude": "4.807641",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/6017d28b-981f-3a11-8f12-b5309ab356de",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Dienstag, Mittwoch und Freitag mittags :\r\npartizipatives Kochen um 09:30 Uhr\r\nmittagessen um 12:30 Uhr\r\nDonnerstagabend:\r\nmitmachküche um 17:30 Uhr\r\nessen um 19.30 Uhr\r\nSonntag: Brunch 1 Mal pro Monat"
+            ],
+            "en": [
+              "Tuesday, Wednesday and Friday lunchtime :\r\nparticipatory cooking at 09:30\r\nlunch at 12:30\r\nThursday evening :\r\nparticipatory cooking at 17:30\r\nmeal at 19:30\r\nSunday: brunch once a month"
+            ],
+            "it": [
+              "Martedì, mercoledì e venerdì a pranzo:\r\ncucina partecipativa alle 09:30\r\npasto alle 12.30\r\nGiovedì sera\r\ncucina partecipativa alle 17:30\r\npasto alle 19.30\r\nDomenica: brunch una volta al mese"
+            ],
+            "fr": [
+              "Mardi, mercredi et vendredi le midi : \r\ncuisine participative à 09h30\r\nrepas à 12h30\r\nJeudi soir :\r\ncuisine participative à 17h30\r\nrepas à 19h30 \r\nDimanche : brunch 1 fois par mois"
+            ],
+            "es": [
+              "Martes, miércoles y viernes a mediodía :\r\ncocina participativa a las 09:30\r\ncomida a las 12:30\r\nJueves por la noche\r\ncocina participativa a las 17:30\r\ncomida a las 19:30\r\nDomingo: brunch una vez al mes"
+            ],
+            "nl": [
+              "Dinsdag, woensdag en vrijdag lunchtijd :\r\nparticipatief koken om 09.30 uur\r\nmaaltijd om 12.30\r\nDonderdagavond\r\nparticipatief koken om 17:30\r\nmaaltijd om 19:30\r\nZondag: één keer per maand brunch"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/055383ae-c4cb-3ca7-9622-e901d47ce7d2",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/707635e7-5b44-37a5-9865-590b7813b9c8",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/7ad9a254-8e3f-3c8d-a191-d7487c00f727",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/87933c03-555e-3827-89b9-35c7e232b259",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/8c7e0336-0c4a-3f2e-86ef-28733bded034",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/33848473-e8f7-3b5e-a27f-1813fca76a01",
+      "schema:email": [
+        "apidae@lyon-france.com",
+        "seveillard@lyon-france.com",
+        "vbilly@lyon-france.com"
+      ],
+      "schema:legalName": "Lyon Tourisme et Congrès / ONLYLYON Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.lyon-france.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-06-22",
+  "lastUpdateDatatourisme": "2023-06-23T05:50:54.364Z"
+}

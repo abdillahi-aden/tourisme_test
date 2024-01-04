@@ -1,0 +1,471 @@
+{
+  "@id": "https://data.datatourisme.fr/13/29153c37-9c29-3d5f-9ceb-9ce9e38e211b",
+  "dc:identifier": "5891185",
+  "@type": [
+    "schema:FoodEstablishment",
+    "FoodEstablishment",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Neues Gourmetrestaurant in den Monts du Lyonnais, das vom Chefkoch Christophe Vessaire geführt wird."
+    ],
+    "en": [
+      "New gourmet restaurant in the Monts du Lyonnais region, run by chef Christophe Vessaire."
+    ],
+    "it": [
+      "Un nuovo ristorante gourmet nei Monts du Lyonnais, gestito dallo chef Christophe Vessaire."
+    ],
+    "fr": [
+      "Nouveau restaurant gastronomique des Monts du Lyonnais tenu par le chef Christophe Vessaire."
+    ],
+    "es": [
+      "Un nuevo restaurante gastronómico en los Montes del Lyonnais, dirigido por el chef Christophe Vessaire."
+    ],
+    "nl": [
+      "Een nieuw gastronomisch restaurant in de Monts du Lyonnais, geleid door chef-kok Christophe Vessaire."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "La Table de Jade"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/b6d767d2-f8ed-3d21-a44b-0e5886680cb9",
+    "dc:identifier": "22",
+    "schema:email": [
+      "josiane.rivier@paysdelarbresle.fr",
+      "officedetourisme@paysdelarbresle.fr"
+    ],
+    "schema:legalName": "Office de Tourisme du Pays de l'Arbresle",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.arbresletourisme.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/8a9feb4b-2cbd-3d2c-b507-bd6c6776b23b",
+      "schema:legalName": "Apidae Tourisme Scic SA - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/9e9ffd7d-4b04-3d6b-a270-36581bec9b82",
+      "schema:email": [
+        "latabledejade@gmail.com"
+      ],
+      "schema:telephone": [
+        "+33 4 74 70 47 71"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://latabledejade.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/b19a2b9b-3c24-3235-b8f3-7330b87be0a4",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/021a432a-d72a-3092-9004-3114e2c7e998",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/20d4ef46-68f2-392d-a95b-0cddbb54715b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/5010ed51-c84e-3964-9b50-d3ed182fa807",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/626fe922-e92e-3c60-9234-af36cc557bb2",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/fb79eee5-cf49-3fd4-898b-310f3f0f9383",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Neues Gourmetrestaurant in den Monts du Lyonnais, das vom Chefkoch Christophe Vessaire geführt wird."
+        ],
+        "en": [
+          "New gourmet restaurant in the Monts du Lyonnais region, run by chef Christophe Vessaire."
+        ],
+        "it": [
+          "Un nuovo ristorante gourmet nei Monts du Lyonnais, gestito dallo chef Christophe Vessaire."
+        ],
+        "fr": [
+          "Nouveau restaurant gastronomique des Monts du Lyonnais tenu par le chef Christophe Vessaire."
+        ],
+        "es": [
+          "Un nuevo restaurante gastronómico en los Montes del Lyonnais, dirigido por el chef Christophe Vessaire."
+        ],
+        "nl": [
+          "Een nieuw gastronomisch restaurant in de Monts du Lyonnais, geleid door chef-kok Christophe Vessaire."
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/17692356-7df9-37b9-8f7d-d4dfbf799153",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/1b2f7238-113a-3481-8de1-2f26e6e8e65d",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/2fb1e704-a4c4-32f7-b3af-877b471590c9",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/501aa060-1492-3781-83f2-81818ce5e33c",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/6d40b326-2572-3eed-8afc-56984ea2dc95",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/477e61ca-980f-39c5-a69a-09a67ada29a3",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/e9eded99-b5d7-3e1a-88d2-f8240f97fa10",
+          "schema:addressLocality": "Sourcieux-les-Mines",
+          "schema:postalCode": "69210",
+          "schema:streetAddress": [
+            "402 Rue des roches"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:69177",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Sourcieux-les-Mines"
+              ],
+              "pt": [
+                "Sourcieux-les-Mines"
+              ],
+              "en": [
+                "Sourcieux-les-Mines"
+              ],
+              "it": [
+                "Sourcieux-les-Mines"
+              ],
+              "fr": [
+                "Sourcieux-les-Mines"
+              ],
+              "nl": [
+                "Sourcieux-les-Mines"
+              ],
+              "es": [
+                "Sourcieux-les-Mines"
+              ]
+            },
+            "insee": "69177",
+            "isPartOfDepartment": {
+              "@id": "kb:France8469",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Rhône"
+                ],
+                "pt": [
+                  "Rhône"
+                ],
+                "en": [
+                  "Rhône"
+                ],
+                "it": [
+                  "Rhône"
+                ],
+                "fr": [
+                  "Rhône"
+                ],
+                "nl": [
+                  "Rhône"
+                ],
+                "es": [
+                  "Rhône"
+                ]
+              },
+              "insee": "69",
+              "isPartOfRegion": {
+                "@id": "kb:France84",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "pt": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "en": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "it": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "fr": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "nl": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "es": [
+                    "Auvergne-Rhône-Alpes"
+                  ]
+                },
+                "insee": "84",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/c3c07f66-0dba-3954-bb89-7f46f60f6d06",
+        "schema:latitude": "45.798796",
+        "schema:longitude": "4.624702",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/7479cce0-3110-30a6-9c12-c1cac0b8d082",
+      "schema:email": [
+        "josiane.rivier@paysdelarbresle.fr",
+        "officedetourisme@paysdelarbresle.fr"
+      ],
+      "schema:legalName": "Office de Tourisme du Pays de l'Arbresle",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.arbresletourisme.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-11-28",
+  "lastUpdateDatatourisme": "2023-12-23T06:39:46.26Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/ee5a9c79-4fb4-3b0e-a521-14bd42de3afb",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/bff7c40b-71cb-3e8f-98d7-7b99c8e5e8ec",
+          "schema:maxPrice": [
+            "110",
+            "25",
+            "30"
+          ],
+          "schema:minPrice": [
+            "20",
+            "27",
+            "7",
+            "85"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/a425afdf-3594-300b-b55e-1858bafa3fd4",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2023-12-31",
+              "startDate": "2023-01-01"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

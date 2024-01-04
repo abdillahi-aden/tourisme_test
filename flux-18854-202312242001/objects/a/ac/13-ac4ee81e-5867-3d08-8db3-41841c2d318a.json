@@ -1,0 +1,515 @@
+{
+  "@id": "https://data.datatourisme.fr/13/ac4ee81e-5867-3d08-8db3-41841c2d318a",
+  "dc:identifier": "6145646",
+  "@type": [
+    "schema:FoodEstablishment",
+    "FoodEstablishment",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Das Restaurant \"Les Saveurs du Grand Parc\" bietet eine lokale und hausgemachte Küche mit frischen Produkten in der grünen und ruhigen Umgebung des Grand Parc Miribel Jonage."
+    ],
+    "en": [
+      "The \"Les Saveurs du Grand Parc\" restaurant offers local, home-cooked cuisine made with fresh produce in the green, peaceful setting of the Grand Parc Miribel Jonage."
+    ],
+    "it": [
+      "Il ristorante \"Les Saveurs du Grand Parc\" serve piatti locali e caserecci preparati con prodotti freschi nella cornice verde e tranquilla del Grand Parc Miribel Jonage."
+    ],
+    "fr": [
+      "Le restaurant \"Les Saveurs du Grand Parc\" propose une cuisine locale et maison avec des produits frais dans le cadre verdoyant et paisible du Grand Parc Miribel Jonage."
+    ],
+    "nl": [
+      "Het restaurant \"Les Saveurs du Grand Parc\" serveert lokale, huisgemaakte gerechten met verse producten in de groene, rustige omgeving van het Grand Parc Miribel Jonage."
+    ],
+    "es": [
+      "El restaurante \"Les Saveurs du Grand Parc\" sirve comida local y casera elaborada con productos frescos en el entorno verde y tranquilo del Grand Parc Miribel Jonage."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Les Saveurs du Grand Parc"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/45c48cce-2e2d-3fbd-aa1a-fc51c7c6ad26",
+    "dc:identifier": "9",
+    "schema:email": [
+      "apidae@lyon-france.com",
+      "seveillard@lyon-france.com",
+      "vbilly@lyon-france.com"
+    ],
+    "schema:legalName": "Lyon Tourisme et Congrès / ONLYLYON Tourisme",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.lyon-france.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/8a9feb4b-2cbd-3d2c-b507-bd6c6776b23b",
+      "schema:legalName": "Apidae Tourisme Scic SA - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/e813b01a-4841-3bb4-91a3-fecb283fdd53",
+      "schema:email": [
+        "saveurs@grand-parc.fr"
+      ],
+      "schema:telephone": [
+        "+33 4 72 97 08 25"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.grand-parc.fr/decouvrez-le-grand-parc/restaurants-buvettes"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/a4a8f3df-9969-3aee-b59d-4caa6388d658",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/616c6265-5c69-3bb9-b917-8f0661aae6b2",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/6fda9347-ce07-3bef-9824-b9a17d65a671",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/7f9e0e88-8e3d-3538-a7a8-553a90f600bb",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/97730893-9505-3feb-b050-4217a78dc324",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f5fb7aff-7811-345a-90f4-6b0515b44458",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Das Restaurant \"Les Saveurs du Grand Parc\" bietet eine lokale und hausgemachte Küche mit frischen Produkten in der grünen und ruhigen Umgebung des Grand Parc Miribel Jonage."
+        ],
+        "en": [
+          "The \"Les Saveurs du Grand Parc\" restaurant offers local, home-cooked cuisine made with fresh produce in the green, peaceful setting of the Grand Parc Miribel Jonage."
+        ],
+        "it": [
+          "Il ristorante \"Les Saveurs du Grand Parc\" serve piatti locali e caserecci preparati con prodotti freschi nella cornice verde e tranquilla del Grand Parc Miribel Jonage."
+        ],
+        "fr": [
+          "Le restaurant \"Les Saveurs du Grand Parc\" propose une cuisine locale et maison avec des produits frais dans le cadre verdoyant et paisible du Grand Parc Miribel Jonage."
+        ],
+        "nl": [
+          "Het restaurant \"Les Saveurs du Grand Parc\" serveert lokale, huisgemaakte gerechten met verse producten in de groene, rustige omgeving van het Grand Parc Miribel Jonage."
+        ],
+        "es": [
+          "El restaurante \"Les Saveurs du Grand Parc\" sirve comida local y casera elaborada con productos frescos en el entorno verde y tranquilo del Grand Parc Miribel Jonage."
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/275fc8a1-9dd9-327a-b285-a15d254e3ddc",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/4b1c9bd8-3b82-3511-b8d5-4eb929cdf82f",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/4e116e8d-dd3b-3b72-b0c9-7a8db7e04cac",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/5cb0a2af-baa0-3969-a942-64b3945ced7f",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/8824152a-4943-39a1-933d-283d1efae149",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/b9d254ea-6319-3f64-aa0b-89771078374c",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/34d6ae32-6792-3981-9ede-1d74d8979309",
+          "schema:addressLocality": "Vaulx-en-Velin",
+          "schema:postalCode": "69120",
+          "schema:streetAddress": [
+            "Chemin de la Bletta"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:69256",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Vaulx-en-Velin"
+              ],
+              "pt": [
+                "Vaulx-en-Velin"
+              ],
+              "en": [
+                "Vaulx-en-Velin"
+              ],
+              "it": [
+                "Vaulx-en-Velin"
+              ],
+              "fr": [
+                "Vaulx-en-Velin"
+              ],
+              "nl": [
+                "Vaulx-en-Velin"
+              ],
+              "es": [
+                "Vaulx-en-Velin"
+              ]
+            },
+            "insee": "69256",
+            "isPartOfDepartment": {
+              "@id": "kb:France8469",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Rhône"
+                ],
+                "pt": [
+                  "Rhône"
+                ],
+                "en": [
+                  "Rhône"
+                ],
+                "it": [
+                  "Rhône"
+                ],
+                "fr": [
+                  "Rhône"
+                ],
+                "nl": [
+                  "Rhône"
+                ],
+                "es": [
+                  "Rhône"
+                ]
+              },
+              "insee": "69",
+              "isPartOfRegion": {
+                "@id": "kb:France84",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "pt": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "en": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "it": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "fr": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "nl": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "es": [
+                    "Auvergne-Rhône-Alpes"
+                  ]
+                },
+                "insee": "84",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/d20bf6aa-7a23-3431-8f87-ef2715e1fe8c",
+        "schema:latitude": "45.798608",
+        "schema:longitude": "4.94108",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/0009ff0c-d041-3c9c-bfdc-9a08c1b03689",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Täglich geöffnet von Mai bis Sep. und von Mi. bis So. von Okt. bis Mitte Nov.)."
+            ],
+            "en": [
+              "Open every day from May to September and from Wednesday to Sunday from October to mid-November.)"
+            ],
+            "it": [
+              "Aperto tutti i giorni da maggio a settembre e da mercoledì a domenica da ottobre a metà novembre)."
+            ],
+            "fr": [
+              "Ouvert tous les jours de mai à sep. et du mer. au dim. d'oct. à mi-nov.)."
+            ],
+            "nl": [
+              "Dagelijks geopend van mei tot september en van woensdag tot zondag van oktober tot half november)."
+            ],
+            "es": [
+              "Abre todos los días de mayo a septiembre y de miércoles a domingo de octubre a mediados de noviembre)."
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/0d5ae4a5-0835-3792-9dc9-6df3b9150258",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/2079988c-5ff0-378c-9509-9948a6b4cd4e",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/bea33a45-baae-3274-8de4-cd9e5d0790eb",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/cf8c41ee-79d9-3534-9292-a92a703d30f7",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/e771aaed-c2c0-33f9-b3a5-90dd8cf802fc",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/33848473-e8f7-3b5e-a27f-1813fca76a01",
+      "schema:email": [
+        "apidae@lyon-france.com",
+        "seveillard@lyon-france.com",
+        "vbilly@lyon-france.com"
+      ],
+      "schema:legalName": "Lyon Tourisme et Congrès / ONLYLYON Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.lyon-france.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-11-10",
+  "lastUpdateDatatourisme": "2023-11-11T06:39:51.791Z"
+}

@@ -1,0 +1,498 @@
+{
+  "@id": "https://data.datatourisme.fr/13/a0391505-2367-3609-9625-a24342738233",
+  "dc:identifier": "87254",
+  "@type": [
+    "schema:FoodEstablishment",
+    "FoodEstablishment",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "In diesem Restaurant in Pierres Dorées ist die Grundpolitik alles Hausgemachte, Terrinen, Gebäck und das Herausholen einer Tellerqualität zum besten Preis-Leistungs-Verhältnis. Ob Familien- oder Geschäftsessen, entdecken Sie dieses kleine Juwel."
+    ],
+    "en": [
+      "In this golden stone restaurant, the basic policy is to make high-quality homemade meals, such as terrines, pastries...at the best value for money. Family or business meals, come and discover this little gem."
+    ],
+    "it": [
+      "In questo ristorante delle Pierres Dorées, la politica di base è quella di fare tutto in casa, terrine, pasticceria e di offrire un piatto di qualità al miglior prezzo. Venite a scoprire questo piccolo gioiello per pranzare in famiglia o per lavoro."
+    ],
+    "fr": [
+      "Dans ce restaurant en Pierres Dorées, la politique de base est le tout maison, terrines, pâtisseries et sortir une qualité d’assiette au meilleur rapport qualité prix. Repas de famille ou repas d’affaires, venez découvrir ce petit joyau."
+    ],
+    "nl": [
+      "In dit restaurant in de Pierres Dorées, is het basisbeleid om alles zelf te maken, terrines, gebak en om de beste kwaliteit plaat tegen de beste prijs. Kom en ontdek dit juweeltje voor familie- of zakendiners."
+    ],
+    "es": [
+      "En este restaurante de las Pierres Dorées, la política básica es hacer todo en casa, terrinas, pasteles y ofrecer un plato de calidad al mejor precio. Venga a descubrir esta pequeña joya para las comidas familiares o de negocios."
+    ]
+  },
+  "rdfs:label": {
+    "en": [
+      "The Telegraph"
+    ],
+    "fr": [
+      "Le Télégraphe"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/c20ad4d7-6fe9-3759-aa27-a0c99bff6710",
+    "dc:identifier": "12",
+    "schema:email": [
+      "f.champavere@destination-beaujolais.com",
+      "g.taburiaux@destination-beaujolais.com",
+      "j.capdegelle@destination-beaujolais.com",
+      "t.blanchier@destination-beaujolais.com",
+      "v.guerin@destination-beaujolais.com"
+    ],
+    "schema:legalName": "Destination Beaujolais",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.destination-beaujolais.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/8a9feb4b-2cbd-3d2c-b507-bd6c6776b23b",
+      "schema:legalName": "Apidae Tourisme Scic SA - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/9b2aefad-1ca2-3ba8-921e-9a2999e0cc00",
+      "schema:email": [
+        "restaurant.telegraphe@hotmail.fr"
+      ],
+      "schema:telephone": [
+        "+33 4 74 60 24 73",
+        "+33 6 66 35 07 97"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.restaurant-telegraphe.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/4a737a12-0826-3b70-8367-d382210a78c1",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/04283334-aac2-3ad3-a880-e37ae270bdb7",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/4038d3f8-51ef-3d47-b262-c1cde4ed7ba2",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/86952cbf-c00c-358b-aeae-e6fd90187224",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/cce7cd5b-65b4-3f0b-8fe4-669876430cb6",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "In diesem Restaurant in Pierres Dorées ist die Grundpolitik alles Hausgemachte, Terrinen, Gebäck und das Herausholen einer Tellerqualität zum besten Preis-Leistungs-Verhältnis. Ob Familien- oder Geschäftsessen, entdecken Sie dieses kleine Juwel."
+        ],
+        "en": [
+          "In this golden stone restaurant, the basic policy is to make high-quality homemade meals, such as terrines, pastries...at the best value for money. Family or business meals, come and discover this little gem."
+        ],
+        "it": [
+          "In questo ristorante delle Pierres Dorées, la politica di base è quella di fare tutto in casa, terrine, pasticceria e di offrire un piatto di qualità al miglior prezzo. Venite a scoprire questo piccolo gioiello per pranzare in famiglia o per lavoro."
+        ],
+        "fr": [
+          "Dans ce restaurant en Pierres Dorées, la politique de base est le tout maison, terrines, pâtisseries et sortir une qualité d’assiette au meilleur rapport qualité prix. Repas de famille ou repas d’affaires, venez découvrir ce petit joyau."
+        ],
+        "nl": [
+          "In dit restaurant in de Pierres Dorées, is het basisbeleid om alles zelf te maken, terrines, gebak en om de beste kwaliteit plaat tegen de beste prijs. Kom en ontdek dit juweeltje voor familie- of zakendiners."
+        ],
+        "es": [
+          "En este restaurante de las Pierres Dorées, la política básica es hacer todo en casa, terrinas, pasteles y ofrecer un plato de calidad al mejor precio. Venga a descubrir esta pequeña joya para las comidas familiares o de negocios."
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/29266d7a-c394-3643-802b-706eec0e933e",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/8e1fc85d-444d-3e88-8c08-300929092a63",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/c54474d4-ecf3-3643-ad99-a6e5aa1b1eb9",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/cd77104f-2f37-347c-b1d7-7810fa3108f3",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/185c4791-fb09-31e6-8319-177d4eb47192",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/aa42834e-8f99-3471-93fd-a8531d1fc01a",
+          "schema:addressLocality": "Marcy",
+          "schema:postalCode": "69480",
+          "schema:streetAddress": [
+            "100 Rue du Centre",
+            "à côté de l'Eglise"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:69126",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Marcy"
+              ],
+              "pt": [
+                "Marcy"
+              ],
+              "en": [
+                "Marcy"
+              ],
+              "it": [
+                "Marcy"
+              ],
+              "fr": [
+                "Marcy"
+              ],
+              "nl": [
+                "Marcy"
+              ],
+              "es": [
+                "Marcy"
+              ]
+            },
+            "insee": "69126",
+            "isPartOfDepartment": {
+              "@id": "kb:France8469",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Rhône"
+                ],
+                "pt": [
+                  "Rhône"
+                ],
+                "en": [
+                  "Rhône"
+                ],
+                "it": [
+                  "Rhône"
+                ],
+                "fr": [
+                  "Rhône"
+                ],
+                "nl": [
+                  "Rhône"
+                ],
+                "es": [
+                  "Rhône"
+                ]
+              },
+              "insee": "69",
+              "isPartOfRegion": {
+                "@id": "kb:France84",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "pt": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "en": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "it": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "fr": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "nl": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "es": [
+                    "Auvergne-Rhône-Alpes"
+                  ]
+                },
+                "insee": "84",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/1b3e03c5-a98a-3af0-9e96-abd83756af7f",
+        "schema:elevation": "217",
+        "schema:latitude": "45.914825",
+        "schema:longitude": "4.679115",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/26af7ade-9a37-3992-9135-c63012e92bdf",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Sonntagabend und Montag den ganzen Tag geschlossen\r\nWegen Urlaub geschlossen von Mittwoch, 16. August bis einschließlich Montag, 4. September"
+            ],
+            "en": [
+              "Closed Sunday evening and all day Monday\r\nClosed for vacations from Wednesday August 16 to Monday September 4 inclusive"
+            ],
+            "it": [
+              "Chiuso domenica sera e lunedì tutto il giorno\r\nChiuso per ferie da mercoledì 16 agosto a lunedì 4 settembre compresi"
+            ],
+            "fr": [
+              "Fermé le dimanche soir et lundi toute la journée\r\nFermé pour congés du mercredi 16 août au lundi 4 septembre inclus"
+            ],
+            "nl": [
+              "Zondagavond en maandag de hele dag gesloten\r\nGesloten wegens vakantie van woensdag 16 augustus tot en met maandag 4 september"
+            ],
+            "es": [
+              "Cerrado el domingo por la noche y el lunes durante todo el día\r\nCerrado por vacaciones del miércoles 16 de agosto al lunes 4 de septiembre inclusive"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/05f40aa9-ea0d-3fbc-88aa-356d60db2f6c",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/a3a0c407-191b-36c3-ba9b-083df90ca391",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/c0bc2d4f-8d5b-35cf-a840-c4c9a863d694",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/c2e9d4d7-27a5-3715-9326-260c6b8c970e",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/fbe27b7f-36cd-32a9-8488-6624bab3e91b",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/f2d6ec66-5049-36d6-8440-12b20d93174d",
+      "schema:email": [
+        "f.champavere@destination-beaujolais.com",
+        "g.taburiaux@destination-beaujolais.com",
+        "t.blanchier@destination-beaujolais.com",
+        "v.guerin@destination-beaujolais.com"
+      ],
+      "schema:legalName": "Destination Beaujolais",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.destination-beaujolais.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-08-24",
+  "lastUpdateDatatourisme": "2023-12-17T07:20:07.914Z"
+}

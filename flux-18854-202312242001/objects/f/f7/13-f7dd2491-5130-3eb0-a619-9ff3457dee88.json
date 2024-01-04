@@ -1,0 +1,617 @@
+{
+  "@id": "https://data.datatourisme.fr/13/f7dd2491-5130-3eb0-a619-9ff3457dee88",
+  "dc:identifier": "60768",
+  "@type": [
+    "schema:Accommodation",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "Camping",
+    "CampingAndCaravanning",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Der Campingplatz liegt am Ufer der Rhône, 1 km vom Stadtzentrum entfernt und am Fuße der Weinberge von Condrieu. Er bietet nur Zeltplätze (keine Wohnmobile, Wohnwagen oder Autos) und ist ideal an der ViaRhôna gelegen. Keine Reservierung."
+    ],
+    "en": [
+      "Located on the banks of the Rhône, 1 km from the town center and at the foot of the Condrieu vineyards, the campsite offers tent pitches only (no motorhomes, caravans or cars), and is ideally situated along the ViaRhôna. No reservation required."
+    ],
+    "it": [
+      "Situato sulle rive del Rodano, a 1 km dal centro città e ai piedi dei vigneti di Condrieu, il campeggio offre solo piazzole per tende (no camper o roulotte) ed è situato in posizione ideale lungo la ViaRhôna. Non è necessaria la prenotazione."
+    ],
+    "fr": [
+      "Situé au bord du Rhône, à 1 km du centre ville et au pied des vignes de Condrieu, le camping propose uniquement des emplacements tente (pas de camping-car ni caravanes.ni voitures), il est idéalement situé le long de la ViaRhôna. Pas de réservation."
+    ],
+    "es": [
+      "Situado a orillas del Ródano, a 1 km del centro de la ciudad y a los pies de los viñedos de Condrieu, el camping ofrece únicamente parcelas para tiendas (no se admiten autocaravanas ni caravanas), y está idealmente situado a lo largo de la ViaRhôna. No es necesario reservar."
+    ],
+    "nl": [
+      "Gelegen aan de oevers van de Rhône, op 1 km van het stadscentrum en aan de voet van de wijngaarden van Condrieu, biedt de camping alleen staanplaatsen voor tenten (geen campers of caravans), en is ideaal gelegen langs de ViaRhôna. Geen reservering nodig."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Camping L'île des Pêcheurs"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/a5e00132-373a-3031-800f-d987a3c9f87b",
+    "dc:identifier": "146",
+    "schema:email": [
+      "folivier@parc-naturel-pilat.fr",
+      "folivier@pilat-tourisme.fr",
+      "iarbuz@pilat-tourisme.fr",
+      "mtrouiller@pilat-tourisme.fr"
+    ],
+    "schema:legalName": "Office de Tourisme du Pilat",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.parc-naturel-pilat.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/8a9feb4b-2cbd-3d2c-b507-bd6c6776b23b",
+      "schema:legalName": "Apidae Tourisme Scic SA - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/dea26c53-d616-3d74-813b-3e3e97579e2c",
+      "schema:email": [
+        "sas.rces@gmail.com"
+      ],
+      "schema:telephone": [
+        "+33 6 15 42 10 55"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://campingcondrieu.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/fba49d0c-5c0f-3c88-950e-57dcef3a8fba",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/169cc090-c94f-3e0c-917f-f93f28edfa38",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/47286990-ca7f-3c6e-aa64-2e66c2bf1468",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/4ccc2e6e-377c-39ee-9e6d-60be0c7ca4dd",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/592e1e9d-f4f5-3474-a0ce-e3c33456b3f6",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/9caed852-d54c-301e-8e24-d8f8f1e90734",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Der Campingplatz liegt am Ufer der Rhône, 1 km vom Stadtzentrum entfernt und am Fuße der Weinberge von Condrieu. Er bietet nur Zeltplätze (keine Wohnmobile, Wohnwagen oder Autos) und ist ideal an der ViaRhôna gelegen. Keine Reservierung."
+        ],
+        "en": [
+          "Located on the banks of the Rhône, 1 km from the town center and at the foot of the Condrieu vineyards, the campsite offers tent pitches only (no motorhomes, caravans or cars), and is ideally situated along the ViaRhôna. No reservation required."
+        ],
+        "it": [
+          "Situato sulle rive del Rodano, a 1 km dal centro città e ai piedi dei vigneti di Condrieu, il campeggio offre solo piazzole per tende (no camper o roulotte) ed è situato in posizione ideale lungo la ViaRhôna. Non è necessaria la prenotazione."
+        ],
+        "fr": [
+          "Situé au bord du Rhône, à 1 km du centre ville et au pied des vignes de Condrieu, le camping propose uniquement des emplacements tente (pas de camping-car ni caravanes.ni voitures), il est idéalement situé le long de la ViaRhôna. Pas de réservation."
+        ],
+        "es": [
+          "Situado a orillas del Ródano, a 1 km del centro de la ciudad y a los pies de los viñedos de Condrieu, el camping ofrece únicamente parcelas para tiendas (no se admiten autocaravanas ni caravanas), y está idealmente situado a lo largo de la ViaRhôna. No es necesario reservar."
+        ],
+        "nl": [
+          "Gelegen aan de oevers van de Rhône, op 1 km van het stadscentrum en aan de voet van de wijngaarden van Condrieu, biedt de camping alleen staanplaatsen voor tenten (geen campers of caravans), en is ideaal gelegen langs de ViaRhôna. Geen reservering nodig."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Bike",
+      "@type": [
+        "SportsTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Fahrrad"
+        ],
+        "pt": [
+          "Bicicleta"
+        ],
+        "en": [
+          "Bike"
+        ],
+        "it": [
+          "Bicicletta"
+        ],
+        "fr": [
+          "Vélo"
+        ],
+        "nl": [
+          "Fiets"
+        ],
+        "es": [
+          "Bicicleta"
+        ]
+      }
+    },
+    {
+      "@id": "kb:Cycling",
+      "@type": [
+        "SportsTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Radfahren"
+        ],
+        "pt": [
+          "Ciclismo"
+        ],
+        "en": [
+          "Cycling"
+        ],
+        "it": [
+          "Ciclismo"
+        ],
+        "fr": [
+          "Cyclisme"
+        ],
+        "nl": [
+          "Wielrennen"
+        ],
+        "es": [
+          "Ciclismo"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/33989523-cca3-3bee-996b-967f272e56c5",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/580cf1e1-4f0a-35c6-bf2c-f6cc6c5ad289",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/731572f6-41e2-3b16-963a-f90014e6f489",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/9e4ed81a-6889-3059-ba8a-0a092a262f17",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/b74546d1-4921-3715-9e13-a151dd391494",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/f56baaea-dc20-319e-b45b-b49d88538c83",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/9a07b449-1666-33ff-8e73-efe84649287e",
+          "schema:addressLocality": "Condrieu",
+          "schema:postalCode": "69420",
+          "schema:streetAddress": [
+            "16 chemin du camping"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:69064",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Condrieu"
+              ],
+              "pt": [
+                "Condrieu"
+              ],
+              "en": [
+                "Condrieu"
+              ],
+              "it": [
+                "Condrieu"
+              ],
+              "fr": [
+                "Condrieu"
+              ],
+              "nl": [
+                "Condrieu"
+              ],
+              "es": [
+                "Condrieu"
+              ]
+            },
+            "insee": "69064",
+            "isPartOfDepartment": {
+              "@id": "kb:France8469",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Rhône"
+                ],
+                "pt": [
+                  "Rhône"
+                ],
+                "en": [
+                  "Rhône"
+                ],
+                "it": [
+                  "Rhône"
+                ],
+                "fr": [
+                  "Rhône"
+                ],
+                "nl": [
+                  "Rhône"
+                ],
+                "es": [
+                  "Rhône"
+                ]
+              },
+              "insee": "69",
+              "isPartOfRegion": {
+                "@id": "kb:France84",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "pt": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "en": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "it": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "fr": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "nl": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "es": [
+                    "Auvergne-Rhône-Alpes"
+                  ]
+                },
+                "insee": "84",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/e154dc8f-5967-3bfa-a1b3-82f4eb919f52",
+        "schema:elevation": "146",
+        "schema:latitude": "45.460597",
+        "schema:longitude": "4.777122",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/96be674c-79b7-3716-96e5-5de377156d74",
+          "schema:validFrom": "2023-05-01T00:00:00",
+          "schema:validThrough": "2023-09-15T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Täglich geöffnet."
+            ],
+            "en": [
+              "Open every day."
+            ],
+            "it": [
+              "Aperto tutti i giorni."
+            ],
+            "fr": [
+              "Ouvert tous les jours."
+            ],
+            "nl": [
+              "Elke dag open."
+            ],
+            "es": [
+              "Abierto todos los días."
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/1243fc9e-d567-3b66-8e09-8943ac12e985",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/88007024-09a5-3892-9014-10afb3e28dd9",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/9c66d5e3-3d3f-3f49-8429-05f73dc1f6ab",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/b11cf01c-fb8a-3c0f-ac3c-3f7aae0441ce",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/c1a6e053-0768-3173-bbeb-790f40a8d841",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/fa0baf5b-5579-3526-85fc-abcb9bc6e4d8",
+      "schema:email": [
+        "folivier@pilat-tourisme.fr",
+        "iarbuz@pilat-tourisme.fr",
+        "mtrouiller@pilat-tourisme.fr"
+      ],
+      "schema:legalName": "Office de Tourisme du Pilat",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.parc-naturel-pilat.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-12-15",
+  "lastUpdateDatatourisme": "2023-12-23T06:39:46.244Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/29d34df5-2497-36ce-beea-dfe906064949",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/3f861d5b-d6f1-3395-93d1-78fe58299085",
+          "schema:maxPrice": [
+            "10",
+            "11"
+          ],
+          "schema:minPrice": [
+            "10",
+            "11"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/c97bd8a9-a9c1-3d19-9117-e07118a2a5f0",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2024-09-15",
+              "startDate": "2024-05-01"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

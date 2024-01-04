@@ -1,0 +1,442 @@
+{
+  "@id": "https://data.datatourisme.fr/13/28f8ddfb-76b4-3874-bb95-1f551446d771",
+  "dc:identifier": "198260",
+  "@type": [
+    "schema:Accommodation",
+    "schema:BedAndBreakfast",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "Guesthouse",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RentalAccommodation"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "L’Etalon Blanc ist ein Gästehaus mit drei Zimmern, die über Doppelbetten verfügen und im oberen Stockwerk des Besitzerhauses liegen. Zu einem dieser Zimmer gehört ein Bad mit WC."
+    ],
+    "en": [
+      "The Etalon Blanc is a guesthouse with 3 rooms with double beds on the upper floor of the owners' home. One of the rooms has an adjoining bathroom and toilet."
+    ],
+    "it": [
+      "L'Etalon Blanc è una casa per gli ospiti con 3 camere doppie, al primo piano della casa dei proprietari. Un bagno con servizi igienici è adiacente a una delle camere."
+    ],
+    "fr": [
+      "L’Etalon Blanc est une maison d'hôtes constituée de 3 chambres à lits doubles, à l'étage de l'habitation des propriétaires. Une salle de bains avec toilettes est attenante à l'une des chambres."
+    ],
+    "nl": [
+      "L'Etalon Blanc is een gastenverblijf met 3 tweepersoonsslaapkamers, op de eerste verdieping van het huis van de eigenaren. Een badkamer met toilet grenst aan een van de slaapkamers."
+    ],
+    "es": [
+      "L'Etalon Blanc es una casa de huéspedes con 3 habitaciones dobles, en la primera planta de la casa de los propietarios. Un cuarto de baño con aseo se encuentra junto a uno de los dormitorios."
+    ]
+  },
+  "rdfs:label": {
+    "de": [
+      "Chambres d'hôtes L'Étalon Blanc"
+    ],
+    "ru": [
+      "L'Etalon Blanc"
+    ],
+    "en": [
+      "Chambres d'hôtes L'Étalon Blanc"
+    ],
+    "it": [
+      "L'Etalon Blanc"
+    ],
+    "fr": [
+      "Chambres d'hôtes L'Étalon Blanc"
+    ],
+    "zh": [
+      "L'Etalon Blanc"
+    ],
+    "nl": [
+      "L'Etalon Blanc"
+    ],
+    "es": [
+      "L'Etalon Blanc"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/38b3eff8-baf5-3627-878e-c76a704e9b52",
+    "dc:identifier": "101",
+    "schema:email": [
+      "ajouvenaud@vienne-condrieu.com",
+      "mdubus@vienne-condrieu.com"
+    ],
+    "schema:legalName": "Office de Tourisme de Vienne Condrieu Agglomération",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.vienne-condrieu.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/8a9feb4b-2cbd-3d2c-b507-bd6c6776b23b",
+      "schema:legalName": "Apidae Tourisme Scic SA - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/2b595c40-e5bc-3918-b76c-fef32429e5cf",
+      "schema:email": [
+        "daniele.scafi@sfr.fr"
+      ],
+      "schema:telephone": [
+        "+33 4 74 87 54 59",
+        "+33 6 61 54 00 27"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/b00b538a-41c7-33a1-adac-e1f7dc5d3f65",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/0120506e-f4c6-34ae-ae85-6a80699ccbf3",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/74a7cfaa-c41c-3d61-8cc9-020da66086c4",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d0eb95af-cd9e-38db-8a9c-1a2feb07f24b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "L’Etalon Blanc ist ein Gästehaus mit drei Zimmern, die über Doppelbetten verfügen und im oberen Stockwerk des Besitzerhauses liegen. Zu einem dieser Zimmer gehört ein Bad mit WC."
+        ],
+        "en": [
+          "The Etalon Blanc is a guesthouse with 3 rooms with double beds on the upper floor of the owners' home. One of the rooms has an adjoining bathroom and toilet."
+        ],
+        "it": [
+          "L'Etalon Blanc è una casa per gli ospiti con 3 camere doppie, al primo piano della casa dei proprietari. Un bagno con servizi igienici è adiacente a una delle camere."
+        ],
+        "fr": [
+          "L’Etalon Blanc est une maison d'hôtes constituée de 3 chambres à lits doubles, à l'étage de l'habitation des propriétaires. Une salle de bains avec toilettes est attenante à l'une des chambres."
+        ],
+        "nl": [
+          "L'Etalon Blanc is een gastenverblijf met 3 tweepersoonsslaapkamers, op de eerste verdieping van het huis van de eigenaren. Een badkamer met toilet grenst aan een van de slaapkamers."
+        ],
+        "es": [
+          "L'Etalon Blanc es una casa de huéspedes con 3 habitaciones dobles, en la primera planta de la casa de los propietarios. Un cuarto de baño con aseo se encuentra junto a uno de los dormitorios."
+        ]
+      }
+    }
+  ],
+  "hasReview": [
+    {
+      "@id": "https://data.datatourisme.fr/6e866798-cae5-351c-9e8d-963661217e60",
+      "@type": [
+        "Review"
+      ],
+      "hasReviewValue": {
+        "@id": "kb:LabelRating_AccueilVelo",
+        "@type": [
+          "LabelRating"
+        ],
+        "rdfs:label": {
+          "de": [
+            "Accueil Vélo"
+          ],
+          "pt": [
+            "Accueil Vélo"
+          ],
+          "en": [
+            "Accueil Vélo"
+          ],
+          "it": [
+            "Accueil Vélo"
+          ],
+          "fr": [
+            "Accueil Vélo"
+          ],
+          "nl": [
+            "Accueil Vélo"
+          ],
+          "es": [
+            "Accueil Vélo"
+          ]
+        },
+        "isCompliantWith": [
+          "PlaceOfInterest"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/0953f560-6f80-3c17-9086-7b554b92e61e",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/29bfbded-4ecb-3c98-bdd7-c0331d225a5e",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/c008903e-9eca-3880-bc2d-c050ec059959",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/31313def-cc73-38de-ad22-99be89e112f1",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/e1edffdf-2852-385c-9b43-1aeda9257e70",
+          "schema:addressLocality": "Tupin-et-Semons",
+          "schema:postalCode": "69420",
+          "schema:streetAddress": [
+            "1800 Route des Haies"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:69253",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Tupin-et-Semons"
+              ],
+              "pt": [
+                "Tupin-et-Semons"
+              ],
+              "en": [
+                "Tupin-et-Semons"
+              ],
+              "it": [
+                "Tupin-et-Semons"
+              ],
+              "fr": [
+                "Tupin-et-Semons"
+              ],
+              "nl": [
+                "Tupin-et-Semons"
+              ],
+              "es": [
+                "Tupin-et-Semons"
+              ]
+            },
+            "insee": "69253",
+            "isPartOfDepartment": {
+              "@id": "kb:France8469",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Rhône"
+                ],
+                "pt": [
+                  "Rhône"
+                ],
+                "en": [
+                  "Rhône"
+                ],
+                "it": [
+                  "Rhône"
+                ],
+                "fr": [
+                  "Rhône"
+                ],
+                "nl": [
+                  "Rhône"
+                ],
+                "es": [
+                  "Rhône"
+                ]
+              },
+              "insee": "69",
+              "isPartOfRegion": {
+                "@id": "kb:France84",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "pt": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "en": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "it": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "fr": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "nl": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "es": [
+                    "Auvergne-Rhône-Alpes"
+                  ]
+                },
+                "insee": "84",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/dc3c4d82-b676-3279-937a-d02ad829a139",
+        "schema:latitude": "45.490735",
+        "schema:longitude": "4.770036",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/f87e535a-636d-3343-ad63-8a03392e7511",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/77a7285f-3a2a-3e0f-86fd-f1b14ecb328f",
+      "schema:email": [
+        "ajouvenaud@vienne-condrieu.com",
+        "mdubus@vienne-condrieu.com"
+      ],
+      "schema:legalName": "Office de Tourisme de Vienne Condrieu Agglomération",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.vienne-condrieu.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-11-14",
+  "lastUpdateDatatourisme": "2023-11-15T06:41:11.317Z"
+}

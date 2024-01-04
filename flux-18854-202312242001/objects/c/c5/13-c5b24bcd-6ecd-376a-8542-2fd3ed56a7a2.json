@@ -1,0 +1,543 @@
+{
+  "@id": "https://data.datatourisme.fr/13/c5b24bcd-6ecd-376a-8542-2fd3ed56a7a2",
+  "dc:identifier": "6607101",
+  "@type": [
+    "schema:FoodEstablishment",
+    "FoodEstablishment",
+    "PlaceOfInterest",
+    "PointOfInterest"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Nach dem Erfolg von CoCo Paris im Herzen der Opéra Garnier baut Paris Society sein Konzept eines gehobenen französischen Restaurants in Lyon im prestigeträchtigen Bahnhof Brotteaux aus."
+    ],
+    "en": [
+      "Following the success of CoCo Paris in the heart of the Opéra Garnier, Paris Society is developing its upmarket French restaurant concept in Lyon at the prestigious Brotteaux station."
+    ],
+    "it": [
+      "Dopo il successo di CoCo Paris nel cuore dell'Opéra Garnier, Paris Society sta sviluppando il suo concetto di ristorante francese di alto livello a Lione, nella prestigiosa stazione di Brotteaux."
+    ],
+    "fr": [
+      "Après le succès de CoCo Paris au cœur de l'Opéra Garnier, Paris Society développe son concept de restaurant français haut de gamme à Lyon dans la prestigieuse gare des Brotteaux."
+    ],
+    "es": [
+      "Tras el éxito de CoCo Paris en el corazón de la Ópera Garnier, Paris Society desarrolla su concepto de restaurante francés de lujo en Lyon, en la prestigiosa estación de Brotteaux."
+    ],
+    "nl": [
+      "Na het succes van CoCo Paris in het hart van de Opéra Garnier, ontwikkelt Paris Society haar chique Franse restaurantconcept in Lyon bij het prestigieuze station Brotteaux."
+    ]
+  },
+  "rdfs:label": {
+    "de": [
+      "CoCo Lyon"
+    ],
+    "ru": [
+      "CoCo Lyon"
+    ],
+    "en": [
+      "CoCo Lyon"
+    ],
+    "it": [
+      "CoCo Lyon"
+    ],
+    "fr": [
+      "CoCo Lyon"
+    ],
+    "zh": [
+      "CoCo Lyon"
+    ],
+    "nl": [
+      "CoCo Lyon"
+    ],
+    "es": [
+      "CoCo Lyon"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/45c48cce-2e2d-3fbd-aa1a-fc51c7c6ad26",
+    "dc:identifier": "9",
+    "schema:email": [
+      "apidae@lyon-france.com",
+      "seveillard@lyon-france.com",
+      "vbilly@lyon-france.com"
+    ],
+    "schema:legalName": "Lyon Tourisme et Congrès / ONLYLYON Tourisme",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "https://www.lyon-france.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/8a9feb4b-2cbd-3d2c-b507-bd6c6776b23b",
+      "schema:legalName": "Apidae Tourisme Scic SA - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/bbf25bfb-0ab0-3d6e-8705-db9a415c7437",
+      "schema:email": [
+        "contact@coco-lyon.com"
+      ],
+      "schema:telephone": [
+        "+33 4 22 78 00 90"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://restaurant-coco.com/lyon/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/1ff3ed61-ab31-375f-b17a-d97705df8962",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/808789c5-b422-33a7-b24b-825fe4c930d9",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/9f6e2be7-1b56-3a4d-89c0-f4f1105b8905",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/cc2c8aee-8fbc-3a3b-8c2d-9f9aa01b3841",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f8b653ca-1126-3705-bc0b-a2dd6f2f2c16",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Nach dem Erfolg von CoCo Paris im Herzen der Opéra Garnier baut Paris Society sein Konzept eines gehobenen französischen Restaurants in Lyon im prestigeträchtigen Bahnhof Brotteaux aus."
+        ],
+        "en": [
+          "Following the success of CoCo Paris in the heart of the Opéra Garnier, Paris Society is developing its upmarket French restaurant concept in Lyon at the prestigious Brotteaux station."
+        ],
+        "it": [
+          "Dopo il successo di CoCo Paris nel cuore dell'Opéra Garnier, Paris Society sta sviluppando il suo concetto di ristorante francese di alto livello a Lione, nella prestigiosa stazione di Brotteaux."
+        ],
+        "fr": [
+          "Après le succès de CoCo Paris au cœur de l'Opéra Garnier, Paris Society développe son concept de restaurant français haut de gamme à Lyon dans la prestigieuse gare des Brotteaux."
+        ],
+        "es": [
+          "Tras el éxito de CoCo Paris en el corazón de la Ópera Garnier, Paris Society desarrolla su concepto de restaurante francés de lujo en Lyon, en la prestigiosa estación de Brotteaux."
+        ],
+        "nl": [
+          "Na het succes van CoCo Paris in het hart van de Opéra Garnier, ontwikkelt Paris Society haar chique Franse restaurantconcept in Lyon bij het prestigieuze station Brotteaux."
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/6094310a-58a5-3282-bc80-be71e29b5e5a",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/833127f3-0e6e-3f9f-9d26-7ee27aee1933",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/a4869180-6e90-3283-a508-ec26c069437c",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/bdc72093-af8f-3619-aac2-d893f7581e2b",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/0a90d150-9e50-3149-8cdf-ac476e23d2b0",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/677dd69c-33cc-3507-ab1e-fc984b731f68",
+          "schema:addressLocality": "Lyon 6e Arrondissement",
+          "schema:postalCode": "69006",
+          "schema:streetAddress": [
+            "13 place Jules Ferry",
+            "Gare des Brotteaux"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:69386",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Lyon 6e Arrondissement"
+              ],
+              "pt": [
+                "Lyon 6e Arrondissement"
+              ],
+              "en": [
+                "Lyon 6e Arrondissement"
+              ],
+              "it": [
+                "Lyon 6e Arrondissement"
+              ],
+              "fr": [
+                "Lyon 6e Arrondissement"
+              ],
+              "nl": [
+                "Lyon 6e Arrondissement"
+              ],
+              "es": [
+                "Lyon 6e Arrondissement"
+              ]
+            },
+            "insee": "69386",
+            "isPartOfDepartment": {
+              "@id": "kb:France8469",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Rhône"
+                ],
+                "pt": [
+                  "Rhône"
+                ],
+                "en": [
+                  "Rhône"
+                ],
+                "it": [
+                  "Rhône"
+                ],
+                "fr": [
+                  "Rhône"
+                ],
+                "nl": [
+                  "Rhône"
+                ],
+                "es": [
+                  "Rhône"
+                ]
+              },
+              "insee": "69",
+              "isPartOfRegion": {
+                "@id": "kb:France84",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "pt": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "en": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "it": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "fr": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "nl": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "es": [
+                    "Auvergne-Rhône-Alpes"
+                  ]
+                },
+                "insee": "84",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/449cc0f5-7ad8-309c-974a-cc46b7e8af8c",
+        "schema:latitude": "45.766609",
+        "schema:longitude": "4.859748",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/26fd9be1-e9d8-34bd-9e9f-0378c87e3263",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Brunch am Wochenende: 12h ? 15h30"
+            ],
+            "en": [
+              "Weekend brunch: 12 noon to 3:30 p.m"
+            ],
+            "it": [
+              "Brunch del fine settimana: dalle 12.00 alle 15.30"
+            ],
+            "fr": [
+              "Brunch le week-end : 12h – 15h30"
+            ],
+            "nl": [
+              "Weekendbrunch: 12.00 tot 15.30 uur"
+            ],
+            "es": [
+              "Brunch de fin de semana: de 12.00 a 15.30 horas"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/26ce0acc-75ff-3cac-83d6-b603e791cb9b",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/2f93d4ea-f075-300a-ae11-02491a1473ad",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/675e2d55-6839-36a3-85e4-004f698a674b",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/6dd5d195-f346-3d93-b8d2-60b9589f2f24",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/9b51700f-097c-3b9e-ab3d-12d54c83de7e",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/33848473-e8f7-3b5e-a27f-1813fca76a01",
+      "schema:email": [
+        "apidae@lyon-france.com",
+        "seveillard@lyon-france.com",
+        "vbilly@lyon-france.com"
+      ],
+      "schema:legalName": "Lyon Tourisme et Congrès / ONLYLYON Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.lyon-france.com/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-09-05",
+  "lastUpdateDatatourisme": "2023-09-18T05:52:28.665Z",
+  "offers": [
+    {
+      "@id": "https://data.datatourisme.fr/acd54f8d-b2ed-310d-a527-27a3de0b570a",
+      "schema:priceSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/02bef343-19f3-3384-a6a6-0a6dd62198f4",
+          "schema:minPrice": [
+            "24"
+          ],
+          "schema:priceCurrency": "EUR",
+          "@type": [
+            "schema:PriceSpecification",
+            "PriceSpecification"
+          ],
+          "appliesOnPeriod": [
+            {
+              "@id": "https://data.datatourisme.fr/a425afdf-3594-300b-b55e-1858bafa3fd4",
+              "@type": [
+                "Period"
+              ],
+              "endDate": "2023-12-31",
+              "startDate": "2023-01-01"
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Offer",
+        "Offer"
+      ]
+    }
+  ]
+}

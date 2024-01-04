@@ -1,0 +1,546 @@
+{
+  "@id": "https://data.datatourisme.fr/13/f0866131-d551-3dee-835b-f0f2b1cb8fef",
+  "dc:identifier": "547733",
+  "@type": [
+    "Church",
+    "CulturalSite",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "ReligiousSite"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Die Pfarrkirche von Bully wurde zwischen 1857 und 1861 vom Architekten Journoud nach Plänen von Bossan erbaut. Sie wurde aus gelbem Stein aus Glay und blauem Stein aus Apinost entworfen, enthält eine interessante Ausstattung und verfügt über eine Broschüre für die Besichtigung."
+    ],
+    "en": [
+      "The parish church of Bully was built between 1857 and 1861 by the architect Journoud on plans by Bossan. Designed in yellow stone of Glay and blue stone of Apinost, it contains an interesting furniture and has a leaflet for the visit."
+    ],
+    "it": [
+      "La chiesa parrocchiale di Bully fu costruita tra il 1857 e il 1861 dall'architetto Journoud su progetto di Bossan. Progettato in pietra gialla di Glay e blu di Apinost, contiene interessanti arredi e un opuscolo per i visitatori."
+    ],
+    "fr": [
+      "L'église paroissiale de Bully a été construite entre 1857 et 1861 par l'architecte Journoud sur plans de Bossan. Conçue en pierre jaune de Glay et en pierre bleue d'Apinost, elle renferme un intéressant mobilier et dispose d'un dépliant pour la visite."
+    ],
+    "es": [
+      "La iglesia parroquial de Bully fue construida entre 1857 y 1861 por el arquitecto Journoud según los planos de Bossan. Diseñado en piedra amarilla de Glay y piedra azul de Apinost, contiene un interesante mobiliario y dispone de un folleto para los visitantes."
+    ],
+    "nl": [
+      "De parochiekerk van Bully werd tussen 1857 en 1861 gebouwd door de architect Journoud naar plannen van Bossan. Uitgevoerd in gele steen van Glay en blauwe steen van Apinost, bevat het interessant meubilair en een folder voor bezoekers."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Eglise Saint Polycarpe"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13/b6d767d2-f8ed-3d21-a44b-0e5886680cb9",
+    "dc:identifier": "22",
+    "schema:email": [
+      "josiane.rivier@paysdelarbresle.fr",
+      "officedetourisme@paysdelarbresle.fr"
+    ],
+    "schema:legalName": "Office de Tourisme du Pays de l'Arbresle",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.arbresletourisme.fr/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/8a9feb4b-2cbd-3d2c-b507-bd6c6776b23b",
+      "schema:legalName": "Apidae Tourisme Scic SA - source : Apidae Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.apidae-tourisme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/5038ff55-15d3-31ab-9a7b-aa19262b178e",
+      "schema:email": [
+        "mairie@bully.fr"
+      ],
+      "schema:telephone": [
+        "+33 4 74 01 00 67"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.bully.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/92cbeafb-83a6-302a-b618-f24c19881369",
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/41d2fd29-480f-3f80-9aa5-a36f045b0f84",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/7063bc22-0c39-3222-a755-6e8274c6b014",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/838bea0a-1142-3486-acc3-f68234173b3d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/943b073f-f7a7-3e0c-9f69-4461016d5c07",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b2aefdc8-5f66-34ce-8061-d401af881f9e",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Die Pfarrkirche von Bully wurde zwischen 1857 und 1861 vom Architekten Journoud nach Plänen von Bossan erbaut. Sie wurde aus gelbem Stein aus Glay und blauem Stein aus Apinost entworfen, enthält eine interessante Ausstattung und verfügt über eine Broschüre für die Besichtigung."
+        ],
+        "en": [
+          "The parish church of Bully was built between 1857 and 1861 by the architect Journoud on plans by Bossan. Designed in yellow stone of Glay and blue stone of Apinost, it contains an interesting furniture and has a leaflet for the visit."
+        ],
+        "it": [
+          "La chiesa parrocchiale di Bully fu costruita tra il 1857 e il 1861 dall'architetto Journoud su progetto di Bossan. Progettato in pietra gialla di Glay e blu di Apinost, contiene interessanti arredi e un opuscolo per i visitatori."
+        ],
+        "fr": [
+          "L'église paroissiale de Bully a été construite entre 1857 et 1861 par l'architecte Journoud sur plans de Bossan. Conçue en pierre jaune de Glay et en pierre bleue d'Apinost, elle renferme un intéressant mobilier et dispose d'un dépliant pour la visite."
+        ],
+        "es": [
+          "La iglesia parroquial de Bully fue construida entre 1857 y 1861 por el arquitecto Journoud según los planos de Bossan. Diseñado en piedra amarilla de Glay y piedra azul de Apinost, contiene un interesante mobiliario y dispone de un folleto para los visitantes."
+        ],
+        "nl": [
+          "De parochiekerk van Bully werd tussen 1857 en 1861 gebouwd door de architect Journoud naar plannen van Bossan. Uitgevoerd in gele steen van Glay en blauwe steen van Apinost, bevat het interessant meubilair en een folder voor bezoekers."
+        ]
+      }
+    }
+  ],
+  "hasTheme": [
+    {
+      "@id": "kb:Culture",
+      "@type": [
+        "CulturalTheme"
+      ],
+      "rdfs:label": {
+        "de": [
+          "Kultur"
+        ],
+        "pt": [
+          "Cultura"
+        ],
+        "en": [
+          "Culture"
+        ],
+        "it": [
+          "Cultura"
+        ],
+        "fr": [
+          "Culture"
+        ],
+        "nl": [
+          "Cultuur"
+        ],
+        "es": [
+          "Cultura"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/34c3659f-90fb-324e-9b0d-bbd419b45554",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/3afa96f2-03df-3ed2-9196-78ae4427653a",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/763a0fab-a5b3-3c82-a6cb-18307533a699",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/957d7708-8306-3e9c-b9bd-4b7e6b3cef1f",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/9cf7deff-1029-376f-8090-ad88b3a79116",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/25b84596-0b90-3097-8416-f5af6e95535c",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/5e05ec79-3db7-3cdc-9a2d-617994a9e1d5",
+          "schema:addressLocality": "Bully",
+          "schema:postalCode": "69210",
+          "schema:streetAddress": [
+            "Le Bourg"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:69032",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Bully"
+              ],
+              "pt": [
+                "Bully"
+              ],
+              "en": [
+                "Bully"
+              ],
+              "it": [
+                "Bully"
+              ],
+              "fr": [
+                "Bully"
+              ],
+              "nl": [
+                "Bully"
+              ],
+              "es": [
+                "Bully"
+              ]
+            },
+            "insee": "69032",
+            "isPartOfDepartment": {
+              "@id": "kb:France8469",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Rhône"
+                ],
+                "pt": [
+                  "Rhône"
+                ],
+                "en": [
+                  "Rhône"
+                ],
+                "it": [
+                  "Rhône"
+                ],
+                "fr": [
+                  "Rhône"
+                ],
+                "nl": [
+                  "Rhône"
+                ],
+                "es": [
+                  "Rhône"
+                ]
+              },
+              "insee": "69",
+              "isPartOfRegion": {
+                "@id": "kb:France84",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "pt": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "en": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "it": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "fr": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "nl": [
+                    "Auvergne-Rhône-Alpes"
+                  ],
+                  "es": [
+                    "Auvergne-Rhône-Alpes"
+                  ]
+                },
+                "insee": "84",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/910e93ab-51c2-38b6-ad3a-7475c7fe5517",
+        "schema:elevation": "343",
+        "schema:latitude": "45.852366",
+        "schema:longitude": "4.584029",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "schema:openingHoursSpecification": [
+        {
+          "@id": "https://data.datatourisme.fr/364a149a-dfed-3101-9c9a-ca3583f551a5",
+          "schema:validFrom": "2023-01-01T00:00:00",
+          "schema:validThrough": "2023-12-31T23:59:59",
+          "@type": [
+            "schema:OpeningHoursSpecification"
+          ],
+          "additionalInformation": {
+            "de": [
+              "Nur mit Reservierung"
+            ],
+            "en": [
+              "By reservation only"
+            ],
+            "it": [
+              "Solo su prenotazione"
+            ],
+            "fr": [
+              "Sur réservation uniquement"
+            ],
+            "es": [
+              "Sólo con reserva"
+            ],
+            "nl": [
+              "Alleen op reservering"
+            ]
+          },
+          "hasTranslatedProperty": [
+            {
+              "@id": "https://data.datatourisme.fr/54ea3006-5e0f-3c6c-92b5-4264cc25fa05",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "en"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/601eb5c4-fa72-3d0d-a5cc-8876ddfbffba",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "it"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/67e60275-5a16-37ae-9768-29131561be4b",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "es"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/a33b5375-d892-3aef-9278-8009af76835c",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "nl"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            },
+            {
+              "@id": "https://data.datatourisme.fr/e51223ce-5e28-3550-b1f3-a684557a10c5",
+              "dc:contributor": [
+                "https://api.deepl.com/v2/translate"
+              ],
+              "rdf:language": [
+                "de"
+              ],
+              "rdf:predicate": [
+                "additionalInformation"
+              ]
+            }
+          ]
+        }
+      ],
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "isOwnedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/7479cce0-3110-30a6-9c12-c1cac0b8d082",
+      "schema:email": [
+        "josiane.rivier@paysdelarbresle.fr",
+        "officedetourisme@paysdelarbresle.fr"
+      ],
+      "schema:legalName": "Office de Tourisme du Pays de l'Arbresle",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.arbresletourisme.fr/"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-11-24",
+  "lastUpdateDatatourisme": "2023-11-25T06:45:32.699Z"
+}
